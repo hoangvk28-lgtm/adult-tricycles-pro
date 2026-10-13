@@ -1,5 +1,6 @@
 import type { BestArticle } from "@/data/types";
-import { ArticleHeader, RelatedArticles } from "@/components/article";
+import { ArticleHeader, authorOf, RelatedArticles } from "@/components/article";
+import { AuthorBox } from "@/components/Author";
 import { AffiliateNote, JsonLd } from "@/components/ui";
 import { ComparisonTable, ProductIntro, ProsCons, SpecTable } from "@/components/product";
 import { renderInline } from "@/lib/content";
@@ -14,8 +15,8 @@ export function BestPage({ a }: { a: BestArticle }) {
         <AffiliateNote />
       </ArticleHeader>
 
-      <section aria-labelledby="answer-h" className="mt-8 rounded-md border-2 border-brand bg-brand-soft p-5">
-        <h2 id="answer-h" className="font-sans text-sm font-bold uppercase tracking-wider text-brand">Short answer</h2>
+      <section aria-labelledby="answer-h" className="mt-8 rounded-md border-l-4 border-cta bg-surface p-5">
+        <h2 id="answer-h" className="font-sans kicker">Short answer</h2>
         <p className="mt-2 text-[1.15rem] leading-relaxed">{a.shortAnswer}</p>
       </section>
 
@@ -24,13 +25,13 @@ export function BestPage({ a }: { a: BestArticle }) {
       </div>
 
       <section aria-labelledby="compare-h" className="mt-12">
-        <h2 id="compare-h" className="text-[1.9rem] font-bold">Comparison table</h2>
+        <h2 id="compare-h" className="text-[1.9rem] font-semibold">Comparison table</h2>
         <div className="mt-4"><ComparisonTable products={a.products} /></div>
       </section>
 
       {a.byNeed.length > 0 && (
         <section aria-labelledby="need-h" className="mt-12">
-          <h2 id="need-h" className="text-[1.9rem] font-bold">Which one fits your needs</h2>
+          <h2 id="need-h" className="text-[1.9rem] font-semibold">Which one fits your needs</h2>
           <ul className="mt-4 divide-y divide-line rounded-md border border-line bg-surface">
             {a.byNeed.map((n) => (
               <li key={n.need} className="p-4">
@@ -44,7 +45,7 @@ export function BestPage({ a }: { a: BestArticle }) {
 
       {a.products.map((p) => (
         <section key={p.id} id={p.id} aria-label={p.name} className="mt-14 space-y-5 border-t-2 border-ink pt-6">
-          <h2 className="text-[1.9rem] font-bold">{p.name}</h2>
+          <h2 className="text-[1.9rem] font-semibold">{p.name}</h2>
           <p className="text-[1.0625rem] leading-relaxed">{p.summary}</p>
           <SpecTable p={p} />
           <ProsCons p={p} />
@@ -70,6 +71,7 @@ export function BestPage({ a }: { a: BestArticle }) {
         </section>
       )}
 
+      <AuthorBox a={authorOf(a)} />
       <RelatedArticles current={a} pool={articles} />
       <JsonLd
         data={{

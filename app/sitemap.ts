@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { absoluteUrl } from "@/lib/seo";
 import { SECTIONS } from "@/lib/site";
+import { AUTHORS } from "@/data/authors";
 import { articles, articlesInSection, MIN_ARTICLES_FOR_INDEXED_HUB } from "@/data/articles";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -10,6 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     ...staticPages.map((p) => ({ url: absoluteUrl(p) })),
     ...hubs.map((p) => ({ url: absoluteUrl(p) })),
+    ...AUTHORS.map((a) => ({ url: absoluteUrl(`/author/${a.slug}/`) })),
     ...articles.map((a) => ({
       url: absoluteUrl(a.path),
       lastModified: a.updated,

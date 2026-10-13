@@ -1,10 +1,10 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Source_Serif_4 } from "next/font/google";
+import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { DEFAULT_TITLE, SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
 
 const inter = Inter({ variable: "--font-inter", subsets: ["latin"], display: "swap" });
-const serif = Source_Serif_4({ variable: "--font-serif", subsets: ["latin"], display: "swap" });
+const playfair = Playfair_Display({ variable: "--font-playfair", subsets: ["latin"], display: "swap" });
 
 // Analytics and verification are configured per deployment; nothing loads until set.
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
@@ -19,12 +19,12 @@ export const metadata: Metadata = {
     : {}),
 };
 
-export const viewport: Viewport = { themeColor: "#12416b" };
+export const viewport: Viewport = { themeColor: "#f8f6f1" };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const isProd = process.env.NODE_ENV === "production";
   return (
-    <html lang="en-US" className={`${inter.variable} ${serif.variable}`}>
+    <html lang="en-US" className={`${inter.variable} ${playfair.variable}`}>
       <head>
         {isProd && GA_ID && (
           <>

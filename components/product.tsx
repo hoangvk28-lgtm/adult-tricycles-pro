@@ -74,11 +74,11 @@ export function SpecTable({ p }: { p: Product }) {
 function List({ title, items, tone }: { title: string; items: string[]; tone: "good" | "bad" }) {
   return (
     <div className="rounded-md border border-line bg-surface p-4">
-      <h4 className={`font-sans text-[1rem] font-bold ${tone === "good" ? "text-good" : "text-warn"}`}>{title}</h4>
+      <h4 className={`font-sans text-[1rem] font-semibold ${tone === "good" ? "text-good" : "text-warn"}`}>{title}</h4>
       <ul className="mt-2 space-y-1.5 text-[1rem]">
         {items.map((t) => (
           <li key={t} className="flex gap-2">
-            <span aria-hidden="true" className="font-bold">{tone === "good" ? "+" : "–"}</span>
+            <span aria-hidden="true" className="font-semibold">{tone === "good" ? "+" : "–"}</span>
             <span>{t}</span>
           </li>
         ))}
@@ -108,8 +108,8 @@ export function ProductIntro({ p, rank, priority }: { p: Product; rank?: number;
         </div>
       ) : null}
       <div className="space-y-3">
-        {p.label && <p className="text-sm font-bold uppercase tracking-wider text-cta">{rank ? `${rank}. ` : ""}{p.label}</p>}
-        <h3 className="text-[1.6rem] font-bold">{p.name}</h3>
+        {p.label && <p className="text-sm font-semibold uppercase tracking-wider text-cta">{rank ? `${rank}. ` : ""}{p.label}</p>}
+        <h3 className="text-[1.6rem] font-semibold">{p.name}</h3>
         <p className="text-[1.0625rem] leading-relaxed text-ink-2">{p.summary}</p>
         <BuyButtons p={p} />
         {p.image?.credit && <p className="text-sm text-ink-3">Image: {p.image.credit}</p>}

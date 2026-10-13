@@ -60,6 +60,8 @@ interface ArticleBase {
   /** Used for cards and social previews. Guide bodies already contain their own figures. */
   heroImage?: { src: string; alt: string; width: number; height: number };
   methodology: string;
+  /** Author slug from data/authors.ts; defaults to the site editor. */
+  author?: string;
   /** Shown as-is. Never claim a medical review that did not happen. */
   reviewStatus?: string;
   healthTopic?: boolean;

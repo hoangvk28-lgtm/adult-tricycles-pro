@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { ReviewArticle } from "@/data/types";
-import { ArticleHeader, RelatedArticles } from "@/components/article";
+import { ArticleHeader, authorOf, RelatedArticles } from "@/components/article";
+import { AuthorBox } from "@/components/Author";
 import { AffiliateNote } from "@/components/ui";
 import { ProductIntro, ProsCons, SpecTable } from "@/components/product";
 import { renderInline } from "@/lib/content";
@@ -13,13 +14,13 @@ export function ReviewPage({ a }: { a: ReviewArticle }) {
       <ArticleHeader a={a}>
         <AffiliateNote />
       </ArticleHeader>
-      <section aria-labelledby="answer-h" className="mt-8 rounded-md border-2 border-brand bg-brand-soft p-5">
-        <h2 id="answer-h" className="font-sans text-sm font-bold uppercase tracking-wider text-brand">Short answer</h2>
+      <section aria-labelledby="answer-h" className="mt-8 rounded-md border-l-4 border-cta bg-surface p-5">
+        <h2 id="answer-h" className="font-sans kicker">Short answer</h2>
         <p className="mt-2 text-[1.15rem] leading-relaxed">{a.shortAnswer}</p>
       </section>
       <div className="mt-8"><ProductIntro p={p} priority /></div>
       <section aria-labelledby="specs-h" className="mt-12 space-y-5">
-        <h2 id="specs-h" className="text-[1.9rem] font-bold">Specifications</h2>
+        <h2 id="specs-h" className="text-[1.9rem] font-semibold">Specifications</h2>
         <SpecTable p={p} />
         <ProsCons p={p} />
       </section>
@@ -47,6 +48,7 @@ export function ReviewPage({ a }: { a: ReviewArticle }) {
           ))}
         </section>
       )}
+      <AuthorBox a={authorOf(a)} />
       <RelatedArticles current={a} pool={articles} />
     </div>
   );

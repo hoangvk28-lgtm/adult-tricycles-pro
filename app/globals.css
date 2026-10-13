@@ -4,27 +4,29 @@
 /* Adult Tricycles Pro: a clear, trustworthy cycling publication.
    High-contrast ink on warm paper, deep road-blue brand, safety-orange CTA. */
 @theme inline {
-  --color-paper: #fbfaf6;
+  /* Editorial palette (after The Office Journal): warm paper, charcoal ink,
+     burnt-orange accent used sparingly. Contrast kept high for older readers. */
+  --color-paper: #f8f6f1;
   --color-surface: #ffffff;
-  --color-ink: #16202a;
-  --color-ink-2: #3d4a56;
-  --color-ink-3: #5b6773;
-  --color-line: #dcd8cf;
-  --color-line-2: #c9c3b6;
+  --color-ink: #24231f;
+  --color-ink-2: #514f48;
+  --color-ink-3: #67655d;
+  --color-line: #ddd8ce;
+  --color-line-2: #c4bdb0;
 
-  --color-brand: #12416b;
-  --color-brand-dark: #0c2e4d;
-  --color-brand-soft: #e6eef6;
+  --color-brand: #24231f;
+  --color-brand-dark: #1b1a17;
+  --color-brand-soft: #efece5;
 
-  --color-cta: #b8430f;       /* 5.3:1 against white text */
-  --color-cta-dark: #923409;
-  --color-cta-soft: #fdeee5;
+  --color-cta: #b4471f;       /* white text 5.4:1 */
+  --color-cta-dark: #8f3818;
+  --color-cta-soft: #f6ebe4;
 
-  --color-good: #1f6b3a;
-  --color-warn: #8a5300;
-  --color-warn-soft: #fff6e0;
+  --color-good: #4f5e3d;
+  --color-warn: #8a4a12;
+  --color-warn-soft: #f8efe2;
 
-  --font-display: var(--font-serif), Georgia, "Times New Roman", serif;
+  --font-display: var(--font-playfair), "Playfair Display", Georgia, serif;
   --font-sans: var(--font-inter), system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
@@ -43,6 +45,8 @@
   }
   h1, h2, h3 {
     font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.01em;
     color: var(--color-ink);
     line-height: 1.2;
     text-wrap: balance;
@@ -69,7 +73,7 @@
   font-size: clamp(1.6rem, 1.3rem + 1vw, 2rem);
   margin: 3rem 0 1rem;
   padding-top: 1.25rem;
-  border-top: 2px solid var(--color-ink);
+  border-top: 1px solid var(--color-line-2);
 }
 .article h3 { font-size: 1.35rem; margin: 2rem 0 0.75rem; }
 .article a { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
@@ -88,11 +92,14 @@
 
 .btn {
   display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
-  min-height: 3rem; padding: 0.7rem 1.25rem; border-radius: 6px;
+  min-height: 3rem; padding: 0.7rem 1.25rem; border-radius: 2px;
   font-weight: 650; font-size: 1.0625rem; line-height: 1.2; text-decoration: none;
   transition: background-color 0.15s;
 }
 .btn-cta { background: var(--color-cta); color: #fff; }
 .btn-cta:hover { background: var(--color-cta-dark); color: #fff; }
-.btn-outline { border: 2px solid var(--color-brand); color: var(--color-brand); background: var(--color-surface); }
+.btn-outline { border: 1.5px solid var(--color-ink); color: var(--color-ink); background: var(--color-surface); }
 .btn-outline:hover { background: var(--color-brand-soft); }
+
+.article a { color: var(--color-ink); text-decoration-color: var(--color-cta); text-decoration-thickness: 2px; }
+.kicker { font-family: var(--font-sans); font-size: 0.8125rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-cta); }

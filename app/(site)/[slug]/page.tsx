@@ -44,9 +44,9 @@ export default async function SlugPage({ params }: PageProps<"/[slug]">) {
   }
   const list = articlesInSection(slug);
   return (
-    <div className="mx-auto max-w-6xl px-4 pt-8">
+    <div className="mx-auto max-w-[1280px] px-4 sm:px-6 lg:px-8 pt-8">
       <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: section.name, path: `/${slug}/` }]} />
-      <h1 className="mt-5 text-[2.3rem] font-bold sm:text-[2.9rem]">{section.name}</h1>
+      <h1 className="mt-5 text-[2.3rem] font-semibold sm:text-[2.9rem]">{section.name}</h1>
       <p className="mt-4 max-w-3xl text-[1.2rem] leading-relaxed text-ink-2">{section.intro}</p>
       {list.length ? (
         <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 [&_article]:relative">
