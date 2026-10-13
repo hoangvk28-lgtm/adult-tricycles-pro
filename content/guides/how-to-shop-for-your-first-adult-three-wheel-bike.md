@@ -88,7 +88,7 @@ Weight is a separate test. Find out whether the quoted figure includes the batte
 
 ## Budget for ownership, not just the checkout price
 
-Create a total-cost estimate that includes assembly, a fitting appointment if needed, protective equipment, a lock, delivery, and routine service. For an electric vehicle, consider future battery availability and the cost of manufacturer-approved replacement parts. A cheaper machine with no practical repair support may be less economical over several seasons.
+Create a total-cost estimate that includes assembly, a fitting appointment if needed, protective equipment, a lock, delivery, and routine service. For an electric vehicle, consider future battery availability and the cost of manufacturer-approved replacement parts. A cheaper machine with no practical repair support may be less economical over several seasons. If you are considering a secondhand trike, use our [used tricycle inspection guide](/buying-used-adult-tricycle-inspection/).
 
 Ask a nearby shop whether it services the model before ordering online. Some shops lack room, equipment, or supplier access for adult tricycles. A standard bicycle service menu does not guarantee tricycle support. Explain whether the machine is electric, its width, and the type of brakes and drivetrain. Obtain an answer for your actual model rather than relying on a general assurance.
 

@@ -12,7 +12,7 @@ This guide explains an everyday cargo workflow, not a ranking of shopping tricyc
 
 List what you normally buy, how often you shop, and whether you will visit more than one location. A few light groceries, several bottles, and a bulky household item create different loading problems. Consider both weight and shape. A light object can be too large to secure inside the basket.
 
-Think about what happens before and after riding. Can you get the vehicle out of storage, park at the shop, carry the bag inside, and unload it at home? If a basket encourages purchases you cannot comfortably lift afterward, it has not solved the complete errand.
+Think about what happens before and after riding. Can you get the vehicle out of storage, park at the shop, carry the bag inside, and unload it at home? If a basket encourages purchases you cannot comfortably lift afterward, it has not solved the complete errand. Our guide to [basket bags and liners](/adult-tricycle-basket-bags-and-liners/) covers fit, fastening and weather.
 
 Use our [first adult tricycle buying guide](/how-to-shop-for-your-first-adult-three-wheel-bike/) if you are still choosing the machine. Cargo is one requirement alongside fit, control, storage, and service. A large basket should not make an unsuitable vehicle seem acceptable.
 

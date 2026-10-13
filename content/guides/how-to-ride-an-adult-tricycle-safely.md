@@ -20,7 +20,7 @@ A useful first lesson is being able to explain the controls without looking down
 
 Find a level, dry surface with permission to use it, ample space, and no moving traffic. Avoid a sloped driveway even if it is conveniently near home. A quiet location is not necessarily level, and a large parking area may still contain drainage slopes, loose gravel, or vehicles entering unexpectedly.
 
-Walk the space first. Identify boundaries, drains, bollards, surface changes, and a place to stop without obstructing anyone. Choose a short straight section and a broad turning area. You do not need cones arranged into a demanding course. The objective is to learn ordinary control with enough room to correct gently or stop.
+Walk the space first. Identify boundaries, drains, bollards, surface changes, and a place to stop without obstructing anyone. Choose a short straight section and a broad turning area. You do not need cones arranged into a demanding course. The objective is to learn ordinary control with enough room to correct gently or stop. Our guide to [turning and road camber](/adult-tricycle-turning-and-road-camber/) explains why a trike pulls toward the low side.
 
 Have help nearby if appropriate, especially for a first transfer or if the machine is unfamiliar. The helper should understand the controls and avoid holding moving parts. Do not rely on someone jogging beside the tricycle to compensate for an unsuitable fit or uncontrolled acceleration. If the environment does not allow calm practice, find another location.
 
@@ -102,9 +102,9 @@ Our [guide to gears and hills](/adult-tricycle-gears-and-hill-riding/) explains 
 
 ## Use visibility equipment without relying on it alone
 
-Choose a correctly fitted helmet and follow applicable local requirements. Inspect lights and reflectors before a trip that needs them. A light mounted where the basket covers it may be present but ineffective. Keep lenses clean and check the view from the front and rear of the loaded vehicle.
+Choose a correctly fitted helmet and follow applicable local requirements. Inspect lights and reflectors before a trip that needs them. A light mounted where the basket covers it may be present but ineffective. Keep lenses clean and check the view from the front and rear of the loaded vehicle. For riding after dark, read [adult tricycle night riding](/adult-tricycle-night-riding-lights/).
 
-Mirrors and flags can be useful equipment, but fit and placement matter. A mirror should not obstruct controls, and any flag mount should be appropriate for the vehicle. Adjust equipment while stationary. A photograph showing a visible accessory does not prove it meets your local requirements or makes an unsafe route suitable.
+Mirrors and flags can be useful equipment, but fit and placement matter. A mirror should not obstruct controls, and any flag mount should be appropriate for the vehicle. Adjust equipment while stationary. A photograph showing a visible accessory does not prove it meets your local requirements or makes an unsafe route suitable. See our [mirror setup guide](/adult-tricycle-mirrors-setup-guide/) for mounting and adjustment.
 
 Bright clothing and lights do not guarantee that a driver has seen you. Continue to assess crossings, sightlines, and passing space. Low recumbent seating can change visibility in traffic, while upright tricycles have their own width concerns. Choose routes conservatively rather than expecting accessories to compensate for every design or environmental limitation.
 

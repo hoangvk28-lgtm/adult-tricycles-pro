@@ -22,7 +22,7 @@ Use height to find the manufacturer's suggested range, then take an inseam measu
 
 A practical home measurement benefits from help. Use a flat surface and a repeatable position rather than estimating from trouser size. Clothing labels are not anatomical measurements, and two garments can describe the same person differently. Repeat the measurement and record the result with the unit clearly stated.
 
-Do not convert approximate measurements into false precision. If your result places you near the edge of a recommended range, ask what that range means and arrange a trial. Being a fraction inside a marketing range does not settle the questions of pedal reach, saddle height, or mounting clearance. The rider still needs to perform the actual movements.
+Do not convert approximate measurements into false precision. If your result places you near the edge of a recommended range, ask what that range means and arrange a trial. Being a fraction inside a marketing range does not settle the questions of pedal reach, saddle height, or mounting clearance. The rider still needs to perform the actual movements. Our [saddle comfort guide](/adult-tricycle-saddle-comfort-and-fit/) covers shape, padding and a useful trial.
 
 ## Include torso, arm reach, and control access
 

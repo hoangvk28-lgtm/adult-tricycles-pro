@@ -70,7 +70,7 @@ Battery energy is often expressed in watt-hours. When voltage and amp-hours are 
 
 Range advertisements may describe favorable conditions with active pedaling and low assistance. Ask whether the figure refers to throttle-only use or pedal assistance, and what test conditions produced it. If those conditions are unavailable, label the figure as a manufacturer claim. Plan an initial route with a generous return margin rather than using the advertised maximum as the length of your first outing.
 
-A removable battery may make indoor charging and transport easier. Check whether you can unlock and lift it, whether the connector is protected, and whether a replacement is available from the manufacturer. A larger battery adds weight and cost; it is not always the best answer to a short daily trip. Practical handling can be more valuable than theoretical distance.
+A removable battery may make indoor charging and transport easier. Check whether you can unlock and lift it, whether the connector is protected, and whether a replacement is available from the manufacturer. A larger battery adds weight and cost; it is not always the best answer to a short daily trip. Practical handling can be more valuable than theoretical distance. Our [battery charging and storage guide](/electric-tricycle-battery-charging-and-storage/) covers day-to-day care.
 
 ## Arrange charging before the vehicle arrives
 

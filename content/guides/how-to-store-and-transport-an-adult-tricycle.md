@@ -12,7 +12,7 @@ This research-based guide helps you evaluate those practical tasks before buying
 
 Start where you return from a ride and follow the route to the intended parking location. Identify the narrowest opening, the sharpest turn, any steps or ramps, and places where you must change your hand position. A shed can contain enough floor space while its entrance or approach makes access impractical.
 
-Measure usable clearance with doors fully open. Handles, hinges, stored boxes, and a gate's opening angle can reduce the space. Consider whether you will push beside the machine or move it from another position. The plan should allow your body to fit too, rather than merely permitting the vehicle to scrape through.
+Measure usable clearance with doors fully open. Handles, hinges, stored boxes, and a gate's opening angle can reduce the space. Consider whether you will push beside the machine or move it from another position. The plan should allow your body to fit too, rather than merely permitting the vehicle to scrape through. Our guide to [tricycle width and path clearance](/adult-tricycle-width-and-path-clearance/) shows how to measure the whole route.
 
 If you are choosing a model, record these constraints before ordering. Our [first adult tricycle buying guide](/how-to-shop-for-your-first-adult-three-wheel-bike/) explains how storage affects the purchase. Do not leave access testing until a large box has arrived and return freight becomes a problem.
 
