@@ -3,12 +3,12 @@ import type { Product, TrikeSpecs } from "@/data/types";
 import { buildAmazonUrl } from "@/lib/affiliate";
 
 const SPEC_ROWS: { key: keyof TrikeSpecs; label: string; electricOnly?: boolean }[] = [
-  { key: "dimensions", label: "Assembled size (L × W × H)" },
+  { key: "dimensions", label: "Size" },
   { key: "overallWidth", label: "Widest point" },
-  { key: "bikeWeight", label: "Trike weight" },
+  { key: "bikeWeight", label: "Weight" },
   { key: "riderLimit", label: "Rider limit" },
-  { key: "cargoLimit", label: "Cargo limit" },
-  { key: "totalPayload", label: "Total payload" },
+  { key: "cargoLimit", label: "Load limit" },
+  { key: "totalPayload", label: "Weight limit" },
   { key: "riderHeightRange", label: "Rider height range" },
   { key: "stepThroughHeight", label: "Step-through height" },
   { key: "wheelSize", label: "Wheel size" },
@@ -114,16 +114,15 @@ export function ProductIntro({ p, rank, priority }: { p: Product; rank?: number;
 }
 
 export function ComparisonTable({ products }: { products: Product[] }) {
-  const anyElectric = products.some((p) => p.electric);
-  const cols: { key: keyof TrikeSpecs; label: string }[] = [
-    { key: "wheelSize", label: "Wheels" },
-    { key: "riderHeightRange", label: "Rider height" },
-    { key: "totalPayload", label: "Weight limit" },
-    { key: "cargoLimit", label: "Basket limit" },
-    { key: "gearing", label: "Gears" },
-    { key: "brakes", label: "Brakes" },
-    ...(anyElectric ? [{ key: "battery" as const, label: "Battery" }] : []),
-  ];
+  // Columns adapt to the category: show a spec only when at least two products have it.
+  const SHORT: Partial<Record<keyof TrikeSpecs, string>> = {
+    wheelSize: "Wheels", riderHeightRange: "Rider height", totalPayload: "Weight limit", cargoLimit: "Load limit",
+    gearing: "Gears", brakes: "Brakes", motor: "Motor", battery: "Battery", bikeWeight: "Weight",
+    dimensions: "Size", overallWidth: "Width", folding: "Folding", assistModes: "Assist", throttle: "Throttle",
+  };
+  const cols = SPEC_ROWS.map((r) => ({ key: r.key, label: SHORT[r.key] ?? r.label }))
+    .filter((c) => products.filter((p) => p.specs[c.key]).length >= 2)
+    .slice(0, 6);
   return (
     <div className="overflow-x-auto rounded-md border border-line bg-surface" role="region" aria-label="Comparison table" tabIndex={0}>
       <table className="w-full min-w-[44rem] text-left text-[0.98rem]">

@@ -93,6 +93,8 @@ export interface ChooseSection {
 
 export interface BestArticle extends ArticleBase {
   type: "best";
+  /** Product noun for section headings, e.g. { plural: "Tricycle Baskets", singular: "Tricycle Basket" }. */
+  noun?: { plural: string; singular: string };
   /** Dek under the H1. */
   dek: string;
   intro: string[];

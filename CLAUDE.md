@@ -24,13 +24,16 @@
 ## 3. Product selection (MANDATORY)
 The Creators API does NOT return star ratings or review counts for any of our credentials. Do not treat missing ratings as neutral, and do not use category Best Sellers Rank alone: a "#4 in Road Bikes" listing turned out to have 2 ratings at 3.0 stars.
 
-1. Build the pool: `node scripts/rank-pool.mjs queries.json out.json` (several queries, three sort orders, sales rank per ASIN). Add brand-name queries for established models.
+1. Build the pool with a Stage A script (port HardcastlesRV `scripts/stage-a.mjs`: per-cluster q/must/ban/req config, cached queries, one compact fact file per slug). Until it is ported, `node scripts/rank-pool.mjs queries.json out.json` (several queries, three sort orders, sales rank per ASIN). Add brand-name queries for established models.
 2. Get real ratings: `scripts/amazon-ratings.sh <ASIN...>` (reads the public product page; for internal selection only, never displayed).
 3. Minimum bar: **4.2 stars and 20+ ratings**. Below that, a product is not eligible, however good its listing reads.
 4. Variants share reviews unevenly. Use the ASIN of the listing with the most ratings for that model (Schwinn Meridian B08239YG6M has 3,345; its sibling B08YFKB3HM shows 210).
 5. Exclude kids' trikes, drift trikes and anything outside the article's scope (folding and electric have their own articles).
 6. Record evidence in `selectionNote` on each product (rating, count, date). Never render ratings, review counts or prices on the site.
 7. If fewer than 4 products clear the bar, say so to the user instead of padding the list.
+
+## 3b. Writer agent
+One Sonnet subagent (`model: "sonnet"`) at a time, briefed with `scripts/best-brief.md`. Never parallel writers.
 
 ## 4. Writing voice (MANDATORY)
 Write as a specialist who has spent years around adult tricycles, their buyers and their failure points. The reader should finish each section knowing something they could not get from the Amazon listing.

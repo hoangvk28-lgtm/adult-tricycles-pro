@@ -9,5 +9,5 @@ for a in "$@"; do
   b=$(grep -o '[0-9.K+]* bought in past month' <<<"$h" | head -1)
   cap=$(grep -c "captcha" <<<"$h")
   echo "$a | ${r:-?} | ${c:-?} | ${b:--} | captcha:$cap"
-  sleep 2
+  sleep ${RATE_SLEEP:-2}
 done

@@ -56,6 +56,8 @@ export function BestPage({ a }: { a: BestArticle }) {
   const words = [a.intro.join(" "), a.shortAnswer, ...a.products.map((p) => p.summary), ...a.whatToLookFor.flatMap((w) => w.paragraphs)].join(" ").split(/\s+/).length;
   const related = (a.relatedPaths ?? []).map((p) => articles.find((x) => x.path === p)).filter((x) => !!x);
   const n = a.products.length;
+  const noun = a.noun ?? { plural: "Adult Tricycles", singular: "Adult Tricycle" };
+  const article = /^[aeiou]/i.test(noun.singular) ? "an" : "a";
 
   return (
     <article className="mx-auto max-w-[1120px] px-4 pb-16 pt-8 sm:px-6 lg:px-8">
@@ -191,7 +193,7 @@ export function BestPage({ a }: { a: BestArticle }) {
           </section>
 
           <section aria-labelledby="how-we-chose" className="mt-14">
-            <h2 id="how-we-chose" className="text-[1.9rem] font-semibold sm:text-[2.1rem]">How We Chose These Tricycles</h2>
+            <h2 id="how-we-chose" className="text-[1.9rem] font-semibold sm:text-[2.1rem]">How We Chose These {noun.plural}</h2>
             <dl className="mt-6 divide-y divide-line border-y border-line">
               {a.howWeChose.map((c) => (
                 <div key={c.title} className="py-5 sm:grid sm:grid-cols-[200px_1fr] sm:gap-8">
@@ -203,7 +205,7 @@ export function BestPage({ a }: { a: BestArticle }) {
           </section>
 
           <section aria-labelledby="what-to-look-for" className="mt-14">
-            <h2 id="what-to-look-for" className="text-[1.9rem] font-semibold sm:text-[2.1rem]">What to Look for in an Adult Tricycle</h2>
+            <h2 id="what-to-look-for" className="text-[1.9rem] font-semibold sm:text-[2.1rem]">What to Look for in {article} {noun.singular}</h2>
             <ol className="mt-6 divide-y divide-line border-y border-line">
               {a.whatToLookFor.map((w, i) => (
                 <li key={w.title} className="py-6">
