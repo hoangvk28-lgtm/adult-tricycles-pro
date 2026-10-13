@@ -186,7 +186,7 @@ export function BestPage({ a }: { a: BestArticle }) {
 
           <section aria-labelledby="comparison" className="mt-14">
             <h2 id="comparison" className="text-[1.9rem] font-semibold sm:text-[2.1rem]">Spec Comparison</h2>
-            <p className="mt-2 text-ink-2">Figures as stated in each listing. &quot;Not listed&quot; means the seller does not publish it.</p>
+            <p className="mt-2 text-ink-2">Key figures side by side. A dash means the brand gives no figure, so ask before you buy if it matters to you.</p>
             <div className="mt-5"><ComparisonTable products={a.products} /></div>
           </section>
 

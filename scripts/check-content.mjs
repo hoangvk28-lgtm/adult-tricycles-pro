@@ -4,6 +4,8 @@
 // Usage: npm run build && npm start, then: BASE=http://localhost:3000 npm run check:content
 const BASE = process.env.BASE || "http://localhost:3000";
 const TAG = "adulttricyclespro-20";
+// Research-process leaks that make copy read as pasted from a product page (CLAUDE.md 4b).
+const LEAK = /\b(the listing|listings?\b|not listed|as listed|listed (at|as|for)|the seller|sellers? (says|lists|gives)|not stated|amazon lists|according to the|product page|the description|spec sheet says|we could find on amazon)/i;
 const BANNED = /\b(we tested|we tried|in our lab|medically reviewed by|danny|campsite)\b/i;
 
 const errors = [];
@@ -26,6 +28,10 @@ for (const path of urls) {
   const bad = text.match(BANNED);
   // "not medically reviewed" is the honest status line, not a claim
   if (bad && !/not medically reviewed/i.test(text.slice(Math.max(0, bad.index - 20), bad.index + 30))) errors.push(`${path}: banned phrase "${bad[0]}"`);
+
+  // Best/Review pages live at /<section>/<slug>/. Guides may legitimately advise readers to "ask the seller".
+  const leak = path.split("/").filter(Boolean).length === 2 ? text.match(LEAK) : null;
+  if (leak) errors.push(`${path}: process leak "${text.slice(Math.max(0, leak.index - 40), leak.index + 50).replace(/\s+/g, " ")}"`);
 
   for (const [, href] of html.matchAll(/<a[^>]+href="([^"]+)"/g)) {
     const h = href.replace(/&amp;/g, "&");

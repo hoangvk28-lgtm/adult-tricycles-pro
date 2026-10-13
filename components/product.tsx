@@ -24,9 +24,8 @@ const SPEC_ROWS: { key: keyof TrikeSpecs; label: string; electricOnly?: boolean 
 
 /** Rows for this product: electric rows only for electric models; "folding" only if stated. */
 function rowsFor(p: Product) {
-  return SPEC_ROWS.filter((r) => (r.electricOnly ? p.electric : true)).filter(
-    (r) => r.key !== "folding" || p.specs.folding,
-  );
+  // Only rows we have values for; missing specs are hidden, never shown as "not listed".
+  return SPEC_ROWS.filter((r) => (r.electricOnly ? p.electric : true)).filter((r) => !!p.specs[r.key]);
 }
 
 export function BuyButtons({ p }: { p: Product }) {
@@ -57,19 +56,12 @@ export function SpecTable({ p }: { p: Product }) {
           {rowsFor(p).map((r) => (
             <tr key={r.key} className="border-b border-line last:border-0">
               <th scope="row" className="w-2/5 bg-brand-soft/60 px-4 py-2.5 font-semibold">{r.label}</th>
-              <td className="px-4 py-2.5">{p.specs[r.key] ?? <span className="text-ink-3">Not listed</span>}</td>
+              <td className="px-4 py-2.5">{p.specs[r.key]}</td>
             </tr>
           ))}
         </tbody>
       </table>
-      <p className="border-t border-line px-4 py-2 text-sm text-ink-3">
-        {p.specSource ? (
-          <>Source: <a href={p.specSource} target="_blank" rel="noopener noreferrer">manufacturer specifications</a>.</>
-        ) : (
-          <>Specs as published in the product listing.</>
-        )}{" "}
-        &quot;Not listed&quot; means the listing does not state it. Specs can change between model years; confirm before buying.
-      </p>
+      <p className="border-t border-line px-4 py-2 text-sm text-ink-3">Specs can change between model years; confirm the exact version before buying.</p>
     </div>
   );
 }
@@ -151,7 +143,7 @@ export function ComparisonTable({ products }: { products: Product[] }) {
                   <a href={`#${p.id}`} className="font-semibold">{p.name}</a>
                   {p.label && <div className="text-sm font-normal text-ink-3">{p.label}</div>}
                 </th>
-                {cols.map((c) => <td key={c.key} className="px-3 py-3">{p.specs[c.key] ?? "Not listed"}</td>)}
+                {cols.map((c) => <td key={c.key} className="px-3 py-3">{p.specs[c.key] ?? <span aria-label="No figure" className="text-ink-3">—</span>}</td>)}
                 <td className="px-3 py-3">
                   {amazon && (
                     <a href={amazon} target="_blank" rel="noopener noreferrer sponsored nofollow" className="whitespace-nowrap font-semibold text-cta">

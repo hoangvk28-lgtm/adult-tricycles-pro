@@ -20,7 +20,7 @@ export default function HowWeResearch() {
         <li>Patterns in questions and problems buyers raise, treated as leads to verify rather than as proof.</li>
       </ul>
       <h2>What we compare</h2>
-      <p>For every model we try to report the assembled dimensions and widest point, trike weight, rider and cargo limits, rider height range, step-through height, gearing and brakes. For electric models we add motor, battery capacity, assist modes, throttle behavior and charging. When a manufacturer does not publish a figure, we say &quot;Not listed&quot; rather than estimating it.</p>
+      <p>For every model we try to report the assembled dimensions and widest point, trike weight, rider and cargo limits, rider height range, step-through height, gearing and brakes. For electric models we add motor, battery capacity, assist modes, throttle behavior and charging. When a brand gives no figure, we leave it out and tell you what to check instead of estimating it.</p>
       <h2>What we will not do</h2>
       <ul>
         <li>Publish star ratings, scores or test results we did not produce.</li>

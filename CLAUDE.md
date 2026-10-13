@@ -46,6 +46,22 @@ Write as a specialist who has spent years around adult tricycles, their buyers a
 - Pros/cons: short scannable phrases (4 to 12 words), each a real fact.
 - Never state or imply a tricycle cannot tip over, or that it suits every balance or mobility condition. Health content is not medically reviewed unless a real reviewer is named.
 
+## 4b. Never expose the research process in visible copy (MANDATORY)
+A review must read as the judgment of someone who knows these machines, not as a summary of a product page. Phrases that point at where the information came from make the article look copied and give the reader nothing.
+
+**Banned in any visible text** (body, pros/cons, specs, tables, FAQ, captions):
+"the listing", "listings", "listed", "not listed", "as listed", "the seller says/lists", "the manufacturer states", "publishes/published (a spec)", "not stated", "Amazon lists", "according to the product page", "the description says", "spec sheet says", "we could find on Amazon", "the data/features show".
+
+**Rewrite the point instead of citing the source:**
+- Unknown spec -> turn it into a buyer action. Not: "The listing gives no height chart for its three sizes." Write: "With three wheel sizes to choose from, size it by seat height, not wheel number: with the seat at its lowest, the rider should sit with both feet flat."
+- Unknown brakes -> "Check the brakes before the first ride: the levers should be within easy reach and firm when squeezed. Trikes in this class often arrive needing a quick adjustment."
+- A number you have -> state it as fact: "It weighs about 35 lb", "Schwinn sizes the 26-inch Meridian for riders 5'0\" to 6'1\"" (naming the brand's own fit range is fine).
+- A dubious claim -> give your judgment: "A 24-inch frame for a 4'1\" rider is optimistic; expect most riders under 4'9\" to find it tall."
+- A missing spec is never a pro/con by itself. Use a real trade-off ("Heavier steel frame", "7 gears need more upkeep") or leave it out.
+- Spec tables only show values we have; empty rows are hidden, never shown as "Not listed".
+
+`npm run check:content` fails on these phrases. Do not weaken the regex to pass; rewrite the sentence.
+
 ## 5. Checks before saying a batch is done
 `npx tsc --noEmit`, `npx eslint .`, `npm run build`, then `npm start` and `BASE=http://localhost:3000 npm run check:content`. Screenshot the new page (desktop and 390px mobile) with headless Chrome and look at it.
 
