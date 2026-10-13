@@ -1,7 +1,8 @@
+import Image from "next/image";
 import type { BestArticle } from "@/data/types";
 import { ArticleHeader, authorOf, RelatedArticles } from "@/components/article";
 import { AuthorBox } from "@/components/Author";
-import { AffiliateNote, JsonLd } from "@/components/ui";
+import { JsonLd } from "@/components/ui";
 import { BuyButtons, ComparisonTable, ProductIntro, ProsCons, SpecTable } from "@/components/product";
 import { renderInline } from "@/lib/content";
 import { absoluteUrl } from "@/lib/seo";
@@ -11,9 +12,7 @@ export function BestPage({ a }: { a: BestArticle }) {
   const byId = new Map(a.products.map((p) => [p.id, p]));
   return (
     <div className="mx-auto max-w-4xl px-4 pt-8">
-      <ArticleHeader a={a}>
-        <AffiliateNote />
-      </ArticleHeader>
+      <ArticleHeader a={a} />
 
       <section aria-labelledby="answer-h" className="mt-8 rounded-md border-l-4 border-cta bg-surface p-5">
         <h2 id="answer-h" className="font-sans kicker">Short answer</h2>
@@ -45,9 +44,19 @@ export function BestPage({ a }: { a: BestArticle }) {
 
       {a.products.map((p) => (
         <section key={p.id} id={p.id} aria-label={p.name} className="mt-14 space-y-5 border-t-2 border-ink pt-6">
+          {p.label && <p className="kicker">{p.label}</p>}
           <h2 className="text-[1.9rem] font-semibold">{p.name}</h2>
-          <div className="article">{p.summary.split("\n\n").map((t) => <p key={t}>{t}</p>)}</div>
-          <BuyButtons p={p} />
+          <div className="grid gap-6 md:grid-cols-[minmax(0,17rem)_1fr] md:items-start">
+            {p.image && (
+              <div className="relative aspect-square overflow-hidden rounded-sm border border-line bg-white">
+                <Image src={p.image.src} alt={p.image.alt} fill sizes="(max-width: 768px) 100vw, 272px" className="object-contain p-3" />
+              </div>
+            )}
+            <div>
+              <div className="article">{p.summary.split("\n\n").map((t) => <p key={t}>{t}</p>)}</div>
+              <BuyButtons p={p} />
+            </div>
+          </div>
           <SpecTable p={p} />
           <ProsCons p={p} />
         </section>

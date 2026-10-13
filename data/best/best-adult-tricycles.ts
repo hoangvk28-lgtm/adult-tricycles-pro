@@ -2,6 +2,8 @@ import type { BestArticle } from "@/data/types";
 import { RESEARCH_STATEMENT } from "@/lib/site";
 
 // Product facts come only from each Amazon listing (Creators API pull, 2026-10-13).
+// Selection: top sellers by Amazon Best Sellers Rank among 52 non-electric adult trikes
+// (scripts/rank-pool.mjs). The API does not expose star ratings for this account.
 // Specs a listing does not state are left undefined and render as "Not listed".
 export const bestAdultTricycles: BestArticle = {
   type: "best",
@@ -24,6 +26,7 @@ export const bestAdultTricycles: BestArticle = {
       name: "Schwinn Meridian Adult Tricycle (26-inch, single speed)",
       brand: "Schwinn",
       asin: "B08YFKB3HM",
+      selectionNote: "Amazon #8 in Cruiser Bikes, BSR 63,831 (2026-10-13)",
       label: "Best overall for flat routes",
       image: { src: "https://m.media-amazon.com/images/I/51QJKCsz5dL._SL500_.jpg", alt: "Schwinn Meridian adult tricycle with rear basket" },
       summary:
@@ -45,6 +48,7 @@ export const bestAdultTricycles: BestArticle = {
       name: "BODIOO 26-Inch 7-Speed Adult Tricycle",
       brand: "BODIOO",
       asin: "B0HCZH1VJF",
+      selectionNote: "Amazon #4 in Road Bikes, BSR 105,033 (2026-10-13)",
       label: "Best for hills and heavier riders",
       image: { src: "https://m.media-amazon.com/images/I/41ju-Ft6CyL._SL500_.jpg", alt: "BODIOO 26-inch 7-speed adult tricycle with rear basket" },
       summary:
@@ -67,6 +71,7 @@ export const bestAdultTricycles: BestArticle = {
       name: "VEVOR 24-Inch 7-Speed Adult Tricycle",
       brand: "VEVOR",
       asin: "B0H96KM8R8",
+      selectionNote: "Amazon #15 in Cruiser Bikes, BSR 93,531 (2026-10-13)",
       label: "Best 7-speed for average-height riders",
       image: { src: "https://m.media-amazon.com/images/I/51v1x1SabdL._SL500_.jpg", alt: "VEVOR 24-inch 7-speed adult tricycle in orange" },
       summary:
@@ -87,6 +92,7 @@ export const bestAdultTricycles: BestArticle = {
       name: "Brightpeak 1-Speed Adult Tricycle (24-inch and 26-inch)",
       brand: "Brightpeak",
       asin: "B0G4R4KYMR",
+      selectionNote: "Amazon #21 in Cruiser Bikes, BSR 109,277 (2026-10-13)",
       label: "Best size choice for shorter riders",
       image: { src: "https://m.media-amazon.com/images/I/414I6Pj4ieL._SL500_.jpg", alt: "Brightpeak single-speed adult tricycle with large rear basket" },
       summary:
@@ -109,6 +115,7 @@ export const bestAdultTricycles: BestArticle = {
       name: "Betterland 26-Inch Adult Tricycle",
       brand: "Betterland",
       asin: "B0H8S8T46F",
+      selectionNote: "Amazon #13 in Cruiser Bikes, BSR 92,257 (2026-10-13)",
       label: "Simplest setup on a budget",
       image: { src: "https://m.media-amazon.com/images/I/51fxUwTaLDL._SL500_.jpg", alt: "Betterland red 26-inch adult tricycle with rear basket" },
       summary:
@@ -129,6 +136,7 @@ export const bestAdultTricycles: BestArticle = {
       name: "MOONCOOL 7-Speed Adult Tricycle with Backrest Seat",
       brand: "MOONCOOL",
       asin: "B0H5JLSYB8",
+      selectionNote: "Amazon #2 in Cruiser Bikes, BSR 39,026 (2026-10-13)",
       label: "Best for back support",
       image: { src: "https://m.media-amazon.com/images/I/516M-5uojHL._SL500_.jpg", alt: "MOONCOOL 7-speed adult tricycle with backrest seat and basket" },
       summary:

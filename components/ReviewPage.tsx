@@ -2,7 +2,6 @@ import Link from "next/link";
 import type { ReviewArticle } from "@/data/types";
 import { ArticleHeader, authorOf, RelatedArticles } from "@/components/article";
 import { AuthorBox } from "@/components/Author";
-import { AffiliateNote } from "@/components/ui";
 import { ProductIntro, ProsCons, SpecTable } from "@/components/product";
 import { renderInline } from "@/lib/content";
 import { articles } from "@/data/articles";
@@ -11,9 +10,7 @@ export function ReviewPage({ a }: { a: ReviewArticle }) {
   const p = a.product;
   return (
     <div className="mx-auto max-w-4xl px-4 pt-8">
-      <ArticleHeader a={a}>
-        <AffiliateNote />
-      </ArticleHeader>
+      <ArticleHeader a={a} />
       <section aria-labelledby="answer-h" className="mt-8 rounded-md border-l-4 border-cta bg-surface p-5">
         <h2 id="answer-h" className="font-sans kicker">Short answer</h2>
         <p className="mt-2 text-[1.15rem] leading-relaxed">{a.shortAnswer}</p>

@@ -41,6 +41,8 @@ export interface Product {
   summary: string;
   specs: TrikeSpecs;
   specSource?: string; // URL of the manual/spec sheet used
+  /** Internal selection evidence (e.g. Amazon Best Sellers Rank on pull date). Never rendered. */
+  selectionNote?: string;
   pros: string[];
   cons: string[];
   goodFor: string[];
