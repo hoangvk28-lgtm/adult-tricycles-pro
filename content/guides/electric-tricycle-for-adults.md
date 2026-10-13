@@ -66,7 +66,7 @@ Electric brake cut-offs can interrupt motor power when braking on models equippe
 
 ## Interpret battery capacity and range realistically
 
-Battery energy is often expressed in watt-hours. When voltage and amp-hours are the available specifications, multiplying the nominal figures gives an approximate energy value for comparison. That calculation is not a prediction of distance. Usable range depends on assistance, rider and cargo weight, surface, hills, wind, temperature, tire condition, and battery age.
+Battery energy is often expressed in watt-hours. When voltage and amp-hours are the available specifications, multiplying the nominal figures gives an approximate energy value for comparison. That calculation is not a prediction of distance. Usable range depends on assistance, rider and cargo weight, surface, hills, wind, temperature, tire condition, and battery age. Our [electric tricycle range and route planning guide](/electric-tricycle-range-and-route-planning/) turns these factors into a trip plan.
 
 Range advertisements may describe favorable conditions with active pedaling and low assistance. Ask whether the figure refers to throttle-only use or pedal assistance, and what test conditions produced it. If those conditions are unavailable, label the figure as a manufacturer claim. Plan an initial route with a generous return margin rather than using the advertised maximum as the length of your first outing.
 
@@ -106,7 +106,7 @@ Practice the fold and unfold procedure before planning a trip. Check latch engag
 
 ## Protect the ownership experience
 
-Find out who handles warranty work and whether a local shop will service the vehicle. Electrical diagnostics and proprietary parts may require manufacturer support even when ordinary tires or brake components can be serviced locally. Ask about response channels, documentation, and whether parts must be shipped to you for installation.
+Find out who handles warranty work and whether a local shop will service the vehicle. Electrical diagnostics and proprietary parts may require manufacturer support even when ordinary tires or brake components can be serviced locally. Ask about response channels, documentation, and whether parts must be shipped to you for installation. The [adult tricycle maintenance checklist](/adult-tricycle-maintenance-checklist/) covers the routine owner checks.
 
 Read return terms before assembling or riding. Confirm deadlines, freight charges, restocking conditions, and how damage on delivery should be reported. Keep photographs and packaging until the vehicle has been inspected. A warranty that sounds generous is less useful if you cannot transport the machine to the service location or obtain the required part.
 

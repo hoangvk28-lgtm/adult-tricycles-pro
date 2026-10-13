@@ -1,0 +1,70 @@
+{
+ "adult-tricycle": [
+  1400,
+  930
+ ],
+ "basket": [
+  1400,
+  834
+ ],
+ "brake-rotor": [
+  1400,
+  970
+ ],
+ "disc-brake": [
+  1400,
+  1055
+ ],
+ "electric-trike": [
+  1400,
+  1050
+ ],
+ "exercise-bike": [
+  1400,
+  1050
+ ],
+ "first-adult-tricycle-hero": [
+  1536,
+  1024
+ ],
+ "flywheel": [
+  1400,
+  1126
+ ],
+ "foot-pump": [
+  1400,
+  958
+ ],
+ "gears": [
+  1400,
+  1050
+ ],
+ "helmet": [
+  1400,
+  933
+ ],
+ "parked-bike": [
+  1400,
+  1050
+ ],
+ "recumbent-classic": [
+  1400,
+  1050
+ ],
+ "recumbent-modern": [
+  1400,
+  788
+ ],
+ "repair-kit": [
+  1400,
+  1050
+ ],
+ "repair-tools": [
+  800,
+  456
+ ],
+ "schrader-valve": [
+  1400,
+  1057
+ ]
+}

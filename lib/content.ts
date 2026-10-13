@@ -14,16 +14,9 @@ export interface RenderedGuide {
   wordCount: number;
 }
 
-const IMAGE_SIZES: Record<string, [number, number]> = {
-  "adult-tricycle": [1400, 930],
-  "electric-trike": [1400, 1050],
-  "exercise-bike": [1400, 1050],
-  flywheel: [1400, 1126],
-  gears: [1400, 1050],
-  helmet: [1400, 933],
-  "recumbent-classic": [1400, 1050],
-  "recumbent-modern": [1400, 788],
-};
+import imageSizes from "@/content/guides/image-sizes.json";
+
+const IMAGE_SIZES = imageSizes as unknown as Record<string, [number, number]>;
 
 function slugify(text: string): string {
   return text

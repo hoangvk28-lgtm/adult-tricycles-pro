@@ -18,7 +18,7 @@ Also describe your objective. You may want exercise, errands, companionship, or 
 
 ## Understand the main designs without treating them as separate worlds
 
-An upright delta tricycle has one wheel at the front and two at the rear, with a fairly conventional saddle and handlebar arrangement. Many have a low step-through frame and a rear basket. Neither a backrest nor a particular saddle style is universal. Check the actual specification instead of assuming that every traditional tricycle supports your back.
+An upright delta tricycle has one wheel at the front and two at the rear, with a fairly conventional saddle and handlebar arrangement. Many have a low step-through frame and a rear basket. Neither a backrest nor a particular saddle style is universal. Check the actual specification instead of assuming that every traditional tricycle supports your back. If you are weighing the two seating styles, read [upright vs. recumbent adult tricycles](/upright-vs-recumbent-adult-tricycles/).
 
 A recumbent tricycle positions the rider against a seat or backrest with the pedals farther forward. Tadpole designs have two front wheels and one rear wheel; recumbent delta designs have the reverse arrangement. The seat can distribute contact differently from an upright saddle, but a low seat may be harder to enter or leave. Ground clearance, visibility, turning circle, and seat adjustability vary substantially.
 
@@ -38,7 +38,7 @@ Electric assistance and folding construction are additional features, not mutual
 
 ## Measure the rider and the vehicle
 
-A stated height range is a screening tool, not a complete fitting service. Two people of the same height can have different leg lengths, torso lengths, and arm reach. Record the rider's height and inseam, then compare those with the manufacturer's seat adjustment and fit guidance. On a recumbent, the relevant measurement may be the distance between the backrest and pedal reach rather than conventional saddle height.
+A stated height range is a screening tool, not a complete fitting service. Two people of the same height can have different leg lengths, torso lengths, and arm reach. Record the rider's height and inseam, then compare those with the manufacturer's seat adjustment and fit guidance. On a recumbent, the relevant measurement may be the distance between the backrest and pedal reach rather than conventional saddle height. Our [adult tricycle sizing and fit guide](/adult-tricycle-sizing-and-fit-guide/) goes further on seat height, reach and transfers.
 
 When sitting in a suitable position, you should be able to turn the pedals smoothly without reaching with your toes or rocking your hips. You should not need to lock the knee to finish a revolution. The handlebar should remain reachable with relaxed shoulders and slightly bent elbows. A backrest is of little help if reaching the controls pulls you away from it.
 
@@ -68,7 +68,7 @@ If electric assistance is part of the shortlist, compare it with the manual gear
 
 ## Treat braking and cornering as purchase criteria
 
-You need braking controls that you can reach and operate repeatedly. Test the distance from the grip to the lever and whether the lever adjustment suits your hands. Ask which wheel or wheels each control operates and how the parking brake engages. Check whether a brake cut-off is provided on an electric model, but do not treat that feature as a replacement for riding technique.
+You need braking controls that you can reach and operate repeatedly. Test the distance from the grip to the lever and whether the lever adjustment suits your hands. Ask which wheel or wheels each control operates and how the parking brake engages. Check whether a brake cut-off is provided on an electric model, but do not treat that feature as a replacement for riding technique. For first rides, see [how to ride an adult tricycle safely](/how-to-ride-an-adult-tricycle-safely/).
 
 A parking brake helps keep the vehicle from moving during transfers or parking. Its presence, operation, and limitations should be confirmed in the manual. It is not an anti-theft lock and should not be relied on to secure a vehicle on an unsuitable slope. Practice using it in a level, controlled setting before depending on it while getting on or off.
 
@@ -76,7 +76,7 @@ An upright tricycle does not corner like a bicycle. Three contact points provide
 
 ## Check portability before paying for folding
 
-Ask for dimensions in the exact folded configuration, including the basket and handlebar. Some products fold the frame; others only fold the steering stem or remove a basket. A folding basket is not a folding vehicle. Request a demonstration showing the complete sequence and the parts that must be detached.
+Ask for dimensions in the exact folded configuration, including the basket and handlebar. Some products fold the frame; others only fold the steering stem or remove a basket. A folding basket is not a folding vehicle. Request a demonstration showing the complete sequence and the parts that must be detached. Our guide to [storing and transporting an adult tricycle](/how-to-store-and-transport-an-adult-tricycle/) covers measurements, security and loading.
 
 Then compare the result with the car's actual opening and cargo area. Width between wheel arches, loading height, and the shape of the hatch can matter as much as interior volume. A vehicle might fit inside but not pass through the opening. Include room for securing it so it cannot move during transport.
 
