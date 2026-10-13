@@ -18,6 +18,10 @@ export interface TrikeSpecs {
   gearing?: string;
   brakes?: string;
   folding?: string;
+  // Accessories
+  mount?: string; // fit / clamp range / mounting
+  storage?: string; // how it packs away
+  features?: string; // key construction details
   // Electric models only
   motor?: string;
   battery?: string;

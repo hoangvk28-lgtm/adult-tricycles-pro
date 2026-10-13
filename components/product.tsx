@@ -15,6 +15,9 @@ const SPEC_ROWS: { key: keyof TrikeSpecs; label: string; electricOnly?: boolean 
   { key: "gearing", label: "Gearing" },
   { key: "brakes", label: "Brakes" },
   { key: "folding", label: "Folding" },
+  { key: "mount", label: "Fit and mounting" },
+  { key: "storage", label: "Storage" },
+  { key: "features", label: "Features" },
   { key: "motor", label: "Motor", electricOnly: true },
   { key: "battery", label: "Battery", electricOnly: true },
   { key: "assistModes", label: "Assist modes", electricOnly: true },
@@ -118,7 +121,7 @@ export function ComparisonTable({ products }: { products: Product[] }) {
   const SHORT: Partial<Record<keyof TrikeSpecs, string>> = {
     wheelSize: "Wheels", riderHeightRange: "Rider height", totalPayload: "Weight limit", cargoLimit: "Load limit",
     gearing: "Gears", brakes: "Brakes", motor: "Motor", battery: "Battery", bikeWeight: "Weight",
-    dimensions: "Size", overallWidth: "Width", folding: "Folding", assistModes: "Assist", throttle: "Throttle",
+    dimensions: "Size", overallWidth: "Width", folding: "Folding", mount: "Fit", storage: "Storage", features: "Features", assistModes: "Assist", throttle: "Throttle",
   };
   const cols = SPEC_ROWS.map((r) => ({ key: r.key, label: SHORT[r.key] ?? r.label }))
     .filter((c) => products.filter((p) => p.specs[c.key]).length >= 2)
