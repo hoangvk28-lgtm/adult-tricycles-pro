@@ -22,7 +22,7 @@ export const guideArticles: Article[] = [
     published: "2026-10-13",
     updated: "2026-10-13",
     contentFile: "how-to-shop-for-your-first-adult-three-wheel-bike.md",
-    heroImage: { src: "/images/guides/adult-tricycle.webp", alt: "A non-electric upright tricycle with a rear basket.", width: 1400, height: 930 },
+    heroImage: { src: "/images/guides/first-adult-tricycle-hero.webp", alt: "A dark green adult tricycle with a rear wire basket parked on a lakeside path.", width: 1536, height: 1024 },
     methodology: RESEARCH,
   },
   {
