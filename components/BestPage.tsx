@@ -2,7 +2,7 @@ import type { BestArticle } from "@/data/types";
 import { ArticleHeader, authorOf, RelatedArticles } from "@/components/article";
 import { AuthorBox } from "@/components/Author";
 import { AffiliateNote, JsonLd } from "@/components/ui";
-import { ComparisonTable, ProductIntro, ProsCons, SpecTable } from "@/components/product";
+import { BuyButtons, ComparisonTable, ProductIntro, ProsCons, SpecTable } from "@/components/product";
 import { renderInline } from "@/lib/content";
 import { absoluteUrl } from "@/lib/seo";
 import { articles } from "@/data/articles";
@@ -46,7 +46,8 @@ export function BestPage({ a }: { a: BestArticle }) {
       {a.products.map((p) => (
         <section key={p.id} id={p.id} aria-label={p.name} className="mt-14 space-y-5 border-t-2 border-ink pt-6">
           <h2 className="text-[1.9rem] font-semibold">{p.name}</h2>
-          <p className="text-[1.0625rem] leading-relaxed">{p.summary}</p>
+          <div className="article">{p.summary.split("\n\n").map((t) => <p key={t}>{t}</p>)}</div>
+          <BuyButtons p={p} />
           <SpecTable p={p} />
           <ProsCons p={p} />
         </section>

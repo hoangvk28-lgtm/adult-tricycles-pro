@@ -57,16 +57,19 @@ export function SpecTable({ p }: { p: Product }) {
           {rowsFor(p).map((r) => (
             <tr key={r.key} className="border-b border-line last:border-0">
               <th scope="row" className="w-2/5 bg-brand-soft/60 px-4 py-2.5 font-semibold">{r.label}</th>
-              <td className="px-4 py-2.5">{p.specs[r.key] ?? <span className="text-ink-3">Not listed by the manufacturer</span>}</td>
+              <td className="px-4 py-2.5">{p.specs[r.key] ?? <span className="text-ink-3">Not listed</span>}</td>
             </tr>
           ))}
         </tbody>
       </table>
-      {p.specSource && (
-        <p className="border-t border-line px-4 py-2 text-sm text-ink-3">
-          Source: <a href={p.specSource} target="_blank" rel="noopener noreferrer">manufacturer specifications</a>. Specs can change between model years; confirm before buying.
-        </p>
-      )}
+      <p className="border-t border-line px-4 py-2 text-sm text-ink-3">
+        {p.specSource ? (
+          <>Source: <a href={p.specSource} target="_blank" rel="noopener noreferrer">manufacturer specifications</a>.</>
+        ) : (
+          <>Specs as published in the product listing.</>
+        )}{" "}
+        &quot;Not listed&quot; means the listing does not state it. Specs can change between model years; confirm before buying.
+      </p>
     </div>
   );
 }
@@ -110,7 +113,7 @@ export function ProductIntro({ p, rank, priority }: { p: Product; rank?: number;
       <div className="space-y-3">
         {p.label && <p className="text-sm font-semibold uppercase tracking-wider text-cta">{rank ? `${rank}. ` : ""}{p.label}</p>}
         <h3 className="text-[1.6rem] font-semibold">{p.name}</h3>
-        <p className="text-[1.0625rem] leading-relaxed text-ink-2">{p.summary}</p>
+        <p className="text-[1.0625rem] leading-relaxed text-ink-2">{p.summary.split("\n\n")[0]}</p>
         <BuyButtons p={p} />
         {p.image?.credit && <p className="text-sm text-ink-3">Image: {p.image.credit}</p>}
       </div>
@@ -121,9 +124,10 @@ export function ProductIntro({ p, rank, priority }: { p: Product; rank?: number;
 export function ComparisonTable({ products }: { products: Product[] }) {
   const anyElectric = products.some((p) => p.electric);
   const cols: { key: keyof TrikeSpecs; label: string }[] = [
-    { key: "overallWidth", label: "Width" },
-    { key: "bikeWeight", label: "Weight" },
-    { key: "riderLimit", label: "Rider limit" },
+    { key: "wheelSize", label: "Wheels" },
+    { key: "riderHeightRange", label: "Rider height" },
+    { key: "totalPayload", label: "Weight limit" },
+    { key: "cargoLimit", label: "Basket limit" },
     { key: "gearing", label: "Gears" },
     { key: "brakes", label: "Brakes" },
     ...(anyElectric ? [{ key: "battery" as const, label: "Battery" }] : []),

@@ -62,9 +62,6 @@ export function ArticleHeader({ a, children, readMinutes }: { a: Article; childr
           </p>
         </div>
       </div>
-      <p className="text-[0.95rem] text-ink-3">
-        <Link href="/how-we-research/" prefetch={false} className="text-ink-2 underline decoration-line-2 underline-offset-2">{a.methodology}</Link>
-      </p>
       {a.reviewStatus && <Notice tone="warn">{a.reviewStatus}</Notice>}
       {children}
       <JsonLd data={articleSchema(a)} />
