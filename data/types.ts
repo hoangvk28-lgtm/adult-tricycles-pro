@@ -37,7 +37,14 @@ export interface Product {
   merchantName?: string;
   image?: { src: string; alt: string; credit?: string };
   electric?: boolean;
-  label?: string; // e.g. "Best for narrow gates"
+  label?: string; // e.g. "Best Overall"
+  /** One-line verdict shown as the pull quote. */
+  verdict?: string;
+  /** Short "best for" phrase for Quick Picks. */
+  bestFor?: string;
+  /** Single headline spec for Quick Picks. */
+  keySpec?: string;
+  /** "Why we like it": paragraphs separated by blank lines. */
   summary: string;
   specs: TrikeSpecs;
   specSource?: string; // URL of the manual/spec sheet used
@@ -76,13 +83,29 @@ export interface GuideArticle extends ArticleBase {
   historyNote?: string;
 }
 
+export interface ChooseSection {
+  heading: string;
+  intro?: string;
+  table?: { headers: string[]; rows: string[][] };
+  cards?: { label: string; text: string }[];
+  note?: string;
+}
+
 export interface BestArticle extends ArticleBase {
   type: "best";
+  /** Dek under the H1. */
+  dek: string;
+  intro: string[];
   shortAnswer: string;
   products: Product[];
-  byNeed: { need: string; productId: string; why: string }[];
-  howToChoose: { heading: string; body: string }[];
+  howWeChose: { title: string; body: string }[];
+  whatToLookFor: { title: string; paragraphs: string[] }[];
+  howToChoose: ChooseSection[];
   faq: { q: string; a: string }[];
+  bottomLine: string;
+  /** Amazon search phrase for the "Browse all" link. */
+  amazonSearch?: string;
+  relatedPaths?: string[];
 }
 
 export interface ReviewArticle extends ArticleBase {

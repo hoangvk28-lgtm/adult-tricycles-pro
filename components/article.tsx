@@ -41,14 +41,14 @@ export function articleSchema(a: Article) {
   };
 }
 
-export function ArticleHeader({ a, children, readMinutes }: { a: Article; children?: React.ReactNode; readMinutes?: number }) {
+export function ArticleHeader({ a, children, readMinutes, dek, extraMeta }: { a: Article; children?: React.ReactNode; readMinutes?: number; dek?: string; extraMeta?: string }) {
   const au = authorOf(a);
   return (
     <header className="space-y-5">
       <Breadcrumbs items={crumbsFor(a)} />
       <p className="kicker">{TYPE_LABEL[a.type]}</p>
       <h1 className="text-[2.25rem] font-semibold leading-[1.12] sm:text-[3rem]">{a.title}</h1>
-      <p className="text-[1.2rem] leading-relaxed text-ink-2">{a.description}</p>
+      <p className="text-[1.2rem] leading-relaxed text-ink-2">{dek ?? a.description}</p>
       <div className="flex items-center gap-3.5 border-y border-line py-4">
         <Avatar a={au} size={52} />
         <div className="text-[0.975rem] leading-snug text-ink-3">
@@ -59,6 +59,7 @@ export function ArticleHeader({ a, children, readMinutes }: { a: Article; childr
           <p>
             Updated <time dateTime={a.updated}>{formatDate(a.updated)}</time>
             {readMinutes ? <> · {readMinutes} min read</> : null}
+            {extraMeta ? <> · {extraMeta}</> : null}
           </p>
         </div>
       </div>
