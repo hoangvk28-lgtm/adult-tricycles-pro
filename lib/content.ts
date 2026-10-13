@@ -1,0 +1,86 @@
+import fs from "node:fs";
+import path from "node:path";
+import { marked } from "marked";
+
+export interface TocItem {
+  id: string;
+  text: string;
+}
+
+export interface RenderedGuide {
+  intro: string; // HTML before the first H2
+  body: string; // HTML from the first H2 on
+  toc: TocItem[];
+  wordCount: number;
+}
+
+const IMAGE_SIZES: Record<string, [number, number]> = {
+  "adult-tricycle": [1400, 930],
+  "electric-trike": [1400, 1050],
+  "exercise-bike": [1400, 1050],
+  flywheel: [1400, 1126],
+  gears: [1400, 1050],
+  helmet: [1400, 933],
+  "recumbent-classic": [1400, 1050],
+  "recumbent-modern": [1400, 788],
+};
+
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/<[^>]+>/g, "")
+    .replace(/&[a-z#0-9]+;/g, "")
+    .replace(/[^a-z0-9\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "-")
+    .slice(0, 80);
+}
+
+function postProcess(html: string, toc: TocItem[]): string {
+  const seen = new Map<string, number>();
+  return (
+    html
+      // Image paragraph followed by an italic caption paragraph -> <figure>.
+      // Caption, credit and license text are kept verbatim.
+      .replace(
+        /<p><img src="([^"]+)" alt="([^"]*)"\s*\/?><\/p>\s*<p><em>([\s\S]*?)<\/em><\/p>/g,
+        (_m, src: string, alt: string, caption: string) => {
+          const key = path.basename(src).replace(/\.\w+$/, "");
+          const [w, h] = IMAGE_SIZES[key] ?? [1400, 1050];
+          return `<figure><img src="${src}" alt="${alt}" width="${w}" height="${h}" loading="lazy" decoding="async"><figcaption>${caption}</figcaption></figure>`;
+        },
+      )
+      .replace(/<table>/g, '<div class="table-wrap" role="region" tabindex="0" aria-label="Table"><table>')
+      .replace(/<\/table>/g, "</table></div>")
+      // External links open in a new tab; internal links stay as normal anchors.
+      .replace(/<a href="(https?:\/\/[^"]+)"/g, '<a href="$1" target="_blank" rel="noopener noreferrer"')
+      .replace(/<h2>([\s\S]*?)<\/h2>/g, (_m, inner: string) => {
+        let id = slugify(inner);
+        const n = seen.get(id) ?? 0;
+        seen.set(id, n + 1);
+        if (n) id = `${id}-${n}`;
+        toc.push({ id, text: inner.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&") });
+        return `<h2 id="${id}">${inner}</h2>`;
+      })
+      .replace(/<h3>([\s\S]*?)<\/h3>/g, (_m, inner: string) => `<h3 id="${slugify(inner)}">${inner}</h3>`)
+  );
+}
+
+export function renderGuide(contentFile: string): RenderedGuide {
+  const raw = fs.readFileSync(path.join(process.cwd(), "content/guides", contentFile), "utf8");
+  // The H1 is rendered by the page header.
+  const md = raw.replace(/^# .*\n+/, "");
+  const firstH2 = md.search(/^## /m);
+  const introMd = firstH2 === -1 ? md : md.slice(0, firstH2);
+  const bodyMd = firstH2 === -1 ? "" : md.slice(firstH2);
+  const toc: TocItem[] = [];
+  const intro = postProcess(marked.parse(introMd, { async: false }), []);
+  const body = postProcess(marked.parse(bodyMd, { async: false }), toc);
+  const wordCount = md.replace(/!\[[^\]]*\]\([^)]*\)/g, "").split(/\s+/).filter(Boolean).length;
+  return { intro, body, toc, wordCount };
+}
+
+/** Minimal markdown for short structured fields (Best/Review bodies). */
+export function renderInline(md: string): string {
+  return postProcess(marked.parse(md, { async: false }), []);
+}

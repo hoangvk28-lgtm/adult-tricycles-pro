@@ -1,0 +1,98 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Adult Tricycles Pro: a clear, trustworthy cycling publication.
+   High-contrast ink on warm paper, deep road-blue brand, safety-orange CTA. */
+@theme inline {
+  --color-paper: #fbfaf6;
+  --color-surface: #ffffff;
+  --color-ink: #16202a;
+  --color-ink-2: #3d4a56;
+  --color-ink-3: #5b6773;
+  --color-line: #dcd8cf;
+  --color-line-2: #c9c3b6;
+
+  --color-brand: #12416b;
+  --color-brand-dark: #0c2e4d;
+  --color-brand-soft: #e6eef6;
+
+  --color-cta: #b8430f;       /* 5.3:1 against white text */
+  --color-cta-dark: #923409;
+  --color-cta-soft: #fdeee5;
+
+  --color-good: #1f6b3a;
+  --color-warn: #8a5300;
+  --color-warn-soft: #fff6e0;
+
+  --font-display: var(--font-serif), Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-inter), system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 5.5rem;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 1.125rem; /* 18px base for older readers */
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3 {
+    font-family: var(--font-display);
+    color: var(--color-ink);
+    line-height: 1.2;
+    text-wrap: balance;
+  }
+  a { color: var(--color-brand); }
+  :focus-visible {
+    outline: 3px solid var(--color-cta);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+/* Long-form article body */
+.article {
+  font-size: 1.1875rem;
+  line-height: 1.75;
+  color: var(--color-ink);
+}
+.article p, .article ul, .article ol { margin: 0 0 1.25rem; }
+.article ul { list-style: disc; padding-left: 1.4rem; }
+.article ol { list-style: decimal; padding-left: 1.4rem; }
+.article li { margin: 0.35rem 0; }
+.article h2 {
+  font-size: clamp(1.6rem, 1.3rem + 1vw, 2rem);
+  margin: 3rem 0 1rem;
+  padding-top: 1.25rem;
+  border-top: 2px solid var(--color-ink);
+}
+.article h3 { font-size: 1.35rem; margin: 2rem 0 0.75rem; }
+.article a { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.article a:hover { color: var(--color-cta-dark); }
+.article strong { font-weight: 650; }
+.article figure { margin: 2rem 0; }
+.article figure img { width: 100%; height: auto; border-radius: 4px; background: #eee; }
+.article figcaption { font-size: 0.9375rem; line-height: 1.55; color: var(--color-ink-3); margin-top: 0.6rem; }
+.article figcaption a { color: var(--color-ink-2); }
+.article blockquote { border-left: 4px solid var(--color-brand); padding: 0.25rem 0 0.25rem 1rem; color: var(--color-ink-2); margin: 1.5rem 0; }
+.article .table-wrap { overflow-x: auto; margin: 1.5rem 0; border: 1px solid var(--color-line); border-radius: 4px; background: var(--color-surface); }
+.article table { width: 100%; border-collapse: collapse; font-size: 1rem; min-width: 32rem; }
+.article th, .article td { text-align: left; vertical-align: top; padding: 0.7rem 0.85rem; border-bottom: 1px solid var(--color-line); }
+.article th { background: var(--color-brand-soft); font-weight: 650; }
+.article tr:last-child td { border-bottom: 0; }
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
+  min-height: 3rem; padding: 0.7rem 1.25rem; border-radius: 6px;
+  font-weight: 650; font-size: 1.0625rem; line-height: 1.2; text-decoration: none;
+  transition: background-color 0.15s;
+}
+.btn-cta { background: var(--color-cta); color: #fff; }
+.btn-cta:hover { background: var(--color-cta-dark); color: #fff; }
+.btn-outline { border: 2px solid var(--color-brand); color: var(--color-brand); background: var(--color-surface); }
+.btn-outline:hover { background: var(--color-brand-soft); }
