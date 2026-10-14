@@ -1,4 +1,14 @@
 import type { Article } from "@/data/types";
+import { bestBikeTailLightsWithBrakeSensors } from "@/data/best/best-bike-tail-lights-with-brake-sensors";
+import { bestBikeTailLightsWithAlarms } from "@/data/best/best-bike-tail-lights-with-alarms";
+import { bestBikeTailLightsForDaytimeVisibility } from "@/data/best/best-bike-tail-lights-for-daytime-visibility";
+import { bestBikeHelmetsWithTurnSignals } from "@/data/best/best-bike-helmets-with-turn-signals";
+import { bestBicycleMultitoolsWithTorqueTools } from "@/data/best/best-bicycle-multitools-with-torque-tools";
+import { bestBicycleMultitoolsWithChainBreakers } from "@/data/best/best-bicycle-multitools-with-chain-breakers";
+import { bestBicycleInnerTubePatchKits } from "@/data/best/best-bicycle-inner-tube-patch-kits";
+import { bestBicycleHornAndLightCombos } from "@/data/best/best-bicycle-horn-and-light-combos";
+import { bestBicycleBellsWithAirtagHolders } from "@/data/best/best-bicycle-bells-with-airtag-holders";
+import { bestBicycleBellsForLargeDiameterHandlebars } from "@/data/best/best-bicycle-bells-for-large-diameter-handlebars";
 import { bestPortableBikePumpsForTricycleRiders } from "@/data/best/best-portable-bike-pumps-for-tricycle-riders";
 import { bestElectricBikePumpsForTricycleRiders } from "@/data/best/best-electric-bike-pumps-for-tricycle-riders";
 import { bestBicycleTireRepairKitsForTricycles } from "@/data/best/best-bicycle-tire-repair-kits-for-tricycles";
@@ -59,6 +69,16 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestBikeTailLightsWithBrakeSensors,
+  bestBikeTailLightsWithAlarms,
+  bestBikeTailLightsForDaytimeVisibility,
+  bestBikeHelmetsWithTurnSignals,
+  bestBicycleMultitoolsWithTorqueTools,
+  bestBicycleMultitoolsWithChainBreakers,
+  bestBicycleInnerTubePatchKits,
+  bestBicycleHornAndLightCombos,
+  bestBicycleBellsWithAirtagHolders,
+  bestBicycleBellsForLargeDiameterHandlebars,
   bestPortableBikePumpsForTricycleRiders,
   bestElectricBikePumpsForTricycleRiders,
   bestBicycleTireRepairKitsForTricycles,
