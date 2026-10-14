@@ -1,4 +1,14 @@
 import type { Article } from "@/data/types";
+import { bestFatTireBicycleInnerTubes } from "@/data/best/best-fat-tire-bicycle-inner-tubes";
+import { bestExtraLongBicycleChainsForRecumbentTrikes } from "@/data/best/best-extra-long-bicycle-chains-for-recumbent-trikes";
+import { bestDryBicycleChainLubricants } from "@/data/best/best-dry-bicycle-chain-lubricants";
+import { bestDigitalBicycleTorqueWrenches } from "@/data/best/best-digital-bicycle-torque-wrenches";
+import { bestChainLocksForAdultTricycles } from "@/data/best/best-chain-locks-for-adult-tricycles";
+import { bestBikeAlarmsWithGpsTrackers } from "@/data/best/best-bike-alarms-with-gps-trackers";
+import { bestBikeAlarmsForAdultTricycles } from "@/data/best/best-bike-alarms-for-adult-tricycles";
+import { bestBikeAlarmsCompatibleWithAppleFindMy } from "@/data/best/best-bike-alarms-compatible-with-apple-find-my";
+import { bestBicycleTorqueWrenches } from "@/data/best/best-bicycle-torque-wrenches";
+import { bestBicycleRimBrakePads } from "@/data/best/best-bicycle-rim-brake-pads";
 import { bestBicycleDiscBrakePads } from "@/data/best/best-bicycle-disc-brake-pads";
 import { bestBicycleCleaningKitsForTricycles } from "@/data/best/best-bicycle-cleaning-kits-for-tricycles";
 import { bestBicycleChainsForAdultTricycles } from "@/data/best/best-bicycle-chains-for-adult-tricycles";
@@ -104,6 +114,16 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestFatTireBicycleInnerTubes,
+  bestExtraLongBicycleChainsForRecumbentTrikes,
+  bestDryBicycleChainLubricants,
+  bestDigitalBicycleTorqueWrenches,
+  bestChainLocksForAdultTricycles,
+  bestBikeAlarmsWithGpsTrackers,
+  bestBikeAlarmsForAdultTricycles,
+  bestBikeAlarmsCompatibleWithAppleFindMy,
+  bestBicycleTorqueWrenches,
+  bestBicycleRimBrakePads,
   bestBicycleDiscBrakePads,
   bestBicycleCleaningKitsForTricycles,
   bestBicycleChainsForAdultTricycles,

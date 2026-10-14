@@ -1,7 +1,7 @@
 # Best-article prose brief (compact). Output JSON only; a script builds the page.
 
-For each slug, read `.work/p2/facts/<slug>.json` (section, noun, angle, products with asin,
-brand, title, features, rating or unverified) and write `.work/p2/prose/<slug>.json`:
+For each slug, read the facts file named in your task (section, noun, angle, products with asin,
+brand, title, features, rating or unverified) and write the prose file named in your task:
 
 {
  "slug": "...", "title": "H1, natural", "metaTitle": "<=38 chars", "description": "120-160 chars",
@@ -47,7 +47,7 @@ into a buyer check ("measure the basket before ordering"). Keep sibling articles
 /adult-tricycle-grocery-shopping-and-cargo-guide/ /adult-tricycle-helmet-fit-and-replacement/
 /adult-tricycle-mirrors-setup-guide/ /how-to-store-and-transport-an-adult-tricycle/
 /fat-tire-vs-standard-tire-adult-tricycles/ /adult-tricycle-gears-and-hill-riding/
-plus any /<section>/<slug>/ in this batch (slugs listed in .work/p2/slugs.txt; section is in each facts file).
+plus any /<section>/<slug>/ of sibling articles named in your task (section is in each facts file).
 
 ## prior
 A product with "prior" was already covered in another article (specs, pros, cons). Reuse its facts and specs, rewrite pros/cons wording for this article's angle, and do not re-derive what is already there.
