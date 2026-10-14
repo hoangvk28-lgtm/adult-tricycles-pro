@@ -171,6 +171,37 @@ export const bestFoldingAdultTricycles: BestArticle = {
     { q: "Which is better, the Slsy or MOPHOTO?", a: "They are very similar. The Slsy has the longer owner record and a firm 110 lb basket rating, so it is our first choice. Buy the MOPHOTO if it is in stock in your size." },
     { q: "Do I need gears on a folding trike?", a: "If your route has any steady slope, yes. A seated trike rider cannot stand to climb. Both picks here have 7 speeds." },
   ],
+  needs: [
+    {
+      "heading": "Best 3-Speed Folding Adult Tricycles",
+      "text": "Neither folding pick is a 3-speed. Both the [Slsy](#slsy-folding) and [MOPHOTO](#mophoto-folding) are 7-speed. If you specifically want 3 speeds, check the hub and shifter details before buying, since few folding trikes use them."
+    },
+    {
+      "heading": "Best 7-Speed Folding Adult Tricycles",
+      "productId": "slsy-folding",
+      "text": "The [Slsy](#slsy-folding) is the top 7-speed folder, with a quick-fold frame, 350 lb capacity and a high-carbon steel frame. Check that the fold fits your storage space before ordering. The [MOPHOTO](#mophoto-folding) is a close alternative with the same speed count."
+    },
+    {
+      "heading": "Best 20-Inch Folding Adult Tricycles",
+      "productId": "slsy-folding",
+      "text": "The [Slsy](#slsy-folding) comes in a 20-inch size and a quick-fold frame for apartment storage. Check your height against the size range, which runs from 4'8\" to 6'2\" across sizes. See /folding-adult-tricycle-real-world-fit/ for how folding trikes fit in real spaces."
+    },
+    {
+      "heading": "Best 24-Inch Folding Adult Tricycles",
+      "productId": "slsy-folding",
+      "text": "The [Slsy](#slsy-folding) offers a 24-inch size with 7 speeds and a 350 lb total capacity. The one thing to check is the seat height against your inseam. The [MOPHOTO](#mophoto-folding) also comes in 24-inch with an adjustable seat."
+    },
+    {
+      "heading": "Best 26-Inch Folding Adult Tricycles",
+      "productId": "slsy-folding",
+      "text": "The [Slsy](#slsy-folding) is available in 26-inch for taller riders, up to about 6'2\". Check that the folded size still fits your trunk or closet, since larger wheels fold bulkier. The [MOPHOTO](#mophoto-folding) is the other 26-inch option."
+    },
+    {
+      "heading": "Best Folding Adult Tricycles With Baskets",
+      "productId": "slsy-folding",
+      "text": "The [Slsy](#slsy-folding) has a rear basket rated for 110 lb, the higher figure of the two. The [MOPHOTO](#mophoto-folding) has a large rear basket as well. Check that total payload, rider plus cargo, stays under 350 lb. See /how-to-store-and-transport-an-adult-tricycle/ for storage tips."
+    }
+  ],
   bottomLine:
     "Only two folding adult trikes earned a place here, and that scarcity is the honest message: folders cost you weight, a hinge to maintain and often a thinner build. If you need one, the Slsy is our first choice for its longer owner record and firm basket rating, and the MOPHOTO is a close alternative. Measure your space first, check the hinge on arrival and plan flat or gently rolling routes.",
   amazonSearch: "folding adult tricycle",

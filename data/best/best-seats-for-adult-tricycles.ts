@@ -281,6 +281,21 @@ export const bestSeatsForAdultTricycles: BestArticle = {
     { q: "Will a backrest seat fit my trike?", a: "It fits if your seat post is 7/8 inch (22.2 mm) and there is room behind the post. Check for a basket frame or rack close behind the seat." },
     { q: "How do I look after a leather saddle?", a: "Keep it dry, use a cover when stored outside, and apply a leather dressing from time to time. A wet leather saddle can stretch out of shape." },
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Seats With Suspension",
+      "productId": "cloud-9-cruiser-select",
+      "text": "The [Cloud-9 Cruiser Select](#cloud-9-cruiser-select) is 10.5 x 10.75 in with memory foam and elastomer suspension. The [Brooks B67](#brooks-b67) uses coil springs for a classic sprung ride. Check that your post clamp fits before ordering."
+    },
+    {
+      "heading": "Best Replacement Seats for Schwinn Adult Tricycles",
+      "text": "None of these picks confirms Schwinn compatibility, so measure your existing seat post and clamp first. The [Sun Trike Western Saddle](#sun-trike-western-saddle) is trike-specific with hardware included. Check the mount style on your Schwinn before buying."
+    },
+    {
+      "heading": "Best Seat Covers for Adult Tricycles",
+      "text": "This roundup covers complete seats, not covers, so none of the picks is a cover. If you only want to soften your current seat, look for a cover sized to the seat's width and length. See /adult-tricycle-sizing-and-fit-guide/ for measuring."
+    }
+  ],
   bottomLine:
     "For most trikes, start with the Cloud-9 Cruiser Select. Take the Sun Trike Western if your trike has a rear support bar, the Brooks B67 if you want a saddle that lasts for years, and the MOONCOOL if your back needs support. Check your seat mount and post size first, then set the new seat level and confirm your feet reach the ground.",
   amazonSearch: "adult tricycle seat",

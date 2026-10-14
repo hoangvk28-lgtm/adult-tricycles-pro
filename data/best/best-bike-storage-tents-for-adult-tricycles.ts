@@ -293,6 +293,33 @@ export const bestBikeStorageTentsForAdultTricycles: BestArticle = {
     { q: "Can I leave the tent up all year?", a: "Most are meant for seasonal use. Sun degrades fiberglass and fabric over time, and snow load can collapse a tent. Take it down for heavy snow." },
     { q: "How long does setup take?", a: "The makers quote about three minutes for the Happy Travel, three tool-free steps for the TACXO, under ten minutes for the PZT and UNP, and about eight for the Housolution. Allow longer the first time." },
   ],
+  needs: [
+    {
+      "heading": "Best Heavy-Duty Bike Storage Tents for Tricycles",
+      "productId": "tacxo-bike-storage-shed-tent",
+      "text": "The [TACXO](#tacxo-bike-storage-shed-tent) has 210D Oxford, a PU 5000 coating, taped seams and 9 mm fiberglass poles. Check that the 31.5 in width fits your trike's width. See /adult-tricycle-width-and-path-clearance/."
+    },
+    {
+      "heading": "Best Large Bike Storage Tents for Tricycles",
+      "productId": "housolution-3-bike-storage-tent",
+      "text": "The [Housolution](#housolution-3-bike-storage-tent) is 78.7 x 59.1 x 64 in with an arched roof, giving room around a wide trike. Check the pole and peg setup for windy spots. It uses four ground pegs and four windproof ropes."
+    },
+    {
+      "heading": "Best Portable Bike Storage Tents for Tricycles",
+      "productId": "happy-travel-bike-storage-tent",
+      "text": "The [Happy Travel](#happy-travel-bike-storage-tent) packs to 17.5 x 6 x 6 in and sets up in about 3 minutes. Check that the 86.5 in length suits your trike. See /how-to-store-and-transport-an-adult-tricycle/."
+    },
+    {
+      "heading": "Best Small Spaces Bike Storage Tents for Tricycles",
+      "productId": "unp-bike-storage-shed-tent",
+      "text": "The [UNP](#unp-bike-storage-shed-tent) is 78.7 x 31.5 x 65 in and suits a single narrow trike. Check your trike's width and height inside that frame. The [PZT](#pzt-bike-tent-rain-cover) has similar proportions."
+    },
+    {
+      "heading": "Best Waterproof Bike Storage Tents for Tricycles",
+      "productId": "tacxo-bike-storage-shed-tent",
+      "text": "The [TACXO](#tacxo-bike-storage-shed-tent) has the highest coating here, PU 5000, with taped seams. The [PZT](#pzt-bike-tent-rain-cover) adds a top rain cover and heat-sealed seams. Check that either one stays clear of your trike's wheels. See /accessories/best-adult-tricycle-covers/."
+    }
+  ],
   bottomLine:
     "Measure your trike's widest point before you do anything else. If it has a basket and fenders, the Housolution is the only tent here with real room. If your trike is narrow, the PZT has the best weather features and the Happy Travel has the most length. Anchor the tent with every peg, keep a lock on the trike and use the tent as weather cover only.",
   amazonSearch: "bike storage tent outdoor",

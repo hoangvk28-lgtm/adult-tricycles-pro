@@ -241,6 +241,17 @@ export const bestBicycleSeatsWithBackrestsForAdultTricycles: BestArticle = {
     { q: "Is a spring seat better than a foam seat?", a: "Springs are softer over joints and cracks. Foam is firmer and quieter. For rough sidewalks, springs help. For smooth paths, foam is enough." },
     { q: "Can I remove the backrest?", a: "The MOONCOOL's backrest removes. Confirm that before you rely on it with any other model." },
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Seats With Adjustable Backrests",
+      "productId": "mooncool-oversized-backrest-seat",
+      "text": "The [MOONCOOL](#mooncool-oversized-backrest-seat) is a 12 x 12 in seat with a backrest that adjusts up and down and can be removed. Check that your seat post is 7/8 in (22.2 mm). The [TIMCORR](#timcorr-extra-wide-backrest-seat) is also height-adjustable."
+    },
+    {
+      "heading": "Best Noseless Bicycle Seats With Backrests",
+      "text": "None of these four is noseless, so we will not claim one. The [MEGHNA](#meghna-backrest-bike-saddle) has an adjustable angle and a removable clamp. Check your post diameter first. See /accessories/best-wide-bicycle-seats-for-tricycles/."
+    }
+  ],
   bottomLine:
     "Choose the MOONCOOL if your post is a standard 7/8 inch size and you want a wide seat with a backrest that adjusts and removes. If your post is slim, the Relwears adds springs. If the post has its own clamp, the MEGHNA fits. Measure the post first, set the backrest at your lower back, and check the clamp again after the first rides.",
   amazonSearch: "bike seat with backrest",

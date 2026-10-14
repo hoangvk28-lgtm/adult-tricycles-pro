@@ -267,6 +267,13 @@ export const bestSafetyFlagsForTricycles: BestArticle = {
     { q: "Will a flag fall off or break in wind?", a: "Fiberglass poles flex and spring back, which spares the mount. Tighten the bracket after the first rides and check the connecting tubes. Build shorter in strong wind." },
     { q: "Can I put a flag on a trailer behind the trike?", a: "Yes. Several of these flags are sold for trailers, wheelchairs and scooters as well, and a trailer flag keeps the whole outfit visible." },
   ],
+  needs: [
+    {
+      "heading": "Best Flag Poles and Mounts for Tricycles",
+      "productId": "uelfbaby-upgraded-bike-flag",
+      "text": "The [Uelfbaby Upgraded](#uelfbaby-upgraded-bike-flag) attaches at the rear axle with a fiberglass pole up to 6 ft. Check that the mount clears your axle and fender. If your trike has a rail, the [RAXCONN telescopic](#raxconn-telescopic-flag) clamps to a round tube instead."
+    }
+  ],
   bottomLine:
     "Start with the Uelfbaby 6 Ft Adjustable flag, which builds to the height your trike needs and has the largest owner record. Choose the RAXCONN telescopic flag if you have a round tube to clamp to and ride near dusk, and the MAQIHAN if you ride a low recumbent under branches. Check the mount before you order, and keep proper lights on the trike.",
   amazonSearch: "bike safety flag with pole",

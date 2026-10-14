@@ -295,6 +295,41 @@ export const bestAdultTricycles: BestArticle = {
     { q: "How hard is it to assemble an adult tricycle?", a: "Plan on an hour or two with the included tools. The rear axle usually comes attached; the front wheel, handlebars, seat, basket and brake adjustment are left to you. Brakes are where most home assembly goes wrong, so have a bike shop check them if you are unsure." },
     { q: "Will an adult tricycle fit in my car?", a: "Usually not. Even with the basket removed, most full-size trikes are too wide for a car trunk or a standard hitch bike rack. Plan on a pickup, a van or riding from home, or look at a folding trike." },
   ],
+  needs: [
+    {
+      "heading": "Best 3-Speed Adult Tricycles",
+      "text": "None of the picks here is a 3-speed. The choice is a single speed for flat routes or a 7-speed such as the [MOONCOOL](#mooncool-7-speed) for rolling ground. If you want a 3-speed specifically, confirm the hub type and shifter before buying, and check the shop guide at /how-to-shop-for-your-first-adult-three-wheel-bike/ for what to compare."
+    },
+    {
+      "heading": "Best Adult Tricycles With Gears",
+      "productId": "mooncool-7-speed",
+      "text": "The [MOONCOOL 7-Speed](#mooncool-7-speed) is the geared pick, with a backrest seat and 20, 24 or 26-inch sizes. Check the wheel size against your height before ordering. The [Slsy](#slsy-7-speed) and [MOPHOTO](#mophoto-7-speed) are also 7-speed if you prefer a different look."
+    },
+    {
+      "heading": "Best Beach Cruiser Adult Tricycles",
+      "productId": "schwinn-meridian",
+      "text": "No pick here is sold as a beach cruiser, but the [Schwinn Meridian](#schwinn-meridian) is the closest fit: single speed, 26-inch wheels and a rear basket for flat boardwalk and neighborhood rides. Check the height range, 5'0\" to 6'1\", and the rear drum brake before you commit."
+    },
+    {
+      "heading": "Best Adult Tricycles Under $1000",
+      "text": "The picks here do not confirm a price ceiling, so we will not name one for this budget. Compare the single-speed [Brightpeak](#brightpeak-1-speed) and [Schwinn Meridian](#schwinn-meridian) against the 7-speed options, and check current pricing before you decide. Spend on the right wheel size first, since a wrong fit costs more than a missing gear."
+    },
+    {
+      "heading": "Best 20-Inch Adult Tricycles",
+      "productId": "slsy-7-speed",
+      "text": "The [Slsy](#slsy-7-speed) is the clearest fit, with a 20-inch size rated for riders 4'8\" to 5'6\" and a 7-speed drivetrain. Measure your height against that chart before ordering. The [MOONCOOL](#mooncool-7-speed) also comes in 20-inch if you want a backrest."
+    },
+    {
+      "heading": "Best 24-Inch Adult Tricycles",
+      "productId": "slsy-7-speed",
+      "text": "The [Slsy](#slsy-7-speed) 24-inch suits riders 4'11\" to 5'10\" and has 7 speeds. If you are between 4'9\" and 5'1\", the [Brightpeak](#brightpeak-1-speed) 24-inch is built for that range. Check your height and whether you want gears before choosing."
+    },
+    {
+      "heading": "Best 26-Inch Adult Tricycles",
+      "productId": "schwinn-meridian",
+      "text": "The [Schwinn Meridian](#schwinn-meridian) is a 26-inch aluminum-frame trike for riders 5'0\" to 6'1\". It is single speed, so check that your routes are mostly flat. For gears at 26-inch, the [Slsy](#slsy-7-speed) is rated for 5'3\" to 6'2\"."
+    }
+  ],
   bottomLine:
     "For flat routes, the Schwinn Meridian is the one to beat: the longest owner record, honest fit guidance and a lighter aluminum frame. For hills, get gears: the MOONCOOL if back support matters, the Slsy or MOPHOTO if you need clear sizing. Shorter riders should start with the 24-inch Brightpeak. Whatever you choose, check the fit with the seat lowered and take the first corners slowly.",
   amazonSearch: "adult tricycles",

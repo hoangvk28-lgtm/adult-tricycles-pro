@@ -108,6 +108,8 @@ export interface BestArticle extends ArticleBase {
   whatToLookFor: { title: string; paragraphs: string[] }[];
   howToChoose: ChooseSection[];
   faq: { q: string; a: string }[];
+  /** Secondary keywords from the plan answered inside the pillar (no separate URL). */
+  needs?: { heading: string; productId?: string; text: string }[];
   bottomLine: string;
   /** Amazon search phrase for the "Browse all" link. */
   amazonSearch?: string;

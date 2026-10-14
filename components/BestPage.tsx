@@ -7,6 +7,7 @@ import { JsonLd } from "@/components/ui";
 import { ProsCons, SpecTable, ComparisonTable } from "@/components/product";
 import { buildAmazonUrl, AMAZON_TAG } from "@/lib/affiliate";
 import { absoluteUrl } from "@/lib/seo";
+import { renderInline } from "@/lib/content";
 import { articles } from "@/data/articles";
 
 const SPONSORED = "nofollow sponsored noopener noreferrer";
@@ -45,6 +46,7 @@ function H4({ children }: { children: React.ReactNode }) {
 export function BestPage({ a }: { a: BestArticle }) {
   const toc = [
     { id: "quick-picks", label: "Quick Picks" },
+    ...(a.needs?.length ? [{ id: "by-need", label: "Quick Answers by Need" }] : []),
     { id: "our-picks", label: "Our Picks" },
     { id: "comparison", label: "Spec Comparison" },
     { id: "how-we-chose", label: "How We Chose" },
@@ -143,6 +145,24 @@ export function BestPage({ a }: { a: BestArticle }) {
               </tbody>
             </table>
           </section>
+
+          {a.needs && a.needs.length > 0 && (
+            <section aria-labelledby="by-need" className="mt-14">
+              <h2 id="by-need" className="text-[1.9rem] font-semibold sm:text-[2.1rem]">Quick Answers by Need</h2>
+              <div className="mt-4 divide-y divide-line border-y border-line">
+                {a.needs.map((nd) => {
+                  const p = a.products.find((x) => x.id === nd.productId);
+                  return (
+                    <div key={nd.heading} className="py-5">
+                      <h3 className="text-[1.25rem] font-semibold leading-snug">{nd.heading}</h3>
+                      {p && <p className="mt-1 text-[0.975rem] font-semibold"><a href={`#${p.id}`}>{p.name}</a></p>}
+                      <div className="article mt-2 !text-[1.0625rem]" dangerouslySetInnerHTML={{ __html: renderInline(nd.text) }} />
+                    </div>
+                  );
+                })}
+              </div>
+            </section>
+          )}
 
           {/* Our Picks */}
           <section aria-labelledby="our-picks" className="mt-14">

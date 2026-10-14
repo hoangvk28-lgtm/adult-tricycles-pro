@@ -368,6 +368,62 @@ export const bestHelmetsForAdultTricycleRiders: BestArticle = {
       "a": "Check clearance behind your head, since a long rear shell can push against a headrest."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Mountain Bike Helmets for Tricycle Riders",
+      "text": "None of these five is a mountain bike helmet, and trike riders rarely need extended rear coverage. Fit and a CPSC certification label inside the shell matter more than style. The [Schwinn Thrasher](#schwinn-thrasher-adult-helmet) is the closest with its microshell and 20 vents, but check its label and size."
+    },
+    {
+      "heading": "Best Road Bike Helmets for Tricycle Riders",
+      "text": "No pick here is sold as a road helmet. Fit and CPSC certification matter more than a road-specific shape for trike riding. Look for a dial fit and plenty of vents, which the [Findway Pro](#findway-pro-adult-bike-helmet) offers with 14 vents and a 54 to 61.5 cm range."
+    },
+    {
+      "heading": "Best Bike Helmet Lights",
+      "productId": "retrospec-lennon-commuter-helmet",
+      "text": "The [Retrospec Lennon](#retrospec-lennon-commuter-helmet) has a 5-LED light with 3 functions built in. Check that the light is visible from the rear while you ride. Pair it with a flag, see /adult-tricycle-helmet-fit-and-replacement/, and always confirm the CPSC label."
+    },
+    {
+      "heading": "Best Bike Helmets for Large Heads",
+      "productId": "schwinn-thrasher-adult-helmet",
+      "text": "The [Schwinn Thrasher](#schwinn-thrasher-adult-helmet) fits 58 to 62 cm heads and has 20 vents with a dial and strap fit. Measure your head around the forehead before ordering. The [Triple Eight](#triple-eight-certified-sweatsaver-helmet) L/XL covers 57 to 60 cm."
+    },
+    {
+      "heading": "Best Bike Helmets for Small Adult Heads",
+      "productId": "findway-pro-adult-bike-helmet",
+      "text": "The [Findway Pro](#findway-pro-adult-bike-helmet) starts at 54 cm and adjusts up to 61.5 cm, so it suits smaller adult heads. Measure your head and make sure the dial snugs it without gaps. The [80SIX](#80six-triple-certified-helmet) Small/Medium covers 55 to 58 cm."
+    },
+    {
+      "heading": "Best Bike Helmets for Women",
+      "text": "None of these picks is sized or sold specifically for women, so choose by head measurement rather than label. The [Findway Pro](#findway-pro-adult-bike-helmet) at 54 to 61.5 cm and the [80SIX](#80six-triple-certified-helmet) at 55 to 58 cm cover many smaller heads. Check the CPSC label and ponytail clearance."
+    },
+    {
+      "heading": "Best Bike Helmets With Lights",
+      "productId": "retrospec-lennon-commuter-helmet",
+      "text": "The [Retrospec Lennon](#retrospec-lennon-commuter-helmet) is the only pick with a light, a 5-LED unit with 3 functions. Check the dial fit sits snug so the light stays aimed correctly. Visibility at dawn and dusk is the reason to choose it."
+    },
+    {
+      "heading": "Best Bike Helmets With Visors",
+      "productId": "retrospec-lennon-commuter-helmet",
+      "text": "The [Retrospec Lennon](#retrospec-lennon-commuter-helmet) includes a removable visor, which helps with low sun. Check that the visor does not block your upward view when you sit upright. None of the other picks lists a visor."
+    },
+    {
+      "heading": "Best Commuter Bike Helmets",
+      "productId": "retrospec-lennon-commuter-helmet",
+      "text": "The [Retrospec Lennon](#retrospec-lennon-commuter-helmet) is built as a commuter helmet, with a 5-LED light, removable visor, washable padding and 15 vents. Check the fit with your usual hat or cap. See /adult-tricycle-helmet-fit-and-replacement/ for replacement timing."
+    },
+    {
+      "heading": "Best Folding Bike Helmets",
+      "text": "None of these is a collapsible or folding helmet. If packing space matters, look for a folding model that states CPSC certification, and check that the fold mechanism does not loosen the fit. For a standard helmet, see /adult-tricycle-helmet-fit-and-replacement/."
+    },
+    {
+      "heading": "Best Lightweight Bike Helmets",
+      "text": "No weights are given for these helmets, so we cannot name the lightest. The [Schwinn Thrasher](#schwinn-thrasher-adult-helmet) has 20 vents and the [Findway Pro](#findway-pro-adult-bike-helmet) has 14, with an EPS foam core. Check the stated weight before buying if it matters to you."
+    },
+    {
+      "heading": "Best MIPS Bike Helmets for Tricycle Riders",
+      "text": "None of these five states MIPS, so we will not claim it for any of them. If you want MIPS, look for the label in the helmet's name or specs. CPSC certification and a snug fit matter first, see /adult-tricycle-helmet-fit-and-replacement/."
+    }
+  ],
   "bottomLine": "The Retrospec Lennon is the best all-round helmet for trike riders thanks to its light and dial fit. Pick the Schwinn Thrasher for larger heads or the Findway for a wide adjustable range.",
   "amazonSearch": "helmets for trike riders",
   "relatedPaths": [

@@ -260,6 +260,32 @@ export const bestWideBicycleSeatsForTricycles: BestArticle = {
     { q: "Why does my new wide seat make me sit higher?", a: "Thick padding adds to your seat height. Lower the post by the added thickness and check you can put both feet flat on the ground when stopped." },
     { q: "Can a wide seat cause chafing?", a: "Yes, if it is broader than the gap between your thighs. Choose a tapered nose, tilt the nose down slightly, or move the seat back a little." },
   ],
+  needs: [
+    {
+      "heading": "Best Wide Noseless Bicycle Seats",
+      "text": "None of these five is a true noseless seat. The [Gincleey](#gincleey-wide-seat) comes closest with a tapered front that allows free leg movement. If you want noseless, check that the mount fits your post and see /adult-tricycle-sizing-and-fit-guide/."
+    },
+    {
+      "heading": "Best Extra Wide Bicycle Seats",
+      "productId": "echelon-oversized-seat",
+      "text": "The [Echelon](#echelon-oversized-seat) measures 10.5 x 9.5 x 3 in with thick, plain padding. The [VELO Fito](#velo-fito-oversized-seat) is also 10.5 in wide. Check your post clamp and the seat depth against your legs before ordering."
+    },
+    {
+      "heading": "Best Wide Bicycle Seats for Men",
+      "productId": "echelon-oversized-seat",
+      "text": "No pick here is sold by gender, so choose by width and padding. The [Echelon](#echelon-oversized-seat) is plain, thick and 10.5 in wide. Check the seat length against your thigh movement and see /accessories/best-seats-for-adult-tricycles/."
+    },
+    {
+      "heading": "Best Wide Bicycle Seats for Seniors",
+      "productId": "xmifer-oversized-seat",
+      "text": "The [Xmifer](#xmifer-oversized-seat) has dual springs and a waterproof cover, good for outdoor storage and sore sit bones. Check the seat height gets you on and off easily. The [ROCKBROS](#rockbros-wide-seat) has a carry handle and pressure relief."
+    },
+    {
+      "heading": "Best Wide Bicycle Seats for Women",
+      "productId": "gincleey-wide-seat",
+      "text": "The [Gincleey](#gincleey-wide-seat) has a widened rear and tapered front with memory foam and dual anti-shock balls. No pick is sold by gender, so check that the tapered front leaves room for your thighs. See /adult-tricycle-sizing-and-fit-guide/."
+    }
+  ],
   bottomLine:
     "For most riders on a trike stored outside, the Xmifer is the wide seat to try first. Choose the Gincleey if your knees travel close in, the ROCKBROS for pressure relief, the Echelon if you want to keep seat height low, and the VELO Fito for a retro cruiser look. Measure your sit bones and seat post, lower the post to compensate for the new thickness, and tighten the clamp well.",
   amazonSearch: "wide bike seat oversized",
