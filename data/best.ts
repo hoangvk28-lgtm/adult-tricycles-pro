@@ -1,4 +1,11 @@
 import type { Article } from "@/data/types";
+import { bestPortableBikePumpsForTricycleRiders } from "@/data/best/best-portable-bike-pumps-for-tricycle-riders";
+import { bestElectricBikePumpsForTricycleRiders } from "@/data/best/best-electric-bike-pumps-for-tricycle-riders";
+import { bestBicycleTireRepairKitsForTricycles } from "@/data/best/best-bicycle-tire-repair-kits-for-tricycles";
+import { bestBicycleTirePressureGauges } from "@/data/best/best-bicycle-tire-pressure-gauges";
+import { bestBicycleTireLevers } from "@/data/best/best-bicycle-tire-levers";
+import { bestBicycleMultitoolsForTricycleRiders } from "@/data/best/best-bicycle-multitools-for-tricycle-riders";
+import { bestBicycleHornsForAdultTricycles } from "@/data/best/best-bicycle-horns-for-adult-tricycles";
 import { bestReflectiveVestsForCycling } from "@/data/best/best-reflective-vests-for-cycling";
 import { bestReflectiveTapeForBicyclesAndTricycles } from "@/data/best/best-reflective-tape-for-bicycles-and-tricycles";
 import { bestElectricTricyclesForAdults } from "@/data/best/best-electric-tricycles-for-adults";
@@ -52,6 +59,13 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestPortableBikePumpsForTricycleRiders,
+  bestElectricBikePumpsForTricycleRiders,
+  bestBicycleTireRepairKitsForTricycles,
+  bestBicycleTirePressureGauges,
+  bestBicycleTireLevers,
+  bestBicycleMultitoolsForTricycleRiders,
+  bestBicycleHornsForAdultTricycles,
   bestReflectiveVestsForCycling,
   bestReflectiveTapeForBicyclesAndTricycles,
   bestElectricTricyclesForAdults,
