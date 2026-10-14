@@ -1,4 +1,9 @@
 import type { Article } from "@/data/types";
+import { bestElectricCargoTricyclesForHills } from "@/data/best/best-electric-cargo-tricycles-for-hills";
+import { bestElectricBikePumpsForTubelessTires } from "@/data/best/best-electric-bike-pumps-for-tubeless-tires";
+import { bestCargoTricyclesForDeliveries } from "@/data/best/best-cargo-tricycles-for-deliveries";
+import { bestBicycleMultitoolsWithPliers } from "@/data/best/best-bicycle-multitools-with-pliers";
+import { bestBicycleMultitoolsWithPedalWrenches } from "@/data/best/best-bicycle-multitools-with-pedal-wrenches";
 import { bestTubelessBicycleTireRepairKits } from "@/data/best/best-tubeless-bicycle-tire-repair-kits";
 import { bestRackMountedBikeTailLights } from "@/data/best/best-rack-mounted-bike-tail-lights";
 import { bestPortableFloorBikePumps } from "@/data/best/best-portable-floor-bike-pumps";
@@ -84,6 +89,11 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestElectricCargoTricyclesForHills,
+  bestElectricBikePumpsForTubelessTires,
+  bestCargoTricyclesForDeliveries,
+  bestBicycleMultitoolsWithPliers,
+  bestBicycleMultitoolsWithPedalWrenches,
   bestTubelessBicycleTireRepairKits,
   bestRackMountedBikeTailLights,
   bestPortableFloorBikePumps,
