@@ -90,7 +90,7 @@ for (const [slug, c] of Object.entries(cfg)) {
     products: picks.map((p) => ({
       asin: p.asin, brand: p.brand, title: p.title, image: p.img, price: p.price, salesRank: p.salesRank,
       ...(ratings[p.asin] ? { rating: ratings[p.asin].rating, ratingCount: ratings[p.asin].count } : { unverified: true }),
-      ...(prior[p.asin] ? { prior: prior[p.asin], features: p.features.slice(0, 2).map((f) => f.replace(/\s+/g, " ").slice(0, 200)) } : { features: p.features.slice(0, 4).map((f) => f.replace(/\s+/g, " ").slice(0, 220)) }),
+      ...(prior[p.asin] ? { prior: prior[p.asin], features: p.features.slice(0, 5).map((f) => f.replace(/\s+/g, " ").slice(0, 300)) } : { features: p.features.slice(0, 5).map((f) => f.replace(/\s+/g, " ").slice(0, 300)) }),
     })),
   };
   fs.writeFileSync(path.join(outDir, `${slug}.json`), JSON.stringify(out, null, 1));

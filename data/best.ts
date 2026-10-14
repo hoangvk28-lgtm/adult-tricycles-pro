@@ -1,4 +1,5 @@
 import type { Article } from "@/data/types";
+import { bestElectricTricyclesFor400LbRiders } from "@/data/best/best-electric-tricycles-for-400-lb-riders";
 import { bestTricycleBasketsUnder25 } from "@/data/best/best-tricycle-baskets-under-25";
 import { bestStorageShedsForTricyclesUnder300 } from "@/data/best/best-storage-sheds-for-tricycles-under-300";
 import { bestPremiumElectricTricycles } from "@/data/best/best-premium-electric-tricycles";
@@ -44,6 +45,7 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestElectricTricyclesFor400LbRiders,
   bestTricycleBasketsUnder25,
   bestStorageShedsForTricyclesUnder300,
   bestPremiumElectricTricycles,
