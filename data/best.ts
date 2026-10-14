@@ -1,4 +1,13 @@
 import type { Article } from "@/data/types";
+import { bestReplacementTiresForAdultTricycles } from "@/data/best/best-replacement-tires-for-adult-tricycles";
+import { bestPunctureResistantTireLinersForBicycles } from "@/data/best/best-puncture-resistant-tire-liners-for-bicycles";
+import { bestLongShackleBikeULocks } from "@/data/best/best-long-shackle-bike-u-locks";
+import { bestLongFoldingBikeLocks } from "@/data/best/best-long-folding-bike-locks";
+import { bestLongBikeChainLocksForTricycles } from "@/data/best/best-long-bike-chain-locks-for-tricycles";
+import { bestLoadingRampsForElectricTricycles } from "@/data/best/best-loading-ramps-for-electric-tricycles";
+import { bestLoadingRampsForAdultTricycles } from "@/data/best/best-loading-ramps-for-adult-tricycles";
+import { bestInnerTubesForAdultTricycles } from "@/data/best/best-inner-tubes-for-adult-tricycles";
+import { bestFoldingBikeLocksForTricycles } from "@/data/best/best-folding-bike-locks-for-tricycles";
 import { bestFatTireBicycleInnerTubes } from "@/data/best/best-fat-tire-bicycle-inner-tubes";
 import { bestExtraLongBicycleChainsForRecumbentTrikes } from "@/data/best/best-extra-long-bicycle-chains-for-recumbent-trikes";
 import { bestDryBicycleChainLubricants } from "@/data/best/best-dry-bicycle-chain-lubricants";
@@ -114,6 +123,15 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestReplacementTiresForAdultTricycles,
+  bestPunctureResistantTireLinersForBicycles,
+  bestLongShackleBikeULocks,
+  bestLongFoldingBikeLocks,
+  bestLongBikeChainLocksForTricycles,
+  bestLoadingRampsForElectricTricycles,
+  bestLoadingRampsForAdultTricycles,
+  bestInnerTubesForAdultTricycles,
+  bestFoldingBikeLocksForTricycles,
   bestFatTireBicycleInnerTubes,
   bestExtraLongBicycleChainsForRecumbentTrikes,
   bestDryBicycleChainLubricants,
