@@ -32,8 +32,13 @@ The Creators API does NOT return star ratings or review counts for any of our cr
 6. Record evidence in `selectionNote` on each product (rating, count, date). Never render ratings, review counts or prices on the site.
 7. If fewer than 4 products clear the bar, say so to the user instead of padding the list.
 
-## 3b. Writer agent
-One Sonnet subagent (`model: "sonnet"`) at a time, briefed with `scripts/best-brief.md`. Never parallel writers.
+## 3b. Best pipeline (~14k Sonnet tokens per article)
+1. `node scripts/rank-pool.mjs queries.json pool.json` (API pool with sales rank).
+2. `node scripts/stage-a.mjs config.json pool.json facts-dir ratings.txt` (on-topic regex, req/minPrice/maxPrice, site-wide rank, brand cap, no reuse beyond allowReuse; zero LLM tokens). Then `scripts/amazon-ratings.sh` only on the picked ASINs, and re-run Stage A.
+3. ONE Sonnet agent, ~10 slugs per run, reads only `scripts/best-prose-brief.md` + facts and writes prose JSON.
+4. `node scripts/build-best.mjs facts-dir prose-dir YYYY-MM-DD --register` builds `data/best/*.ts` and rejects leaks, rating numbers, dashes, bad title/description lengths.
+5. Build, `npm run check:content`, commit, push.
+Never parallel writers; never let the writer read CLAUDE.md or full reference articles.
 
 ## 4. Writing voice (MANDATORY)
 Write as a specialist who has spent years around adult tricycles, their buyers and their failure points. The reader should finish each section knowing something they could not get from the Amazon listing.
