@@ -1,4 +1,15 @@
 import type { Article } from "@/data/types";
+import { bestBicycleDiscBrakePads } from "@/data/best/best-bicycle-disc-brake-pads";
+import { bestBicycleCleaningKitsForTricycles } from "@/data/best/best-bicycle-cleaning-kits-for-tricycles";
+import { bestBicycleChainsForAdultTricycles } from "@/data/best/best-bicycle-chains-for-adult-tricycles";
+import { bestBicycleChainWaxingKits } from "@/data/best/best-bicycle-chain-waxing-kits";
+import { bestBicycleChainLubricants } from "@/data/best/best-bicycle-chain-lubricants";
+import { bestBicycleChainDegreasers } from "@/data/best/best-bicycle-chain-degreasers";
+import { bestBicycleChainDegreasersForWaxing } from "@/data/best/best-bicycle-chain-degreasers-for-waxing";
+import { bestBicycleChainCleaningTools } from "@/data/best/best-bicycle-chain-cleaning-tools";
+import { bestBicycleChainCleaners } from "@/data/best/best-bicycle-chain-cleaners";
+import { bestBicycleBrakePadsForAdultTricycles } from "@/data/best/best-bicycle-brake-pads-for-adult-tricycles";
+import { bestBicycleBrakeCableKitsForTricycles } from "@/data/best/best-bicycle-brake-cable-kits-for-tricycles";
 import { bestQuietElectricBikePumps } from "@/data/best/best-quiet-electric-bike-pumps";
 import { bestFoldingCargoTricycles } from "@/data/best/best-folding-cargo-tricycles";
 import { bestElectricCargoTricyclesUnder3500 } from "@/data/best/best-electric-cargo-tricycles-under-3500";
@@ -93,6 +104,17 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestBicycleDiscBrakePads,
+  bestBicycleCleaningKitsForTricycles,
+  bestBicycleChainsForAdultTricycles,
+  bestBicycleChainWaxingKits,
+  bestBicycleChainLubricants,
+  bestBicycleChainDegreasers,
+  bestBicycleChainDegreasersForWaxing,
+  bestBicycleChainCleaningTools,
+  bestBicycleChainCleaners,
+  bestBicycleBrakePadsForAdultTricycles,
+  bestBicycleBrakeCableKitsForTricycles,
   bestQuietElectricBikePumps,
   bestFoldingCargoTricycles,
   bestElectricCargoTricyclesUnder3500,
