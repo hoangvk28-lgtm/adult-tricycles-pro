@@ -311,8 +311,9 @@ export const bestAdultTricycles: BestArticle = {
       "text": "No pick here is sold as a beach cruiser, but the [Schwinn Meridian](#schwinn-meridian) is the closest fit: single speed, 26-inch wheels and a rear basket for flat boardwalk and neighborhood rides. Check the height range, 5'0\" to 6'1\", and the rear drum brake before you commit."
     },
     {
-      "heading": "Best Adult Tricycles Under $1000",
-      "text": "The picks here do not confirm a price ceiling, so we will not name one for this budget. Compare the single-speed [Brightpeak](#brightpeak-1-speed) and [Schwinn Meridian](#schwinn-meridian) against the 7-speed options, and check current pricing before you decide. Spend on the right wheel size first, since a wrong fit costs more than a missing gear."
+      "heading": "Best Adult Tricycles Under $1,000",
+      "text": "Every trike in this guide is a pedal model, a category that sits comfortably inside a $1,000 budget, so the question is what to spend the headroom on. The [Schwinn Meridian](#schwinn-meridian) is the pick when money is not the constraint: an aluminum frame that is easier to move and the longest owner record here. If you have budget left over, put it toward professional assembly and a brake check rather than a pricier frame.",
+      "productId": "schwinn-meridian"
     },
     {
       "heading": "Best 20-Inch Adult Tricycles",

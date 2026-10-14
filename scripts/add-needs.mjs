@@ -2,7 +2,7 @@
 // Usage: node scripts/add-needs.mjs <needs.json>   ({ slug: [{heading, productId?, text}] })
 import fs from "node:fs";
 const LEAK = /\b(the listing|listings?|not listed|seller|amazon lists|not stated|features we have|in the features|the data)\b/i;
-const RATED = /\b\d\.\d stars?\b|\b\d[\d,]* (amazon )?ratings\b|(?<!under )\$\d/i;
+const RATED = /\b\d\.\d stars?\b|\b\d[\d,]* (amazon )?ratings\b|(?<!(under|a) )\$\d/i;
 const all = JSON.parse(fs.readFileSync(process.argv[2], "utf8"));
 for (const [slug, needs] of Object.entries(all)) {
   const file = `data/best/${slug}.ts`;
