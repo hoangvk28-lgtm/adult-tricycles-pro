@@ -393,6 +393,26 @@ export const bestBicycleChainsForAdultTricycles: BestArticle = {
       "a": "If the sprockets are worn or the chain run is complex, a shop can fit it. See /adult-tricycle-chain-cleaning-and-lubrication/."
     }
   ],
+  needs: [
+    {
+      "heading": "Best 10 Speed Bicycle Chains",
+      "text": "None of these chains is sold for 10 speed; the geared picks are 6/7/8 speed at 1/2 x 3/32 inch. A 10 speed drivetrain needs a narrower chain, so match your cassette before buying. The [Oumers tool set](#oumers-chain-repair-tool-set) fits 7 to 12 speed chains for sizing and wear checks."
+    },
+    {
+      "heading": "Best 7 Speed Bicycle Chains",
+      "text": "The [FGBNM 116 link chain](#fgbnm-6-7-8-speed-chain-116-link) covers 6, 7 and 8 speed in the 1/2 x 3/32 inch size. Count your current links first, since trike chains are long. Cut any extra length with a chain tool.",
+      "productId": "fgbnm-6-7-8-speed-chain-116-link"
+    },
+    {
+      "heading": "Best 9 Speed Bicycle Chains",
+      "text": "None of these chains is sold for 9 speed, so do not fit the 6/7/8 chains to a 9 speed cassette. Look for a chain marked 9 speed and check its link count against your old one. A wear checker like the [Oumers set](#oumers-chain-repair-tool-set) helps judge when to swap."
+    },
+    {
+      "heading": "Best Bicycle Chain Quick Links",
+      "text": "The [RUBY.Q 6/7/8 kit](#ruby-q-6-7-8-speed-chain-kit) includes 3 pairs of buckles for joining the chain, plus a breaker and pliers. Match the connector to your chain speed. Open and close it a few times to learn the pliers before fitting.",
+      "productId": "ruby-q-6-7-8-speed-chain-kit"
+    }
+  ],
   "bottomLine": "Pick Schwinn or FGBNM 116 for geared trikes, FGBNM single speed for single speed drives, and a RUBY.Q kit if you need tools. Then lube with /accessories/best-bicycle-chain-lubricants/.",
   "amazonSearch": "bike chains for trikes",
   "relatedPaths": [

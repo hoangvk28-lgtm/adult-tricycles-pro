@@ -287,6 +287,13 @@ export const bestLoadingRampsForAdultTricycles: BestArticle = {
       "a": "Strap it down on all three wheels. Our guide at /how-to-store-and-transport-an-adult-tricycle/ covers it."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Tricycle Loading Ramps for Cars",
+      "text": "The [MAXIVAMN 7.5 ft ramps](#maxivamn-7-5-ft-aluminum-ramps-2-pack) are 89 inches long, which keeps the slope gentle for a trike. Measure your rear bumper or trunk height before choosing a length. A longer ramp means a lower incline.",
+      "productId": "maxivamn-7-5-ft-aluminum-ramps-2-pack"
+    }
+  ],
   "bottomLine": "The MAXIVAMN 7.5 ft pair is our pick for pickups and tall vans. The Arejonner pair is the lighter choice for carrying alone, and the Stalwart steel ramps fit only low rises. Always measure your trike's weight and wheel spacing first.",
   "amazonSearch": "loading ramps for trikes",
   "relatedPaths": [

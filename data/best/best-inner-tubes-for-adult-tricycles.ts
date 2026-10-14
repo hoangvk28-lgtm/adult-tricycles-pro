@@ -367,6 +367,130 @@ export const bestInnerTubesForAdultTricycles: BestArticle = {
       "a": "Yes, unless you have them. The Ultraverse 20 x 4.0 kit includes two. Otherwise buy a set separately."
     }
   ],
+  needs: [
+    {
+      "heading": "Best 16 X 1.75 Bicycle Inner Tubes for Tricycles",
+      "text": "None of the inner tubes in this pillar are sold in 16 x 1.75, so avoid forcing a near size. Read the size printed on your tire sidewall and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 16 X 1.95 Bicycle Inner Tubes for Tricycles",
+      "text": "We do not have a pick for 16 x 1.95 here, and a wrong size inner tube can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 16 X 2.125 Bicycle Inner Tubes for Tricycles",
+      "text": "No inner tubes here fit 16 x 2.125, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 20 X 1.75 Bicycle Inner Tubes for Tricycles",
+      "text": "None of the inner tubes in this pillar are sold in 20 x 1.75, so avoid forcing a near size. Read the size printed on your tire sidewall and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 20 X 1.95 Bicycle Inner Tubes for Tricycles",
+      "text": "We do not have a pick for 20 x 1.95 here, and a wrong size inner tube can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 20 X 2 Bicycle Inner Tubes for Tricycles",
+      "text": "No inner tubes here fit 20 x 2, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 20 X 2.125 Bicycle Inner Tubes for Tricycles",
+      "text": "None of the inner tubes in this pillar are sold in 20 x 2.125, so avoid forcing a near size. Read the size printed on your tire sidewall and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 20 X 2.35 Bicycle Inner Tubes for Tricycles",
+      "text": "We do not have a pick for 20 x 2.35 here, and a wrong size inner tube can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 20 X 3 Bicycle Inner Tubes for Tricycles",
+      "text": "No inner tubes here fit 20 x 3, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 20 X 4 Bicycle Inner Tubes for Tricycles",
+      "text": "The [Senaro 20 x 4.0 Fat Tire Tube 2 Pack](#senaro-20-x-4-0-fat-tire-tube-2-pack) is a two pack in 20 x 4.0 with 35mm Schrader valves, made for fat tire electric trikes. Check your tire is a true 20 x 4.0 and not a smaller fat size. Having a spare in the pack saves a second trip.",
+      "productId": "senaro-20-x-4-0-fat-tire-tube-2-pack"
+    },
+    {
+      "heading": "Best 24 X 1.75 Bicycle Inner Tubes for Tricycles",
+      "text": "The [BELL 24 inch Schrader Tube](#bell-24-inch-schrader-tube) covers 24 x 1.75 to 2.25 inch tires, so a 24 x 1.75 tire sits inside its range. Check the sidewall of your tire for the exact size before ordering. It has a 35mm Schrader valve, so confirm your rim hole suits that.",
+      "productId": "bell-24-inch-schrader-tube"
+    },
+    {
+      "heading": "Best 24 X 1.95 Bicycle Inner Tubes for Tricycles",
+      "text": "The [BELL 24 inch Schrader Tube](#bell-24-inch-schrader-tube) covers 24 x 1.75 to 2.25 inch tires, so a 24 x 1.95 tire sits inside its range. Check the sidewall of your tire for the exact size before ordering. It has a 35mm Schrader valve, so confirm your rim hole suits that.",
+      "productId": "bell-24-inch-schrader-tube"
+    },
+    {
+      "heading": "Best 24 X 2 Bicycle Inner Tubes for Tricycles",
+      "text": "The [BELL 24 inch Schrader Tube](#bell-24-inch-schrader-tube) covers 24 x 1.75 to 2.25 inch tires, so a 24 x 2 tire sits inside its range. Check the sidewall of your tire for the exact size before ordering. It has a 35mm Schrader valve, so confirm your rim hole suits that.",
+      "productId": "bell-24-inch-schrader-tube"
+    },
+    {
+      "heading": "Best 26 X 1 3/8 Bicycle Inner Tubes for Tricycles",
+      "text": "No tube here suits 26 x 1 3/8, which is a different rim standard from the 26 inch cruiser sizes. Match the full size on your tire sidewall exactly. Check the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) if unsure."
+    },
+    {
+      "heading": "Best 26 X 1.5 Bicycle Inner Tubes for Tricycles",
+      "text": "The 26 inch tubes here start at 1.75 inch wide, so a 1.5 inch tire is narrower than their range. Check your sidewall and look for a tube made for 1.5. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains reading sizes."
+    },
+    {
+      "heading": "Best 26 X 1.75 Bicycle Inner Tubes for Tricycles",
+      "text": "The [BELL 26 inch Schrader Tube](#bell-26-inch-schrader-tube) is made for 26 x 1.75 to 2.25 inch tires, which includes 26 x 1.75. Confirm the size printed on your tire sidewall. It has a 35mm Schrader valve, so check the valve type on your rim.",
+      "productId": "bell-26-inch-schrader-tube"
+    },
+    {
+      "heading": "Best 26 X 1.9 Bicycle Inner Tubes for Tricycles",
+      "text": "The [BELL 26 inch Schrader Tube](#bell-26-inch-schrader-tube) is made for 26 x 1.75 to 2.25 inch tires, which includes 26 x 1.9. Confirm the size printed on your tire sidewall. It has a 35mm Schrader valve, so check the valve type on your rim.",
+      "productId": "bell-26-inch-schrader-tube"
+    },
+    {
+      "heading": "Best 26 X 1.95 Bicycle Inner Tubes for Tricycles",
+      "text": "The [BELL 26 inch Schrader Tube](#bell-26-inch-schrader-tube) is made for 26 x 1.75 to 2.25 inch tires, which includes 26 x 1.95. Confirm the size printed on your tire sidewall. It has a 35mm Schrader valve, so check the valve type on your rim.",
+      "productId": "bell-26-inch-schrader-tube"
+    },
+    {
+      "heading": "Best 26 X 2 Bicycle Inner Tubes for Tricycles",
+      "text": "The [BELL 26 inch Schrader Tube](#bell-26-inch-schrader-tube) is made for 26 x 1.75 to 2.25 inch tires, which includes 26 x 2. Confirm the size printed on your tire sidewall. It has a 35mm Schrader valve, so check the valve type on your rim.",
+      "productId": "bell-26-inch-schrader-tube"
+    },
+    {
+      "heading": "Best 26 X 2.125 Bicycle Inner Tubes for Tricycles",
+      "text": "The [BELL 26 inch Schrader Tube](#bell-26-inch-schrader-tube) is made for 26 x 1.75 to 2.25 inch tires, which includes 26 x 2.125. Confirm the size printed on your tire sidewall. It has a 35mm Schrader valve, so check the valve type on your rim.",
+      "productId": "bell-26-inch-schrader-tube"
+    },
+    {
+      "heading": "Best 26 X 2.35 Bicycle Inner Tubes for Tricycles",
+      "text": "The 26 inch tubes here top out at 2.125 to 2.25 inch, so a 2.35 tire is wider than they cover. Look for a tube rated for 2.35. Confirm with the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/)."
+    },
+    {
+      "heading": "Best 26 X 4 Bicycle Inner Tubes for Tricycles",
+      "text": "The fat tubes in this pillar are 20 x 4.0, which is the wrong diameter for a 26 inch rim. Look for a tube sold for 26 x 4. Check the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) first."
+    },
+    {
+      "heading": "Best Heavy Duty Bicycle Inner Tubes",
+      "text": "None of these tubes is sold as heavy duty. The Senaro and Ultraverse fat tire packs are butyl rubber and the Bell tubes are mold cured rubber. Look for a thicker walled tube and pair it with [puncture resistant liners](/accessories/best-puncture-resistant-tire-liners-for-bicycles/)."
+    },
+    {
+      "heading": "Best Latex Bicycle Inner Tubes",
+      "text": "All five picks here are butyl or mold cured rubber, none is latex. Latex tubes lose air faster and need checking before each ride, which is a poor match for a trike used now and then. Stay with butyl unless you need to save weight."
+    },
+    {
+      "heading": "Best Long Valve Bicycle Inner Tubes",
+      "text": "The valves here are 32mm and 35mm Schrader, none is sold as a long valve. If your rim is deep, measure the gap from rim bed to pump access before ordering. Look for a tube marked with a longer valve."
+    },
+    {
+      "heading": "Best Presta Bicycle Inner Tubes",
+      "text": "Every tube in this pillar has a Schrader valve, none is Presta. Check your rim hole before choosing, since Presta is narrower. Look for Presta by name."
+    },
+    {
+      "heading": "Best Schrader Bicycle Inner Tubes",
+      "text": "The [BELL 26 inch tube](#bell-26-inch-schrader-tube) has a 35mm Schrader valve with a cap, the same valve a car pump fits. Check your rim hole suits Schrader. If your trike runs 24 inch wheels, take the [24 inch BELL](#bell-24-inch-schrader-tube).",
+      "productId": "bell-26-inch-schrader-tube"
+    },
+    {
+      "heading": "Best Tpu Bicycle Inner Tubes",
+      "text": "None of these tubes is TPU; all are butyl or mold cured rubber. TPU tubes are lighter but need more care when fitting. Look for TPU by name if weight matters."
+    }
+  ],
   "bottomLine": "The BELL 26 inch tube covers the most trike rear wheels, while the BELL 24 inch suits smaller wheels. Fat tire riders should take either Senaro or Ultraverse 20 x 4.0 packs. Match the size on your tire sidewall before you buy.",
   "amazonSearch": "inner tubes for trikes",
   "relatedPaths": [

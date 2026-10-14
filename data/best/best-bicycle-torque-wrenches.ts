@@ -356,6 +356,44 @@ export const bestBicycleTorqueWrenches: BestArticle = {
       "a": "Clicks drift with use and age. If you drop it or use it daily, have it checked, or compare it with a second wrench on a known bolt."
     }
   ],
+  needs: [
+    {
+      "heading": "Best 1 4 Drive Bicycle Torque Wrenches",
+      "text": "The [HERONIX 1/4 inch wrench](#heronix-1-4-inch-click-torque-wrench) covers 2.3 to 27.1 Nm with 3 percent accuracy. Check that your bits fit the 1/4 drive. It suits stems, seat clamps and brake bolts.",
+      "productId": "heronix-1-4-inch-click-torque-wrench"
+    },
+    {
+      "heading": "Best 3 8 Drive Bicycle Torque Wrenches",
+      "text": "None of these wrenches is a 3/8 drive; the HERONIX is 1/4 inch and the kits use small ratchets. Check your bolt torque figures first. Most trike bolts sit in the 2 to 26 Nm range these wrenches cover."
+    },
+    {
+      "heading": "Best Beam Bicycle Torque Wrenches",
+      "text": "All five picks are click type, so none is a beam wrench. Beam wrenches show torque on a scale, so check the range for your fasteners. A click type is easier to use under a trike frame."
+    },
+    {
+      "heading": "Best Bicycle Torque Wrench Sets",
+      "text": "The [Lexivon 15 piece kit](#lexivon-bike-torque-wrench-15-piece-kit) covers 2 to 26 Nm in 0.2 Nm steps with a 72-tooth ratchet. Confirm the bit set includes the sizes your trike uses. It is the kit most trike owners will need.",
+      "productId": "lexivon-bike-torque-wrench-15-piece-kit"
+    },
+    {
+      "heading": "Best Budget Bicycle Torque Wrenches",
+      "text": "The [HERONIX](#heronix-1-4-inch-click-torque-wrench) is a single wrench with no extra kit pieces, so you only take what you need. Check you own matching bits. It covers 2.3 to 27.1 Nm.",
+      "productId": "heronix-1-4-inch-click-torque-wrench"
+    },
+    {
+      "heading": "Best Portable Bicycle Torque Wrenches",
+      "text": "The [HERONIX](#heronix-1-4-inch-click-torque-wrench) is a stand-alone 1/4 inch click wrench, easy to carry in a trike bag. Check your bits for roadside use. Store it at its lowest setting.",
+      "productId": "heronix-1-4-inch-click-torque-wrench"
+    },
+    {
+      "heading": "Best Preset Bicycle Torque Tools",
+      "text": "All five options here are adjustable click wrenches, so none is a preset tool. Preset tools lock to one value, so confirm your bolt torque first. An adjustable wrench like the [Lexivon](#lexivon-bike-torque-wrench-15-piece-kit) handles many bolts."
+    },
+    {
+      "heading": "Best Torque Wrenches for Bicycle Bottom Brackets",
+      "text": "None of these wrenches reaches the higher torque most bottom bracket cups call for; they top out between 16.9 and 27.1 Nm. Check your bottom bracket's torque figure first. Use a wrench with a higher range for that job."
+    }
+  ],
   "bottomLine": "The Lexivon is the safest first buy for a trike owner. Choose the PRO BIKE TOOL if you want a calibration certificate, or the YIYEIE 50-piece kit if you will keep a full toolbox.",
   "amazonSearch": "bike torque wrenches",
   "relatedPaths": [

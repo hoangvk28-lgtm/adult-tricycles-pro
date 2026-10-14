@@ -320,6 +320,32 @@ export const bestChainLocksForAdultTricycles: BestArticle = {
       "a": "Thin cables are cut quickly, so we left them out of this guide in favor of chains."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bike Chain Locks with Protective Covers",
+      "text": "The [Kryptonite Keeper 785](#kryptonite-keeper-785-chain-lock) wears a nylon sleeve over 7mm hardened links, which stops the chain scratching your frame. Check the sleeve covers the full length you wrap around the trike. The [APECYC](#apecyc-4ft-combination-chain-lock) also has a fabric cover if you prefer a combination.",
+      "productId": "kryptonite-keeper-785-chain-lock"
+    },
+    {
+      "heading": "Best Chain Locks for Electric Tricycles",
+      "text": "The [NDakter set](#ndakter-u-lock-and-120cm-chain-set) offers 120cm of chain plus an 18mm U-lock, which helps reach around a wide e-trike frame and a post. It weighs 4.4 lb, so check you can carry it or mount it. Lock the frame and the motor side where possible.",
+      "productId": "ndakter-u-lock-and-120cm-chain-set"
+    },
+    {
+      "heading": "Best Combination Bike Chain Locks",
+      "text": "The [APECYC](#apecyc-4ft-combination-chain-lock) is the combination pick, with a 5-digit code and hardened steel links under a fabric cover. Choose a code you can remember but others will not guess. It suits riders who lose keys.",
+      "productId": "apecyc-4ft-combination-chain-lock"
+    },
+    {
+      "heading": "Best Heavy Duty Bike Chain Locks",
+      "text": "The [Kryptonite Keeper 785](#kryptonite-keeper-785-chain-lock) uses 7mm hardened links with a disc cylinder, the thickest chain in this group. Check the length reaches your trike and a fixed post. For a second lock layer, see the [NDakter set](#ndakter-u-lock-and-120cm-chain-set).",
+      "productId": "kryptonite-keeper-785-chain-lock"
+    },
+    {
+      "heading": "Best Lightweight Bike Chain Locks",
+      "text": "None of these chain locks is sold as lightweight, and the NDakter set is the heaviest at 4.4 lb. If weight matters, check the weight of the Kryptonite and APECYC before ordering. A lighter lock is a trade for reach and link thickness, so keep it for short stops."
+    }
+  ],
   "bottomLine": "Choose the Kryptonite for link strength, the NDakter if you need reach, and always lock to something fixed. Add an alarm for extra deterrence.",
   "amazonSearch": "chain locks for trikes",
   "relatedPaths": [

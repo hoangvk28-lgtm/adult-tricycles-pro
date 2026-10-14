@@ -358,6 +358,17 @@ export const bestBicycleChainLubricants: BestArticle = {
       "a": "If the chain is stretched or rusted, a shop can replace it. Use /adult-tricycle-maintenance-checklist/ to check."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Chain Lubricants for Winter",
+      "text": "The [White Lightning 2 in 1](#white-lightning-2-in-1-lubricant-and-degreaser) leaves a water resistant film, which matters when slush and wet roads wash lube off. Wipe the chain before applying, then wipe off the excess. Reapply more often than you would in dry weather.",
+      "productId": "white-lightning-2-in-1-lubricant-and-degreaser"
+    },
+    {
+      "heading": "Best Spray Bicycle Chain Lubricants",
+      "text": "None of these lubes comes as a spray; they are drip, squeeze or bottle formats. The Finish Line squeeze bottle is the easiest to apply fast, and the SILCA drip bottle gives the most control. Spray lubes tend to coat brakes, so keep disc rotors covered if you ever use one."
+    }
+  ],
   "bottomLine": "Squirt 500 ml suits most long trike chains, with Muc-Off or Finish Line for dry rides. Pair with /accessories/best-bicycle-chain-cleaners/ for the cleaning step.",
   "amazonSearch": "chain lubricants",
   "relatedPaths": [

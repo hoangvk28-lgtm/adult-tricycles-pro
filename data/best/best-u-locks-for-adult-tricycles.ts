@@ -359,6 +359,36 @@ export const bestULocksForAdultTricycles: BestArticle = {
       "a": "Lock a solid frame tube to a fixed post or rack, not a removable part. Read our theft prevention guide."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bike U Locks with Cables",
+      "text": "The [NDakter](#ndakter-18mm-heavy-duty-u-lock-with-6-ft-cable) pairs an 18mm shackle with a 6 ft cable for the wheels. Check the cable loops through both wheels and the frame. It weighs 3.4 lb.",
+      "productId": "ndakter-18mm-heavy-duty-u-lock-with-6-ft-cable"
+    },
+    {
+      "heading": "Best Budget Bike U Locks",
+      "text": "Pick on shackle thickness and fit, since a thin shackle is a weak point. The 12mm [Kryptonite Parkview](#kryptonite-parkview-u-lock-with-4-ft-cable) is the thinnest here. Check your trike frame fits inside the interior."
+    },
+    {
+      "heading": "Best Combination Bike U Locks",
+      "text": "All five U-locks here are keyed, so none is a combination lock. If you want a code, see the combination chain in [chain locks](/accessories/best-chain-locks-for-adult-tricycles/). Keep spare keys safe."
+    },
+    {
+      "heading": "Best Compact Bike U Locks",
+      "text": "The [Kryptonite Evolution Mini-7](#kryptonite-evolution-mini-7-u-lock) has a 13mm shackle with a double deadbolt and a 4 ft cable. Check the small gap fits your frame tube and a post. It suits quiet racks.",
+      "productId": "kryptonite-evolution-mini-7-u-lock"
+    },
+    {
+      "heading": "Best Lightweight Bike U Locks",
+      "text": "The [Sportneer](#sportneer-17mm-u-lock-with-5-ft-cable-and-bracket) weighs 1.64 lb with a 17mm shackle and a frame bracket. Check the bracket fits your frame. It carries easily on a trike.",
+      "productId": "sportneer-17mm-u-lock-with-5-ft-cable-and-bracket"
+    },
+    {
+      "heading": "Best U Locks for Electric Tricycles",
+      "text": "The [NDakter](#ndakter-18mm-heavy-duty-u-lock-with-6-ft-cable) has an 18mm shackle and a 6 ft cable, which suits a costly e-trike. Check the weight at 3.4 lb. Lock the frame and a wheel.",
+      "productId": "ndakter-18mm-heavy-duty-u-lock-with-6-ft-cable"
+    }
+  ],
   "bottomLine": "For most trike owners, the VVA long shackle gives the best reach. Choose the NDakter for overnight parking and the Kryptonite Parkview for brief stops.",
   "amazonSearch": "u-locks for trikes",
   "relatedPaths": [

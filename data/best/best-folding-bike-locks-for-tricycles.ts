@@ -295,6 +295,32 @@ export const bestFoldingBikeLocksForTricycles: BestArticle = {
       "a": "An alarm adds a second layer, since a loud noise discourages a thief. See /accessories/best-bike-alarms-for-adult-tricycles/ for options that work on a trike."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Combination Folding Bike Locks",
+      "text": "All three folding locks here are key operated, so none is a combination lock. If a code matters, look at the combination chain in [chain locks for adult tricycles](/accessories/best-chain-locks-for-adult-tricycles/). Keep a spare key in a safe place at home."
+    },
+    {
+      "heading": "Best Folding Bike Locks for Electric Tricycles",
+      "text": "The [Seatylock Foldylock Forever](#seatylock-foldylock-forever) opens to a 35.4 inch circumference and uses 0.25 inch hardened steel plates. Check the loop reaches around your frame and a post. The Sold Secure Gold rating suits a costly e-trike.",
+      "productId": "seatylock-foldylock-forever"
+    },
+    {
+      "heading": "Best Folding Bike Locks with Frame Mounts",
+      "text": "The [Seatylock Foldylock Compact](#seatylock-foldylock-compact) includes a frame mount bracket and a carry case. Check the bracket fits your frame tube. Mount it away from the pedal path.",
+      "productId": "seatylock-foldylock-compact"
+    },
+    {
+      "heading": "Best Lightweight Folding Bike Locks",
+      "text": "The [Kryptonite Parkview](#kryptonite-parkview-folding-lock) weighs 2.15 lb and gives 2.9 ft of usable length. Check that length reaches around your trike and a post. It suits short stops better than overnight parking.",
+      "productId": "kryptonite-parkview-folding-lock"
+    },
+    {
+      "heading": "Best Sold Secure Gold Folding Bike Locks",
+      "text": "The [Seatylock Foldylock Forever](#seatylock-foldylock-forever) carries a Sold Secure Gold rating with anti tamper rivets. Check the rating covers your use and that it opens wide enough for your frame. Pair it with a fixed anchor point.",
+      "productId": "seatylock-foldylock-forever"
+    }
+  ],
   "bottomLine": "Choose the Seatylock Foldylock Forever when the trike sits outside and needs the reach. Choose the Foldylock Compact for daily carrying, and the Kryptonite Parkview folding lock for quick, low risk stops. Whatever you pick, measure your parking spot first.",
   "amazonSearch": "folding locks for trikes",
   "relatedPaths": [

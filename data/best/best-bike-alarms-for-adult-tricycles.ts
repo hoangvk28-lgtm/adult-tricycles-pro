@@ -361,6 +361,27 @@ export const bestBikeAlarmsForAdultTricycles: BestArticle = {
       "a": "Check weekly and top up before a long stop. Keep a spare battery if the unit uses cells."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bike Alarms for Android Users",
+      "text": "The [Cruxer](#cruxer-110db-bike-alarm-with-remote) pairs to a handheld remote, so your phone brand does not matter at all. Check that you are comfortable carrying the remote on your key ring, since no app is involved. If you specifically want phone control, look at a GPS tracker alarm instead.",
+      "productId": "cruxer-110db-bike-alarm-with-remote"
+    },
+    {
+      "heading": "Best Bike Alarms with Phone Alerts",
+      "text": "None of the picks here sends alerts to a phone; they sound the siren and rely on a remote. If a phone notification matters to you, look at the tracker based options in [bike alarms with GPS trackers](/accessories/best-bike-alarms-with-gps-trackers/) and check the app works with your phone before buying."
+    },
+    {
+      "heading": "Best Rechargeable Bike Alarms",
+      "text": "The [Cruxer](#cruxer-110db-bike-alarm-with-remote) charges over USB-C, so you can top it up with the same cable you use for a trike light or phone. Check that the charge port is easy to reach once the alarm is strapped under the seat or on the seatpost. The Antfire horn is also USB rechargeable if you want a louder warning.",
+      "productId": "cruxer-110db-bike-alarm-with-remote"
+    },
+    {
+      "heading": "Best Wireless Bike Alarms with Remotes",
+      "text": "The [USUPERINK](#usuperink-113db-bike-alarm-with-remote) gives you a remote with about 20 m of range plus an IP65 rating for rainy storage. Test the range from where you actually lock the trike, such as behind a garage wall or inside a shed. Seven sensitivity levels let you stop wind from setting it off.",
+      "productId": "usuperink-113db-bike-alarm-with-remote"
+    }
+  ],
   "bottomLine": "Choose the Cruxer for the best balance, the USUPERINK for a budget option, and the YOHOOLYO for disc brake trikes. Whatever you pick, lock the trike first.",
   "amazonSearch": "bike alarms",
   "relatedPaths": [

@@ -278,6 +278,13 @@ export const bestBicycleChainCleaners: BestArticle = {
       "a": "If the chain is stretched or rusted, a shop can replace it and check wear. Our /adult-tricycle-maintenance-checklist/ lists the signs."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Chain Cleaning Kits",
+      "text": "The [Ultrafashs kit](#ultrafashs-7-piece-chain-cleaner-kit) bundles a chain scrubber, 10 oz of degreaser and a 2 oz bottle of wet lube, so you can clean and relube in one go. Check that the scrubber fits your chain width, then dry the chain before lubing. Trike chains run long, so expect to refill the degreaser.",
+      "productId": "ultrafashs-7-piece-chain-cleaner-kit"
+    }
+  ],
   "bottomLine": "Choose Ultrafashs for a simple routine, focopot for dirty sprockets and Motul if you prefer a brush. Pair it with a lube from /accessories/best-bicycle-chain-lubricants/ after cleaning.",
   "amazonSearch": "chain cleaners",
   "relatedPaths": [

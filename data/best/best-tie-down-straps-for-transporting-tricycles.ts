@@ -393,6 +393,13 @@ export const bestTieDownStrapsForTransportingTricycles: BestArticle = {
       "a": "No. Straps hold the trike in place, while a ramp gets it up there. See our guide to loading ramps."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Ratchet Tie Down Straps for Tricycles",
+      "text": "The [Jack Boss ratchet set](#jack-boss-1-inch-x-15-foot-ratchet-set) has 15 foot straps with a 500 lb working load and four soft loops. Check the strap length reaches over the frame and to the anchor points. Use the soft loops on the frame to protect paint.",
+      "productId": "jack-boss-1-inch-x-15-foot-ratchet-set"
+    }
+  ],
   "bottomLine": "For truck bed or trailer hauls, start with the Jack Boss ratchet set. Choose Ayaport 10 foot cam straps for gentle quick holds, and add soft loops for a polished frame.",
   "amazonSearch": "tie-down straps for trikes",
   "relatedPaths": [

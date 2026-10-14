@@ -283,6 +283,123 @@ export const bestReplacementTiresForAdultTricycles: BestArticle = {
       "a": "See /accessories/best-inner-tubes-for-adult-tricycles/ for tubes, and /accessories/best-puncture-resistant-tire-liners-for-bicycles/ for liners."
     }
   ],
+  needs: [
+    {
+      "heading": "Best 16 X 1.75 Bicycle Tires for Tricycles",
+      "text": "None of the tires in this pillar are sold in 16 x 1.75, so avoid forcing a near size. Read the size printed on your old tire and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 16 X 1.95 Bicycle Tires for Tricycles",
+      "text": "We do not have a pick for 16 x 1.95 here, and a wrong size tire can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 16 X 2.125 Bicycle Tires for Tricycles",
+      "text": "No tires here fit 16 x 2.125, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 20 X 1 3/8 Bicycle Tires for Tricycles",
+      "text": "None of the tires in this pillar are sold in 20 x 1 3/8, so avoid forcing a near size. Read the size printed on your old tire and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 20 X 1.35 Bicycle Tires for Tricycles",
+      "text": "We do not have a pick for 20 x 1.35 here, and a wrong size tire can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 20 X 1.75 Bicycle Tires for Tricycles",
+      "text": "No tires here fit 20 x 1.75, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 20 X 1.95 Bicycle Tires for Tricycles",
+      "text": "None of the tires in this pillar are sold in 20 x 1.95, so avoid forcing a near size. Read the size printed on your old tire and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 20 X 2 Bicycle Tires for Tricycles",
+      "text": "We do not have a pick for 20 x 2 here, and a wrong size tire can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 20 X 2.125 Bicycle Tires for Tricycles",
+      "text": "No tires here fit 20 x 2.125, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 20 X 2.8 Bicycle Tires for Tricycles",
+      "text": "None of the tires in this pillar are sold in 20 x 2.8, so avoid forcing a near size. Read the size printed on your old tire and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 20 X 3 Bicycle Tires for Tricycles",
+      "text": "We do not have a pick for 20 x 3 here, and a wrong size tire can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 20 X 4 Bicycle Tires for Tricycles",
+      "text": "The [Ultraverse 20 x 4.0 Fat Tire Pair](#ultraverse-20-x-4-0-fat-tire-pair) is a 20 x 4.0 all terrain pair for fat tire electric trikes. Check your rim is built for a 4 inch tire. Two units cover the rear pair or a front and rear swap.",
+      "productId": "ultraverse-20-x-4-0-fat-tire-pair"
+    },
+    {
+      "heading": "Best 24 X 1 3/8 Bicycle Tires for Tricycles",
+      "text": "No tires here fit 24 x 1 3/8, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 24 X 1.75 Bicycle Tires for Tricycles",
+      "text": "None of the tires in this pillar are sold in 24 x 1.75, so avoid forcing a near size. Read the size printed on your old tire and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 24 X 1.85 Bicycle Tires for Tricycles",
+      "text": "We do not have a pick for 24 x 1.85 here, and a wrong size tire can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 24 X 1.95 Bicycle Tires for Tricycles",
+      "text": "No tires here fit 24 x 1.95, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 24 X 3 Bicycle Tires for Tricycles",
+      "text": "None of the tires in this pillar are sold in 24 x 3, so avoid forcing a near size. Read the size printed on your old tire and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 26 X 1 3/8 Bicycle Tires for Tricycles",
+      "text": "We do not have a pick for 26 x 1 3/8 here, and a wrong size tire can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    },
+    {
+      "heading": "Best 26 X 1.75 Bicycle Tires for Tricycles",
+      "text": "The [Blackburn Mountain Tire 26 x 1.75 to 2.25](#blackburn-mountain-tire-26-x-1-75-to-2-25) spans 26 x 1.75 to 2.25 inch, so 26 x 1.75 falls inside its range at 35 to 65 PSI. Check the size on your old sidewall and the PSI limit on your rim. It leans toward gravel paths and grass edges.",
+      "productId": "blackburn-mountain-tire-26-x-1-75-to-2-25"
+    },
+    {
+      "heading": "Best 26 X 1.9 Bicycle Tires for Tricycles",
+      "text": "The [Blackburn Mountain Tire 26 x 1.75 to 2.25](#blackburn-mountain-tire-26-x-1-75-to-2-25) spans 26 x 1.75 to 2.25 inch, so 26 x 1.9 falls inside its range at 35 to 65 PSI. Check the size on your old sidewall and the PSI limit on your rim. It leans toward gravel paths and grass edges.",
+      "productId": "blackburn-mountain-tire-26-x-1-75-to-2-25"
+    },
+    {
+      "heading": "Best 26 X 1.95 Bicycle Tires for Tricycles",
+      "text": "The [Blackburn Mountain Tire 26 x 1.75 to 2.25](#blackburn-mountain-tire-26-x-1-75-to-2-25) spans 26 x 1.75 to 2.25 inch, so 26 x 1.95 falls inside its range at 35 to 65 PSI. Check the size on your old sidewall and the PSI limit on your rim. It leans toward gravel paths and grass edges.",
+      "productId": "blackburn-mountain-tire-26-x-1-75-to-2-25"
+    },
+    {
+      "heading": "Best 26 X 2 Bicycle Tires for Tricycles",
+      "text": "The [Blackburn Mountain Tire 26 x 1.75 to 2.25](#blackburn-mountain-tire-26-x-1-75-to-2-25) spans 26 x 1.75 to 2.25 inch, so 26 x 2 falls inside its range at 35 to 65 PSI. Check the size on your old sidewall and the PSI limit on your rim. It leans toward gravel paths and grass edges.",
+      "productId": "blackburn-mountain-tire-26-x-1-75-to-2-25"
+    },
+    {
+      "heading": "Best 26 X 2.1 Bicycle Tires for Tricycles",
+      "text": "The [Blackburn Mountain Tire 26 x 1.75 to 2.25](#blackburn-mountain-tire-26-x-1-75-to-2-25) spans 26 x 1.75 to 2.25 inch, so 26 x 2.1 falls inside its range at 35 to 65 PSI. Check the size on your old sidewall and the PSI limit on your rim. It leans toward gravel paths and grass edges.",
+      "productId": "blackburn-mountain-tire-26-x-1-75-to-2-25"
+    },
+    {
+      "heading": "Best 26 X 2.125 Bicycle Tires for Tricycles",
+      "text": "The [MOHEGIA 26 x 2.125 Folding Tires with Tubes](#mohegia-26-x-2-125-folding-tires-with-tubes) is a 26 x 2.125 tire, ETRTO 57-559, rated for 40 to 65 PSI, with tubes and levers in the box. Check the size on your old tire before ordering. It suits paved paths and everyday cruiser riding.",
+      "productId": "mohegia-26-x-2-125-folding-tires-with-tubes"
+    },
+    {
+      "heading": "Best 26 X 3 Bicycle Tires for Tricycles",
+      "text": "No tires here fit 26 x 3, so look for this exact size elsewhere. Check the sidewall and the rim before ordering. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) helps with that check."
+    },
+    {
+      "heading": "Best 26 X 4 Bicycle Tires for Tricycles",
+      "text": "None of the tires in this pillar are sold in 26 x 4, so avoid forcing a near size. Read the size printed on your old tire and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
+    },
+    {
+      "heading": "Best 26 X 4.8 Bicycle Tires for Tricycles",
+      "text": "We do not have a pick for 26 x 4.8 here, and a wrong size tire can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
+    }
+  ],
   "bottomLine": "The MOHEGIA 26 x 2.125 pair is the sensible choice for cruiser trikes, with tubes included. The Blackburn suits loose ground, and the Ultraverse pair fits 20 x 4.0 fat tire e-trikes. Match the size to your sidewall first.",
   "amazonSearch": "replacement tires for trikes",
   "relatedPaths": [

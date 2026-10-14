@@ -402,6 +402,27 @@ export const bestBicycleBrakeCableKitsForTricycles: BestArticle = {
       "a": "If you have weak grip, cannot route a long rear cable safely, or the brake still drags after new cables, a shop is the safer choice."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Brake Cable Cutters",
+      "text": "The [weideer kit](#weideer-107-piece-cable-kit-with-cutter) includes an 8 inch stainless cutter with a safety lock, and the longer handles make cutting thick housing easier on tired hands. Check that the cut leaves the housing round, then file the end flat before fitting a cap. A clean cut keeps the cable from binding on a long trike run.",
+      "productId": "weideer-107-piece-cable-kit-with-cutter"
+    },
+    {
+      "heading": "Best Bicycle Brake Cable End Caps",
+      "text": "The [mankk kit](#mankk-107-piece-cable-kit-with-cutter) bundles end caps and O rings alongside the cutter, so you can finish every housing end in one session. Make sure the cap fits snugly over your housing diameter before crimping. Loose caps let grit into the housing and make brakes feel gritty.",
+      "productId": "mankk-107-piece-cable-kit-with-cutter"
+    },
+    {
+      "heading": "Best Brake Cable Housing Kits for Mechanical Disc Brakes",
+      "text": "The [Boao kit](#boao-universal-brake-and-shift-cable-kit) supplies 2.5 m of 5 mm brake housing, which is the part mechanical disc brakes lean on for a firm lever. Check you are using the brake housing and not the thinner shift housing in the same kit. Measure your longest run first, since a trike needs more housing than a standard bike.",
+      "productId": "boao-universal-brake-and-shift-cable-kit"
+    },
+    {
+      "heading": "Best Stainless Steel Bicycle Brake Cables",
+      "text": "None of these cable sets is sold as stainless steel; the mamakoi and Hapleby inner cables are zinc coated with 19 wires each. If stainless is a must for coastal storage, look for it by name on the cable, and check the barrel end fits your lever. Zinc coated cables are fine for most trikes if you keep them lubricated."
+    }
+  ],
   "bottomLine": "Pick the mankk kit for most trikes, TFUTLT if gears share the job, and mamakoi when only the inner cable has failed. Measure the rear run first. See also /accessories/best-bicycle-brake-pads-for-adult-tricycles/ and /adult-tricycle-brakes-and-parking-brakes/.",
   "amazonSearch": "brake cable kits",
   "relatedPaths": [

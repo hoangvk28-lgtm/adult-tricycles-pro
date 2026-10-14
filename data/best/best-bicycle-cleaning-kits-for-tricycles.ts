@@ -397,6 +397,18 @@ export const bestBicycleCleaningKitsForTricycles: BestArticle = {
       "a": "For brake issues or heavy corrosion, a shop is safer. See /adult-tricycle-brakes-and-parking-brakes/."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Cleaning Brush Kits",
+      "text": "The [Park Tool BCB-4](#park-tool-bcb-4-bike-cleaning-brush-set) is a brush only set with gear, detail, frame and soap brushes. Bring your own cleaner and keep the brushes away from disc rotors. Its tapered brush reaches between trike spokes.",
+      "productId": "park-tool-bcb-4-bike-cleaning-brush-set"
+    },
+    {
+      "heading": "Best Bicycle Cleaning Kits with Chain Cleaners",
+      "text": "The [focopot 13 piece kit](#focopot-13-piece-bike-cleaning-kit) includes a scrubber and 10 oz of degreaser along with 25 oz of cleaner, a mitt and a towel. Check that the scrubber fits your chain width. You get the whole trike covered in one box.",
+      "productId": "focopot-13-piece-bike-cleaning-kit"
+    }
+  ],
   "bottomLine": "focopot 13 Piece covers the most ground, with Ultrafashs for chain only work. For fluids see /accessories/best-bicycle-chain-degreasers/ and /accessories/best-bicycle-chain-lubricants/.",
   "amazonSearch": "bike cleaning kits",
   "relatedPaths": [

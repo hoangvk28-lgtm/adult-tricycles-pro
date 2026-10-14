@@ -400,6 +400,42 @@ export const bestBicycleBrakePadsForAdultTricycles: BestArticle = {
       "a": "Yes. Check the parking brake and cables when you change pads, using /adult-tricycle-maintenance-checklist/."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Brake Pads for Wet Weather",
+      "text": "The [Hapleby V brake pads](#hapleby-4-piece-v-brake-pad-set) have a drainage design that helps clear water from the pad face. Check that your trike uses V brakes and that your rims are clean before fitting. Wet braking also depends on rim condition, so wipe off road film regularly.",
+      "productId": "hapleby-4-piece-v-brake-pad-set"
+    },
+    {
+      "heading": "Best Bicycle V Brake Pads",
+      "text": "The [Hapleby set](#hapleby-4-piece-v-brake-pad-set) gives you four pads with three wear lines so you can see when to swap them. Confirm your trike has V brakes and bikes above 20 inches. If you need a longer pad, the [Alritz 70 mm set](#alritz-3-pair-70-mm-v-brake-pads) is the other option.",
+      "productId": "hapleby-4-piece-v-brake-pad-set"
+    },
+    {
+      "heading": "Best Brake Pads for Alloy Bicycle Rims",
+      "text": "Rim brake pads like the [Hapleby set](#hapleby-4-piece-v-brake-pad-set) press directly on the wheel rim, so they suit trikes with alloy rims and V brakes. Check your rim material and look for scoring before fitting new pads. If your trike has disc brakes, rim pads do not apply.",
+      "productId": "hapleby-4-piece-v-brake-pad-set"
+    },
+    {
+      "heading": "Best Brake Pads for Electric Tricycles",
+      "text": "The [SkyStage pads](#skystage-4-pair-resin-semi-metallic-pads) use a resin and semi metallic blend rated up to 700 degrees, which suits the extra weight and speed of an electric trike. Match the pad to your caliper model, since the compatibility list covers specific Shimano Deore units. Bed them in gently before a long descent.",
+      "productId": "skystage-4-pair-resin-semi-metallic-pads"
+    },
+    {
+      "heading": "Best Quiet Bicycle Disc Brake Pads",
+      "text": "The [PACYTION pads](#pacytion-4-pair-brake-pads-with-tools) combine copper fibre and organic resin, a softer mix that tends to squeal less than harder compounds. Check your caliper against the Shimano model list, and keep oil off the rotor. Noise often comes from contamination, so clean the rotor too.",
+      "productId": "pacytion-4-pair-brake-pads-with-tools"
+    },
+    {
+      "heading": "Best Resin Bicycle Disc Brake Pads",
+      "text": "The [PACYTION set](#pacytion-4-pair-brake-pads-with-tools) uses copper fibre and organic resin and ships with a gap regulator and piston press. Confirm the pad shape matches your caliper before opening the pack. The tools make it a sensible first resin pad change.",
+      "productId": "pacytion-4-pair-brake-pads-with-tools"
+    },
+    {
+      "heading": "Best Sintered Bicycle Disc Brake Pads",
+      "text": "None of these disc pads is sold as sintered; the AGPTEK and SkyStage packs are semi metallic, which is the nearest compound here. Look for the word sintered in the pad name and match your caliper model first. Heavier trikes on long hills are where a harder compound earns its keep."
+    }
+  ],
   "bottomLine": "Use Hapleby for V brakes and AGPTEK or PACYTION for discs, matching the caliper first. If the brake still feels weak after new pads, have a shop check it. Pair this with /accessories/best-bicycle-brake-cable-kits-for-tricycles/ for cable work.",
   "amazonSearch": "bike brake pads",
   "relatedPaths": [
