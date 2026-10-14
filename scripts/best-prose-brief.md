@@ -48,3 +48,6 @@ into a buyer check ("measure the basket before ordering"). Keep sibling articles
 /adult-tricycle-mirrors-setup-guide/ /how-to-store-and-transport-an-adult-tricycle/
 /fat-tire-vs-standard-tire-adult-tricycles/ /adult-tricycle-gears-and-hill-riding/
 plus any /<section>/<slug>/ in this batch (slugs listed in .work/p2/slugs.txt; section is in each facts file).
+
+## prior
+A product with "prior" was already covered in another article (specs, pros, cons). Reuse its facts and specs, rewrite pros/cons wording for this article's angle, and do not re-derive what is already there.

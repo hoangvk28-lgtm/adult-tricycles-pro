@@ -17,7 +17,16 @@ const pool = JSON.parse(fs.readFileSync(poolFile, "utf8"));
 fs.mkdirSync(outDir, { recursive: true });
 
 const used = new Set();
-for (const f of fs.readdirSync("data/best")) for (const m of fs.readFileSync(`data/best/${f}`, "utf8").matchAll(/asin: "([A-Z0-9]{10})"/g)) used.add(m[1]);
+// prior: specs/pros/cons already written for an ASIN in another article, so the writer can adapt
+// them to the new angle instead of analysing the product from scratch (saves writer tokens).
+const prior = {};
+for (const f of fs.readdirSync("data/best")) {
+  const src = fs.readFileSync(`data/best/${f}`, "utf8");
+  for (const m of src.matchAll(/asin: "([A-Z0-9]{10})"/g)) used.add(m[1]);
+  for (const m of src.matchAll(/"asin": "([A-Z0-9]{10})"[\s\S]*?"specs": (\{[\s\S]*?\}),\s*"pros": (\[[\s\S]*?\]),\s*"cons": (\[[\s\S]*?\])/g)) {
+    try { prior[m[1]] ??= { from: f.replace(/\.ts$/, ""), specs: JSON.parse(m[2]), pros: JSON.parse(m[3]), cons: JSON.parse(m[4]) }; } catch {}
+  }
+}
 
 const ratings = {};
 if (ratingsFile && fs.existsSync(ratingsFile))
@@ -57,6 +66,14 @@ for (const [slug, c] of Object.entries(cfg)) {
     cand.push(i);
   }
   cand.sort((a, b) => a.salesRank - b.salesRank);
+  // spread: for price-tier articles, keep the better-selling half, then pick evenly across the
+  // price range up to the ceiling so tiers do not all repeat the same cheapest products.
+  if (c.spread && cand.length > n) {
+    const pool2 = cand.slice(0, Math.max(n * 2, Math.ceil(cand.length / 2))).sort((a, b) => a.price - b.price);
+    const step = (pool2.length - 1) / (n - 1);
+    const spreadPick = [...new Set(Array.from({ length: n }, (_, k) => pool2[Math.round(k * step)]))];
+    cand.splice(0, cand.length, ...spreadPick, ...cand.filter((x) => !spreadPick.includes(x)));
+  }
   // best sellers first, then spread by price, max 2 per brand
   const brand = {}, picks = [];
   for (const i of cand) {
@@ -73,7 +90,7 @@ for (const [slug, c] of Object.entries(cfg)) {
     products: picks.map((p) => ({
       asin: p.asin, brand: p.brand, title: p.title, image: p.img, price: p.price, salesRank: p.salesRank,
       ...(ratings[p.asin] ? { rating: ratings[p.asin].rating, ratingCount: ratings[p.asin].count } : { unverified: true }),
-      features: p.features.slice(0, 6).map((f) => f.replace(/\s+/g, " ").slice(0, 400)),
+      ...(prior[p.asin] ? { prior: prior[p.asin], features: p.features.slice(0, 2).map((f) => f.replace(/\s+/g, " ").slice(0, 200)) } : { features: p.features.slice(0, 4).map((f) => f.replace(/\s+/g, " ").slice(0, 220)) }),
     })),
   };
   fs.writeFileSync(path.join(outDir, `${slug}.json`), JSON.stringify(out, null, 1));

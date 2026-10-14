@@ -1,4 +1,12 @@
 import type { Article } from "@/data/types";
+import { bestTricycleBasketsUnder25 } from "@/data/best/best-tricycle-baskets-under-25";
+import { bestStorageShedsForTricyclesUnder300 } from "@/data/best/best-storage-sheds-for-tricycles-under-300";
+import { bestPremiumElectricTricycles } from "@/data/best/best-premium-electric-tricycles";
+import { bestElectricTricyclesUnder800 } from "@/data/best/best-electric-tricycles-under-800";
+import { bestElectricTricyclesUnder2000 } from "@/data/best/best-electric-tricycles-under-2000";
+import { bestElectricTricyclesUnder1500 } from "@/data/best/best-electric-tricycles-under-1500";
+import { bestBikeHelmetsUnder50 } from "@/data/best/best-bike-helmets-under-50";
+import { bestAdultTricyclesUnder300 } from "@/data/best/best-adult-tricycles-under-300";
 import { bestStorageShedsForAdultTricycles } from "@/data/best/best-storage-sheds-for-adult-tricycles";
 import { bestLoadingRampsForRecumbentTrikes } from "@/data/best/best-loading-ramps-for-recumbent-trikes";
 import { bestHelmetsForAdultTricycleRiders } from "@/data/best/best-helmets-for-adult-tricycle-riders";
@@ -36,6 +44,14 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestTricycleBasketsUnder25,
+  bestStorageShedsForTricyclesUnder300,
+  bestPremiumElectricTricycles,
+  bestElectricTricyclesUnder800,
+  bestElectricTricyclesUnder2000,
+  bestElectricTricyclesUnder1500,
+  bestBikeHelmetsUnder50,
+  bestAdultTricyclesUnder300,
   bestStorageShedsForAdultTricycles,
   bestLoadingRampsForRecumbentTrikes,
   bestHelmetsForAdultTricycleRiders,
