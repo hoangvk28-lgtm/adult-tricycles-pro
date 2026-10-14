@@ -1,6 +1,7 @@
 // Stage A (zero LLM tokens), adapted from HardcastlesRV.
 // Usage: node scripts/stage-a.mjs <config.json> <pool.json> <out-dir> [ratings.txt]
-// config: { "<slug>": { section, noun:[plural,singular], angle, must, ban, also?, maxRank?, n? } }
+// config: { "<slug>": { section, noun:[plural,singular], angle, must, ban, also?, req?, minPrice?, maxPrice?, maxRank?, n?, allowReuse? } }
+//   req: regex that must match title or features (e.g. a capacity or speed count)
 //   must/ban/also are regex source strings (case-insensitive) tested against the product title.
 // Picks on-topic products with images and features, drops weak sellers (Amazon site-wide sales
 // rank above maxRank, default 250000), dedupes near-identical variants, caps 2 per brand, never
@@ -43,6 +44,8 @@ for (const [slug, c] of Object.entries(cfg)) {
     if (used.has(i.asin) && !(c.allowReuse && reused < c.allowReuse)) continue;
     if (!i.salesRank || i.salesRank > maxRank) continue;
     if (c.minPrice && !(i.price >= c.minPrice)) continue;
+    if (c.maxPrice && !(i.price && i.price <= c.maxPrice)) continue;
+    if (c.req && !new RegExp(c.req, "i").test(t + " " + (i.features || []).join(" "))) continue;
     const rt = ratings[i.asin];
     if (rt && (rt.rating < 4.2 || rt.count < 20)) continue;
     // No readable rating: accept only strong site-wide sellers.
