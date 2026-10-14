@@ -20,7 +20,7 @@ const RES = ["images.primary.large", "itemInfo.title", "itemInfo.features", "ite
 const Q = JSON.parse(readFileSync(process.argv[2], "utf8")), out = {};
 for (const [k, qs] of Object.entries(Q)) {
   const asins = new Set();
-  for (const q of qs) for (const sortBy of ["Relevance", "AvgCustomerReviews", "Featured"]) {
+  for (const q of qs) for (const sortBy of (process.env.SORTS || "Relevance,AvgCustomerReviews,Featured").split(",")) {
     const d = await call("searchItems", { keywords: q, sortBy, itemCount: 10, resources: ["itemInfo.title"] });
     for (const i of d.searchResult?.items || []) asins.add(i.asin);
     await sleep(1100);

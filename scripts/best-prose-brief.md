@@ -32,7 +32,7 @@ Experienced specialist explaining how the product behaves on an adult trike in r
 mechanism, then consequence, then decision. Concrete numbers from the features only, named
 picks, real situations (narrow gate, older hands, hills, apartment, wide rear basket).
 NEVER: invent numbers; claim testing; show any product's star rating or ratings count or price;
-write "listing", "listed", "seller", "Amazon lists", "not stated", "product page"; use em or en
+write "listing", "listed", "seller", "Amazon lists", "not stated", "product page", "in the description", "according to the maker"; use em or en
 dashes; repeat marketing claims such as "eliminates tipping" or "tip-proof" (correct them).
 Products with "unverified": true must not be called well reviewed or proven. Turn unknown specs
 into a buyer check ("measure the basket before ordering"). Keep sibling articles distinct.

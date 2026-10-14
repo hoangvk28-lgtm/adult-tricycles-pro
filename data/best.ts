@@ -1,4 +1,11 @@
 import type { Article } from "@/data/types";
+import { bestReflectiveVestsForCycling } from "@/data/best/best-reflective-vests-for-cycling";
+import { bestReflectiveTapeForBicyclesAndTricycles } from "@/data/best/best-reflective-tape-for-bicycles-and-tricycles";
+import { bestElectricTricyclesForAdults } from "@/data/best/best-electric-tricycles-for-adults";
+import { bestBikeTurnSignalsForAdultTricycles } from "@/data/best/best-bike-turn-signals-for-adult-tricycles";
+import { bestBikeTailLightsForAdultTricycles } from "@/data/best/best-bike-tail-lights-for-adult-tricycles";
+import { bestBikeHeadlightsForAdultTricycles } from "@/data/best/best-bike-headlights-for-adult-tricycles";
+import { bestBicycleBellsForTricycleRiders } from "@/data/best/best-bicycle-bells-for-tricycle-riders";
 import { bestElectricTricyclesFor400LbRiders } from "@/data/best/best-electric-tricycles-for-400-lb-riders";
 import { bestTricycleBasketsUnder25 } from "@/data/best/best-tricycle-baskets-under-25";
 import { bestStorageShedsForTricyclesUnder300 } from "@/data/best/best-storage-sheds-for-tricycles-under-300";
@@ -45,6 +52,13 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestReflectiveVestsForCycling,
+  bestReflectiveTapeForBicyclesAndTricycles,
+  bestElectricTricyclesForAdults,
+  bestBikeTurnSignalsForAdultTricycles,
+  bestBikeTailLightsForAdultTricycles,
+  bestBikeHeadlightsForAdultTricycles,
+  bestBicycleBellsForTricycleRiders,
   bestElectricTricyclesFor400LbRiders,
   bestTricycleBasketsUnder25,
   bestStorageShedsForTricyclesUnder300,
