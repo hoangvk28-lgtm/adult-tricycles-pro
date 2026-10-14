@@ -1,4 +1,8 @@
 import type { Article } from "@/data/types";
+import { bestQuietElectricBikePumps } from "@/data/best/best-quiet-electric-bike-pumps";
+import { bestFoldingCargoTricycles } from "@/data/best/best-folding-cargo-tricycles";
+import { bestElectricCargoTricyclesUnder3500 } from "@/data/best/best-electric-cargo-tricycles-under-3500";
+import { bestElectricCargoTricyclesUnder2000 } from "@/data/best/best-electric-cargo-tricycles-under-2000";
 import { bestElectricCargoTricyclesForHills } from "@/data/best/best-electric-cargo-tricycles-for-hills";
 import { bestElectricBikePumpsForTubelessTires } from "@/data/best/best-electric-bike-pumps-for-tubeless-tires";
 import { bestCargoTricyclesForDeliveries } from "@/data/best/best-cargo-tricycles-for-deliveries";
@@ -89,6 +93,10 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestQuietElectricBikePumps,
+  bestFoldingCargoTricycles,
+  bestElectricCargoTricyclesUnder3500,
+  bestElectricCargoTricyclesUnder2000,
   bestElectricCargoTricyclesForHills,
   bestElectricBikePumpsForTubelessTires,
   bestCargoTricyclesForDeliveries,
