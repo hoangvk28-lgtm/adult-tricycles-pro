@@ -12,6 +12,9 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Raw source packages and scratch data, never part of the site.
+    "import/**",
+    ".work/**",
   ]),
 ]);
 

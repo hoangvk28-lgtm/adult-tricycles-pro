@@ -116,7 +116,12 @@ export interface BestArticle extends ArticleBase {
 
 export interface ReviewArticle extends ArticleBase {
   type: "review";
+  dek?: string;
   shortAnswer: string;
+  /** Shown as a notice when the model is discontinued or hard to find. Omit when it is on sale. */
+  availabilityNote?: string;
+  /** Context when an old URL was rewritten. */
+  historyNote?: string;
   product: Product;
   sectionsBody: { heading: string; body: string }[];
   alternatives?: { name: string; path: string; why: string }[];

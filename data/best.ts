@@ -1,4 +1,5 @@
 import type { Article } from "@/data/types";
+import { bestFoldingAdultTricycles } from "@/data/best/best-folding-adult-tricycles";
 import { bestAdultTricycles } from "@/data/best/best-adult-tricycles";
 import { bestAdultTricycleCovers } from "@/data/best/best-adult-tricycle-covers";
 import { bestMirrorsForAdultTricycles } from "@/data/best/best-mirrors-for-adult-tricycles";
@@ -15,6 +16,7 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestFoldingAdultTricycles,
   bestAdultTricycles,
   bestAdultTricycleCovers,
   bestMirrorsForAdultTricycles,
