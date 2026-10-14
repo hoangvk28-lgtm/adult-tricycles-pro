@@ -1,4 +1,13 @@
 import type { Article } from "@/data/types";
+import { bestStorageShedsForAdultTricycles } from "@/data/best/best-storage-sheds-for-adult-tricycles";
+import { bestLoadingRampsForRecumbentTrikes } from "@/data/best/best-loading-ramps-for-recumbent-trikes";
+import { bestHelmetsForAdultTricycleRiders } from "@/data/best/best-helmets-for-adult-tricycle-riders";
+import { bestHelmetMirrorsForTricycleRiders } from "@/data/best/best-helmet-mirrors-for-tricycle-riders";
+import { bestFatTireElectricTricycles } from "@/data/best/best-fat-tire-electric-tricycles";
+import { bestElectricTricyclesWithDogCarriers } from "@/data/best/best-electric-tricycles-with-dog-carriers";
+import { bestElectricTricyclesUnder1000 } from "@/data/best/best-electric-tricycles-under-1000";
+import { bestElectricTricyclesForSmallAdults } from "@/data/best/best-electric-tricycles-for-small-adults";
+import { bestElectricTricyclesForSeniors } from "@/data/best/best-electric-tricycles-for-seniors";
 import { bestDogCarriersForAdultTricycles } from "@/data/best/best-dog-carriers-for-adult-tricycles";
 import { bestCargoNetsForTricycleBaskets } from "@/data/best/best-cargo-nets-for-tricycle-baskets";
 import { bestCargoElectricTricycles } from "@/data/best/best-cargo-electric-tricycles";
@@ -27,6 +36,15 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestStorageShedsForAdultTricycles,
+  bestLoadingRampsForRecumbentTrikes,
+  bestHelmetsForAdultTricycleRiders,
+  bestHelmetMirrorsForTricycleRiders,
+  bestFatTireElectricTricycles,
+  bestElectricTricyclesWithDogCarriers,
+  bestElectricTricyclesUnder1000,
+  bestElectricTricyclesForSmallAdults,
+  bestElectricTricyclesForSeniors,
   bestDogCarriersForAdultTricycles,
   bestCargoNetsForTricycleBaskets,
   bestCargoElectricTricycles,
