@@ -15,6 +15,14 @@ export function GuidePage({ a }: { a: GuideArticle }) {
       <div className="article mt-8" dangerouslySetInnerHTML={{ __html: g.intro }} />
       <div className="my-8"><Toc items={g.toc} /></div>
       <div className="article" dangerouslySetInnerHTML={{ __html: g.body }} />
+      {g.credits.length > 0 && (
+        <details className="mt-10 border-t border-line pt-4 text-[0.875rem] text-ink-3">
+          <summary className="cursor-pointer select-none font-semibold">Image credits</summary>
+          <ul className="mt-2 list-disc space-y-1 pl-5 [&_a]:text-ink-3 [&_a]:underline">
+            {g.credits.map((c) => <li key={c} dangerouslySetInnerHTML={{ __html: c }} />)}
+          </ul>
+        </details>
+      )}
       <AuthorBox a={authorOf(a)} />
       <RelatedArticles current={a} pool={articles} />
     </div>

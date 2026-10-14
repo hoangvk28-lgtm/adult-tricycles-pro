@@ -12,6 +12,8 @@ export interface RenderedGuide {
   body: string; // HTML from the first H2 on
   toc: TocItem[];
   wordCount: number;
+  /** Photo credits pulled out of captions (license attribution), shown collapsed at the end. */
+  credits: string[];
 }
 
 import imageSizes from "@/content/guides/image-sizes.json";
@@ -29,7 +31,7 @@ function slugify(text: string): string {
     .slice(0, 80);
 }
 
-function postProcess(html: string, toc: TocItem[]): string {
+function postProcess(html: string, toc: TocItem[], credits: string[] = []): string {
   const seen = new Map<string, number>();
   return (
     html
@@ -40,7 +42,14 @@ function postProcess(html: string, toc: TocItem[]): string {
         (_m, src: string, alt: string, caption: string) => {
           const key = path.basename(src).replace(/\.\w+$/, "");
           const [w, h] = IMAGE_SIZES[key] ?? [1400, 1050];
-          return `<figure><img src="${src}" alt="${alt}" width="${w}" height="${h}" loading="lazy" decoding="async"><figcaption>${caption}</figcaption></figure>`;
+          // Captions show only the description; the "Photo: author, license" credit moves to the
+          // collapsed Image credits list (CC BY / BY-SA still require attribution).
+          const [desc, credit] = caption.split(/\s*Photo:\s*/);
+          if (credit) {
+            const c = credit.replace(/\s*Wikimedia rendition;?[^<]*$/i, "").replace(/[.\s]+$/, "");
+            if (!credits.includes(c)) credits.push(c);
+          }
+          return `<figure><img src="${src}" alt="${alt}" width="${w}" height="${h}" loading="lazy" decoding="async"><figcaption>${desc.trim()}</figcaption></figure>`;
         },
       )
       .replace(/<table>/g, '<div class="table-wrap" role="region" tabindex="0" aria-label="Table"><table>')
@@ -67,10 +76,11 @@ export function renderGuide(contentFile: string): RenderedGuide {
   const introMd = firstH2 === -1 ? md : md.slice(0, firstH2);
   const bodyMd = firstH2 === -1 ? "" : md.slice(firstH2);
   const toc: TocItem[] = [];
-  const intro = postProcess(marked.parse(introMd, { async: false }), []);
-  const body = postProcess(marked.parse(bodyMd, { async: false }), toc);
+  const credits: string[] = [];
+  const intro = postProcess(marked.parse(introMd, { async: false }), [], credits);
+  const body = postProcess(marked.parse(bodyMd, { async: false }), toc, credits);
   const wordCount = md.replace(/!\[[^\]]*\]\([^)]*\)/g, "").split(/\s+/).filter(Boolean).length;
-  return { intro, body, toc, wordCount };
+  return { intro, body, toc, wordCount, credits };
 }
 
 /** Minimal markdown for short structured fields (Best/Review bodies). */

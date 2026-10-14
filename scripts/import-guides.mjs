@@ -1,5 +1,5 @@
 // Import an informational-guide batch (folder with article-index.csv, articles/*.md, images/).
-// Usage: node scripts/import-guides.mjs <batch-dir> <sections.json>
+// Usage: node scripts/import-guides.mjs <batch-dir> <sections.json> [YYYY-MM-DD]
 //   sections.json: { "<slug>": ["guides", "<secondary-section>"], ... }
 // - converts new images to /public/images/guides/*.webp (1400px max, no crop) and refreshes image-sizes.json
 // - copies markdown with image paths rewritten; captions/credits are kept verbatim
@@ -8,7 +8,7 @@ import fs from "node:fs";
 import path from "node:path";
 import sharp from "sharp";
 
-const [dir, sectionsFile] = process.argv.slice(2);
+const [dir, sectionsFile, date = new Date().toISOString().slice(0, 10)] = process.argv.slice(2);
 const SECTIONS = JSON.parse(fs.readFileSync(sectionsFile, "utf8"));
 const PUB = "public/images/guides";
 
@@ -66,8 +66,8 @@ for (const r of parseCsv(fs.readFileSync(path.join(dir, "article-index.csv"), "u
     title: ${JSON.stringify(r.title)},
     metaTitle: ${JSON.stringify(metaTitle)},
     description: ${JSON.stringify(r.meta_description)},
-    published: "2026-10-13",
-    updated: "2026-10-13",
+    published: "${date}",
+    updated: "${date}",
     contentFile: "${slug}.md",
     heroImage: { src: "/images/guides/${hero.key}.webp", alt: ${JSON.stringify(hero.alt)}, width: ${w}, height: ${h} },
     methodology: RESEARCH,

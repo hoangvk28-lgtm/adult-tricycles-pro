@@ -11,6 +11,10 @@
   1400,
   970
  ],
+ "cargo-trailer": [
+  1280,
+  960
+ ],
  "chain": [
   1280,
   960
@@ -26,6 +30,10 @@
  "exercise-bike": [
   1400,
   1050
+ ],
+ "fatbike-flat": [
+  1280,
+  720
  ],
  "first-adult-tricycle-hero": [
   1536,
@@ -82,5 +90,13 @@
  "schrader-valve": [
   1400,
   1057
+ ],
+ "suspension-fork": [
+  960,
+  1280
+ ],
+ "touring-trailer": [
+  1280,
+  645
  ]
 }
