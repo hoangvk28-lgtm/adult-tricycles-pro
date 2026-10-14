@@ -22,7 +22,7 @@ const used = new Set();
 const prior = {};
 for (const f of fs.readdirSync("data/best")) {
   const src = fs.readFileSync(`data/best/${f}`, "utf8");
-  for (const m of src.matchAll(/asin: "([A-Z0-9]{10})"/g)) used.add(m[1]);
+  for (const m of src.matchAll(/"?asin"?: "([A-Z0-9]{10})"/g)) used.add(m[1]);
   for (const m of src.matchAll(/"asin": "([A-Z0-9]{10})"[\s\S]*?"specs": (\{[\s\S]*?\}),\s*"pros": (\[[\s\S]*?\]),\s*"cons": (\[[\s\S]*?\])/g)) {
     try { prior[m[1]] ??= { from: f.replace(/\.ts$/, ""), specs: JSON.parse(m[2]), pros: JSON.parse(m[3]), cons: JSON.parse(m[4]) }; } catch {}
   }

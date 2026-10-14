@@ -40,6 +40,11 @@ The Creators API does NOT return star ratings or review counts for any of our cr
 5. Build, `npm run check:content`, commit, push.
 Never parallel writers; never let the writer read CLAUDE.md or full reference articles.
 
+**Freshness rule (user, 2026-10-14):** every new batch calls the API with fresh, angle-specific
+queries (brand, feature, price) so articles get new products. Reuse at most 2-3 products per
+article that already appear in other articles (`allowReuse: 2` or 3 in the Stage A config; the
+used-ASIN scan reads both `asin:` and `"asin":`). The `prior` copy is only for those reused picks.
+
 ## 4. Writing voice (MANDATORY)
 Write as a specialist who has spent years around adult tricycles, their buyers and their failure points. The reader should finish each section knowing something they could not get from the Amazon listing.
 
