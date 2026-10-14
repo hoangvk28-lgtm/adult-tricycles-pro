@@ -1,4 +1,10 @@
 import type { Article } from "@/data/types";
+import { bestWetBicycleChainLubricants } from "@/data/best/best-wet-bicycle-chain-lubricants";
+import { bestWaxBicycleChainLubricants } from "@/data/best/best-wax-bicycle-chain-lubricants";
+import { bestUltrasonicCleanersForBicycleChains } from "@/data/best/best-ultrasonic-cleaners-for-bicycle-chains";
+import { bestULocksForAdultTricycles } from "@/data/best/best-u-locks-for-adult-tricycles";
+import { bestTieDownStrapsForTransportingTricycles } from "@/data/best/best-tie-down-straps-for-transporting-tricycles";
+import { bestSingleSpeedBicycleChains } from "@/data/best/best-single-speed-bicycle-chains";
 import { bestReplacementTiresForAdultTricycles } from "@/data/best/best-replacement-tires-for-adult-tricycles";
 import { bestPunctureResistantTireLinersForBicycles } from "@/data/best/best-puncture-resistant-tire-liners-for-bicycles";
 import { bestLongShackleBikeULocks } from "@/data/best/best-long-shackle-bike-u-locks";
@@ -123,6 +129,12 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestWetBicycleChainLubricants,
+  bestWaxBicycleChainLubricants,
+  bestUltrasonicCleanersForBicycleChains,
+  bestULocksForAdultTricycles,
+  bestTieDownStrapsForTransportingTricycles,
+  bestSingleSpeedBicycleChains,
   bestReplacementTiresForAdultTricycles,
   bestPunctureResistantTireLinersForBicycles,
   bestLongShackleBikeULocks,
