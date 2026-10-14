@@ -62,3 +62,13 @@ specifically (trike rear baskets, wide axles, upright posture, low recumbent sea
 ## When done
 Run `npx tsc --noEmit` once at the end. Do not register files in data/best.ts (the orchestrator
 does). Report: files written, any product you think does not fit its slug and why.
+
+## Unverified products
+A product with `"unverified": true` is a strong seller whose star rating could not be read.
+Its selectionNote is "Strong seller (sales rank <rank>), rating not verified (2026-10-14)".
+Never describe it as well reviewed, proven or having a long owner record. Judge it on its design
+and specs only, and give the reader a concrete check to make before buying.
+Products with rating/ratingCount use selectionNote "<rating> stars, <count> ratings (2026-10-14)".
+Dates for this batch: published/updated "2026-10-14".
+
+NEVER write a product's star rating or ratings count in visible copy ("4.2 stars across 179 ratings", "its 809 ratings"). Say "long owner record" or "strongest owner feedback here" instead. Only the generic selection bar ("at least 4.2 stars across 20 or more Amazon ratings") may appear. `npm run check:content` fails otherwise.

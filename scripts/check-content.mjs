@@ -29,6 +29,10 @@ for (const path of urls) {
   // "not medically reviewed" is the honest status line, not a claim
   if (bad && !/not medically reviewed/i.test(text.slice(Math.max(0, bad.index - 20), bad.index + 30))) errors.push(`${path}: banned phrase "${bad[0]}"`);
 
+  // Product-specific Amazon ratings must never be displayed (the generic 4.2/20+ selection bar is allowed).
+  const rated = text.match(/\b\d\.\d stars? (record|across|from)\b(?! 20 or more)|\b(?!20\b)\d[\d,]* (Amazon )?ratings\b/i);
+  if (rated) errors.push(`${path}: shows product rating data "${text.slice(Math.max(0, rated.index - 40), rated.index + 40).replace(/\s+/g, " ")}"`);
+
   // Best/Review pages live at /<section>/<slug>/. Guides may legitimately advise readers to "ask the seller".
   const leak = path.split("/").filter(Boolean).length === 2 ? text.match(LEAK) : null;
   if (leak) errors.push(`${path}: process leak "${text.slice(Math.max(0, leak.index - 40), leak.index + 50).replace(/\s+/g, " ")}"`);
