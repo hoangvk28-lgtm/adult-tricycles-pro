@@ -1,4 +1,11 @@
 import type { Article } from "@/data/types";
+import { bestLoudBicycleBells } from "@/data/best/best-loud-bicycle-bells";
+import { bestFatTireAdultTricycles } from "@/data/best/best-fat-tire-adult-tricycles";
+import { bestElectricBikePumpsForHomeUse } from "@/data/best/best-electric-bike-pumps-for-home-use";
+import { bestElectricBicycleHorns } from "@/data/best/best-electric-bicycle-horns";
+import { bestCargoTricyclesForAdults } from "@/data/best/best-cargo-tricycles-for-adults";
+import { bestBikeTailLightsWithRadar } from "@/data/best/best-bike-tail-lights-with-radar";
+import { bestBikeTailLightsWithCameras } from "@/data/best/best-bike-tail-lights-with-cameras";
 import { bestBikeTailLightsWithBrakeSensors } from "@/data/best/best-bike-tail-lights-with-brake-sensors";
 import { bestBikeTailLightsWithAlarms } from "@/data/best/best-bike-tail-lights-with-alarms";
 import { bestBikeTailLightsForDaytimeVisibility } from "@/data/best/best-bike-tail-lights-for-daytime-visibility";
@@ -69,6 +76,13 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestLoudBicycleBells,
+  bestFatTireAdultTricycles,
+  bestElectricBikePumpsForHomeUse,
+  bestElectricBicycleHorns,
+  bestCargoTricyclesForAdults,
+  bestBikeTailLightsWithRadar,
+  bestBikeTailLightsWithCameras,
   bestBikeTailLightsWithBrakeSensors,
   bestBikeTailLightsWithAlarms,
   bestBikeTailLightsForDaytimeVisibility,
