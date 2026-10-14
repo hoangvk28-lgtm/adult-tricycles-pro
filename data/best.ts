@@ -1,4 +1,12 @@
 import type { Article } from "@/data/types";
+import { bestTricycleLoadingRampsForPickupTrucks } from "@/data/best/best-tricycle-loading-ramps-for-pickup-trucks";
+import { bestRustResistantBicycleChains } from "@/data/best/best-rust-resistant-bicycle-chains";
+import { bestPreWaxedBicycleChains } from "@/data/best/best-pre-waxed-bicycle-chains";
+import { bestBikeAlarmLocks } from "@/data/best/best-bike-alarm-locks";
+import { bestBicycleSpokeTorqueWrenches } from "@/data/best/best-bicycle-spoke-torque-wrenches";
+import { bestBicycleChainRustRemovers } from "@/data/best/best-bicycle-chain-rust-removers";
+import { bestAngleGrinderResistantFoldingBikeLocks } from "@/data/best/best-angle-grinder-resistant-folding-bike-locks";
+import { bestAirlessBicycleTiresForTricycles } from "@/data/best/best-airless-bicycle-tires-for-tricycles";
 import { bestWetBicycleChainLubricants } from "@/data/best/best-wet-bicycle-chain-lubricants";
 import { bestWaxBicycleChainLubricants } from "@/data/best/best-wax-bicycle-chain-lubricants";
 import { bestUltrasonicCleanersForBicycleChains } from "@/data/best/best-ultrasonic-cleaners-for-bicycle-chains";
@@ -129,6 +137,14 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestTricycleLoadingRampsForPickupTrucks,
+  bestRustResistantBicycleChains,
+  bestPreWaxedBicycleChains,
+  bestBikeAlarmLocks,
+  bestBicycleSpokeTorqueWrenches,
+  bestBicycleChainRustRemovers,
+  bestAngleGrinderResistantFoldingBikeLocks,
+  bestAirlessBicycleTiresForTricycles,
   bestWetBicycleChainLubricants,
   bestWaxBicycleChainLubricants,
   bestUltrasonicCleanersForBicycleChains,
