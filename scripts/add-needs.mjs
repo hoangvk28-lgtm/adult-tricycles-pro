@@ -12,7 +12,16 @@ for (const [slug, needs] of Object.entries(all)) {
   if (bad) { console.log(`FAIL ${slug}: ${bad[0]}`); continue; }
   const ids = [...src.matchAll(/"?id"?: "([a-z0-9-]+)"/g)].map((m) => m[1]);
   for (const n of needs) if (n.productId && !ids.includes(n.productId)) { console.log(`warn ${slug}: unknown productId ${n.productId}, dropped`); delete n.productId; }
-  src = src.replace(/\n\s*"?needs"?: \[[\s\S]*?\n\s*\],(?=\n\s*"?bottomLine"?)/, "");
+  // Merge with needs already in the file (earlier plan batches): keep old entries, add new headings.
+  const old = src.match(/\n\s*"?needs"?: (\[[\s\S]*?\n\s*\]),(?=\n\s*"?bottomLine"?)/);
+  if (old) {
+    try {
+      const prev = JSON.parse(old[1]);
+      const seen = new Set(prev.map((n) => n.heading.toLowerCase()));
+      needs.splice(0, needs.length, ...prev, ...needs.filter((n) => !seen.has(n.heading.toLowerCase())));
+    } catch { console.log(`warn ${slug}: could not parse existing needs, replacing`); }
+    src = src.replace(old[0], "");
+  }
   const block = JSON.stringify(needs, null, 2).split("\n").map((l, i) => (i ? "  " + l : l)).join("\n");
   src = src.replace(/(\n(\s*))("?bottomLine"?:)/, (_, nl, ind, key) => `${nl}needs: ${block},${nl}${key}`);
   fs.writeFileSync(file, src);

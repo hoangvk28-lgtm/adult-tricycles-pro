@@ -1,4 +1,12 @@
 import type { Article } from "@/data/types";
+import { bestTubelessBicycleTireRepairKits } from "@/data/best/best-tubeless-bicycle-tire-repair-kits";
+import { bestRackMountedBikeTailLights } from "@/data/best/best-rack-mounted-bike-tail-lights";
+import { bestPortableFloorBikePumps } from "@/data/best/best-portable-floor-bike-pumps";
+import { bestPortableBikePumpsWithPressureGauges } from "@/data/best/best-portable-bike-pumps-with-pressure-gauges";
+import { bestPortableBikePumpsForFatTires } from "@/data/best/best-portable-bike-pumps-for-fat-tires";
+import { bestNonElectricCargoTricycles } from "@/data/best/best-non-electric-cargo-tricycles";
+import { bestMiniElectricBikePumps } from "@/data/best/best-mini-electric-bike-pumps";
+import { bestLowPressureGaugesForFatBikeTires } from "@/data/best/best-low-pressure-gauges-for-fat-bike-tires";
 import { bestLoudBicycleBells } from "@/data/best/best-loud-bicycle-bells";
 import { bestFatTireAdultTricycles } from "@/data/best/best-fat-tire-adult-tricycles";
 import { bestElectricBikePumpsForHomeUse } from "@/data/best/best-electric-bike-pumps-for-home-use";
@@ -76,6 +84,14 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestTubelessBicycleTireRepairKits,
+  bestRackMountedBikeTailLights,
+  bestPortableFloorBikePumps,
+  bestPortableBikePumpsWithPressureGauges,
+  bestPortableBikePumpsForFatTires,
+  bestNonElectricCargoTricycles,
+  bestMiniElectricBikePumps,
+  bestLowPressureGaugesForFatBikeTires,
   bestLoudBicycleBells,
   bestFatTireAdultTricycles,
   bestElectricBikePumpsForHomeUse,
