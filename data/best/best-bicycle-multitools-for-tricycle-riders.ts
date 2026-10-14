@@ -368,6 +368,21 @@ export const bestBicycleMultitoolsForTricycleRiders: BestArticle = {
       "a": "A basket, under-seat bag or rear bag works well. Keep it with your tire levers and pump so a flat is a single stop."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Multitools for Tubeless Repair",
+      "text": "None of these multitools includes tubeless repair items like plugs or a reamer, so no pick fits. Check your trike tires are actually tubeless, and carry a plug kit alongside the multitool if they are."
+    },
+    {
+      "heading": "Best Lightweight Bicycle Multitools",
+      "productId": "crankbrothers-multi-19",
+      "text": "The Crankbrothers Multi-19 weighs 175 g and measures 89 mm long, with hex sizes 2 to 8 mm and a chain tool. Check its hex and wrench sizes match the bolts on your trike."
+    },
+    {
+      "heading": "Best Ratchet Bicycle Multitools",
+      "text": "None of these multitools has a ratchet, so no pick fits. The ROCKBROS includes sockets and wrenches, which come closest. Check the socket sizes against your axle and wheel nuts."
+    }
+  ],
   "bottomLine": "The Crankbrothers Multi-19 is the best everyday multitool, while the WOTOW is the budget pick with the 15 mm wrench many trikes need. Add the Oumers if you service your own chain, and read our maintenance checklist to see what you should check each month.",
   "amazonSearch": "bike multitools",
   "relatedPaths": [

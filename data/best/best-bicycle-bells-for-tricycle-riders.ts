@@ -293,6 +293,45 @@ export const bestBicycleBellsForTricycleRiders: BestArticle = {
       "a": "Yes, it is a normal brass bell. The tag is sold separately and sits in a sealed compartment."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bar End Bicycle Bells",
+      "text": "None of these three bells is made for bar ends, so none truly fits this need. All of them clamp around the bar, so look for a bell sold specifically for bar-end mounting and check the open end diameter before buying."
+    },
+    {
+      "heading": "Best Bicycle Bells for Drop Bars",
+      "productId": "greallthy-classic-bike-bell",
+      "text": "The Greallthy bell fits 22.2 to 28.6 mm bars and comes with thick and thin rubber pads, so it can grip the slimmer tubing common on drop bars. Most trikes have cruiser bars, so measure your actual bar diameter first."
+    },
+    {
+      "heading": "Best Bicycle Bells with Lights",
+      "text": "None of these bells includes a light, so no pick fits here. If you want both, pair a bell with a separate headlight from our [headlight guide](/accessories/best-bike-headlights-for-adult-tricycles/) rather than buying a combo with a weak lamp."
+    },
+    {
+      "heading": "Best Brass Bicycle Bells",
+      "productId": "rockbros-classic-brass-bike-bell",
+      "text": "The ROCKBROS Classic is brass with a silicone layer and fits 0.87 to 1.25 inch bars, which covers most standard trike handlebars. Check that your grips and brake levers leave room for the clamp."
+    },
+    {
+      "heading": "Best Electric Bicycle Bells",
+      "productId": "lesovi-brass-bell-with-airtag-holder",
+      "text": "The LESOVI is a mechanical brass bell, so it needs no charging, and the hidden AirTag compartment suits an electric trike parked outside. Check the wrap-around bracket against your bar width, and see the [electric horn options](/accessories/best-bicycle-horns-for-adult-tricycles/) if you want something louder."
+    },
+    {
+      "heading": "Best Left Hand Bicycle Bells",
+      "productId": "greallthy-classic-bike-bell",
+      "text": "The Greallthy is the one pick sold in left or right versions, so your thumb reaches it without moving off the grip. Confirm the side before ordering, since the versions are not interchangeable."
+    },
+    {
+      "heading": "Best Low Profile Bicycle Bells",
+      "text": "None of these is built as a low profile bell, so no pick fits. If your bars are crowded with levers and lights, look for a compact bell and check how far it sits above the clamp. The [mirror setup guide](/adult-tricycle-mirrors-setup-guide/) helps plan bar space."
+    },
+    {
+      "heading": "Best Vintage Bicycle Bells",
+      "productId": "rockbros-classic-brass-bike-bell",
+      "text": "The ROCKBROS Classic Brass has the traditional brass look that suits a cruiser style trike. Check the bar clamp range of 0.87 to 1.25 inch against your handlebar before ordering."
+    }
+  ],
   "bottomLine": "The ROCKBROS brass bell is the best all-round pick for most adult trike riders. Choose the Greallthy for side and color options, or the LESOVI if you want a hidden tracker.",
   "amazonSearch": "bike bells for trike riders",
   "relatedPaths": [

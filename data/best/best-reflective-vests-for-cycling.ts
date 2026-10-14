@@ -370,6 +370,41 @@ export const bestReflectiveVestsForCycling: BestArticle = {
       "a": "Bright reflective vests help in daylight too, particularly with fluorescent colors, though the benefit is smaller than at night."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Breathable Reflective Cycling Jackets",
+      "text": "None of these picks is a jacket. The Salzmann vest has mesh panels, which comes closest for warm weather. If you want a jacket, check the fabric is breathable and the reflective area is large."
+    },
+    {
+      "heading": "Best Fully Reflective Cycling Vests",
+      "productId": "salzmann-reflective-running-vest-with-3m-scotchlit",
+      "text": "The Salzmann vest uses 3M Scotchlite reflective material and never needs charging. Check the reflective panels cover both front and back, and read [headlights](/accessories/best-bike-headlights-for-adult-tricycles/)."
+    },
+    {
+      "heading": "Best Lightweight Reflective Cycling Vests",
+      "productId": "topward-led-reflective-vest",
+      "text": "The Topward LED vest weighs 5.1 oz (145 g) and adds LEDs front and back. Check the battery pack sits comfortably, and the 5 to 9 hour run time covers your ride."
+    },
+    {
+      "heading": "Best Reflective Cycling Vests for Men",
+      "productId": "samlior-led-vest-with-adjustable-chest-beam",
+      "text": "The Samlior vest fits waists from 28 to 49 inches and shoulders 15 to 27 inches, a wide range. Measure your chest and waist against those numbers before ordering."
+    },
+    {
+      "heading": "Best Reflective Cycling Vests for Women",
+      "productId": "goxrunx-reflective-vest-with-arm-bands",
+      "text": "The GoxRunx comes in 5 sizes with a velcro waist and two reflective bands, so the fit can be tuned. Check the size chart against your measurements and see [tail lights](/accessories/best-bike-tail-lights-for-adult-tricycles/)."
+    },
+    {
+      "heading": "Best Reflective Cycling Vests with Pockets",
+      "productId": "salzmann-reflective-running-vest-with-3m-scotchlit",
+      "text": "The Salzmann has a rear zip pocket, and the GoxRunx has a large zipper pocket. Check the pocket is big enough for your phone or keys and sits where the basket does not press on it."
+    },
+    {
+      "heading": "Best Reflective Winter Cycling Jackets",
+      "text": "None of these is a winter jacket, so no pick fits. Look for an insulated, windproof jacket with reflective panels, and check you can wear the LED vest over it."
+    }
+  ],
   "bottomLine": "The Salzmann is the best all-round vest for most trike riders, while the Topward or Samlior suits dark roads. Pair any vest with lights and tape for full coverage.",
   "amazonSearch": "reflective cycling vests",
   "relatedPaths": [

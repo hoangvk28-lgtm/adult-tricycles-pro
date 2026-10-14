@@ -399,6 +399,28 @@ export const bestBicycleTireRepairKitsForTricycles: BestArticle = {
       "a": "Tire levers and a pump. See our guides to portable pumps and tire levers."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bicycle Tire Repair Kits with Bags",
+      "productId": "ndakter-frame-bag-kit",
+      "text": "The NDakter kit comes with a 2 L bag, a 120 PSI pump, a 16-in-1 tool, levers and glueless patches. Check the bag mounts on your trike frame, and see [maintenance](/adult-tricycle-maintenance-checklist/)."
+    },
+    {
+      "heading": "Best Bicycle Tire Repair Kits with Pumps",
+      "productId": "ndakter-frame-bag-kit",
+      "text": "The NDakter includes a pump that reaches 120 PSI, and the Bicycle Repair Kit with Pump bundles a pump with patches and tools. Check the pump head fits your valve before relying on it."
+    },
+    {
+      "heading": "Best Fat Bike Tire Repair Kits",
+      "productId": "slime-tube-sealant",
+      "text": "Slime Tube Sealant seals punctures up to 3 mm and works inside tubes of any size, including wide fat tire tubes. Check the tube is compatible, and note sealant does not repair large cuts."
+    },
+    {
+      "heading": "Best Glueless Bicycle Puncture Repair Kits",
+      "productId": "smelish-80-piece-patch-kit",
+      "text": "The Smelish kit includes 66 patches with 6 pre-applied glueless patches for quick roadside fixes. Dry the tube fully before applying, and see [levers](/accessories/best-bicycle-tire-levers/)."
+    }
+  ],
   "bottomLine": "For most adult tricycle riders the ZMRYO 80-piece kit is the best repair kit, with the Smelish as the better choice if you prefer glueless patches. Pair either with levers and a pump, and read our guide to tire pressure and punctures to avoid flats in the first place.",
   "amazonSearch": "bike tire repair kits",
   "relatedPaths": [

@@ -406,6 +406,42 @@ export const bestPortableBikePumpsForTricycleRiders: BestArticle = {
       "a": "Tire levers and a patch kit. See our guides to tire levers and repair kits."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Budget Portable Bike Pumps",
+      "productId": "bv-mini-bike-pump",
+      "text": "The BV Mini Bike Pump reaches 120 PSI, includes a mounting bracket and has a smart valve for Presta and Schrader. Check the bracket fits your frame tubes, and see [tire pressure advice](/adult-tricycle-tires-pressure-and-punctures/)."
+    },
+    {
+      "heading": "Best Lightweight Mini Bike Pumps",
+      "productId": "aluminum-alloy-mini-pump",
+      "text": "The Aluminum Alloy Mini Pump is 22.5 cm long and 139 g, the lightest here, with a dual valve head. Light pumps take more strokes on big tires, so check how much air you need."
+    },
+    {
+      "heading": "Best Portable Bike Pumps for Mountain Bike Tires",
+      "productId": "etenwolf-s0-electric-mini-pump",
+      "text": "The ETENWOLF S0 moves 18 L/min, which saves effort on large volume tires. Note it is battery powered, so charge it before a ride and keep a manual backup."
+    },
+    {
+      "heading": "Best Portable Bike Pumps for Presta Valves",
+      "productId": "vibrelli-mini-bike-pump",
+      "text": "The Vibrelli Mini uses a locking head that fits Presta and Schrader, with 120 PSI and a 5-year warranty. Check the head locks cleanly onto the valve stem."
+    },
+    {
+      "heading": "Best Portable Bike Pumps for Road Tires",
+      "text": "None of these picks is built for road tires, which often need above 120 PSI. The ETENWOLF S0 reaches 150 PSI and is the nearest fit. Trike tires usually sit well below road pressures."
+    },
+    {
+      "heading": "Best Portable Bike Pumps for Schrader Valves",
+      "productId": "bv-mini-bike-pump",
+      "text": "The BV Mini Bike Pump has a smart valve for both Presta and Schrader, plus a bracket so the pump stays on the trike. Schrader is the common valve on trike tires, but check yours."
+    },
+    {
+      "heading": "Best Portable Bike Pumps with Hoses",
+      "productId": "aluminum-alloy-mini-pump",
+      "text": "The Aluminum Alloy Mini Pump has a hidden TPU hose and a dual valve head, which protects the valve from side force. Check the hose seals tightly on your valve before relying on it."
+    }
+  ],
   "bottomLine": "The Vibrelli Mini Bike Pump is the best portable pump for most adult trike riders, with the ETENWOLF S0 as the better pick if hands tire easily. Carry it with levers and a patch kit and check pressure on all three tires.",
   "amazonSearch": "portable bike pumps",
   "relatedPaths": [

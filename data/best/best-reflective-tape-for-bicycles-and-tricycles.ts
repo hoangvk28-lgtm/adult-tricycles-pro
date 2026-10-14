@@ -371,6 +371,27 @@ export const bestReflectiveTapeForBicyclesAndTricycles: BestArticle = {
       "a": "Use red on the rear and white or silver on the front and sides, which matches what drivers expect."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Reflective Rim Tape for Bicycles",
+      "text": "None of these is sold as rim tape, so no pick fits. The slim 1 inch rolls come closest, but check your rim width and look for a tape made for the rim bed, since adhesive tape can peel in wet use."
+    },
+    {
+      "heading": "Best Reflective Stickers for Bicycles",
+      "productId": "psler-36-piece-reflective-sticker-set",
+      "text": "The PSLER 36-piece set is full prism and peel and stick, good for dotting baskets, fenders and bags. Haikole's 50-piece pack offers more colors. Clean and dry the surface first so the adhesive holds."
+    },
+    {
+      "heading": "Best Reflective Tape for Bike Frames",
+      "productId": "wenfumusic-reflective-tape-3-roll-pack-1-in-x-10-f",
+      "text": "The WENFUMUSIC pack has three 1 inch by 10 ft rolls that wrap narrow frame tubes and fork legs. Check the tube diameter so the tape wraps flat, and see [tail lights](/accessories/best-bike-tail-lights-for-adult-tricycles/)."
+    },
+    {
+      "heading": "Best Reflective Tape for Bike Helmets",
+      "productId": "psler-36-piece-reflective-sticker-set",
+      "text": "The PSLER stickers are small, so they fit the curved shell of a helmet better than wide tape. Apply them on a clean, dry surface and avoid covering vents or labels."
+    }
+  ],
   "bottomLine": "The SWRT DOT-C2 red and white roll is the best all-round tape for marking a wide trike. Add stickers for small spots, and pair tape with lights and a vest for full visibility.",
   "amazonSearch": "reflective tape for trikes",
   "relatedPaths": [

@@ -372,6 +372,31 @@ export const bestBikeHeadlightsForAdultTricycles: BestArticle = {
       "a": "Top it up weekly, with USB-C if possible. Do not leave it in a hot car. If the light is rated IPX4, dry it before charging."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bike Headlights for Night Riding",
+      "productId": "suruid-1800-lumen-aluminum-headlight",
+      "text": "The Suruid has 1800 lumens with low and high beam, which suits unlit paths. Check the beam is aimed low enough not to dazzle oncoming riders. See [tail lights](/accessories/best-bike-tail-lights-for-adult-tricycles/) for the rear."
+    },
+    {
+      "heading": "Best Bike Headlights with Garmin Mounts",
+      "text": "None of these headlights names a Garmin mount, so no pick fits. Look for a light that includes the Garmin style bracket, and check it against your bar space and any computer already mounted."
+    },
+    {
+      "heading": "Best Bike Headlights with GoPro Mounts",
+      "text": "None of these headlights mentions a GoPro mount, so no pick fits plainly. Look for a light with a GoPro style adapter or an accessory bracket, and confirm it works with the bar width on your trike."
+    },
+    {
+      "heading": "Best Rechargeable Bike Headlights",
+      "productId": "zewdov-1000-lumen-headlight-and-tail-light-set",
+      "text": "The Zewdov set charges over USB-C, with about 2 hours for the headlight and 1 hour for the tail light, and includes a tail light too. Check that the tool-free strap bracket fits your bar diameter."
+    },
+    {
+      "heading": "Best Waterproof Bike Headlights",
+      "productId": "zewdov-slim-rechargeable-light-set",
+      "text": "The Zewdov Slim set is rated IP65, a solid pick for riding in rain. The Ascher set is only IPX4, which resists splashes. Check that the charging port cover seals properly after each charge."
+    }
+  ],
   "bottomLine": "The Zewdov 1000 Lumen set is the best all-rounder for most adult trike riders. Choose the Suruid for dark routes and a firm bracket, and pair any headlight with a rear light and reflective gear from the visibility cluster.",
   "amazonSearch": "bike headlights",
   "relatedPaths": [

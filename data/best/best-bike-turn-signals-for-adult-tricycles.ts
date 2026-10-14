@@ -334,6 +334,23 @@ export const bestBikeTurnSignalsForAdultTricycles: BestArticle = {
       "a": "Coin cell remotes last months. Keep a spare CR2032 and check the remote before every long ride."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bike Light Kits with Turn Signals",
+      "productId": "vcwtty-tail-light-with-turn-signals-and-lane-proje",
+      "text": "The Vcwtty has lane projection, a 120dB beep and IP65 rating, with a bar remote. Check that the seat post size up to 40 mm and bar size up to 45 mm suit your trike."
+    },
+    {
+      "heading": "Best Bike Turn Signals with Brake Lights",
+      "productId": "meilan-x5-wireless-turn-signal-tail-light",
+      "text": "The MEILAN X5 has 30 LEDs, an auto brake light and a ground warning line. Check the brake sensing works on your trike and see [tail lights](/accessories/best-bike-tail-lights-for-adult-tricycles/)."
+    },
+    {
+      "heading": "Best Wireless Bike Turn Signals",
+      "productId": "teguangmei-split-turn-signal-tail-lights",
+      "text": "The Teguangmei has split left and right units, so you can space the signals across a wide rear end. Check the remote reaches from your bars and that both units clip securely."
+    }
+  ],
   "bottomLine": "The Vcwtty is the best all-round signal for most adult trike riders. Choose the Teguangmei for a wide rear basket, and combine signals with a tail light and reflective gear for a full visibility setup.",
   "amazonSearch": "bike turn signals",
   "relatedPaths": [

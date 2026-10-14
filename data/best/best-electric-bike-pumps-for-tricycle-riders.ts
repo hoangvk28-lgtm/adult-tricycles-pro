@@ -324,6 +324,31 @@ export const bestElectricBikePumpsForTricycleRiders: BestArticle = {
       "a": "For effort and matching tires, yes. Keep a small hand pump as a backup, as in our portable pump guide."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Budget Electric Bike Pumps",
+      "productId": "dual-power-cordless-mini-inflator",
+      "text": "The Dual-Power Cordless Mini Inflator runs on its battery or a 12V DC source, which gives it extra use for riders who also drive to rides. Confirm it reaches the pressure your trike tires need, since wide tires need far less than road tires."
+    },
+    {
+      "heading": "Best Electric Bike Pumps for Presta Valves",
+      "text": "None of these pumps names Presta compatibility, so no pick clearly fits. Most trike tires use Schrader, but if yours are Presta, confirm the pump ships with or accepts a Presta adapter before buying."
+    },
+    {
+      "heading": "Best Electric Bike Pumps for Schrader Valves",
+      "productId": "hafuloky-cordless-inflator",
+      "text": "The Hafuloky Cordless Inflator handles up to 150 PSI with auto shut-off, which suits matching all three tires on a trike. Schrader is the common valve on trike tires, but check yours before you buy."
+    },
+    {
+      "heading": "Best Electric Bike Pumps with Pressure Gauges",
+      "productId": "astroai-l7-cordless-inflator",
+      "text": "The AstroAI L7 has a TrueGauge screen for a clear pressure readout, and the Hafuloky also has dual LCD screens. Set the target pressure from your tire sidewall and use the [tire pressure guide](/adult-tricycle-tires-pressure-and-punctures/)."
+    },
+    {
+      "heading": "Best USB C Rechargeable Bike Pumps",
+      "text": "None of these pumps states USB-C charging, so no pick fits plainly. Check the charge port type before buying so one cable can serve your pump and lights. The AstroAI L7S has a 4000 mAh battery if capacity matters most."
+    }
+  ],
   "bottomLine": "The Hafuloky is the best electric pump for most adult tricycle riders, with the AstroAI L7S as the sturdier basket companion. A preset pump takes the effort out of keeping three tires matched, and a separate gauge keeps it honest.",
   "amazonSearch": "electric bike pumps",
   "relatedPaths": [

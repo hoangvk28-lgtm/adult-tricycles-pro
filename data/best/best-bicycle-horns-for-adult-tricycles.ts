@@ -371,6 +371,32 @@ export const bestBicycleHornsForAdultTricycles: BestArticle = {
       "a": "The LESOVI maker rates a charge at about 20 to 30 days of use, and the POWVINE up to 3 months at 10 daily uses on moderate volume. Charge on a fixed day each month. The Hornit avoids this with AAA batteries rated for a year of normal use."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Compact Bicycle Horns",
+      "productId": "timoo-metal-squeeze-horn",
+      "text": "The Timoo is a 7.4 inch metal squeeze horn, the shortest of the squeeze options, so it fits trikes with limited bar space. Check clearance next to your brake levers and mirror."
+    },
+    {
+      "heading": "Best Rechargeable Bicycle Horns",
+      "productId": "lesovi-electronic-bike-horn",
+      "text": "The LESOVI is rechargeable, with about 2000 sounds per charge and a separate thumb switch. The POWVINE also charges over USB-C. Check the strap length fits your bar, and see our [bell guide](/accessories/best-bicycle-bells-for-tricycle-riders/) for a quiet option."
+    },
+    {
+      "heading": "Best Squeeze Bicycle Horns",
+      "productId": "whtchsu-classic-squeeze-horn",
+      "text": "The WHTCHSU is a 7.87 inch aluminum alloy horn with a rubber bulb and needs no battery. Check the bulb sits where your hand can reach it without leaving the grip."
+    },
+    {
+      "heading": "Best Vintage Brass Bicycle Horns",
+      "text": "None of these horns is described as brass, so no pick fits. The squeeze horns have an aluminum alloy bell with a classic look. For true brass, look at the [bicycle bells](/accessories/best-bicycle-bells-for-tricycle-riders/)."
+    },
+    {
+      "heading": "Best Waterproof Bicycle Horns",
+      "productId": "lesovi-electronic-bike-horn",
+      "text": "The LESOVI is rated IP65 waterproof, the strongest claim here. The Hornit dB140 is weatherproof and the POWVINE is IPX5. Seal any charging port cover well after charging."
+    }
+  ],
   "bottomLine": "For most adult trike riders, the LESOVI Electronic Bike Horn is the best balance of volume, reach and weather protection. Step up to the Hornit dB140 for fast roads, or keep it simple with the WHTCHSU squeeze horn. Whichever you pick, mount it where your thumb finds it without letting go of the grip.",
   "amazonSearch": "bike horns",
   "relatedPaths": [

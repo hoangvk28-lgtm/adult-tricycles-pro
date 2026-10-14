@@ -367,6 +367,17 @@ export const bestFatTireAdultTricycles: BestArticle = {
       "a": "Use the range printed on the sidewall, and set the same number on all three tires."
     }
   ],
+  needs: [
+    {
+      "heading": "Best 20 Inch Fat Tire Adult Tricycles",
+      "productId": "mooncool-750w-fat-tire-electric-trike",
+      "text": "The MOONCOOL 750W rides on 20 x 3.0 inch fat tires with hydraulic discs and a parking brake, an easy start for beginners. The KAKIGO and ESKUTE are also 20 inch. See [wheel sizes](/adult-tricycle-wheel-sizes-20-24-26-inch/)."
+    },
+    {
+      "heading": "Best 26 Inch Fat Tire Adult Tricycles",
+      "text": "None of these picks uses 26 inch wheels, so no pick fits. If you want the larger wheel for a longer stride or rolling over bumps, read the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) and check the frame step height."
+    }
+  ],
   "bottomLine": "The MOONCOOL 750W is the safest all-round fat tire pick. Choose the KAKIGO for the widest tires, the TINIOVER River for suspension and payload, or the ESKUTE for range. Measure your gates first.",
   "amazonSearch": "fat-tire adult tricycles",
   "relatedPaths": [

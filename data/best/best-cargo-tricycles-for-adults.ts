@@ -367,6 +367,18 @@ export const bestCargoTricyclesForAdults: BestArticle = {
       "a": "Quoted ranges such as 50 to 80 miles assume light loads. Expect noticeably less with heavy cargo and hills."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Cargo Tricycles with Cargo Boxes",
+      "productId": "narrak-750w-fat-tire-electric-trike",
+      "text": "The NARRAK 750W comes with large baskets front and rear plus a hydraulic parking brake, which is the closest match to a boxed load here. None of these is a true cargo box trike, so check basket dimensions against what you carry. See [baskets](/accessories/best-baskets-for-adult-tricycles/)."
+    },
+    {
+      "heading": "Best Heavy Duty Cargo Tricycles",
+      "productId": "eskute-t300-max-electric-tricycle",
+      "text": "The ESKUTE T300 MAX has 80Nm of torque, triple disc brakes and a 20.8Ah battery, a strong base for heavy loads. Confirm the total payload against your own weight plus cargo before buying. Our [payload guide](/adult-tricycle-weight-capacity-and-payload/) explains how."
+    }
+  ],
   "bottomLine": "The ESKUTE T300 MAX is the strongest all-round cargo pick, and the NARRAK 750W is the one for big baskets and hill parking. The MOONCOOL is the simple pedal choice. Confirm the payload rating before loading any of them.",
   "amazonSearch": "cargo tricycles",
   "relatedPaths": [

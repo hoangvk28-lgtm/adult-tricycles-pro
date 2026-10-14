@@ -337,6 +337,13 @@ export const bestCargoElectricTricycles: BestArticle = {
       "a": "Place heavy items low and centered over the rear axle and use a cargo net."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Electric Cargo Tricycles for Groceries",
+      "productId": "narrak-750w-fat-tire-electric-tricycle",
+      "text": "The NARRAK 750W has front and rear baskets and hydraulic brakes on three disc rotors, which keeps a loaded shopping run controlled. Check basket size against your usual bags, and read the [grocery cargo guide](/adult-tricycle-weight-capacity-and-payload/) for load limits."
+    }
+  ],
   "bottomLine": "The NARRAK 750W is the best cargo e-trike here for its brakes and baskets. Choose the MOONCOOL for a 450 lb frame rating, the ESKUTE T300 MAX for reverse and range, and the ESKUTE 48V13Ah for shorter riders with lighter loads.",
   "amazonSearch": "cargo electric tricycles",
   "relatedPaths": [

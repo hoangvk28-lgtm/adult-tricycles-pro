@@ -287,6 +287,23 @@ export const bestFoldingElectricTricyclesForAdults: BestArticle = {
     { q: "What happens if the battery runs flat?", a: "The NARRAK 350W has a Shimano 7-speed, so you can pedal home. The gearless models are heavy to pedal, so keep a reserve and check the range with your route." },
     { q: "What should I check on a model whose rating I cannot confirm?", a: "Read recent owner reviews for hinge, brake and charger problems, check the return window and the warranty, and test the latch and brakes on delivery before the first ride." },
   ],
+  needs: [
+    {
+      "heading": "Best Lightweight Folding Electric Tricycles",
+      "productId": "narrak-350w-folding-electric-trike",
+      "text": "The NARRAK 350W is the lightest pick here at about 74 lb, which matters most when you lift or load the trike into a trunk. Check your lifting ability honestly, because even the lightest folder is a two-handed carry. See [folding fit](/folding-adult-tricycle-real-world-fit/) before you buy."
+    },
+    {
+      "heading": "Best Folding Fat Tire Electric Tricycles",
+      "productId": "tiniover-creek-folding-electric-trike",
+      "text": "The TINIOVER Creek rolls on wide 4.0 in fat tires and adds triple hydraulic brakes, a parking brake and reverse. Check that your storage space fits the folded frame, since wider tires make a bulkier package. Passenger and cargo kits are sold separately."
+    },
+    {
+      "heading": "Best Folding Electric Tricycles for Seniors",
+      "productId": "narrak-750w-aluminum-folding-trike",
+      "text": "The NARRAK 750W has a step-through aluminum frame plus hydraulic brakes with a hydraulic parking brake, which helps with mounting, stopping and stepping off on slopes. Sit on it first if you can, and confirm the step-through height suits your hips and knees. Read [how to store and transport](/how-to-store-and-transport-an-adult-tricycle/) as well."
+    }
+  ],
   bottomLine:
     "Start with the NARRAK 350W if you want gears and the lightest quoted weight, and the NARRAK 750W if you ride hills and want hydraulic brakes. Take the TINIOVER Creek to carry a passenger, and the ESKUTE or Jasion for the standard 624Wh recipe, with the Jasion adding a mirror, lock and 400 lb payload. Get the folded size and weight before you buy, check the hinge latch every time and plan to roll the trike, not lift it.",
   amazonSearch: "folding electric tricycle for adults",

@@ -399,6 +399,27 @@ export const bestBicycleTireLevers: BestArticle = {
       "a": "Yes. Levers, a patch kit and a pump are the three items for a flat. See our guides to portable pumps and repair kits."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Long Bicycle Tire Levers",
+      "productId": "gorilla-force-tire-levers",
+      "text": "The Gorilla Force levers have a built-in fulcrum and chisel tip, which give extra leverage on tight tires and for weaker hands. Check the lever length will clear your trike fender."
+    },
+    {
+      "heading": "Best Metal Bicycle Tire Levers",
+      "productId": "tragoods-stainless-steel-levers-set-of-3",
+      "text": "The Tragoods set is stainless steel in a set of 3 with snap-together storage. Steel can scratch rims, so use care, and check [tire repair kits](/accessories/best-bicycle-tire-repair-kits-for-tricycles/)."
+    },
+    {
+      "heading": "Best Plastic Bicycle Tire Levers",
+      "productId": "uyiii-3-pack-tire-levers",
+      "text": "The UYIii 3-pack has rounded edges and thumb grooves and is gentle on rims. Plastic can snap on very tight tires, so keep a metal or Park Tool lever as backup."
+    },
+    {
+      "heading": "Best Tire Levers for Tubeless Bicycle Tires",
+      "text": "None of these is made for tubeless tires, so no pick fits. The Park Tool TL-1.2 has a narrow profile and spoke hook, a good general option. Tubeless beads can be stubborn, so check bead compatibility."
+    }
+  ],
   "bottomLine": "The Park Tool TL-1.2 is the best everyday set, and the Gorilla Force is the one to buy if your tires are tight. Keep a pair in your trike basket with a patch kit and pump, and read our guide to tire pressure and punctures for the full routine.",
   "amazonSearch": "bike tire levers",
   "relatedPaths": [

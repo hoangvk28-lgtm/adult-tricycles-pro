@@ -371,6 +371,27 @@ export const bestBikeTailLightsForAdultTricycles: BestArticle = {
       "a": "When the battery shortens noticeably or seals crack. Rechargeable cells wear out after a few hundred cycles."
     }
   ],
+  needs: [
+    {
+      "heading": "Best Bike Tail Lights for Aero Seatposts",
+      "text": "None of these lights is designed for aero seatposts, and most trikes do not use them anyway. The BLITZU Cyborg has a flexible mount for seat posts and stays. Check it grips your post shape before you rely on it."
+    },
+    {
+      "heading": "Best Bike Tail Lights for Saddle Bags",
+      "productId": "blitzu-cyborg-120t-2-pack-tail-lights",
+      "text": "The BLITZU Cyborg has a flexible mount made for seat posts, stays, helmets and bags, so it clips onto a saddle or cargo bag. Check the bag has a strap loop high enough that the light is not blocked."
+    },
+    {
+      "heading": "Best Helmet Mounted Bike Tail Lights",
+      "productId": "blitzu-cyborg-120t-2-pack-tail-lights",
+      "text": "The BLITZU Cyborg also mounts to helmets, and the two-pack lets you put one on the trike and one on your head. Check the helmet clip sits flat, and see the [turn signal guide](/accessories/best-bike-turn-signals-for-adult-tricycles/)."
+    },
+    {
+      "heading": "Best Rechargeable Bike Tail Lights",
+      "productId": "ascher-1000-lumen-light-set-with-tail-light",
+      "text": "The Ascher 1000 Lumen set charges over Type-C, has a 4000 mAh battery and is IP65 rated. Check the charge time before a long ride, and the [headlight guide](/accessories/best-bike-headlights-for-adult-tricycles/) covers the front."
+    }
+  ],
   "bottomLine": "The Ascher 1000 Lumen set is the best overall rear solution, while the BLITZU 2-pack gives a wide trike its best chance of being judged correctly by drivers. Combine either with a headlight and signals for complete coverage.",
   "amazonSearch": "bike tail lights",
   "relatedPaths": [
