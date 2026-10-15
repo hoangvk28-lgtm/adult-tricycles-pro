@@ -241,7 +241,7 @@ export const bestBikeAlarmsUnder25: BestArticle = {
     },
     {
       "title": "Alarms only",
-      "body": "A disc brake lock was dropped because trikes rarely have a disc rotor to lock, so every pick here works on any frame."
+      "body": "Disc brake locks are a poor fit because trikes rarely have a disc rotor to lock, so every pick here works on any frame."
     }
   ],
   "whatToLookFor": [

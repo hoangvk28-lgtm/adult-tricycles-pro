@@ -224,7 +224,7 @@ export const bestLockOnBicycleGrips: BestArticle = {
   "howWeChose": [
     {
       "title": "Real lock-on design",
-      "body": "We kept grips with an aluminum lock ring or ring pair. Slip-on grips that rely on friction alone were left out, since they can twist."
+      "body": "We kept grips with an aluminum lock ring or ring pair. Avoid slip-on grips that rely on friction alone, since they can twist."
     },
     {
       "title": "Bar fit",

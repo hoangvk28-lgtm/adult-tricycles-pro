@@ -193,7 +193,7 @@ export const bestRearBikeBasketsForGroceries: BestArticle = {
   "howWeChose": [
     {
       "title": "Grocery shape",
-      "body": "We kept baskets with a liner, cover and net, since groceries include tall bags and wet items. Decorative or open-weave baskets were left out because loads fall through them."
+      "body": "We kept baskets with a liner, cover and net, since groceries include tall bags and wet items. Avoid decorative or open-weave baskets because loads fall through them."
     },
     {
       "title": "Depth and floor",

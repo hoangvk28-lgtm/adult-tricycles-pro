@@ -200,7 +200,7 @@ export const bestElectricBikePumpsUnder40: BestArticle = {
     },
     {
       "title": "True electric pumps only",
-      "body": "We dropped manual foot pumps and plain gauge adapters, leaving only cordless electric pumps that fill a tire without hand effort from a rider with tired hands."
+      "body": "Every pick is a cordless electric pump that fills a tire without hand effort from a rider with tired hands."
     }
   ],
   "whatToLookFor": [

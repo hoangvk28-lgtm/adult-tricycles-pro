@@ -28,7 +28,7 @@ export const bestDogCarriersForAdultTricycles: BestArticle = {
   },
   "intro": [
     "Dogs on trikes are only a good idea for small dogs, and the carrier has to do three jobs: hold the dog's weight, stop it from jumping out and mount without swaying. A trike's wide rear platform helps because it is stable, but a front handlebar mount changes steering.",
-    "We compared four carriers on stated weight limits, tether design, mounting position and fit on a trike. We dropped a poop-bag holder and a person-worn bubble backpack because neither mounts to a trike."
+    "We compared four carriers on stated weight limits, tether design, mounting position and fit on a trike. Accessories worn by a person, such as bubble backpacks, do not mount to a trike, so choose a carrier made for one."
   ],
   "shortAnswer": "The Lunies Folding Rear Basket is the best option with a 56 lb wire rating and a waterproof liner for a dog on a trike's rear platform. The Lunies Large Rear Basket adds an 18L space and cargo net. The RAYMACE front basket offers a pet tether but only an 11 lb load rating, and the PetAmi soft carrier has an interior safety leash.",
   "products": [

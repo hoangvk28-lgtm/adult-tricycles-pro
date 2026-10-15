@@ -5,7 +5,7 @@
 const BASE = process.env.BASE || "http://localhost:3000";
 const TAG = "adulttricyclespro-20";
 // Research-process leaks that make copy read as pasted from a product page (CLAUDE.md 4b).
-const LEAK = /\b(the listing|listings?\b|not listed|as listed|listed (at|as|for)|the seller|sellers? (says|lists|gives)|not stated|amazon lists|according to the|product page|features we have|in the features|the facts we|the description|(its|their|whose|the) features( text)? (names?|says?|states?|mentions?|lists?|shows?)|spec sheet says|we could find on amazon)/i;
+const LEAK = /\b(the listing|listings?\b|not listed|as listed|listed (at|as|for)|the seller|sellers? (says|lists|gives)|not stated|amazon lists|according to the|product page|features we have|in the features|the facts we|the description|search results|showed up for|for this (phrase|search)|we left (it|them) out|(was|were) left out|we dropped|(was|were) dropped|(its|their|whose|the) features( text)? (names?|says?|states?|mentions?|lists?|shows?)|spec sheet says|we could find on amazon)/i;
 const BANNED = /\b(we tested|we tried|in our lab|medically reviewed by|danny|campsite)\b/i;
 
 const errors = [];

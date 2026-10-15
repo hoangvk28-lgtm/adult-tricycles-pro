@@ -142,7 +142,7 @@ export const bestAdultTricycleCovers: BestArticle = {
     },
   ],
   howWeChose: [
-    { title: "Realistic trike fit", body: "Every cover is large enough to have a reasonable chance of fitting a full-size trike: at least 75 inches long and 43 inches high. Covers cut for small bikes were left out." },
+    { title: "Realistic trike fit", body: "Every cover is large enough to have a reasonable chance of fitting a full-size trike: at least 75 inches long and 43 inches high. Avoid covers cut for small bikes, because they will not reach over a trike." },
     { title: "Owner track record", body: "Each pick has at least 4.2 stars across 20 or more Amazon ratings, because a cover's fabric and stitching only show their quality after a season of sun and rain." },
     { title: "Wind hold", body: "We compared how many tie-down points each cover has, from simple front and rear hems to a middle buckle, since wind lift is the main way covers fail." },
     { title: "Lock access", body: "A trike parked outside is usually cabled to something, so we favored covers with a lock opening at the front wheel." },

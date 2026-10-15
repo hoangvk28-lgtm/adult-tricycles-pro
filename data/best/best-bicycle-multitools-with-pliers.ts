@@ -28,7 +28,7 @@ export const bestBicycleMultitoolsWithPliers: BestArticle = {
   },
   "intro": [
     "An adult trike has one long chain, often with a derailleur, and a broken link can leave you pushing a heavy three-wheeler home. Master-link pliers open and close the quick link that joins the chain, which makes a roadside repair a two-minute job instead of a tow.",
-    "Most multitools with real pliers are chain tools in disguise, so this guide compares link pliers, chain kits and the one multitool that mixes link pliers with tire-lever and valve functions. Needle-nose pocket knives were left out because they do not open master links."
+    "Most multitools with real pliers are chain tools in disguise, so this guide compares link pliers, chain kits and the one multitool that mixes link pliers with tire-lever and valve functions. Needle-nose pocket knives do not open master links, so choose a true bicycle multitool."
   ],
   "shortAnswer": "The Oumers chain repair set is the best all-round pick because it combines a chain breaker, link pliers and a 0.75 and 1.0 wear checker for 7 to 12 speed chains. The Wolf Tooth Pack Pliers is the best one to carry on a ride, the Ristimalink is a similar kit, and the two COTOUXKER sets cover 5 to 12 speed chains. Only the Oumers has an established record here; the others are unverified.",
   "products": [

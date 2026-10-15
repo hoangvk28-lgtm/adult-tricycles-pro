@@ -28,7 +28,7 @@ export const bestDoubleBikePannierBags: BestArticle = {
   },
   "intro": [
     "Double panniers hang one bag on each side of the rack, which keeps the weight even and the trike steady in a turn. A trike's wide rear platform and axle are different from a bicycle rack, so the mounting and the bag width both need a check.",
-    "We kept three options: two true two-bag sets from ROCKBROS and MOSISO, and one expandable bag from NDakter that you should confirm is sold as a pair. We left out single seat bags that only use the word double for a double layer of fabric."
+    "We kept three options: two true two-bag sets from ROCKBROS and MOSISO, and one expandable bag from NDakter that you should confirm is sold as a pair. Beware single seat bags that only use the word double for a double layer of fabric."
   ],
   "shortAnswer": "ROCKBROS is our pick for carrying the most, with two 30 liter roll-top bags and a three-point quick-release mount. MOSISO is the smaller flap-top pair at 20 liters each, and NDakter expands from 25 to 35 liters but needs a quantity check before you rely on it as a pair.",
   "products": [
@@ -152,7 +152,7 @@ export const bestDoubleBikePannierBags: BestArticle = {
   "howWeChose": [
     {
       "title": "A true pair of bags",
-      "body": "We kept sets sold as two bags, and one expandable bag that needs a quantity check. Single seat bags that use the word double for a layered fabric were left out."
+      "body": "We kept sets sold as two bags, and one expandable bag that needs a quantity check. Beware single seat bags that use the word double for a layered fabric."
     },
     {
       "title": "Closure and weather",

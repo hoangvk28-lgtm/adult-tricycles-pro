@@ -180,7 +180,7 @@ export const bestNonPolarizedCyclingSunglasses: BestArticle = {
   "howWeChose": [
     {
       "title": "Not polarized",
-      "body": "We kept photochromic pairs sold without polarization. Polarized pairs were left out, because they can dim LCD screens, and this article is for riders who want clear screens."
+      "body": "We kept photochromic pairs sold without polarization. Polarized pairs can dim LCD screens, and this article is for riders who want clear screens."
     },
     {
       "title": "UV protection",

@@ -28,7 +28,7 @@ export const bestLargeBasketsForAdultTricycles: BestArticle = {
   },
   "intro": [
     "A large basket turns an adult trike into a grocery hauler, but size is only one part of the choice. The wire gauge, the stated load rating and the way the basket bolts down decide whether a full load rides quietly or rattles loose.",
-    "We kept five rear baskets that run roughly 16 to 17 inches long, plus one foldable bag-and-basket combination for cold goods. Small front baskets and decorative wicker styles were left out, because this article is about carrying real volume behind the rider."
+    "We kept five rear baskets that run roughly 16 to 17 inches long, plus one foldable bag-and-basket combination for cold goods. Small front baskets and decorative wicker styles do not suit this job, because this article is about carrying real volume behind the rider."
   ],
   "shortAnswer": "YEYPOP is our pick for hauling the most, with 17 mm steel tubes and a 210 pound rating. SAMRELAX is the roomiest at 16.9 by 13 inches, RAYMACE adds a perforated floor, CXWXC is the lightest aluminum option, and goroo folds flat and keeps food cold.",
   "products": [
@@ -231,7 +231,7 @@ export const bestLargeBasketsForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Real volume",
-      "body": "We kept baskets that reach roughly 16 to 17 inches in length, plus one foldable combination. Small front baskets and decorative styles were left out because they cannot carry a full grocery trip."
+      "body": "We kept baskets that reach roughly 16 to 17 inches in length, plus one foldable combination. Small front baskets and decorative styles cannot carry a full grocery trip."
     },
     {
       "title": "Frame and rating",

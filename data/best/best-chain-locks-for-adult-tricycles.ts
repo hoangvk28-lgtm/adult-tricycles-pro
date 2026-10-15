@@ -317,7 +317,7 @@ export const bestChainLocksForAdultTricycles: BestArticle = {
     },
     {
       "q": "Are cable locks acceptable?",
-      "a": "Thin cables are cut quickly, so we left them out of this guide in favor of hardened steel chains. Even a short, thin chain is a better delay than a cable of the same weight."
+      "a": "Thin cables are cut quickly, so hardened steel chains are the better choice. Even a short, thin chain is a better delay than a cable of the same weight."
     },
     {
       "q": "What if I lose the key?",

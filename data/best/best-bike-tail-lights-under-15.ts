@@ -200,7 +200,7 @@ export const bestBikeTailLightsUnder15: BestArticle = {
     },
     {
       "title": "Right product only",
-      "body": "Rack mounts and head-and-tail sets were dropped, leaving true tail lights."
+      "body": "Stick to true tail lights rather than rack mounts or head-and-tail sets."
     }
   ],
   "whatToLookFor": [

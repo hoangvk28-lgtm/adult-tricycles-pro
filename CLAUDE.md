@@ -36,10 +36,10 @@ The Creators API does NOT return star ratings or review counts. Scraping product
 ## 3b. Best pipeline (~14k Sonnet tokens per article)
 1. `node scripts/rank-pool.mjs queries.json pool.json` (API pool with sales rank).
 2. `node scripts/stage-a.mjs config.json pool.json facts-dir` (on-topic regex, req/minPrice/maxPrice, site-wide rank bar, brand cap, no reuse beyond allowReuse; zero LLM tokens). No rating scraping.
-3. Two Sonnet agents in parallel (user, 2026-10-15), ~10 slugs each per run, each on its own slug list; they read only `scripts/best-prose-brief.md` + facts and write prose JSON.
+3. ONE Sonnet agent at a time (user, 2026-10-15, to save tokens; earlier briefly two in parallel), ~12 slugs per run; it reads only `scripts/best-prose-brief.md` + facts and write prose JSON.
 4. `node scripts/build-best.mjs facts-dir prose-dir YYYY-MM-DD --register` builds `data/best/*.ts` and rejects leaks, rating numbers, dashes, bad title/description lengths, and thin guide sections (`scripts/depth-check.mjs`, see 3c).
 5. Build, `npm run check:content`, commit locally. Push only when the user says push.
-Never more than two writers; never let the writer read CLAUDE.md or full reference articles.
+Never parallel writers; never let the writer read CLAUDE.md or full reference articles.
 
 **Freshness rule (user, 2026-10-14):** every new batch calls the API with fresh, angle-specific
 queries (brand, feature, price) so articles get new products. Reuse at most 2-3 products per

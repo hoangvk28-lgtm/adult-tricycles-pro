@@ -28,7 +28,7 @@ export const bestElectricTricyclesUnder500: BestArticle = {
   },
   "intro": [
     "At this price, an electric tricycle is a compromise machine. Most models use one hub motor, a modest battery and a folding frame with small fat tires, and the people who stand behind the product are often new to the market. That does not make them bad, but it does change how you should shop.",
-    "We kept four folding e-trikes that are clearly built for adults and that state their motor, battery and rider range. We dropped hitch racks and other accessories that appear in the same searches. None of these is a proven long term choice, so the guide leans on specs you can check and a plan for the first week of ownership."
+    "We kept four folding e-trikes that are clearly built for adults and that state their motor, battery and rider range. Hitch racks and other accessories are not trikes, so skip them. None of these is a proven long term choice, so the guide leans on specs you can check and a plan for the first week of ownership."
   ],
   "shortAnswer": "The Ligood T300 is our top pick for its 624Wh battery and a stated rider range that starts at 4'8\". The Qlife is the stronger climber, with a 1200W peak motor and dual mechanical disc brakes. The two NARRAK versions are the choice if you want Shimano 7-speed gearing, but they have the smallest motor and battery, so keep them for short, flat routes.",
   "products": [
@@ -198,7 +198,7 @@ export const bestElectricTricyclesUnder500: BestArticle = {
   "howWeChose": [
     {
       "title": "Real adult e-trike",
-      "body": "We kept folding electric tricycles with a stated motor and battery and dropped hitch racks and accessories that appear in the same searches."
+      "body": "Look for folding electric tricycles with a stated motor and battery, not hitch racks or accessories."
     },
     {
       "title": "Battery and motor",

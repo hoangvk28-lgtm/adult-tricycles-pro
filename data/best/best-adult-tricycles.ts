@@ -175,7 +175,7 @@ export const bestAdultTricycles: BestArticle = {
     },
   ],
   howWeChose: [
-    { title: "Owner track record", body: "Every pick has at least 4.2 stars across 20 or more Amazon ratings, counted on the version of each model with the longest owner history. Good-looking models with only a handful of reviews were left out." },
+    { title: "Owner track record", body: "Every pick has at least 4.2 stars across 20 or more Amazon ratings, counted on the version of each model with the longest owner history. Be cautious with good-looking models that have only a handful of reviews." },
     { title: "Fit information", body: "We favored brands that give clear rider height ranges per frame size, because a trike that is too tall or too short is the most common reason people stop riding." },
     { title: "Terrain and gearing", body: "We matched single-speed and 7-speed models to the routes they suit, rather than treating more gears as automatically better." },
     { title: "Brakes and hands", body: "We looked at what brake acts on which wheel, and whether an enclosed hub brake is fitted, since those keep working in the wet and need little adjustment." },

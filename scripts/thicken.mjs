@@ -4,7 +4,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { depthProblems } from "./depth-check.mjs";
-const LEAK = /\b(the listing|listings?|not listed|as listed|the seller|amazon lists|not stated|product page|facts file|features we have|in the features|the facts|according to the (maker|manufacturer|brand|spec|specs)|the description|(its|their|whose|the) features( text)? (names?|says?|states?|mentions?|lists?|shows?)|campsites?)\b/i;
+const LEAK = /\b(the listing|listings?|not listed|as listed|the seller|amazon lists|not stated|product page|facts file|features we have|in the features|the facts|according to the (maker|manufacturer|brand|spec|specs)|the description|search results|showed up for|for this (phrase|search)|we left (it|them) out|(was|were) left out|we dropped|(was|were) dropped|(its|their|whose|the) features( text)? (names?|says?|states?|mentions?|lists?|shows?)|campsites?)\b/i;
 const RATED = /\b\d\.\d stars?\b|\b(?!20\b)\d[\d,]* (amazon )?ratings\b/i;
 const KEYS = ["howWeChose", "whatToLookFor", "howToChoose", "faq", "bottomLine"];
 const read = (slug) => {

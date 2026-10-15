@@ -144,7 +144,7 @@ export const bestPaddedCyclingGloves: BestArticle = {
   "howWeChose": [
     {
       "title": "Real palm padding",
-      "body": "We kept half-finger gloves with a gel or shock-absorbing palm pad. Thin unpadded gloves were left out, because the padding spreads pressure on a trike's grip."
+      "body": "We kept half-finger gloves with a gel or shock-absorbing palm pad. Thin unpadded gloves are a poor choice, because the padding spreads pressure on a trike's grip."
     },
     {
       "title": "Grip surface",

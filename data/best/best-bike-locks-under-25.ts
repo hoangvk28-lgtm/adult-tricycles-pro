@@ -197,7 +197,7 @@ export const bestBikeLocksUnder25: BestArticle = {
     },
     {
       "title": "Fit for this tier",
-      "body": "Products that were really scooter holders, disc locks or the wrong item were dropped, leaving only locks that make sense on a trike."
+      "body": "Scooter holders and disc locks are the wrong item, so stick to locks that make sense on a trike."
     }
   ],
   "whatToLookFor": [

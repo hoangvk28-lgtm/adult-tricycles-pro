@@ -183,7 +183,7 @@ export const bestBicycleRimBrakePads: BestArticle = {
   "howWeChose": [
     {
       "title": "Brake type match",
-      "body": "We separated V-brake shoes from caliper pads and dropped disc pads, since the wrong shape cannot be made to fit."
+      "body": "V-brake shoes and caliper pads are different shapes, and disc pads do not fit rim brakes at all, since the wrong shape cannot be made to fit."
     },
     {
       "title": "Wear visibility",
@@ -305,7 +305,7 @@ export const bestBicycleRimBrakePads: BestArticle = {
   "faq": [
     {
       "q": "Do these pads fit disc brakes?",
-      "a": "No. All five here are for rim brakes only. Disc pads are a different part with a different shape, and the AGPTEK set that looked like a rim pad is actually for disc calipers, so it was dropped."
+      "a": "No. All five here are for rim brakes only. Disc pads are a different part with a different shape, so check that a set is made for rim brakes before ordering."
     },
     {
       "q": "How do I know my trike needs new pads?",

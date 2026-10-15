@@ -202,7 +202,7 @@ export const bestBikeSeatsUnder25: BestArticle = {
     },
     {
       "title": "Right product only",
-      "body": "Saddle bags were dropped because they are not seats, so every pick here is a full saddle with a clamp or adapter."
+      "body": "Saddle bags are not seats, so every pick here is a full saddle with a clamp or adapter."
     }
   ],
   "whatToLookFor": [

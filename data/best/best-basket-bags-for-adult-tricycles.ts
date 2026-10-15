@@ -28,7 +28,7 @@ export const bestBasketBagsForAdultTricycles: BestArticle = {
   },
   "intro": [
     "An open wire basket is fine for a shopping bag but poor for a wallet, phone and keys, which bounce around and get wet. A fitted bag solves that, though most bike bags are designed for a narrow two-wheel rack, not a wide trike basket.",
-    "We compared four rack bags and panniers on capacity, waterproofing, strap fastening and reflective details. We also dropped two vehicle hitch cargo carriers that appeared in the search results, because they mount to a car and not to a trike."
+    "We compared four rack bags and panniers on capacity, waterproofing, strap fastening and reflective details. Vehicle hitch cargo carriers mount to a car and not to a trike, so skip them."
   ],
   "shortAnswer": "The JXFUKAL hard shell bag is the best all-round pick for its waterproof EVA shell and choice of 9.5L, 17L and 40L sizes. The Kinetrail panniers give the most volume at 25 to 35L. The JXFUKAL 7L to 12L rack bag adds a rain cover and the KEMIMOTO 8L is the most flexible with hand and shoulder straps.",
   "products": [
