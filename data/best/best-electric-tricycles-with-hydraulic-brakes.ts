@@ -15,7 +15,7 @@ export const bestElectricTricyclesWithHydraulicBrakes: BestArticle = {
   },
   "title": "Best Electric Tricycles with Hydraulic Brakes for Adults",
   "metaTitle": "Best Electric Trikes: Hydraulic Brakes",
-  "description": "Four electric trikes that state hydraulic disc brakes, compared on rotor count, parking brake, lever effort for older hands and stopping a loaded trike.",
+  "description": "Three electric trikes with hydraulic disc brakes, compared on rotor count, parking brake, lever effort for older hands and stopping a loaded trike.",
   "dek": "A powered trike with a battery and baskets is heavy, and hydraulic discs make stopping it easier on the hand.",
   "published": "2026-10-15",
   "updated": "2026-10-15",
@@ -28,7 +28,7 @@ export const bestElectricTricyclesWithHydraulicBrakes: BestArticle = {
   },
   "intro": [
     "Hydraulic brakes use fluid in a sealed line to push the pads against the rotor, so the lever needs less pull than a cable-driven mechanical disc. For riders with arthritis, small hands or weak grip, that is the difference between a one-finger stop and a hard squeeze. It also matters because an electric trike with a battery, a motor and a loaded basket weighs far more than a regular tricycle.",
-    "We checked only trikes whose features text states hydraulic brakes. Rotor count, parking brake and motor cutoff vary, so we compared those too. Maintenance is worth knowing: hydraulic systems rarely need cable adjustments, but a leak or air in the line needs a shop."
+    "We included only trikes specified with hydraulic brakes. Rotor count, parking brake and motor cutoff vary, so we compared those too. Maintenance is worth knowing: hydraulic systems rarely need cable adjustments, but a leak or air in the line needs a shop."
   ],
   "shortAnswer": "The MOONCOOL TK2 Pro is our top pick, with hydraulic discs, motor cutoff, a parking brake and a 960Wh battery. The NARRAK trikes stand out for three disc rotors and a hydraulic parking brake on 4 inch tires. The MOONCOOL 750W is the simpler hydraulic trike with reverse and baskets.",
   "products": [

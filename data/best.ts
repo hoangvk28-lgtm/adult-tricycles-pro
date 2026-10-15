@@ -1,4 +1,39 @@
 import type { Article } from "@/data/types";
+import { bestWinterCyclingGloves } from "@/data/best/best-winter-cycling-gloves";
+import { bestWaterproofBikePannierBags } from "@/data/best/best-waterproof-bike-pannier-bags";
+import { bestStrapOnBikeBottleHolders } from "@/data/best/best-strap-on-bike-bottle-holders";
+import { bestRearBikeRacksWithoutMountingEyelets } from "@/data/best/best-rear-bike-racks-without-mounting-eyelets";
+import { bestPlusSizeCyclingRainJackets } from "@/data/best/best-plus-size-cycling-rain-jackets";
+import { bestPlatformPedalsForAdultTricycles } from "@/data/best/best-platform-pedals-for-adult-tricycles";
+import { bestPhotochromicCyclingSunglasses } from "@/data/best/best-photochromic-cycling-sunglasses";
+import { bestPannierRacksForAdultTricycles } from "@/data/best/best-pannier-racks-for-adult-tricycles";
+import { bestPackableCyclingRainJackets } from "@/data/best/best-packable-cycling-rain-jackets";
+import { bestLongSleeveSunProtectionCyclingShirts } from "@/data/best/best-long-sleeve-sun-protection-cycling-shirts";
+import { bestHeatedCyclingGloves } from "@/data/best/best-heated-cycling-gloves";
+import { bestHandlebarMountedBikeBottleHolders } from "@/data/best/best-handlebar-mounted-bike-bottle-holders";
+import { bestHandlebarBagsForAdultTricycles } from "@/data/best/best-handlebar-bags-for-adult-tricycles";
+import { bestFoldingBicyclePedals } from "@/data/best/best-folding-bicycle-pedals";
+import { bestErgonomicBicycleGrips } from "@/data/best/best-ergonomic-bicycle-grips";
+import { bestDualSidedPlatformAndCliplessPedals } from "@/data/best/best-dual-sided-platform-and-clipless-pedals";
+import { bestCyclingSunglassesWithReaders } from "@/data/best/best-cycling-sunglasses-with-readers";
+import { bestCyclingSunglassesWithCameras } from "@/data/best/best-cycling-sunglasses-with-cameras";
+import { bestCyclingSunglassesThatFitOverPrescriptionGlasses } from "@/data/best/best-cycling-sunglasses-that-fit-over-prescription-glasses";
+import { bestCyclingSunglassesForTricycleRiders } from "@/data/best/best-cycling-sunglasses-for-tricycle-riders";
+import { bestCyclingSunglassesForSmallFaces } from "@/data/best/best-cycling-sunglasses-for-small-faces";
+import { bestCyclingSunglassesForLargeHeads } from "@/data/best/best-cycling-sunglasses-for-large-heads";
+import { bestCyclingSunSleeves } from "@/data/best/best-cycling-sun-sleeves";
+import { bestCyclingRainPonchosForTricycleRiders } from "@/data/best/best-cycling-rain-ponchos-for-tricycle-riders";
+import { bestCyclingRainJacketsForTricycleRiders } from "@/data/best/best-cycling-rain-jackets-for-tricycle-riders";
+import { bestCyclingRainJacketsForTallRiders } from "@/data/best/best-cycling-rain-jackets-for-tall-riders";
+import { bestCyclingRainJacketsForCommuting } from "@/data/best/best-cycling-rain-jackets-for-commuting";
+import { bestCyclingGlovesForTricycleRiders } from "@/data/best/best-cycling-gloves-for-tricycle-riders";
+import { bestBikePannierBagsForLaptops } from "@/data/best/best-bike-pannier-bags-for-laptops";
+import { bestBikePannierBagsForGroceries } from "@/data/best/best-bike-pannier-bags-for-groceries";
+import { bestBikeCupHoldersForCoffee } from "@/data/best/best-bike-cup-holders-for-coffee";
+import { bestBikeBottleHoldersForLargeBottles } from "@/data/best/best-bike-bottle-holders-for-large-bottles";
+import { bestBicyclePedalsForAdultTricycles } from "@/data/best/best-bicycle-pedals-for-adult-tricycles";
+import { bestBicyclePedalStrapsForTricycles } from "@/data/best/best-bicycle-pedal-straps-for-tricycles";
+import { bestBicycleGripsForTwistShifters } from "@/data/best/best-bicycle-grips-for-twist-shifters";
 import { bestTricycleCoversUnder50 } from "@/data/best/best-tricycle-covers-under-50";
 import { bestTricycleBasketsUnder50 } from "@/data/best/best-tricycle-baskets-under-50";
 import { bestStorageShedsForTricyclesUnder150 } from "@/data/best/best-storage-sheds-for-tricycles-under-150";
@@ -217,6 +252,41 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestWinterCyclingGloves,
+  bestWaterproofBikePannierBags,
+  bestStrapOnBikeBottleHolders,
+  bestRearBikeRacksWithoutMountingEyelets,
+  bestPlusSizeCyclingRainJackets,
+  bestPlatformPedalsForAdultTricycles,
+  bestPhotochromicCyclingSunglasses,
+  bestPannierRacksForAdultTricycles,
+  bestPackableCyclingRainJackets,
+  bestLongSleeveSunProtectionCyclingShirts,
+  bestHeatedCyclingGloves,
+  bestHandlebarMountedBikeBottleHolders,
+  bestHandlebarBagsForAdultTricycles,
+  bestFoldingBicyclePedals,
+  bestErgonomicBicycleGrips,
+  bestDualSidedPlatformAndCliplessPedals,
+  bestCyclingSunglassesWithReaders,
+  bestCyclingSunglassesWithCameras,
+  bestCyclingSunglassesThatFitOverPrescriptionGlasses,
+  bestCyclingSunglassesForTricycleRiders,
+  bestCyclingSunglassesForSmallFaces,
+  bestCyclingSunglassesForLargeHeads,
+  bestCyclingSunSleeves,
+  bestCyclingRainPonchosForTricycleRiders,
+  bestCyclingRainJacketsForTricycleRiders,
+  bestCyclingRainJacketsForTallRiders,
+  bestCyclingRainJacketsForCommuting,
+  bestCyclingGlovesForTricycleRiders,
+  bestBikePannierBagsForLaptops,
+  bestBikePannierBagsForGroceries,
+  bestBikeCupHoldersForCoffee,
+  bestBikeBottleHoldersForLargeBottles,
+  bestBicyclePedalsForAdultTricycles,
+  bestBicyclePedalStrapsForTricycles,
+  bestBicycleGripsForTwistShifters,
   bestTricycleCoversUnder50,
   bestTricycleBasketsUnder50,
   bestStorageShedsForTricyclesUnder150,

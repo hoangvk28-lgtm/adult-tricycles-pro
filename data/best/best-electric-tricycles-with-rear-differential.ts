@@ -15,7 +15,7 @@ export const bestElectricTricyclesWithRearDifferential: BestArticle = {
   },
   "title": "Best Electric Tricycles with a Rear Differential for Adults",
   "metaTitle": "Best Electric Trikes With Differential",
-  "description": "Five electric trikes whose features name a rear differential, with notes on cornering, tire scrub and what to check before you buy one for an adult rider.",
+  "description": "Four electric trikes with a rear differential, with notes on cornering, tire scrub and what to check before you buy one for an adult rider.",
   "dek": "A differential lets the two rear wheels turn at different speeds, which is the single biggest handling difference on a powered trike.",
   "published": "2026-10-15",
   "updated": "2026-10-15",
@@ -322,7 +322,7 @@ export const bestElectricTricyclesWithRearDifferential: BestArticle = {
     },
     {
       "q": "Do all electric trikes have a differential?",
-      "a": "No. Some use a solid rear axle where both wheels turn together. Check that the features text names a differential before buying."
+      "a": "No. Some use a solid rear axle where both wheels turn together. Check that the spec sheet names a differential before buying."
     },
     {
       "q": "Does a differential make the trike tip-proof?",

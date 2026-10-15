@@ -289,7 +289,7 @@ export const bestElectricTricyclesWithReverse: BestArticle = {
     },
     {
       "q": "Are the ESKUTE brakes hydraulic?",
-      "a": "The features say triple disc brakes without naming hydraulic or mechanical. Confirm that before you decide."
+      "a": "Its spec names triple disc brakes without saying hydraulic or mechanical. Confirm that before you decide."
     }
   ],
   "bottomLine": "Reverse is a quality-of-life feature that only a few trikes offer. The MOONCOOL TK2 Pro is the best-documented choice, the MOONCOOL 750W is the simpler one, and the ESKUTE T300 MAX is the high-power option to confirm before you buy.",
