@@ -46,6 +46,17 @@ queries (brand, feature, price) so articles get new products. Reuse at most 2-3 
 article that already appear in other articles (`allowReuse: 2` or 3 in the Stage A config; the
 used-ASIN scan reads both `asin:` and `"asin":`). The `prior` copy is only for those reused picks.
 
+**Category tagging (2026-10-15):** keyword regexes let tires into helmet articles and Bell-brand
+tubes into bell articles. Before Stage A, run `node scripts/classify-pool.mjs pool.json pool-tag.json`
+(tags each title with its product category) and give every slug a `must` that starts with
+`(?=^\[(cat)\] )` chosen from the slug, then strip the tag from facts titles before writing.
+Writers leave misfit products out entirely (never "labelled misfit" picks) and skip slugs below
+the minimum (3 products; 2 for tire/tube sizes and price tiers).
+
+**No assembly talk (2026-10-15):** never write how the article was built ("search results",
+"showed up for this phrase", "we left out", "was dropped", products not in the article). The
+leak regex in build-best, thicken and check-content rejects these.
+
 ## 3c. Guide-section depth (MANDATORY, lesson of 2026-10-15)
 **What went wrong:** the compact brief said only "1-2 sentences" with no minimum, so writer agents
 compressed further each batch. 130 of 212 Best articles shipped with guide sections like
