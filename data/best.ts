@@ -1,4 +1,20 @@
 import type { Article } from "@/data/types";
+import { bestWaterBottleCagesForTricycles } from "@/data/best/best-water-bottle-cages-for-tricycles";
+import { bestTireSealantsForBicycles } from "@/data/best/best-tire-sealants-for-bicycles";
+import { bestRearRacksForAdultTricycles } from "@/data/best/best-rear-racks-for-adult-tricycles";
+import { bestPhoneMountsForAdultTricycles } from "@/data/best/best-phone-mounts-for-adult-tricycles";
+import { bestPetTrailersForAdultTricycles } from "@/data/best/best-pet-trailers-for-adult-tricycles";
+import { bestPanniersForAdultTricycles } from "@/data/best/best-panniers-for-adult-tricycles";
+import { bestLongRangeElectricTricycles } from "@/data/best/best-long-range-electric-tricycles";
+import { bestKickstandsForAdultTricycles } from "@/data/best/best-kickstands-for-adult-tricycles";
+import { bestFendersForAdultTricycles } from "@/data/best/best-fenders-for-adult-tricycles";
+import { bestElectricTricyclesWithThrottle } from "@/data/best/best-electric-tricycles-with-throttle";
+import { bestElectricTricyclesWithReverse } from "@/data/best/best-electric-tricycles-with-reverse";
+import { bestElectricTricyclesWithRearDifferential } from "@/data/best/best-electric-tricycles-with-rear-differential";
+import { bestElectricTricyclesWithHydraulicBrakes } from "@/data/best/best-electric-tricycles-with-hydraulic-brakes";
+import { bestCycleComputersForAdultTricycles } from "@/data/best/best-cycle-computers-for-adult-tricycles";
+import { bestBikeRepairStands } from "@/data/best/best-bike-repair-stands";
+import { bestBikeGripsForAdultTricycles } from "@/data/best/best-bike-grips-for-adult-tricycles";
 import { bestTricycleCoversUnder25 } from "@/data/best/best-tricycle-covers-under-25";
 import { bestElectricBikePumpsUnder40 } from "@/data/best/best-electric-bike-pumps-under-40";
 import { bestBikeTailLightsUnder15 } from "@/data/best/best-bike-tail-lights-under-15";
@@ -153,6 +169,22 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestWaterBottleCagesForTricycles,
+  bestTireSealantsForBicycles,
+  bestRearRacksForAdultTricycles,
+  bestPhoneMountsForAdultTricycles,
+  bestPetTrailersForAdultTricycles,
+  bestPanniersForAdultTricycles,
+  bestLongRangeElectricTricycles,
+  bestKickstandsForAdultTricycles,
+  bestFendersForAdultTricycles,
+  bestElectricTricyclesWithThrottle,
+  bestElectricTricyclesWithReverse,
+  bestElectricTricyclesWithRearDifferential,
+  bestElectricTricyclesWithHydraulicBrakes,
+  bestCycleComputersForAdultTricycles,
+  bestBikeRepairStands,
+  bestBikeGripsForAdultTricycles,
   bestTricycleCoversUnder25,
   bestElectricBikePumpsUnder40,
   bestBikeTailLightsUnder15,
