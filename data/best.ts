@@ -1,4 +1,15 @@
 import type { Article } from "@/data/types";
+import { bestWaterproofReflectiveCyclingJackets } from "@/data/best/best-waterproof-reflective-cycling-jackets";
+import { bestSolidBicycleInnerTubes } from "@/data/best/best-solid-bicycle-inner-tubes";
+import { bestSingleSpeedAdultTricycles } from "@/data/best/best-single-speed-adult-tricycles";
+import { bestPortableBikePumpsForTubelessTires } from "@/data/best/best-portable-bike-pumps-for-tubeless-tires";
+import { bestLightweightElectricTricycles } from "@/data/best/best-lightweight-electric-tricycles";
+import { bestHeavyDutyElectricTricycles } from "@/data/best/best-heavy-duty-electric-tricycles";
+import { bestFrameMountedBicycleMultitools } from "@/data/best/best-frame-mounted-bicycle-multitools";
+import { bestEbikeBatteryChargersForElectricTricycles } from "@/data/best/best-ebike-battery-chargers-for-electric-tricycles";
+import { bestCyclingVestsWithLights } from "@/data/best/best-cycling-vests-with-lights";
+import { bestBikeLocksWithAlarms } from "@/data/best/best-bike-locks-with-alarms";
+import { bestAdultTricyclesWithPassengerSeats } from "@/data/best/best-adult-tricycles-with-passenger-seats";
 import { bestHeavyDutyAdultTricycles } from "@/data/best/best-heavy-duty-adult-tricycles";
 import { bestFoldingAdultTricyclesUnder400 } from "@/data/best/best-folding-adult-tricycles-under-400";
 import { bestFatTireElectricTricyclesUnder1500 } from "@/data/best/best-fat-tire-electric-tricycles-under-1500";
@@ -182,6 +193,17 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestWaterproofReflectiveCyclingJackets,
+  bestSolidBicycleInnerTubes,
+  bestSingleSpeedAdultTricycles,
+  bestPortableBikePumpsForTubelessTires,
+  bestLightweightElectricTricycles,
+  bestHeavyDutyElectricTricycles,
+  bestFrameMountedBicycleMultitools,
+  bestEbikeBatteryChargersForElectricTricycles,
+  bestCyclingVestsWithLights,
+  bestBikeLocksWithAlarms,
+  bestAdultTricyclesWithPassengerSeats,
   bestHeavyDutyAdultTricycles,
   bestFoldingAdultTricyclesUnder400,
   bestFatTireElectricTricyclesUnder1500,

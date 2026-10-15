@@ -22,23 +22,23 @@
 - The 4 restored historical URLs live at the root (`/<slug>/`). Never move, rename or redirect them.
 - Keyword plan: `adulttricyclespro_best_keyword_plan.csv`. Done: ATP-BEST-001 best-adult-tricycles.
 
-## 3. Product selection (MANDATORY)
-The Creators API does NOT return star ratings or review counts for any of our credentials. Do not treat missing ratings as neutral, and do not use category Best Sellers Rank alone: a "#4 in Road Bikes" listing turned out to have 2 ratings at 3.0 stars.
+## 3. Product selection (MANDATORY, rank mode since 2026-10-15)
+The Creators API does NOT return star ratings or review counts. Scraping product pages for ratings (`scripts/amazon-ratings.sh`) is mostly blocked by Amazon, so since 2026-10-15 the user chose **rank mode**: select on strong site-wide sales rank and do not scrape ratings.
 
-1. Build the pool with a Stage A script (port HardcastlesRV `scripts/stage-a.mjs`: per-cluster q/must/ban/req config, cached queries, one compact fact file per slug). Until it is ported, `node scripts/rank-pool.mjs queries.json out.json` (several queries, three sort orders, sales rank per ASIN). Add brand-name queries for established models.
-2. Get real ratings: `scripts/amazon-ratings.sh <ASIN...>` (reads the public product page; for internal selection only, never displayed).
-3. Minimum bar: **4.2 stars and 20+ ratings**. Below that, a product is not eligible, however good its listing reads.
-4. Variants share reviews unevenly. Use the ASIN of the listing with the most ratings for that model (Schwinn Meridian B08239YG6M has 3,345; its sibling B08YFKB3HM shows 210).
-5. Exclude kids' trikes, drift trikes and anything outside the article's scope (folding and electric have their own articles).
-6. Record evidence in `selectionNote` on each product (rating, count, date). Never render ratings, review counts or prices on the site.
-7. If fewer than 4 products clear the bar, say so to the user instead of padding the list.
+1. Pool: `SORTS=Relevance,AvgCustomerReviews node scripts/rank-pool.mjs queries.json pool.json` (best sellers plus top-reviewed order; site-wide sales rank per ASIN). Add brand-name queries for established models.
+2. Bar: **site-wide** sales rank (`websiteSalesRank`) at or under 200,000 for trikes and e-trikes, 70,000 for accessories (loosened 2026-10-15 so more articles qualify; the user accepted that some picks may rate under 4.2). Override per slug with `sellerMaxRank` only for a thin niche, and tell the user when you do. NEVER use category or sub-category rank: a "#4 in Road Bikes" listing (BODIOO) had 2 ratings at 3.0 stars.
+3. Ratings are optional: always pass the merged known-ratings file (`.work/all-ratings.txt`) so, a readable rating under 4.2 stars or 20 ratings still vetoes the product. Do not spend time collecting ratings by default.
+4. Variants: prefer the best-ranked ASIN for a model.
+5. Exclude kids' trikes, drift trikes and anything outside the article's scope.
+6. `selectionNote` records the evidence (sales rank and date). Products have no verified rating, so copy never calls them well reviewed, proven or highly rated; judge on design and specs. Never render ratings, review counts or prices on the site.
+7. If fewer than 3 products clear the bar (2 for price-tier articles), skip the article and tell the user instead of padding.
 
 ## 3b. Best pipeline (~14k Sonnet tokens per article)
 1. `node scripts/rank-pool.mjs queries.json pool.json` (API pool with sales rank).
-2. `node scripts/stage-a.mjs config.json pool.json facts-dir ratings.txt` (on-topic regex, req/minPrice/maxPrice, site-wide rank, brand cap, no reuse beyond allowReuse; zero LLM tokens). Then `scripts/amazon-ratings.sh` only on the picked ASINs, and re-run Stage A.
+2. `node scripts/stage-a.mjs config.json pool.json facts-dir` (on-topic regex, req/minPrice/maxPrice, site-wide rank bar, brand cap, no reuse beyond allowReuse; zero LLM tokens). No rating scraping.
 3. ONE Sonnet agent, ~10 slugs per run, reads only `scripts/best-prose-brief.md` + facts and writes prose JSON.
 4. `node scripts/build-best.mjs facts-dir prose-dir YYYY-MM-DD --register` builds `data/best/*.ts` and rejects leaks, rating numbers, dashes, bad title/description lengths.
-5. Build, `npm run check:content`, commit, push.
+5. Build, `npm run check:content`, commit locally. Push only when the user says push.
 Never parallel writers; never let the writer read CLAUDE.md or full reference articles.
 
 **Freshness rule (user, 2026-10-14):** every new batch calls the API with fresh, angle-specific

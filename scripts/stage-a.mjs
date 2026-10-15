@@ -7,7 +7,8 @@
 // rank above maxRank, default 250000), dedupes near-identical variants, caps 2 per brand, never
 // reuses an ASIN already in data/best/*.ts or picked for another slug, and spreads picks across
 // the price range. If a ratings file (scripts/amazon-ratings.sh output) is given, products under
-// 4.2 stars or 20 ratings are dropped; unknown ratings are kept and flagged "unverified".
+// 4.2 stars or 20 ratings are dropped. Default is rank mode: no ratings file, every pick is a
+// strong site-wide seller flagged "unverified" (selectionNote = sales rank).
 import fs from "node:fs";
 import path from "node:path";
 
@@ -57,8 +58,10 @@ for (const [slug, c] of Object.entries(cfg)) {
     if (c.req && !new RegExp(c.req, "i").test(t + " " + (i.features || []).join(" "))) continue;
     const rt = ratings[i.asin];
     if (rt && (rt.rating < 4.2 || rt.count < 20)) continue;
-    // No readable rating: accept only strong site-wide sellers.
-    if (!rt && i.salesRank > (c.unverifiedMaxRank ?? 70000)) continue;
+    // Rank mode (default since 2026-10-15): no rating scraping. Accept only strong site-wide
+    // sellers (never category/sub-category rank): trikes <= 200000, accessories <= 70000, or
+    // c.sellerMaxRank for a niche. A readable rating, when a ratings file is given, still vetoes.
+    if (!rt && i.salesRank > (c.sellerMaxRank ?? (c.section === "accessories" ? 70000 : 200000))) continue;
     const key = `${(i.brand || "").toLowerCase()}|${t.toLowerCase().replace(/[^a-z ]/g, "").split(" ").slice(0, 5).join(" ")}`;
     if (seenKey.has(key)) continue;
     seenKey.add(key);
