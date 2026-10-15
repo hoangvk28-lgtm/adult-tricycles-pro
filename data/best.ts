@@ -1,4 +1,17 @@
 import type { Article } from "@/data/types";
+import { bestHeavyDutyAdultTricycles } from "@/data/best/best-heavy-duty-adult-tricycles";
+import { bestFoldingAdultTricyclesUnder400 } from "@/data/best/best-folding-adult-tricycles-under-400";
+import { bestFatTireElectricTricyclesUnder1500 } from "@/data/best/best-fat-tire-electric-tricycles-under-1500";
+import { bestBikePhoneMountsUnder20 } from "@/data/best/best-bike-phone-mounts-under-20";
+import { bestBikePanniersUnder40 } from "@/data/best/best-bike-panniers-under-40";
+import { bestBikeGripsUnder20 } from "@/data/best/best-bike-grips-under-20";
+import { bestBikeFendersUnder25 } from "@/data/best/best-bike-fenders-under-25";
+import { bestBikeComputersUnder30 } from "@/data/best/best-bike-computers-under-30";
+import { bestTorqueWrenchesForBicyclePedals } from "@/data/best/best-torque-wrenches-for-bicycle-pedals";
+import { bestPunctureResistantBicycleInnerTubes } from "@/data/best/best-puncture-resistant-bicycle-inner-tubes";
+import { bestLoudBicycleHorns } from "@/data/best/best-loud-bicycle-horns";
+import { bestElectricBikePumpsForTpuTubes } from "@/data/best/best-electric-bike-pumps-for-tpu-tubes";
+import { bestBikeTailLightsWithTurnSignals } from "@/data/best/best-bike-tail-lights-with-turn-signals";
 import { bestWaterBottleCagesForTricycles } from "@/data/best/best-water-bottle-cages-for-tricycles";
 import { bestTireSealantsForBicycles } from "@/data/best/best-tire-sealants-for-bicycles";
 import { bestRearRacksForAdultTricycles } from "@/data/best/best-rear-racks-for-adult-tricycles";
@@ -169,6 +182,19 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestHeavyDutyAdultTricycles,
+  bestFoldingAdultTricyclesUnder400,
+  bestFatTireElectricTricyclesUnder1500,
+  bestBikePhoneMountsUnder20,
+  bestBikePanniersUnder40,
+  bestBikeGripsUnder20,
+  bestBikeFendersUnder25,
+  bestBikeComputersUnder30,
+  bestTorqueWrenchesForBicyclePedals,
+  bestPunctureResistantBicycleInnerTubes,
+  bestLoudBicycleHorns,
+  bestElectricBikePumpsForTpuTubes,
+  bestBikeTailLightsWithTurnSignals,
   bestWaterBottleCagesForTricycles,
   bestTireSealantsForBicycles,
   bestRearRacksForAdultTricycles,
