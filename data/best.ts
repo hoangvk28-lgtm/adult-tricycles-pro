@@ -1,4 +1,13 @@
 import type { Article } from "@/data/types";
+import { bestTricycleCoversUnder25 } from "@/data/best/best-tricycle-covers-under-25";
+import { bestElectricBikePumpsUnder40 } from "@/data/best/best-electric-bike-pumps-under-40";
+import { bestBikeTailLightsUnder15 } from "@/data/best/best-bike-tail-lights-under-15";
+import { bestBikeSeatsUnder25 } from "@/data/best/best-bike-seats-under-25";
+import { bestBikeMirrorsUnder15 } from "@/data/best/best-bike-mirrors-under-15";
+import { bestBikeLocksUnder50 } from "@/data/best/best-bike-locks-under-50";
+import { bestBikeLocksUnder25 } from "@/data/best/best-bike-locks-under-25";
+import { bestBikeHeadlightsUnder20 } from "@/data/best/best-bike-headlights-under-20";
+import { bestBikeAlarmsUnder25 } from "@/data/best/best-bike-alarms-under-25";
 import { bestElectricTricyclesUnder600 } from "@/data/best/best-electric-tricycles-under-600";
 import { bestElectricTricyclesUnder500 } from "@/data/best/best-electric-tricycles-under-500";
 import { bestAdultTricyclesUnder250 } from "@/data/best/best-adult-tricycles-under-250";
@@ -144,6 +153,15 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestTricycleCoversUnder25,
+  bestElectricBikePumpsUnder40,
+  bestBikeTailLightsUnder15,
+  bestBikeSeatsUnder25,
+  bestBikeMirrorsUnder15,
+  bestBikeLocksUnder50,
+  bestBikeLocksUnder25,
+  bestBikeHeadlightsUnder20,
+  bestBikeAlarmsUnder25,
   bestElectricTricyclesUnder600,
   bestElectricTricyclesUnder500,
   bestAdultTricyclesUnder250,
