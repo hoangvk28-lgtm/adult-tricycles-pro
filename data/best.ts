@@ -1,4 +1,8 @@
 import type { Article } from "@/data/types";
+import { bestElectricTricyclesUnder600 } from "@/data/best/best-electric-tricycles-under-600";
+import { bestElectricTricyclesUnder500 } from "@/data/best/best-electric-tricycles-under-500";
+import { bestAdultTricyclesUnder250 } from "@/data/best/best-adult-tricycles-under-250";
+import { bestAdultTricyclesUnder200 } from "@/data/best/best-adult-tricycles-under-200";
 import { bestFoldingElectricTricyclesUnder1000 } from "@/data/best/best-folding-electric-tricycles-under-1000";
 import { bestElectricTricyclesUnder900 } from "@/data/best/best-electric-tricycles-under-900";
 import { bestAdultTricyclesUnder450 } from "@/data/best/best-adult-tricycles-under-450";
@@ -140,6 +144,10 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestElectricTricyclesUnder600,
+  bestElectricTricyclesUnder500,
+  bestAdultTricyclesUnder250,
+  bestAdultTricyclesUnder200,
   bestFoldingElectricTricyclesUnder1000,
   bestElectricTricyclesUnder900,
   bestAdultTricyclesUnder450,

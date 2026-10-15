@@ -8,7 +8,7 @@ const [factsDir, proseDir, date = new Date().toISOString().slice(0, 10)] = proce
 const register = process.argv.includes("--register");
 const camel = (s) => s.replace(/-([a-z0-9])/g, (_, c) => c.toUpperCase());
 const kebab = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 50);
-const LEAK = /\b(the listing|listings?|not listed|as listed|the seller|amazon lists|not stated|product page|facts file|features we have|in the features|not in the features|the facts|the data we|we have on|according to the (maker|manufacturer|brand)|the description|according to the listing)\b/i;
+const LEAK = /\b(the listing|listings?|not listed|as listed|the seller|amazon lists|not stated|product page|facts file|features we have|in the features|not in the features|the facts|the data we|we have on|according to the (maker|manufacturer|brand|spec|specs)|the description|according to the listing)\b/i;
 const RATED = /\b\d\.\d stars?\b|\b(?!20\b)\d[\d,]* (amazon )?ratings\b/i;
 const built = [];
 

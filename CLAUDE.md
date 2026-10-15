@@ -3,6 +3,7 @@
 @AGENTS.md
 
 ## 0. Communication
+- **Do not push to GitHub until the user says "push"** (user, 2026-10-15). Work continuously and commit locally; push once when asked. Vercel deploys on every push, so frequent pushes are unwanted.
 - Always address the user as "cậu".
 - Every internal `<Link>` uses `prefetch={false}`.
 
