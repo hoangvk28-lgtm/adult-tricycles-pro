@@ -1,4 +1,51 @@
 import type { Article } from "@/data/types";
+import { bestWidePlatformBicyclePedals } from "@/data/best/best-wide-platform-bicycle-pedals";
+import { bestWaterproofHandlebarBags } from "@/data/best/best-waterproof-handlebar-bags";
+import { bestWaterproofCyclingRainPonchos } from "@/data/best/best-waterproof-cycling-rain-ponchos";
+import { bestStemMountedBikePhoneHolders } from "@/data/best/best-stem-mounted-bike-phone-holders";
+import { bestSmallHandlebarBags } from "@/data/best/best-small-handlebar-bags";
+import { bestSiliconeBicycleGrips } from "@/data/best/best-silicone-bicycle-grips";
+import { bestRemovableBasketsForAdultTricycles } from "@/data/best/best-removable-baskets-for-adult-tricycles";
+import { bestRearBikeBasketsForGroceries } from "@/data/best/best-rear-bike-baskets-for-groceries";
+import { bestQuickReleaseBikePhoneMounts } from "@/data/best/best-quick-release-bike-phone-mounts";
+import { bestPolarizedCyclingSunglasses } from "@/data/best/best-polarized-cycling-sunglasses";
+import { bestPaddedCyclingGloves } from "@/data/best/best-padded-cycling-gloves";
+import { bestNonPolarizedCyclingSunglasses } from "@/data/best/best-non-polarized-cycling-sunglasses";
+import { bestLockOnBicycleGrips } from "@/data/best/best-lock-on-bicycle-grips";
+import { bestLightweightPlatformPedals } from "@/data/best/best-lightweight-platform-pedals";
+import { bestLargeBasketsForAdultTricycles } from "@/data/best/best-large-baskets-for-adult-tricycles";
+import { bestHandlebarBagsWithShoulderStraps } from "@/data/best/best-handlebar-bags-with-shoulder-straps";
+import { bestHalfInchBicyclePedals } from "@/data/best/best-half-inch-bicycle-pedals";
+import { bestGelPaddedCyclingGloves } from "@/data/best/best-gel-padded-cycling-gloves";
+import { bestFoamBicycleGrips } from "@/data/best/best-foam-bicycle-grips";
+import { bestFlatBikePedalsWithPins } from "@/data/best/best-flat-bike-pedals-with-pins";
+import { bestFingerlessCyclingGloves } from "@/data/best/best-fingerless-cycling-gloves";
+import { bestDoubleBikePannierBags } from "@/data/best/best-double-bike-pannier-bags";
+import { bestCyclingSunglassesWithInterchangeableLenses } from "@/data/best/best-cycling-sunglasses-with-interchangeable-lenses";
+import { bestCyclingSunglassesUnder50 } from "@/data/best/best-cycling-sunglasses-under-50";
+import { bestCyclingSunglassesUnder100 } from "@/data/best/best-cycling-sunglasses-under-100";
+import { bestCyclingSunglassesForWomen } from "@/data/best/best-cycling-sunglasses-for-women";
+import { bestCyclingRainPonchosForCommuting } from "@/data/best/best-cycling-rain-ponchos-for-commuting";
+import { bestCyclingRainJacketsWithHoods } from "@/data/best/best-cycling-rain-jackets-with-hoods";
+import { bestCyclingRainJacketsForWomen } from "@/data/best/best-cycling-rain-jackets-for-women";
+import { bestCyclingRainJacketsForSummer } from "@/data/best/best-cycling-rain-jackets-for-summer";
+import { bestCyclingRainJacketsForMen } from "@/data/best/best-cycling-rain-jackets-for-men";
+import { bestCyclingGlovesUnder50 } from "@/data/best/best-cycling-gloves-under-50";
+import { bestCyclingGlovesForWomen } from "@/data/best/best-cycling-gloves-for-women";
+import { bestCyclingGlovesForLongDistanceRides } from "@/data/best/best-cycling-gloves-for-long-distance-rides";
+import { bestCyclingGlovesForLargeHands } from "@/data/best/best-cycling-gloves-for-large-hands";
+import { bestBudgetCyclingSunglasses } from "@/data/best/best-budget-cycling-sunglasses";
+import { bestBudgetCyclingRainJackets } from "@/data/best/best-budget-cycling-rain-jackets";
+import { bestBikePhoneMountsForRecordingRides } from "@/data/best/best-bike-phone-mounts-for-recording-rides";
+import { bestBikePannierBagsWithShoulderStraps } from "@/data/best/best-bike-pannier-bags-with-shoulder-straps";
+import { bestBikePannierBagsForCommuting } from "@/data/best/best-bike-pannier-bags-for-commuting";
+import { bestBikeBasketsWithCarryingHandles } from "@/data/best/best-bike-baskets-with-carrying-handles";
+import { bestBicycleToeClipsAndStraps } from "@/data/best/best-bicycle-toe-clips-and-straps";
+import { bestBicycleGripsWithPalmRests } from "@/data/best/best-bicycle-grips-with-palm-rests";
+import { bestBicycleGripsForLargeHands } from "@/data/best/best-bicycle-grips-for-large-hands";
+import { bestBicycleGripsForArthriticHands } from "@/data/best/best-bicycle-grips-for-arthritic-hands";
+import { bestBasketsForElectricTricycles } from "@/data/best/best-baskets-for-electric-tricycles";
+import { best916InchBicyclePedalsForTricycles } from "@/data/best/best-9-16-inch-bicycle-pedals-for-tricycles";
 import { bestWinterCyclingGloves } from "@/data/best/best-winter-cycling-gloves";
 import { bestWaterproofBikePannierBags } from "@/data/best/best-waterproof-bike-pannier-bags";
 import { bestStrapOnBikeBottleHolders } from "@/data/best/best-strap-on-bike-bottle-holders";
@@ -252,6 +299,53 @@ import { bestWideBicycleSeatsForTricycles } from "@/data/best/best-wide-bicycle-
  * Add an entry only with verified listing specs and real ASINs.
  */
 export const bestArticles: Article[] = [
+  bestWidePlatformBicyclePedals,
+  bestWaterproofHandlebarBags,
+  bestWaterproofCyclingRainPonchos,
+  bestStemMountedBikePhoneHolders,
+  bestSmallHandlebarBags,
+  bestSiliconeBicycleGrips,
+  bestRemovableBasketsForAdultTricycles,
+  bestRearBikeBasketsForGroceries,
+  bestQuickReleaseBikePhoneMounts,
+  bestPolarizedCyclingSunglasses,
+  bestPaddedCyclingGloves,
+  bestNonPolarizedCyclingSunglasses,
+  bestLockOnBicycleGrips,
+  bestLightweightPlatformPedals,
+  bestLargeBasketsForAdultTricycles,
+  bestHandlebarBagsWithShoulderStraps,
+  bestHalfInchBicyclePedals,
+  bestGelPaddedCyclingGloves,
+  bestFoamBicycleGrips,
+  bestFlatBikePedalsWithPins,
+  bestFingerlessCyclingGloves,
+  bestDoubleBikePannierBags,
+  bestCyclingSunglassesWithInterchangeableLenses,
+  bestCyclingSunglassesUnder50,
+  bestCyclingSunglassesUnder100,
+  bestCyclingSunglassesForWomen,
+  bestCyclingRainPonchosForCommuting,
+  bestCyclingRainJacketsWithHoods,
+  bestCyclingRainJacketsForWomen,
+  bestCyclingRainJacketsForSummer,
+  bestCyclingRainJacketsForMen,
+  bestCyclingGlovesUnder50,
+  bestCyclingGlovesForWomen,
+  bestCyclingGlovesForLongDistanceRides,
+  bestCyclingGlovesForLargeHands,
+  bestBudgetCyclingSunglasses,
+  bestBudgetCyclingRainJackets,
+  bestBikePhoneMountsForRecordingRides,
+  bestBikePannierBagsWithShoulderStraps,
+  bestBikePannierBagsForCommuting,
+  bestBikeBasketsWithCarryingHandles,
+  bestBicycleToeClipsAndStraps,
+  bestBicycleGripsWithPalmRests,
+  bestBicycleGripsForLargeHands,
+  bestBicycleGripsForArthriticHands,
+  bestBasketsForElectricTricycles,
+  best916InchBicyclePedalsForTricycles,
   bestWinterCyclingGloves,
   bestWaterproofBikePannierBags,
   bestStrapOnBikeBottleHolders,
