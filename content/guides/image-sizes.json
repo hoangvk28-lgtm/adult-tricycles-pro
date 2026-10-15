@@ -3,9 +3,25 @@
   1400,
   930
  ],
+ "basket-panniers": [
+  1280,
+  850
+ ],
  "basket": [
   1400,
   834
+ ],
+ "bell-rust": [
+  1280,
+  853
+ ],
+ "belt-crankset": [
+  1280,
+  960
+ ],
+ "bottle-cage": [
+  1280,
+  960
  ],
  "brake-rotor": [
   1400,
@@ -15,13 +31,29 @@
   1280,
   960
  ],
+ "cassette": [
+  1280,
+  960
+ ],
  "chain": [
+  1280,
+  960
+ ],
+ "cycle-computer": [
+  1139,
+  1050
+ ],
+ "cycling-shoes": [
   1280,
   960
  ],
  "disc-brake": [
   1400,
   1055
+ ],
+ "disc-pads": [
+  1280,
+  960
  ],
  "electric-trike": [
   1400,
@@ -51,17 +83,33 @@
   1280,
   960
  ],
+ "gear-hub": [
+  860,
+  639
+ ],
  "gears": [
   1400,
   1050
+ ],
+ "grip-bar-end": [
+  1280,
+  996
  ],
  "helmet": [
   1400,
   933
  ],
+ "inner-tube": [
+  1280,
+  960
+ ],
  "mirror": [
   900,
   600
+ ],
+ "mudguard": [
+  1280,
+  960
  ],
  "parked-bike": [
   1400,
@@ -95,8 +143,16 @@
   960,
   1280
  ],
+ "torque-wrench": [
+  856,
+  209
+ ],
  "touring-trailer": [
   1280,
   645
+ ],
+ "wheel-reflector": [
+  1280,
+  853
  ]
 }
