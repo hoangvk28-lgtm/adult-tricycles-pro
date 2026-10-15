@@ -36,15 +36,41 @@ The Creators API does NOT return star ratings or review counts. Scraping product
 ## 3b. Best pipeline (~14k Sonnet tokens per article)
 1. `node scripts/rank-pool.mjs queries.json pool.json` (API pool with sales rank).
 2. `node scripts/stage-a.mjs config.json pool.json facts-dir` (on-topic regex, req/minPrice/maxPrice, site-wide rank bar, brand cap, no reuse beyond allowReuse; zero LLM tokens). No rating scraping.
-3. ONE Sonnet agent, ~10 slugs per run, reads only `scripts/best-prose-brief.md` + facts and writes prose JSON.
-4. `node scripts/build-best.mjs facts-dir prose-dir YYYY-MM-DD --register` builds `data/best/*.ts` and rejects leaks, rating numbers, dashes, bad title/description lengths.
+3. Two Sonnet agents in parallel (user, 2026-10-15), ~10 slugs each per run, each on its own slug list; they read only `scripts/best-prose-brief.md` + facts and write prose JSON.
+4. `node scripts/build-best.mjs facts-dir prose-dir YYYY-MM-DD --register` builds `data/best/*.ts` and rejects leaks, rating numbers, dashes, bad title/description lengths, and thin guide sections (`scripts/depth-check.mjs`, see 3c).
 5. Build, `npm run check:content`, commit locally. Push only when the user says push.
-Never parallel writers; never let the writer read CLAUDE.md or full reference articles.
+Never more than two writers; never let the writer read CLAUDE.md or full reference articles.
 
 **Freshness rule (user, 2026-10-14):** every new batch calls the API with fresh, angle-specific
 queries (brand, feature, price) so articles get new products. Reuse at most 2-3 products per
 article that already appear in other articles (`allowReuse: 2` or 3 in the Stage A config; the
 used-ASIN scan reads both `asin:` and `"asin":`). The `prior` copy is only for those reused picks.
+
+## 3c. Guide-section depth (MANDATORY, lesson of 2026-10-15)
+**What went wrong:** the compact brief said only "1-2 sentences" with no minimum, so writer agents
+compressed further each batch. 130 of 212 Best articles shipped with guide sections like
+"Do these need anchors? Yes." and "Steel resists wind. Look for anchors."
+(e.g. /accessories/best-storage-sheds-for-tricycles-under-150/). Nothing in the build checked depth, and
+a passing build and check:content were treated as "done". Fixing it cost ~1.3M tokens.
+
+**Reference depth:** /accessories/best-bike-storage-tents-for-adult-tricycles/ (user-approved).
+`scripts/depth-check.mjs` enforces ~70% of it, as an average per section plus a floor per item:
+howWeChose body avg 14 words (floor 7); whatToLookFor paragraph avg 18 (floor 9); howToChoose
+table "why" avg 4 (floor 2); cards avg 16 (floor 8); faq answer avg 22 (floor 12); bottomLine 30+;
+at least 4 howWeChose, 4 whatToLookFor, 4 howToChoose sections and 5 FAQs.
+
+**Rules:**
+1. `build-best.mjs` and `thicken.mjs` fail on these thresholds. Never lower them or bypass the
+   check to make a batch pass; send the prose back to the writer.
+2. The writer brief (`scripts/best-prose-brief.md`, Depth section) states word ranges per section.
+   Keep them when editing the brief; "compact" means no padding, not one-line answers.
+3. Before saying a batch is done, open one new page per batch on localhost and read the lower half
+   (What to Look For, How to Choose, FAQ), not just the products.
+4. To repair existing thin articles: `node scripts/thicken.mjs export <slugs.json> <in-dir>`,
+   writers follow `scripts/thicken-brief.md`, then `node scripts/thicken.mjs import <out-dir>`
+   (rewrites only guide sections; products untouched; validates depth, leaks, dashes).
+5. Calibrate any new threshold against the reference article first; a bar that fails the
+   user-approved reference is wrong.
 
 ## 4. Writing voice (MANDATORY)
 Write as a specialist who has spent years around adult tricycles, their buyers and their failure points. The reader should finish each section knowing something they could not get from the Amazon listing.
@@ -77,7 +103,7 @@ A review must read as the judgment of someone who knows these machines, not as a
 `npm run check:content` fails on these phrases. Do not weaken the regex to pass; rewrite the sentence.
 
 ## 5. Checks before saying a batch is done
-`npx tsc --noEmit`, `npx eslint .`, `npm run build`, then `npm start` and `BASE=http://localhost:3000 npm run check:content`. Screenshot the new page (desktop and 390px mobile) with headless Chrome and look at it.
+`npx tsc --noEmit`, `npx eslint .`, `rm -rf .next && npm run build` (a stale `.next` once served cached 404s for new pages), restart `npm start`, then `BASE=http://localhost:3000 npm run check:content`. Run the depth check over all Best articles (section 3c) and read the guide half of one new page. Screenshot the new page (desktop and 390px mobile) with headless Chrome and look at it.
 
 ## 6. Config still needed from the owner
 NEXT_PUBLIC_GA_ID, NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION, NEXT_PUBLIC_CONTACT_EMAIL, Vercel project and GitHub repo.
