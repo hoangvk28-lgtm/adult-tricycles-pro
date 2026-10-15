@@ -220,48 +220,59 @@ export const bestBikeAlarmsForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Sensitivity control",
-      "body": "A trike on a windy street needs a sensitivity setting, so adjustable units ranked higher."
+      "body": "A trike left outside is jostled by wind and passersby, so units with several sensitivity levels ranked higher, because a too-touchy alarm gets switched off and then protects nothing."
     },
     {
       "title": "Mounting on a wide frame",
-      "body": "We favored units that fit a seatpost, rack or tube without special brackets."
+      "body": "We favored units that fit a seatpost, rack or tube without special brackets, since a trike frame is wide and the best spot is somewhere a thief cannot easily cover."
     },
     {
       "title": "Power and weather",
-      "body": "Rechargeable batteries and IP ratings count for a parked trike."
+      "body": "Rechargeable batteries and IP ratings count for a trike that lives outdoors, where a flat cell or a rain-soaked case means silence at the wrong moment."
+    },
+    {
+      "title": "Remote and arming",
+      "body": "A remote lets you arm the alarm from the door or the saddle, which matters when the trike sits in a hallway or a shed you pass every day."
     },
     {
       "title": "Honest limits",
-      "body": "Every pick is unverified, and none replaces a solid lock."
+      "body": "Every pick is unverified, and none replaces a solid lock; an alarm makes noise but does not hold the trike in place."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Adjustable sensitivity",
       "paragraphs": [
-        "A trike left outside is jostled by wind and passersby. If the alarm is too sensitive it will go off all day and you will switch it off.",
-        "Look for several levels and test it by pushing the trike gently in your driveway."
+        "An alarm listens for vibration, and the sensitivity setting decides how big a bump counts. The Cruxer and USUPERINK both give seven levels, so you can tune them for a windy driveway or a quiet garage.",
+        "A trike outside is nudged all day. Set the alarm low, push the trike gently yourself, and raise it only until it reacts to a real shove rather than to a gust."
       ]
     },
     {
       "title": "Mounting position",
       "paragraphs": [
-        "A trike frame is wide, and the best mount is somewhere a thief cannot easily reach or cover. A seatpost or rack mount is usually clear of the rider and the basket.",
-        "Check that the bracket fits your tube diameter before ordering."
+        "A trike frame is wide, and the best mount is somewhere a thief cannot easily reach or cover with a hand. The Cruxer uses a seatpost bracket, strap or tape, while the WSDCAM bolts to a cargo rack.",
+        "Check the tube diameter and the clear space around the rack before ordering. Face the speaker outward, because a unit tucked behind a basket muffles the sound."
       ]
     },
     {
       "title": "Power source",
       "paragraphs": [
-        "A flat battery means no alarm. USB rechargeable units are easy to top up, while spare cells are handy for disc locks.",
-        "Check the battery weekly and keep spares if the unit takes them."
+        "The Cruxer charges by USB-C and the Antfire horn charges by USB, so both need a regular top-up. The YOHOOLYO disc lock comes with spare batteries, which suits a unit you rarely handle.",
+        "A flat battery means no alarm. Check the charge weekly, top up before a long stop, and keep spares for any model that takes cells."
       ]
     },
     {
       "title": "Alarm limits",
       "paragraphs": [
-        "An alarm makes noise; it does not hold the trike in place. A thief with a van can leave before anyone arrives.",
-        "Always lock the trike to something solid and use the alarm as a second layer."
+        "An alarm makes noise; it does not hold the trike in place. A thief with a van can leave before anyone arrives, so volume alone is not security.",
+        "Always lock the trike to something solid and treat the alarm as a second layer. The 110 dB to 120 dB figures here are maker numbers, so judge them by how well you can hear the unit from your door."
+      ]
+    },
+    {
+      "title": "Disc rotor or no disc rotor",
+      "paragraphs": [
+        "The YOHOOLYO disc lock uses a 7mm pin that passes through a hole in a disc brake rotor, physically blocking the wheel and sounding a siren if moved.",
+        "Look at your wheel before buying. If your trike has drum or rim brakes there is no rotor to pin, and the lock is useless. Also remember to remove it before riding off."
       ]
     }
   ],
@@ -278,22 +289,27 @@ export const bestBikeAlarmsForAdultTricycles: BestArticle = {
           [
             "Garage or apartment storage",
             "Cruxer 110dB Bike Alarm with Remote",
-            "Rechargeable with a bracket."
+            "Seven sensitivity levels, rechargeable, remote arming."
           ],
           [
             "Outdoor, rain exposed",
             "USUPERINK 113dB Bike Alarm with Remote",
-            "IP65 rating."
+            "IP65 rating suits a trike left in the weather."
           ],
           [
             "Disc brake trike, short stops",
             "YOHOOLYO Alarm Disc Lock",
-            "Blocks the wheel."
+            "Pin blocks the rotor and a siren backs it up."
           ],
           [
             "Night commute plus alarm",
             "WSDCAM Smart Tail Light with Alarm",
-            "Lights and alarm in one."
+            "Turn signals, brake light and vibration alarm on the rack."
+          ],
+          [
+            "Want a loud horn as well",
+            "Antfire 120dB Electric Bike Horn",
+            "120 dB horn with an alarm button and IP65."
           ]
         ]
       }
@@ -303,11 +319,11 @@ export const bestBikeAlarmsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Alarm",
-          "text": "The Cruxer and USUPERINK make noise when the trike moves, which draws attention."
+          "text": "The Cruxer and USUPERINK make noise when the trike moves, which draws attention and works on any frame. They do nothing to stop a thief wheeling the trike away quietly."
         },
         {
           "label": "Disc lock",
-          "text": "The YOHOOLYO physically blocks the wheel and adds a siren."
+          "text": "The YOHOOLYO physically blocks the wheel and adds a siren, with a 7mm pin that needs a disc rotor. It is easy to forget on the wheel, so the first ride after parking needs a check."
         }
       ],
       "note": "Most owners should start with an alarm and a chain lock; add the disc lock only on disc-brake trikes."
@@ -317,11 +333,11 @@ export const bestBikeAlarmsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Adjustable sensitivity so hallway traffic does not set it off, and a rechargeable battery."
+          "text": "Adjustable sensitivity so hallway traffic and a neighbor's bag do not set it off, plus a rechargeable battery you can top up beside the trike."
         },
         {
           "label": "In this comparison",
-          "text": "The Cruxer offers both, and the remote lets you arm it from the door."
+          "text": "The Cruxer offers seven sensitivity levels and USB-C charging, and the remote lets you arm it from the door. The USUPERINK is a cheaper way to get the same adjustment."
         }
       ]
     },
@@ -330,11 +346,11 @@ export const bestBikeAlarmsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "Your trike is valuable and parked in public; add a chain lock and a tracker from /accessories/best-bike-alarms-with-gps-trackers/."
+          "text": "Your trike is valuable and parked in public. Add a chain lock and a tracker from /accessories/best-bike-alarms-with-gps-trackers/, since an alarm alone does not help you find a stolen trike."
         },
         {
           "label": "Save if",
-          "text": "You park in a locked garage, where the USUPERINK is plenty."
+          "text": "You park in a locked garage, where the USUPERINK is plenty. Its 113 dB siren and 20 m remote cover a small space easily."
         }
       ]
     }
@@ -342,26 +358,30 @@ export const bestBikeAlarmsForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Will an alarm stop a thief?",
-      "a": "It can deter an opportunist and draw attention, but it does not hold the trike. Use it with a solid lock."
+      "a": "It can deter an opportunist and draw attention, but it does not hold the trike. A determined thief with a cutter or a van can still leave, so use the alarm with a solid lock and an anchor point."
     },
     {
       "q": "Where should I mount it?",
-      "a": "Somewhere hard to reach, such as under the seat or on the rear rack, with the speaker facing out."
+      "a": "Somewhere hard to reach, such as under the seat or on the rear rack, with the speaker facing out. A wide trike frame gives you more choices than a bike, so pick a spot a hand cannot easily cover."
     },
     {
       "q": "Will wind set it off?",
-      "a": "It can on high sensitivity. Choose a unit with several levels and lower it for windy spots."
+      "a": "It can on a high setting. Choose a unit with several levels, like the seven on the Cruxer and USUPERINK, and lower the setting for exposed spots. Try a gentle push before relying on it."
     },
     {
       "q": "Do alarms work with trackers?",
-      "a": "They are separate. A tracker helps recover a trike after theft; see /accessories/best-bike-alarms-compatible-with-apple-find-my/."
+      "a": "They are separate tools. An alarm makes noise on the spot, while a tracker helps recover a trike after a theft. Running both gives you deterrence and recovery. See /accessories/best-bike-alarms-compatible-with-apple-find-my/ for tags that hide inside bells and mounts."
     },
     {
       "q": "How often should I charge it?",
-      "a": "Check weekly and top up before a long stop. Keep a spare battery if the unit uses cells."
+      "a": "Check weekly and top up before a long stop. The Cruxer charges by USB-C and the Antfire by USB, so both need a cable and a habit. The YOHOOLYO comes with spare batteries, so keep those handy if your alarm uses cells."
+    },
+    {
+      "q": "Can I use a disc lock on any trike?",
+      "a": "Only if the trike has a disc brake rotor with holes the 7mm pin can pass through. Check the wheel before ordering, because a trike with drum or rim brakes has nothing to pin. Remember to take the lock off before you ride."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Bike Alarms for Android Users",
       "text": "The [Cruxer](#cruxer-110db-bike-alarm-with-remote) pairs to a handheld remote, so your phone brand does not matter at all. Check that you are comfortable carrying the remote on your key ring, since no app is involved. If you specifically want phone control, look at a GPS tracker alarm instead.",
@@ -382,7 +402,7 @@ export const bestBikeAlarmsForAdultTricycles: BestArticle = {
       "productId": "usuperink-113db-bike-alarm-with-remote"
     }
   ],
-  "bottomLine": "Choose the Cruxer for the best balance, the USUPERINK for a budget option, and the YOHOOLYO for disc brake trikes. Whatever you pick, lock the trike first.",
+  "bottomLine": "Choose the Cruxer for the best balance of sensitivity levels, remote and USB-C charging, the USUPERINK for a weather-ready budget option, and the YOHOOLYO if your trike has disc brakes. Pick the WSDCAM when you also want lights. Whatever you pick, lock the trike first.",
   "amazonSearch": "bike alarms",
   "relatedPaths": [
     "/accessories/best-chain-locks-for-adult-tricycles/",

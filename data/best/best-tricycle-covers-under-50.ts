@@ -185,19 +185,19 @@ export const bestTricycleCoversUnder50: BestArticle = {
   "howWeChose": [
     {
       "title": "Trike sizing",
-      "body": "We compared stated length, width and height against typical adult trike dimensions, because a cover that is too short leaves the rear wheels exposed."
+      "body": "We compared stated length, width and height across the 75 inch standard covers and the 86.6 inch AKEfit cargo cover. A correct size covers the basket without stretching or flapping."
     },
     {
       "title": "Fabric weight and coating",
-      "body": "We looked at denier ratings and coatings, since heavier fabric resists UV and tearing better than thin polyester."
+      "body": "We weighed 210D, 420D and 600D fabrics and their PU coatings. Heavier fabric resists tears and sun longer, while lighter fabric is easier to handle and fold."
     },
     {
       "title": "Wind securing",
-      "body": "We checked buckles, hems and straps, because a trike cover is a large sail in wind."
+      "body": "We counted buckles, snap straps and elastic hems, such as the four windproof buckles on the GRABADO. A big cover acts like a sail if it is not tied down."
     },
     {
       "title": "Extras",
-      "body": "We noted lock holes, reflective strips and storage bags, since they affect security and daily use."
+      "body": "We noted lock holes, reflective strips, taped seams and storage bags. These extras decide how well the cover handles theft, night visibility and rain through stitching."
     }
   ],
   "whatToLookFor": [
@@ -212,21 +212,28 @@ export const bestTricycleCoversUnder50: BestArticle = {
       "title": "Fabric denier",
       "paragraphs": [
         "Denier measures fabric thickness, and 210D is light while 420D to 600D resists tears and sun for longer. Heavier fabric costs more and weighs more to put on.",
-        "Match the denier to your climate and storage, heavier for open yards and lighter for a carport."
+        "Match the denier to your climate and storage, heavier for open yards and lighter for a carport. Check the number in the product title or details."
       ]
     },
     {
       "title": "Wind straps and buckles",
       "paragraphs": [
         "A large cover acts like a sail, so elastic hems alone will not hold it. Buckles on each wheel side and a belly strap keep it in place.",
-        "Count the securing points and test the cover in a breeze."
+        "Count the securing points and test the cover in a breeze. The GRABADO has four windproof buckles and the AKEfit cargo cover has bottom snap straps."
       ]
     },
     {
       "title": "Lock hole and seams",
       "paragraphs": [
         "A lock hole lets you pass a cable or chain through the cover and the frame, and taped seams stop rain getting through stitching. Without them, water and theft are weaker points.",
-        "Check for taped seams and a lock hole in the product details."
+        "Check for taped seams and a lock hole in the product details. The HICOVER and AKEfit cargo cover have both."
+      ]
+    },
+    {
+      "title": "Visibility and storage",
+      "paragraphs": [
+        "Reflective strips help the cover show up in headlights if the trike is parked near a road or driveway, and a bag keeps the cover clean between uses.",
+        "Look for reflective strips and a storage bag. The GRABADO has four strips, and the AKEfit 210D has strips and a bag."
       ]
     }
   ],
@@ -243,22 +250,22 @@ export const bestTricycleCoversUnder50: BestArticle = {
           [
             "Open yard, windy",
             "GRABADO Adult Tricycle Cover",
-            "Four windproof buckles"
+            "Four windproof buckles and 420D oxford fabric"
           ],
           [
             "Year-round sun and rain",
             "HICOVER 600D Adult Tricycle Cover",
-            "600D PU fabric"
+            "Thick 600D PU fabric with taped seams"
           ],
           [
             "Carport or porch",
             "AKEfit Adult Tricycle Cover",
-            "Light 210D fabric"
+            "Light 210D fabric that folds into its storage bag"
           ],
           [
             "Long cargo trike",
             "AKEfit Cargo Bike and Tricycle Cover",
-            "86.6 inches long"
+            "Fits to 86.6 inches long with a lock hole"
           ]
         ]
       }
@@ -268,11 +275,11 @@ export const bestTricycleCoversUnder50: BestArticle = {
       "cards": [
         {
           "label": "Thick fabric",
-          "text": "The HICOVER 600D and GRABADO 420D resist tears and UV for longer outdoors."
+          "text": "The HICOVER 600D and GRABADO 420D resist tears and UV for longer outdoors. They weigh more and take a little more effort to pull over a trike."
         },
         {
           "label": "Light fabric",
-          "text": "The AKEfit 210D is easier to handle and fold but less durable."
+          "text": "The AKEfit 210D is easier to handle and fold into its bag, but it is less durable and has no lock hole. It suits sheltered storage."
         }
       ],
       "note": "Most riders should choose the GRABADO unless storing in a sheltered spot."
@@ -282,11 +289,11 @@ export const bestTricycleCoversUnder50: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A cover height of 41 inches or more at the rear, so the basket does not stretch the fabric."
+          "text": "A cover height of 41 inches or more at the rear, so the basket does not stretch the fabric and pull the hem off the ground."
         },
         {
           "label": "In this comparison",
-          "text": "The AKEfit cargo cover is 41.3 inches high at the rear and the GRABADO is 44 inches at its peak."
+          "text": "The AKEfit cargo cover is up to 41.3 inches high at the rear and the GRABADO is 44 inches at its peak, so both clear a tall basket."
         }
       ]
     },
@@ -295,11 +302,11 @@ export const bestTricycleCoversUnder50: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You store outside all year and want the HICOVER's 600D fabric and lock hole."
+          "text": "You store outside all year and want the HICOVER's 600D fabric and lock hole. Remember its limit of 75 inches long, so measure the trike first."
         },
         {
           "label": "Save if",
-          "text": "Your trike is under a roof. The AKEfit 210D gives basic dust and rain protection."
+          "text": "Your trike is under a roof. The AKEfit 210D gives basic dust and rain protection, and its reflective strips and quick-release buckles are enough."
         }
       ]
     }
@@ -307,26 +314,30 @@ export const bestTricycleCoversUnder50: BestArticle = {
   "faq": [
     {
       "q": "What size cover fits an adult tricycle?",
-      "a": "Most adult trikes need around 75 inches of length, and cargo models up to 87 inches. Measure with the basket in place."
+      "a": "Most standard covers here are 75 x 30 x 44 inches, which suits many adult trikes. Long or cargo models need more, like the AKEfit cargo cover at 86.6 inches. Measure length, rear width and basket height before you order."
     },
     {
       "q": "Is a thicker denier better?",
-      "a": "For sun and storms yes, since 420D to 600D resists tearing longer. For a carport, 210D is enough."
+      "a": "For durability, yes. 420D to 600D resists tears and sun longer than 210D. Heavier fabric weighs more and is harder to fold. Pick the 600D HICOVER for open yards and the 210D AKEfit for a carport."
     },
     {
       "q": "Can I lock the cover to the trike?",
-      "a": "The HICOVER and the AKEfit cargo cover have lock holes, so you can pass a lock through the cover and the frame."
+      "a": "Yes on covers with a lock hole. The HICOVER and AKEfit cargo cover have one, while the AKEfit 210D does not. Pass a cable through the hole and around the frame so the cover cannot be pulled off."
     },
     {
       "q": "How do I measure my trike for a cover?",
-      "a": "Measure from the front tire to the back of the rear basket, then across the widest point of the rear axle or basket, and the height to the top of the handlebars. Pick a cover with a few inches to spare on each so the hem reaches below the axle and the straps can close."
+      "a": "Measure overall length, widest width across the rear tires, and height to the top of the basket. Compare each with the cover's dimensions. Allow a little slack so buckles can be fastened without stretching the fabric."
     },
     {
       "q": "How do I stop the cover blowing off?",
-      "a": "Use every buckle and belly strap, and remove sharp accessories first. A snug fit matters more than size."
+      "a": "Use every buckle, strap and elastic hem together. The GRABADO has four windproof buckles and the AKEfit cargo cover has bottom snap straps. Pull them snug, and recheck after strong wind."
+    },
+    {
+      "q": "Do the covers fit a trike with a tall basket?",
+      "a": "They can. The GRABADO is 44 inches high at its peak, and the AKEfit cargo cover goes up to 41.3 inches at the rear. Measure to the top of your basket and compare before buying."
     }
   ],
-  "bottomLine": "The GRABADO 420D cover is the best fit for most trikes thanks to its size and wheel-side buckles. The HICOVER suits harsh weather, the AKEfit cargo cover suits long trikes, and the AKEfit 210D suits sheltered storage. Measure first.",
+  "bottomLine": "The GRABADO 420D cover is the best fit for most trikes thanks to its size and wheel-side buckles. The HICOVER suits harsh weather with its 600D fabric, and the AKEfit cargo cover suits long trikes. The AKEfit 210D suits sheltered storage. Measure first.",
   "amazonSearch": "tricycle covers under $50",
   "relatedPaths": [
     "/accessories/best-tricycle-covers-under-25/",

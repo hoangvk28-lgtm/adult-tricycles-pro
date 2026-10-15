@@ -215,49 +215,56 @@ export const bestBikeComputersUnder30: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Setup",
-      "body": "Wheel size entry and sensor setup were weighed."
+      "title": "Setup effort",
+      "body": "We weighed how much work each computer needs before the first ride, such as entering a wheel size, aligning a sensor and magnet, or simply pressing start on a GPS unit."
     },
     {
-      "title": "Display",
-      "body": "Screen size matters for older eyes."
+      "title": "Screen size",
+      "body": "We compared display size because older eyes on an upright trike need numbers they can read at a glance without leaning forward or squinting at the bars."
     },
     {
-      "title": "Weather",
-      "body": "IPX ratings were compared."
+      "title": "Weather resistance",
+      "body": "We compared IPX ratings and water claims, since trikes get ridden in drizzle and parked outside, and a computer that fogs or fails after one wet week is no bargain."
     },
     {
-      "title": "Power",
-      "body": "Battery runtime counted."
+      "title": "Power and upkeep",
+      "body": "We counted runtime and charging for the GPS units, and the absence of charging for wired ones, because a dead computer on a long ride is just clutter on the handlebar."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Wired vs GPS",
+      "title": "Wired versus GPS",
       "paragraphs": [
-        "Wired units use a magnet and sensor. GPS units skip them.",
-        "GPS is easier."
+        "A wired computer counts wheel turns with a magnet on a spoke and a sensor on the fork, then multiplies by the wheel size you enter. A GPS unit reads satellites instead and needs neither magnet nor sensor.",
+        "On a trike with two rear wheels and different fork shapes, the GPS style removes the hardest part of installation. Pick GPS if you dislike fiddling, and pick wired only if you are comfortable aligning a sensor and routing a wire."
       ]
     },
     {
-      "title": "Wheel size setup",
+      "title": "Wheel size entry",
       "paragraphs": [
-        "Wired units need the right wheel size.",
-        "Enter it on install."
+        "Wired units like the CATEYE Enduro, Hilceriy and Hicvers convert wheel turns into distance, so they must know the tire's rolling size. A wrong number makes every speed and mileage reading wrong by the same percentage.",
+        "Read the size printed on the sidewall of the wheel that carries the sensor, then enter it during setup. Check the first mile against a known distance, such as a measured block, before you trust the totals."
       ]
     },
     {
       "title": "Display size",
       "paragraphs": [
-        "A larger display reads better.",
-        "Compare sizes."
+        "Screen size decides how quickly you can read speed without taking your eyes off the path. A larger display allows bigger digits, which matters more as eyesight changes and as trike seating puts the bars at arm's length.",
+        "Look for the screen measurement in inches, such as the 2.4 inch display on the BKVTOP and Bikevee. For wired units, look for the words large LCD and a backlight if you ride near dusk."
       ]
     },
     {
       "title": "Weather rating",
       "paragraphs": [
-        "IPX7 survives rain better than IPX6.",
-        "Check the rating."
+        "An IPX rating describes how well a sealed case resists water. IPX7 survives brief immersion, while IPX6 resists strong jets of water, so both handle normal rain but not a hose pointed at the seams.",
+        "The BKVTOP and Bikevee are rated IPX7 and the Hilceriy is rated IPX6, so check the number rather than the word waterproof. If the trike lives outdoors, wipe the unit dry and bring GPS models inside to charge."
+      ]
+    },
+    {
+      "title": "Sensor gap and wire routing",
+      "paragraphs": [
+        "A wired computer only counts when the magnet passes the sensor within a narrow gap, and the wire must run from the fork to the handlebar without tugging. Trike frames and wide bars make that routing longer than on a bicycle.",
+        "Test the fit before you cut zip ties by turning the wheel slowly and watching for a count. Hold the wire loosely against the frame, steer fully left and right, and confirm nothing pulls tight."
       ]
     }
   ],
@@ -272,52 +279,57 @@ export const bestBikeComputersUnder30: BestArticle = {
         ],
         "rows": [
           [
-            "Older eyes",
+            "Older eyes, no sensor work",
             "BKVTOP Wireless GPS Bike Computer",
-            "2.4 inch screen"
+            "2.4 inch screen and GPS, no wheel sensor needed"
           ],
           [
-            "Climbs",
+            "Easy tracking with auto start",
             "Bikevee GPS Bike Computer",
-            "Gradient and ascent"
+            "Auto start and stop, 650mAh battery, 28 hour runtime"
           ],
           [
-            "Simple",
+            "Simplest controls, beginner",
             "CATEYE Enduro Wired Computer",
-            "Single button"
+            "Single button, auto pause, calories and clock"
           ],
           [
-            "Dim light",
+            "Riding in dim light",
             "Hilceriy Wired Bike Computer",
-            "Backlight"
+            "Backlight with auto wake-up, IPX6 water resistance"
+          ],
+          [
+            "Plain speed and distance",
+            "Hicvers Wired Bike Computer",
+            "Large LCD, two buttons, auto wake-up, low effort"
           ]
         ]
       }
     },
     {
-      "heading": "Wired vs GPS",
+      "heading": "GPS vs Wired",
       "cards": [
         {
-          "label": "Wired",
-          "text": "CATEYE, Hilceriy and Hicvers need wheel size and sensors."
+          "label": "GPS",
+          "text": "The BKVTOP Wireless GPS Bike Computer and the Bikevee GPS Bike Computer skip the magnet and sensor, so setup is quick. Both need charging, and each is rated for up to 28 hours of runtime."
         },
         {
-          "label": "GPS",
-          "text": "BKVTOP and Bikevee skip them but need charging."
+          "label": "Wired",
+          "text": "The CATEYE Enduro, Hilceriy and Hicvers never need charging, but each needs a wheel size entered and a sensor gap set correctly. The wire also has to be routed around trike steering."
         }
       ],
-      "note": "Most riders should default to GPS."
+      "note": "Most riders should default to GPS, and choose wired only if they never want to charge another device."
     },
     {
       "heading": "For Seniors Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Large screen, backlight and easy setup."
+          "text": "Pick a large readable display, a simple start process and an IPX7 rating so nothing needs adjusting before a ride."
         },
         {
           "label": "In this comparison",
-          "text": "The BKVTOP has 2.4 inch screen and backlight."
+          "text": "The BKVTOP Wireless GPS Bike Computer has a 2.4 inch screen, IPX7 sealing and USB-C charging, with no sensor to align and a light 50 g body."
         }
       ]
     },
@@ -326,38 +338,38 @@ export const bestBikeComputersUnder30: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you want mapping."
+          "text": "You want the most readable screen and fewest setup steps, where the BKVTOP Wireless GPS Bike Computer or Bikevee GPS Bike Computer earns the extra cost."
         },
         {
           "label": "Save if",
-          "text": "you only want speed, where the Hicvers covers it."
+          "text": "You only want speed and distance on a short route, where the Hicvers Wired Bike Computer covers the basics without a battery to charge."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Do wired computers need setup?",
-      "a": "Yes, enter wheel size."
+      "q": "Do wired bike computers need setup?",
+      "a": "Yes. A wired computer needs your wheel size entered and a magnet and sensor lined up across a small gap. Do this once during installation, then check the first measured mile. The CATEYE Enduro, Hilceriy and Hicvers all work this way, while the GPS units skip it."
     },
     {
-      "q": "Do GPS models need charging?",
-      "a": "Yes, both last up to 28 hours."
+      "q": "Do the GPS models need charging?",
+      "a": "Yes. The BKVTOP and Bikevee are both rated for up to 28 hours and charge by cable. For a rider doing short loops that is weeks between charges, but plan to top them up before any long day out or a multi-day trip."
     },
     {
-      "q": "Will the Hilceriy work on e-trikes?",
-      "a": "It may not suit some electric-assist bikes."
+      "q": "Will the Hilceriy work on an electric trike?",
+      "a": "It may not suit some electric-assist bikes, so check before buying. Motor systems can interfere with sensor counting or speed handling. If your trike has a motor, a GPS unit like the BKVTOP is the safer choice because it reads speed from satellites."
     },
     {
-      "q": "Which is easiest?",
-      "a": "GPS models."
+      "q": "Which computer is easiest for a first-time user?",
+      "a": "The GPS models are easiest, because there is no wheel size, magnet or wire to handle. Among wired units, the CATEYE Enduro has a single button, which keeps operation simple for someone who finds multiple small buttons fiddly or hard to press with gloves."
     },
     {
-      "q": "Are these waterproof?",
-      "a": "The GPS units are IPX7."
+      "q": "Are these computers waterproof?",
+      "a": "The BKVTOP and Bikevee GPS units are rated IPX7 and the Hilceriy is rated IPX6, which handle rain and splashes. They are not meant to be submerged for long. Wipe the unit off after wet rides and keep the charging port dry."
     }
   ],
-  "bottomLine": "The BKVTOP suits older eyes and easy setup. The CATEYE suits simple wired use.",
+  "bottomLine": "The BKVTOP Wireless GPS Bike Computer is the best overall pick for older eyes and easy setup. Choose the Bikevee if you want auto start and stop, the CATEYE Enduro for the simplest wired use, the Hilceriy for dim light, and the Hicvers for a plain large LCD.",
   "amazonSearch": "bike computers under $30",
   "relatedPaths": [
     "/accessories/best-cycle-computers-for-adult-tricycles/",

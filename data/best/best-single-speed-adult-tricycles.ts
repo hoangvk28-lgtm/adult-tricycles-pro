@@ -229,48 +229,55 @@ export const bestSingleSpeedAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Frame material",
-      "body": "Aluminum scored above steel for rust and weight."
+      "body": "We compared aluminum and steel frames, since material decides weight, rust resistance and how hard the trike is to lift or store. A lighter frame is easier on your back."
     },
     {
       "title": "Step-through height",
-      "body": "A low step helps older riders."
+      "body": "We looked at how low each frame sits at the entry point. A low step-through lets you mount without swinging a leg over, which matters for stiff hips and balance."
     },
     {
       "title": "Basket rating",
-      "body": "Where given, the number was used."
+      "body": "We checked basket limits and whether they are cargo only or a total. A rear basket with a clear rating tells you how much shopping the trike will really carry."
     },
     {
       "title": "Rider fit",
-      "body": "Height ranges were compared."
+      "body": "We compared stated height ranges and wheel sizes, because a trike that fits well gives an upright posture and a comfortable leg reach without strain."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Your hills",
       "paragraphs": [
-        "One gear is hard on slopes.",
-        "Walk your route first."
+        "A single-speed trike has one gear, so every hill is climbed at the same effort as flat ground. On a gentle slope you can stand or push, but a steep one may be too hard on your knees.",
+        "Walk or drive your usual route and note any slope you cannot stand for. If you face hills, choose a geared trike instead of a single speed."
       ]
     },
     {
       "title": "Frame weight",
       "paragraphs": [
-        "Steel is heavier than aluminum.",
-        "Check weight if you lift."
+        "Steel is strong and often cheaper, but it is heavier and can rust where paint chips. Aluminum is lighter and does not rust, which helps if you ever lift the trike or store it upstairs.",
+        "Think about whether you will roll it in a flat garage or carry it up steps. Pick aluminum, like the Schwinn Meridian, if weight matters."
       ]
     },
     {
       "title": "Basket rating",
       "paragraphs": [
-        "A basket limit is not the frame limit.",
-        "Check both."
+        "The basket limit is how much cargo the rack and basket can carry, which is often less than the frame limit. The Incbruce shows 250 lb, while the Brightpeak and Crownland show 50 lb.",
+        "Estimate your usual load, including bottles and a heavy bag. Keep it low and centered so the trike does not tip, even when it is under the basket limit."
       ]
     },
     {
       "title": "Rider height",
       "paragraphs": [
-        "Seat height ranges differ.",
-        "Check the chart."
+        "Trike frames fit a range of rider heights, and sizes such as 24 and 26 inch change the reach. The Schwinn Meridian suits 5 feet to 6 feet 1 inch, and the Crownland suits 4 feet 9 inches to 5 feet 9 inches.",
+        "Measure your height and inseam, compare them with the stated range, and choose the size that leaves your knee slightly bent at the bottom of the stroke."
+      ]
+    },
+    {
+      "title": "Weight limit meaning",
+      "paragraphs": [
+        "A rider limit, frame limit and total payload are different numbers. Brightpeak shows a 450 lb frame figure, Crownland 350 lb, and Outroad 350 lb including cargo.",
+        "Add your weight and cargo together and compare that total with the figure that matches. If the maker is vague, ask which one applies before you order."
       ]
     }
   ],
@@ -285,24 +292,29 @@ export const bestSingleSpeedAdultTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "Tall rider",
-            "Schwinn Meridian",
-            "5'0\" to 6'1\""
+            "Tall rider, 5 feet to 6 feet 1 inch",
+            "Schwinn Meridian 26 Inch Trike",
+            "Rated height range, aluminum frame, low step-through"
           ],
           [
-            "Short rider",
-            "Brightpeak 24 inch",
-            "4'9\" to 5'1\""
+            "Short rider needing a 24 inch size",
+            "Brightpeak 1 Speed 26 Inch Trike",
+            "Offers 24 and 26 inch sizes"
           ],
           [
-            "Mid height",
-            "Crownland",
-            "4'9\" to 5'9\""
+            "Mid-height rider on everyday errands",
+            "Crownland 26 Inch Cruiser Trike",
+            "24 and 26 inch sizes, adjustable seat"
           ],
           [
-            "Heavy basket",
-            "Incbruce",
-            "250 lb basket"
+            "Heavy groceries every week",
+            "Incbruce 26 Inch Cargo Trike",
+            "250 lb basket rating, aluminum step-through frame"
+          ],
+          [
+            "Wet roads and a muddy ride",
+            "Outroad 24/26 Inch Single-Speed Trike",
+            "Front and rear fenders keep spray off you"
           ]
         ]
       }
@@ -312,25 +324,25 @@ export const bestSingleSpeedAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Aluminum",
-          "text": "The Schwinn and Incbruce are lighter and resist rust."
+          "text": "The Schwinn Meridian 26 Inch Trike and Incbruce 26 Inch Cargo Trike use aluminum frames. They resist rust and weigh less, which makes them easier to roll, lift a wheel and store."
         },
         {
           "label": "Steel",
-          "text": "The Brightpeak, Crownland and Outroad are heavier but have strong frame figures."
+          "text": "The Brightpeak, Crownland and Outroad models use steel or carbon steel. They are strong and can carry a heavier rider, but the extra weight and rust risk need some care."
         }
       ],
-      "note": "Default to aluminum if you ever lift or store it upstairs."
+      "note": "Default to aluminum if you ever lift or store the trike upstairs."
     },
     {
       "heading": "For Flat Routes Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A route with no steep hills."
+          "text": "Look for a flat route without steep hills, a low step-through and a fixed gear that you can pedal slowly. Check that the basket is wide enough for a bag."
         },
         {
           "label": "In this comparison",
-          "text": "All five are suitable; the Schwinn is the lightest."
+          "text": "The Schwinn Meridian 26 Inch Trike is the simple all-rounder for flat town riding, with fenders and a rear basket. The Incbruce 26 Inch Cargo Trike is the one for heavy cargo."
         }
       ]
     },
@@ -339,11 +351,11 @@ export const bestSingleSpeedAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You face any hill, in which case a geared trike is better."
+          "text": "Spend more if you carry heavy loads or want less weight. The Incbruce 26 Inch Cargo Trike offers a 250 lb basket, and the Schwinn Meridian gives an aluminum frame with a low step-through."
         },
         {
           "label": "Save if",
-          "text": "Your route is flat."
+          "text": "Save if you weigh in the mid-range and carry light loads. The Crownland 26 Inch Cruiser Trike and Outroad give 350 lb figures and adjustable seats, but with steel frames and basic baskets."
         }
       ]
     }
@@ -351,26 +363,30 @@ export const bestSingleSpeedAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Can a single-speed trike climb hills?",
-      "a": "Only gentle ones. Steep hills mean walking."
+      "a": "Only gentle ones. With one gear, a hill is climbed at a fixed effort, and a steep slope may be too hard. If your route has real hills, a geared trike will be more comfortable for your knees."
     },
     {
-      "q": "Why choose single speed?",
-      "a": "Less to maintain and adjust."
+      "q": "Why choose a single speed at all?",
+      "a": "Fewer parts means less to adjust and less to break. There is no derailleur to bend, no cable to stretch and no shifter to learn. For flat town riding, simplicity and low maintenance are worth the trade."
     },
     {
       "q": "Is the basket limit the same as the frame limit?",
-      "a": "No. Check both numbers."
+      "a": "No. The Incbruce shows a 250 lb basket, while the Brightpeak and Crownland show a 50 lb basket with higher frame figures. Check both numbers before loading, keep cargo low and centered, and remember a heavy basket changes how the trike steers."
     },
     {
-      "q": "Does steel rust?",
-      "a": "It can, so wipe it dry."
+      "q": "Does a steel frame rust?",
+      "a": "It can, where paint chips or water collects. Aluminum frames, such as the Schwinn Meridian and Incbruce, resist rust. If you use a steel trike, wipe it dry after rain, touch up paint chips quickly, and store it under cover so rust does not start."
     },
     {
       "q": "What about geared trikes?",
-      "a": "See our best adult tricycles for geared options."
+      "a": "A geared trike lets you pick a lighter gear for hills, which saves your knees. It costs more and has more parts to adjust, so choose it only if you face real slopes or long trips."
+    },
+    {
+      "q": "Which trike is best for wet roads?",
+      "a": "The Outroad 24/26 Inch Single-Speed Trike has front and rear fenders, which keep spray off your clothes. The Schwinn Meridian also includes fenders and an aluminum frame that resists rust, so it is a good second choice if you ride in rain often."
     }
   ],
-  "bottomLine": "The Schwinn Meridian is the best all-around single-speed trike, and the Incbruce is the one to pick for cargo. Choose a geared trike if you face hills.",
+  "bottomLine": "The Schwinn Meridian 26 Inch Trike is the best all-around single-speed trike for flat town riding, thanks to its aluminum frame, low step-through and fenders. Choose the Incbruce 26 Inch Cargo Trike for heavy cargo. If your route has hills, pick a geared trike.",
   "amazonSearch": "single-speed adult tricycles",
   "relatedPaths": [
     "/adult-tricycles/best-adult-tricycles/",

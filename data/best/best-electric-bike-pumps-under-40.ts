@@ -188,48 +188,48 @@ export const bestElectricBikePumpsUnder40: BestArticle = {
   "howWeChose": [
     {
       "title": "Battery per charge",
-      "body": "We compared battery capacity and what each pump claims a charge covers, since a trike has three tires."
+      "body": "We compared battery capacity and what each maker says a charge covers, since a trike has three tires and a pump that runs out after one is a poor trade."
     },
     {
       "title": "Pressure and gauge",
-      "body": "Maximum PSI and gauge type were compared, because an accurate gauge matters more than speed."
+      "body": "We compared maximum PSI and gauge type, because at this level an accurate, readable gauge matters more to a trike rider than how quickly the pump gets to a number."
     },
     {
       "title": "Valve fit and nozzles",
-      "body": "Presta and Schrader compatibility and extra nozzles were noted."
+      "body": "We noted Presta and Schrader compatibility and the extra nozzles each pump ships with, because a missing adapter can leave a pump useless on your wheels."
     },
     {
-      "title": "Only true electric pumps",
-      "body": "Manual foot pumps and gauge adapters were dropped, leaving real cordless electric pumps."
+      "title": "True electric pumps only",
+      "body": "We dropped manual foot pumps and plain gauge adapters, leaving only cordless electric pumps that fill a tire without hand effort from a rider with tired hands."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Battery and tire count",
       "paragraphs": [
-        "A trike has three tires, and wider trike tires take more air than road bike tires, so capacity ratings in tires per charge may be optimistic.",
-        "Look for a stated tire count or a 4000mAh style capacity, and assume you will recharge after a full top-up."
+        "A trike has three tires, and wider trike tires take more air than road bike tires, so a rating of tires per charge may be optimistic for your wheels. The CYCPLUS quotes about 14 bicycle tires per charge.",
+        "Look for a stated tire count or a capacity such as the HYVOHEX's 4000mAh, and assume you will recharge after a full top up of all three tires."
       ]
     },
     {
       "title": "Valve type",
       "paragraphs": [
-        "Most adult trikes use Schrader valves, similar to a car, while some use Presta.",
-        "Check the pump includes the right adapter. Several here include nozzles for both."
+        "Most adult trikes use Schrader valves, similar to those on a car, while some wheels use Presta. A pump that lacks the right nozzle cannot seat on the valve and will leak air at the head.",
+        "Check your valve first, then confirm the pump includes the right adapter. The VEEAPE ships with three nozzles, which makes a mismatch less likely on any wheel you own."
       ]
     },
     {
       "title": "Gauge accuracy",
       "paragraphs": [
-        "Budget gauges can read a few PSI off. For trike tires with a recommended range, a small error matters.",
-        "Check pressure with a separate gauge occasionally, and follow the tire sidewall range."
+        "Low cost gauges can read a few PSI off. For trike tires that have a recommended range on the sidewall, even a small error matters because it changes comfort, grip and rolling effort.",
+        "Check pressure with a separate gauge occasionally and follow the sidewall range. A backlit digital gauge, like the VEEAPE's, is easier to read in a dim garage."
       ]
     },
     {
       "title": "Heat and runtime",
       "paragraphs": [
-        "Small pumps run hot, and a pump may stop to cool when used continuously.",
-        "Inflate one tire at a time and give the pump a short break between tires."
+        "Small pumps run hot, and some stop to cool when used continuously, which slows you down when you have three tires to fill. Cooling vents or a cooling design help but do not remove the limit.",
+        "Inflate one tire at a time and give the pump a short break between tires. The HYVOHEX and Hafuloky both advertise cooling, but both still need breaks."
       ]
     }
   ],
@@ -244,24 +244,24 @@ export const bestElectricBikePumpsUnder40: BestArticle = {
         ],
         "rows": [
           [
-            "Weekly top-up of three tires",
+            "Weekly top up of all three tires",
             "HYVOHEX Mini Bike Tire Pump",
-            "4000mAh battery"
+            "4000mAh battery for repeated full fills"
           ],
           [
             "Carry in a rear basket",
             "CYCPLUS Portable Electric Tire Inflator",
-            "380g with built-in hose"
+            "380g with a built in hose"
           ],
           [
-            "Exact pressure matters",
-            "VEEAPE Tiny Pump",
-            "Backlit digital gauge"
+            "Exact pressure matters most",
+            "VEEAPE Tiny Pump Mini Electric Bike Pump",
+            "Backlit digital gauge and three nozzles"
           ],
           [
-            "Emergency kit",
+            "Emergency kit in a trunk",
             "Hafuloky Cordless Tire Inflator",
-            "Power bank and dual display"
+            "Power bank function and dual display"
           ]
         ]
       }
@@ -271,11 +271,11 @@ export const bestElectricBikePumpsUnder40: BestArticle = {
       "cards": [
         {
           "label": "Simple",
-          "text": "The CYCPLUS does one job well and carries easily, with a built-in hose and few modes."
+          "text": "The CYCPLUS does one job and carries easily, with a built in hose, auto shut off and few modes to learn, which suits a rider who just wants tires filled."
         },
         {
           "label": "Multi-function",
-          "text": "The Hafuloky and VEEAPE add power bank, nozzles and displays, which helps in an emergency kit but adds bulk."
+          "text": "The Hafuloky adds a power bank and five modes, and the VEEAPE adds three nozzles and a light, which helps in an emergency kit but adds bulk."
         }
       ],
       "note": "Most trike riders should start with the CYCPLUS."
@@ -285,11 +285,11 @@ export const bestElectricBikePumpsUnder40: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A small, cordless pump that charges by USB and stores in a drawer."
+          "text": "A small, cordless pump that charges by USB and stores in a drawer or a closet, so you are not hunting for outlet space or a hose."
         },
         {
           "label": "In this comparison",
-          "text": "The CYCPLUS at 380g and the VEEAPE both fit a drawer or a basket."
+          "text": "The CYCPLUS at 380g and the VEEAPE both fit a drawer or a basket, while the HYVOHEX and Hafuloky have larger bodies for their bigger batteries."
         }
       ]
     },
@@ -298,11 +298,11 @@ export const bestElectricBikePumpsUnder40: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You inflate fat tires or large cargo tires often. See the electric pump pillar guide for stronger pumps."
+          "text": "You inflate fat tires or large cargo tires often. These pumps top out at 150 PSI and small batteries, so a stronger pump will save time on bigger volume."
         },
         {
           "label": "Save if",
-          "text": "You top up standard trike tires. The CYCPLUS or HYVOHEX is enough."
+          "text": "You top up standard trike tires. The CYCPLUS or HYVOHEX is enough, with the CYCPLUS winning on size and the HYVOHEX on battery capacity."
         }
       ]
     }
@@ -310,26 +310,30 @@ export const bestElectricBikePumpsUnder40: BestArticle = {
   "faq": [
     {
       "q": "Can a cordless pump inflate three trike tires?",
-      "a": "Most can, if the battery is full and you give the pump rest between tires. Wider trike tires need more air, so expect to recharge after a full set."
+      "a": "Most can, if the battery is full and you give the pump rest between tires. Wider trike tires need more air than road tires, so expect to recharge after a full set rather than after each ride."
     },
     {
       "q": "Which valve do trikes use?",
-      "a": "Most use Schrader valves like a car, though some use Presta. Check your valve and make sure the pump nozzle fits, or use an adapter."
+      "a": "Most use Schrader valves like a car, though some use Presta. Check your valve and make sure the pump nozzle fits, or use an adapter, since a poor fit leaks air, wastes battery and slows every fill."
     },
     {
-      "q": "How accurate are the built-in gauges?",
-      "a": "Budget gauges can be off by a few PSI. Cross-check with a separate gauge now and then and follow the sidewall range."
+      "q": "How accurate are the built in gauges?",
+      "a": "Low cost gauges can be off by a few PSI. Cross check with a separate gauge now and then, and follow the sidewall range printed on the tire instead of relying on the pump alone."
     },
     {
       "q": "Is 150 PSI needed for a trike?",
-      "a": "No. Most trike tires run at far lower pressure, so the maximum matters less than gauge accuracy and battery."
+      "a": "No. Most trike tires run at far lower pressure, so the maximum matters less than gauge accuracy and battery capacity. A 150 PSI rating simply means the pump has headroom, not that you should ever use it."
     },
     {
       "q": "How should I charge it?",
-      "a": "Use the supplied USB cable and a standard charger, and charge before a ride, not overnight on a hot shelf."
+      "a": "Use the supplied USB cable and a standard charger, and charge before a ride, not overnight on a hot shelf. Let the pump cool after use before plugging it in, and keep the cable with it so it is ready when needed."
+    },
+    {
+      "q": "Which pump is best for a small basket?",
+      "a": "The CYCPLUS at 380g with a built in hose is the easiest to tuck into a rear basket. The Hafuloky and HYVOHEX are bulkier, so keep them for the garage or the trunk, where the extra size does not matter."
     }
   ],
-  "bottomLine": "A cordless pump takes the work out of three tires. The CYCPLUS is the best all-round buy for its battery and size, the HYVOHEX gives the most capacity, and the Hafuloky suits an emergency kit. For stronger pumps, see our full electric pump guide.",
+  "bottomLine": "A cordless pump takes the hand work out of three tires. The CYCPLUS is the best all round buy for its battery rating and small size, the HYVOHEX gives the most capacity, and the Hafuloky suits an emergency kit. Check the valve type and sidewall range first.",
   "amazonSearch": "electric bike pumps under $40",
   "relatedPaths": [
     "/accessories/best-electric-bike-pumps-for-tricycle-riders/",

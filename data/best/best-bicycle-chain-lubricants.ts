@@ -212,48 +212,55 @@ export const bestBicycleChainLubricants: BestArticle = {
   "howWeChose": [
     {
       "title": "Bottle size",
-      "body": "Trike chains are long, so larger bottles ranked higher."
+      "body": "We compared bottle sizes, since a long trike chain takes more lube than a bike chain. A small bottle runs out quickly, while a big bottle is cheaper per ride but harder to carry."
     },
     {
-      "title": "Dry or wet",
-      "body": "We separated dry, wax and wet formulas by use."
+      "title": "Dry or wet formula",
+      "body": "We separated dry, wax and wet formulas. Wax and dry lubes stay clean in dust, while wet lubes cling in rain and attract dirt on dry paths."
     },
     {
       "title": "Cleanliness",
-      "body": "Formulas that stay clean in storage ranked higher."
+      "body": "We looked at how much grime each lube leaves on the chain. A clean film keeps your hands, pant leg and storage area free from black grease."
     },
     {
       "title": "Application",
-      "body": "Squeeze or drip bottles help older hands."
+      "body": "We weighed how easy each bottle is to apply. A squeeze or drip bottle that places a drop on each roller is easier for older hands than a spray that mists."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Dry versus wet",
       "paragraphs": [
-        "Dry lubes leave a waxy film that sheds dust. Wet lubes last in rain but attract grit.",
-        "Choose by where you ride, not by brand."
+        "A dry lube, often wax based, leaves a thin film that repels dust and dirt. A wet lube flows longer in rain but attracts grit, so it needs more frequent cleaning.",
+        "Choose by your weather. Muc-Off Dry and Finish Line Dry suit dusty paths, and Squirt works in mixed conditions. Match the lube to the surface you ride on most."
       ]
     },
     {
-      "title": "Bottle size",
+      "title": "Bottle size and chain length",
       "paragraphs": [
-        "A trike chain holds more lube than a bike chain.",
-        "Check the volume on the bottle."
+        "A trike chain is longer than a bike chain, so each application uses more lube. A 50 ml bottle may need replacing in a few months, while 500 ml lasts a season.",
+        "Compare bottle size with how often you ride. The Squirt is 500 ml, SILCA 8 oz, White Lightning 4 fl oz and Muc-Off 50 ml, so choose the size that fits."
       ]
     },
     {
       "title": "Drying time",
       "paragraphs": [
-        "Wax lubes need time to dry.",
-        "Apply the night before a ride."
+        "Wax based lubes arrive as liquid and dry to a waxy film. If you ride before they dry, the lube can wash off, and you waste the application.",
+        "Apply the evening before a ride when possible, since wet wax can wash off in the first miles. The Squirt and SILCA need drying before riding, so build that into your routine."
       ]
     },
     {
       "title": "Excess wipe",
       "paragraphs": [
-        "Excess lube on the chain collects grit and can reach brake surfaces.",
-        "Wipe the chain after applying."
+        "Too much lube attracts dirt, flings onto the wheel and drips on the floor. The goal is a thin film on the rollers, not a wet chain.",
+        "After applying, spin the cranks for a minute, then wipe the outer plates with a clean rag. Check your driveway and storage floor for drips afterward."
+      ]
+    },
+    {
+      "title": "Brake safety",
+      "paragraphs": [
+        "Lube on a brake disc or rim contaminates the pads and weakens braking. A trike with disc or drum brakes can lose stopping power if a drip lands in the wrong place.",
+        "Apply lube with the chain exposed and shield the brakes with a rag. If lube gets on a disc, clean it with a brake cleaner before riding."
       ]
     }
   ],
@@ -268,29 +275,29 @@ export const bestBicycleChainLubricants: BestArticle = {
         ],
         "rows": [
           [
-            "Mixed weather, long chain",
+            "Mixed weather and a long chain",
             "Squirt Chain Lube 500 ml",
-            "Large bottle with water and dirt repellent wax"
+            "Large 500 ml bottle with wax emulsion"
           ],
           [
-            "Dry dusty paths",
+            "Dry, dusty paths",
             "Muc-Off Dry Chain Lube 50 ml",
-            "Wax based dry formula"
+            "Wax based dry lube for dust protection"
           ],
           [
-            "Garage dust",
+            "Garage dust and short rides",
             "Finish Line Dry Bike Lubricant with Teflon",
-            "Dry, quick setting film"
+            "Quick drying with a clean film"
           ],
           [
-            "Wax routine",
+            "Moving toward a wax routine",
             "SILCA Super Secret Wax Based Chain Lube 8 oz",
-            "Drip wax result"
+            "Clean wax finish with a drip bottle"
           ],
           [
-            "Quick tidy ups",
+            "Quick tidy up of a dirty chain",
             "White Lightning 2 in 1 Lubricant and Degreaser",
-            "Clean and lube in one"
+            "Cleans and lubricates in one step"
           ]
         ]
       }
@@ -300,11 +307,11 @@ export const bestBicycleChainLubricants: BestArticle = {
       "cards": [
         {
           "label": "Wax",
-          "text": "Squirt, Muc-Off, Finish Line and SILCA leave a drier film."
+          "text": "Wax based lubes such as the SILCA Super Secret and Muc-Off Dry leave a dry, clean film. They keep the chain tidy and quiet, but they need more frequent reapplication after wet rides."
         },
         {
           "label": "Wet film",
-          "text": "White Lightning leaves a water resistant film that can hold dirt."
+          "text": "Wet film lubes cling longer in rain and wet roads. They protect better in mixed weather, but they pick up grit and leave a darker chain that needs wiping."
         }
       ],
       "note": "Most trike owners should default to a wax or dry lube."
@@ -314,11 +321,11 @@ export const bestBicycleChainLubricants: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A bottle that is easy to squeeze and a formula that does not need a full degrease."
+          "text": "Look for a drip or squeeze bottle you can control with one hand, a clean formula and a bottle size that fits a long chain. Large labels and easy caps help with weaker grip."
         },
         {
           "label": "In this comparison",
-          "text": "Finish Line has a squeeze bottle and Squirt does not require a full degrease."
+          "text": "The Finish Line Dry Bike Lubricant with Teflon has a squeeze bottle, and the SILCA Super Secret has a drip bottle. Both place drops where you want them."
         }
       ]
     },
@@ -327,11 +334,11 @@ export const bestBicycleChainLubricants: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride often and want fewer applications, so consider SILCA."
+          "text": "Spend more if you ride often and want a clean chain. The SILCA Super Secret Wax Based Chain Lube 8 oz gives a quiet, clean wax finish, and the Squirt 500 ml covers a long chain for a season."
         },
         {
           "label": "Save if",
-          "text": "You ride rarely, so Squirt or White Lightning is enough."
+          "text": "Save if you ride occasionally on dry paths. The Finish Line Dry Bike Lubricant with Teflon is quick drying and clean, and White Lightning 2 in 1 cleans and lubes in one step."
         }
       ]
     }
@@ -339,26 +346,30 @@ export const bestBicycleChainLubricants: BestArticle = {
   "faq": [
     {
       "q": "How often should I lube a trike chain?",
-      "a": "Lube when the chain looks dry or squeaks, and after cleaning. See /adult-tricycle-chain-cleaning-and-lubrication/."
+      "a": "It depends on riding and weather. Lube when the chain starts to squeak, after a wet ride, and roughly every few weeks with regular use. Wipe off the excess after each application, and clean the chain when it looks gritty."
     },
     {
-      "q": "Can I mix lubes?",
-      "a": "Avoid it. Clean the chain before switching types."
+      "q": "Can I mix different lubes?",
+      "a": "It is best not to. Wax and wet lubes can mix poorly and leave a sticky mess. If you switch types, clean the chain first with a degreaser, such as the White Lightning 2 in 1, before applying the new lube."
     },
     {
       "q": "Can lube get on the brakes?",
-      "a": "It can, so wipe the chain and keep lube away from pads and rotors."
+      "a": "Yes, and it is a real problem. Lube on a disc, rim or drum can reduce braking power. Shield the brakes with a rag while you apply, and clean any contamination with brake cleaner before you ride."
     },
     {
       "q": "Does a long trike chain need more lube?",
-      "a": "Yes, work along the full length slowly while turning the cranks."
+      "a": "Yes. A trike chain is longer than a bicycle chain, so it takes more lube and more time to coat each roller. Choose a larger bottle like the Squirt 500 ml if you ride often."
     },
     {
       "q": "When should I use a shop?",
-      "a": "If the chain is stretched or rusted, a shop can replace it. Use /adult-tricycle-maintenance-checklist/ to check."
+      "a": "If the chain is rusty, stretched or skipping, a shop can check wear and replace it for you. Lube cannot fix a worn chain, and an old chain wears the gears and chainring faster over time."
+    },
+    {
+      "q": "Is wax lube worth the extra care?",
+      "a": "For many riders, yes. Wax runs clean and quiet, but you must apply it to a clean, dry chain and let it dry. If you want one step, the White Lightning 2 in 1 cleans as it lubes."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Bicycle Chain Lubricants for Winter",
       "text": "The [White Lightning 2 in 1](#white-lightning-2-in-1-lubricant-and-degreaser) leaves a water resistant film, which matters when slush and wet roads wash lube off. Wipe the chain before applying, then wipe off the excess. Reapply more often than you would in dry weather.",
@@ -369,7 +380,7 @@ export const bestBicycleChainLubricants: BestArticle = {
       "text": "None of these lubes comes as a spray; they are drip, squeeze or bottle formats. The Finish Line squeeze bottle is the easiest to apply fast, and the SILCA drip bottle gives the most control. Spray lubes tend to coat brakes, so keep disc rotors covered if you ever use one."
     }
   ],
-  "bottomLine": "Squirt 500 ml suits most long trike chains, with Muc-Off or Finish Line for dry rides. Pair with /accessories/best-bicycle-chain-cleaners/ for the cleaning step.",
+  "bottomLine": "Squirt Chain Lube 500 ml is the best pick for most long trike chains because the large bottle works in mixed weather. Choose Muc-Off Dry or Finish Line Dry for dusty paths, and SILCA if you want a wax routine. Pair it with a good chain cleaner.",
   "amazonSearch": "chain lubricants",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-cleaners/",

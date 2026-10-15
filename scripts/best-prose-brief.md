@@ -22,6 +22,13 @@ brand, title, features, rating or unverified) and write the prose file named in 
  "bottomLine": "2-3 sentences", "relatedPaths": ["2-3 paths from the list below"]
 }
 
+## Depth (build fails below this; see scripts/depth-check.mjs)
+howWeChose bodies 2 sentences (18-35 words). whatToLookFor: 2 paragraphs each, 2-3 sentences
+(25-50 words): mechanism, then consequence on a trike plus how to check before buying.
+howToChoose table "why" 6-15 words; cards 2-3 sentences (18-45 words). faq answers 2-4 sentences
+(35-70 words). bottomLine 40-70 words. Short labels like "Steel resists wind." or one-word FAQ
+answers are a failure, not concision.
+
 Spec keys allowed: dimensions, overallWidth, bikeWeight, riderLimit, cargoLimit, totalPayload,
 wheelSize, riderHeightRange, stepThroughHeight, gearing, brakes, folding (real folds only), motor,
 battery, assistModes, throttle, chargeTime, mount, storage, features. Give 2-4 per product, only

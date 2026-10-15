@@ -186,48 +186,55 @@ export const bestTricycleCoversUnder25: BestArticle = {
   "howWeChose": [
     {
       "title": "Length and rear width",
-      "body": "We compared stated length and width against a typical adult trike, since the rear axle is the problem point."
+      "body": "We compared stated dimensions from the 29 inch YWWQYBYQ to the 37 inch Topcrown XXL. Rear axle width is the number that most often decides whether a cover fits a trike."
     },
     {
       "title": "Tie-downs and hems",
-      "body": "Elastic hems, buckles and wheel straps were compared for wind security."
+      "body": "We counted elastic hems, buckles and lock holes as the parts that keep a cover on in wind. A cover that blows loose offers no protection and can scuff paint."
     },
     {
       "title": "Fabric and coatings",
-      "body": "PU and UV coatings and fabric weight were noted where given."
+      "body": "We looked at 210D fabric and PU and UV coatings where stated, and noted where fabric weight is unclear. Coating decides how well rain beads and sun is blocked."
     },
     {
       "title": "Right product only",
-      "body": "Cable locks and mini bike covers were dropped, as they do not fit a trike."
+      "body": "We separated trike-specific covers from bike covers, which need careful size picking. This matters because a bike cover can leave a wide rear wheel exposed."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Rear axle width",
       "paragraphs": [
-        "A trike's rear axle is usually wider than a bike's whole body, and a cover under 30 inches wide can leave a wheel exposed.",
-        "Measure the widest point across the rear tires and choose a cover at least a few inches wider."
+        "A trike's rear axle is usually wider than a bike's whole body, and a cover under 30 inches wide can leave a wheel exposed. The cover then flaps and lets rain reach the drivetrain.",
+        "Measure the widest point across the rear tires and choose a cover at least a few inches wider. The Topcrown XXL reaches 37 inches."
       ]
     },
     {
       "title": "Height with a basket",
       "paragraphs": [
-        "A tall rear basket or a tall seat back pushes a cover up and away from the ground.",
-        "Measure to the highest point and compare with the cover's stated height."
+        "A tall rear basket or a tall seat back pushes a cover up and away from the ground. The fabric then hangs short and leaves wheels bare.",
+        "Measure to the highest point and compare with the cover's stated height. The MOONCOOL is 44 inches tall and the YWWQYBYQ 43 inches."
       ]
     },
     {
       "title": "Tie-downs",
       "paragraphs": [
-        "Wind lifts a loose cover quickly. Elastic hems, belly straps and wheel buckles keep it down.",
-        "Look for at least two fixing points, and a lock hole if you want to lock the cover to the frame."
+        "Wind lifts a loose cover quickly. Elastic hems, belly straps and wheel buckles keep it down and stop it chafing the paint.",
+        "Look for at least two fixing points, and a lock hole if you want to lock the cover to the frame. The Topcrown has front and rear wheel buckles."
       ]
     },
     {
       "title": "Condensation",
       "paragraphs": [
-        "A fully waterproof cover traps moisture, and a damp frame can rust.",
-        "Lift the cover occasionally, and look for vents. Never cover a wet trike for weeks."
+        "A fully waterproof cover traps moisture, and a damp frame can rust. Condensation forms under the fabric when the trike is cold and the air warms.",
+        "Lift the cover occasionally to let the frame dry, and never cover a wet trike for weeks. Storage bags are useful when the cover is damp."
+      ]
+    },
+    {
+      "title": "Storage bag and carry",
+      "paragraphs": [
+        "A bag keeps the cover clean and compact between uses, which helps if you travel with the trike. The MOONCOOL, Topcrown and Puroma include one.",
+        "Check that a storage bag is included, and fold the cover dry before you pack it. A damp fold can leave marks."
       ]
     }
   ],
@@ -244,22 +251,22 @@ export const bestTricycleCoversUnder25: BestArticle = {
           [
             "Standard width trike",
             "MOONCOOL Adult Tricycle Cover",
-            "Trike sized at 30 in wide"
+            "Trike specific, 75 x 30 x 44 inches, fits rear baskets"
           ],
           [
             "Long trike",
             "YWWQYBYQ Adult Tricycle Cover",
-            "78 in length"
+            "78 inch length is the longest trike specific option"
           ],
           [
             "Wide rear axle",
-            "Topcrown Cover XXL",
-            "37 in width"
+            "Topcrown Waterproof Bike Cover XXL",
+            "XXL size is 83 x 37 x 43 inches"
           ],
           [
             "Compact or small trike",
             "Puroma Waterproof Bike Cover",
-            "Stretchy fit"
+            "Elastic hem stretches over smaller frames"
           ]
         ]
       }
@@ -269,11 +276,11 @@ export const bestTricycleCoversUnder25: BestArticle = {
       "cards": [
         {
           "label": "Trike-specific",
-          "text": "The MOONCOOL and YWWQYBYQ are cut for three wheels and give a better fit, but only at stated sizes."
+          "text": "The MOONCOOL and YWWQYBYQ are cut for three wheels and give a better fit, but only at their stated sizes. Check the 30 and 29 inch widths against your axle."
         },
         {
           "label": "Bike cover",
-          "text": "The Topcrown and Puroma are bike covers. They need size picking but the XXL gives extra width."
+          "text": "The Topcrown and Puroma are bike covers. They need careful size picking, but the Topcrown XXL and XXXL sizes give the extra width a wide rear axle needs."
         }
       ],
       "note": "Most trike owners should choose a trike-specific cover, unless the rear axle is wider than 30 inches."
@@ -283,11 +290,11 @@ export const bestTricycleCoversUnder25: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Wheel buckles, a coating for UV and rain, and enough width to reach the ground."
+          "text": "Wheel buckles, a coating for UV and rain, and enough width to reach the ground so snow and wind cannot get under the edges."
         },
         {
           "label": "In this comparison",
-          "text": "The Topcrown XXL has wheel buckles and 210D fabric, and the MOONCOOL has buckle straps and a lock hole."
+          "text": "The Topcrown XXL has wheel buckles and 210D fabric, and the MOONCOOL has buckle straps, double-stitched seams and a lock hole for locking the cover on."
         }
       ]
     },
@@ -296,11 +303,11 @@ export const bestTricycleCoversUnder25: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You store the trike outdoors year-round. See the full cover guide for thicker fabric."
+          "text": "You store the trike outdoors year-round and want thicker fabric. See the full cover guide for heavier options than these 210D and PU coated picks."
         },
         {
           "label": "Save if",
-          "text": "The trike lives in a garage. Any of these is enough for dust."
+          "text": "The trike lives in a garage. Any of these is enough for dust, and the MOONCOOL is the simplest fit for a standard trike."
         }
       ]
     }
@@ -308,26 +315,30 @@ export const bestTricycleCoversUnder25: BestArticle = {
   "faq": [
     {
       "q": "Will a bike cover fit a trike?",
-      "a": "Not usually, since the rear axle is wider. Choose a trike-specific size or an XXL cover and compare with your measurements."
+      "a": "Sometimes, if it is wide enough. A trike's rear axle is wider than a bike, so a standard cover can leave a wheel exposed. The Topcrown XXL is a bike cover sized 83 x 37 x 43 inches that suits wider trikes."
     },
     {
       "q": "How do I measure for a cover?",
-      "a": "Measure length, the widest rear width and the height to the highest point, including baskets. Add a few inches to each."
+      "a": "Measure overall length, the widest point across the rear tires, and the height to the top of the basket or seat. Compare each number with the cover's stated size. Add a few inches of width so the cover reaches the ground."
     },
     {
       "q": "Can I lock the cover on?",
-      "a": "The MOONCOOL, YWWQYBYQ and Puroma have lock holes, so you can lock the cover to the frame with a cable lock."
+      "a": "Some have a lock hole. The MOONCOOL, YWWQYBYQ and Puroma include one, and the YWWQYBYQ has front lock holes. Loop a cable through the hole and the frame so the cover cannot be pulled off."
     },
     {
       "q": "Will a cover cause rust?",
-      "a": "It can if moisture is trapped. Dry the trike before covering and lift the cover now and then."
+      "a": "It can if moisture is trapped under the fabric. Lift the cover occasionally to let the frame dry, and never cover a wet trike for weeks. Wipe the chain before long storage."
     },
     {
       "q": "Are cheap covers durable?",
-      "a": "They last a season or two in sun and wind. Thin fabric tears sooner than heavy fabric, so expect to replace one."
+      "a": "Thin fabric wears faster, especially in strong sun or rain. The Topcrown uses 210D fabric with PU and UV coating, but fabric weight is unclear on others. Check seams after storms and replace a torn cover quickly."
+    },
+    {
+      "q": "How do I stop the cover blowing off?",
+      "a": "Use the elastic hem, buckles and any belly strap together. The Topcrown has front and rear wheel buckles, and the MOONCOOL has buckles and elastic hems. Pull everything snug each time, and recheck after strong gusts."
     }
   ],
-  "bottomLine": "A cheap cover is worth it if it fits. The MOONCOOL is the best trike-specific choice, and the Topcrown XXL is the better one for a wide rear axle. Measure first, then pick.",
+  "bottomLine": "The MOONCOOL is the best trike-specific choice at this level, with buckles, elastic hems and a lock hole. The Topcrown XXL is the better one for a wide rear axle, and the YWWQYBYQ suits a longer trike. Measure your length and rear width first, then pick.",
   "amazonSearch": "trike covers under $25",
   "relatedPaths": [
     "/accessories/best-adult-tricycle-covers/",

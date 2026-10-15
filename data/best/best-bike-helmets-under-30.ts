@@ -149,48 +149,59 @@ export const bestBikeHelmetsUnder30: BestArticle = {
   "howWeChose": [
     {
       "title": "Safety standards",
-      "body": "We favored clear CPSC claims."
+      "body": "We favored clear CPSC claims, and the Favoto's three named standards, because a helmet that names its standard is easier to check against the label inside the shell."
     },
     {
       "title": "Fit range",
-      "body": "We compared stated head sizes."
+      "body": "We compared stated head sizes, from the Favoto's 58 to 60 cm to the Jetxles's 54 to 61 cm, because a helmet that cannot fit your head protects poorly however good the foam."
     },
     {
       "title": "Ventilation",
-      "body": "We compared vent counts."
+      "body": "We compared vent counts of 12, 24 and 26, since upright trike riding at low speed gives less natural airflow than road cycling and a hot head means you skip rides."
     },
     {
       "title": "Weight",
-      "body": "We compared stated weights."
+      "body": "We compared stated weights of 260g and 265g, because a light helmet is less tiring on the neck for older riders on a long outing."
+    },
+    {
+      "title": "Visor and fit dial",
+      "body": "We noted visors and the dial or knob that tightens the fit, since sun glare and a loose helmet are the two daily complaints."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "CPSC label",
+      "title": "The CPSC label",
       "paragraphs": [
-        "The CPSC standard is the US legal requirement for bike helmets, and the label is inside the shell.",
-        "Check the sticker when it arrives."
+        "CPSC is the US legal requirement for bike helmets, and the label is a sticker inside the shell. A helmet that sells here should carry it, but marketing wording on the box is not proof.",
+        "Check the sticker when the helmet arrives. If the Favoto shows CPSC, ASTM and CE claims, look for each one inside, and send back any helmet with no label."
       ]
     },
     {
       "title": "Head measurement",
       "paragraphs": [
-        "Wrap a tape around your head above the eyebrows.",
-        "Match it to the stated range."
+        "A tape wrapped around the head just above the eyebrows gives the number that matters. Helmet sizes are printed in centimeters or inches and the range is narrow.",
+        "Compare your number with the stated range, such as 58 to 60 cm for the Favoto's Large or 22 to 24.5 inches for the AISSTXOER. Between sizes, choose the one with a dial that can tighten."
       ]
     },
     {
       "title": "Dial and straps",
       "paragraphs": [
-        "A good dial lets you snug the helmet without pressure points.",
-        "Adjust straps to form a V under each ear."
+        "A good dial lets you snug the helmet without pressure points, and the straps hold it level. A helmet that tips back leaves the forehead bare.",
+        "Adjust straps to form a V under each ear, and check that you can fit no more than one finger under the chin strap. Shake your head and make sure it stays put."
       ]
     },
     {
-      "title": "Replacement",
+      "title": "Visor and glare",
       "paragraphs": [
-        "Replace a helmet after any crash.",
-        "Foam does not recover."
+        "A visor shades the eyes from low sun, but it can catch wind at speed, as the Favoto's detachable visor can. A retro visor like the Jetxles adds a flat brim.",
+        "Think about the direction you ride. If morning or evening sun bothers you, pick a visor you can take off, and plan to leave it at home on windy days."
+      ]
+    },
+    {
+      "title": "When to replace",
+      "paragraphs": [
+        "A helmet's foam crushes in a crash and does not recover. Even without a visible crack, the foam has done its job and will not protect the next time.",
+        "Replace the helmet after any crash, and when the foam looks worn or the straps fray. Treat it like a seat belt, not a hat."
       ]
     }
   ],
@@ -206,18 +217,23 @@ export const bestBikeHelmetsUnder30: BestArticle = {
         "rows": [
           [
             "Most standards named",
-            "Favoto",
-            "CPSC, ASTM, CE."
+            "Favoto Adult Bike Helmet with Visor",
+            "Claims CPSC, ASTM and CE compliance."
           ],
           [
             "Clear inch sizing",
-            "AISSTXOER",
-            "22 to 24.5 inch range."
+            "AISSTXOER Road Bike Helmet",
+            "22 to 24.5 inch range, stated CPSC claim."
           ],
           [
             "Smaller or larger heads",
-            "Jetxles",
+            "Jetxles Retro Commuter Helmet",
             "54 to 61 cm across M and L."
+          ],
+          [
+            "Lightest weight",
+            "Favoto Adult Bike Helmet with Visor",
+            "Lightest at 260g, with 26 vents."
           ]
         ]
       }
@@ -227,11 +243,11 @@ export const bestBikeHelmetsUnder30: BestArticle = {
       "cards": [
         {
           "label": "Visor",
-          "text": "The Favoto and Jetxles block sun."
+          "text": "The Favoto and Jetxles block low sun, and the Favoto's visor detaches when you want it off. A visor can catch wind at speed and adds a little weight to the shell."
         },
         {
           "label": "No visor",
-          "text": "The AISSTXOER is cleaner and lighter."
+          "text": "The AISSTXOER is cleaner and lighter at 265g with 24 vents, so it pairs well with sunglasses and a cap if glare matters."
         }
       ],
       "note": "Choose a visor if low sun bothers you."
@@ -241,11 +257,11 @@ export const bestBikeHelmetsUnder30: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Easy dial, light weight and clear fit."
+          "text": "An easy-turning dial, light weight and a clear fit range, so adjusting the helmet does not take two hands or a lot of grip strength."
         },
         {
           "label": "In this comparison",
-          "text": "The AISSTXOER at 265g and the Favoto at 260g."
+          "text": "The AISSTXOER at 265g and the Favoto at 260g are the lightest, and the Favoto adds washable pads. The AISSTXOER offers a knob fit with a clear inch range."
         }
       ]
     },
@@ -254,11 +270,11 @@ export const bestBikeHelmetsUnder30: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you want MIPS or lights, as on the P2R in the next tier."
+          "text": "You want MIPS or lights, which belong to the next price tier up, or a fit system refined for a long daily ride."
         },
         {
           "label": "Save if",
-          "text": "you ride short distances at low speed."
+          "text": "You ride short distances at low speed, where the Favoto's named standards, 26 vents and light 260g build are already enough."
         }
       ]
     }
@@ -266,26 +282,30 @@ export const bestBikeHelmetsUnder30: BestArticle = {
   "faq": [
     {
       "q": "Are these helmets certified?",
-      "a": "They claim CPSC compliance. Check for the sticker."
+      "a": "They claim CPSC compliance, and the Favoto also names ASTM and CE. Check for the sticker inside the shell when the helmet arrives, since the label is the proof and box wording is not. Return any helmet that has no label."
     },
     {
       "q": "Which fits larger heads?",
-      "a": "The Jetxles goes to 61 cm."
+      "a": "The Jetxles goes to 61 cm across its M and L sizes, and the AISSTXOER goes to 24.5 inches. The Favoto only describes a Large for 58 to 60 cm, so measure your head first and compare with the stated range."
     },
     {
       "q": "Do I need MIPS?",
-      "a": "It is optional extra rotational protection."
+      "a": "It is optional extra rotational protection, and none of these helmets names it. A well-fitted, certified helmet matters more than the extra layer, but MIPS is worth looking at in a higher tier if you want the added protection."
     },
     {
       "q": "How tight should a helmet be?",
-      "a": "Snug, level on the forehead, and not moving when you shake your head."
+      "a": "Snug, level on the forehead, and not moving when you shake your head. The chin strap should allow one finger and the side straps should form a V under each ear. Re-check the dial after a few rides."
     },
     {
-      "q": "When to replace?",
-      "a": "After any crash and when foam looks worn."
+      "q": "When should I replace a helmet?",
+      "a": "After any crash, and when the foam looks worn or compressed. Foam does not recover after an impact, so a helmet that took a hit has done its job and should be retired even if the shell looks fine."
+    },
+    {
+      "q": "Is a retro helmet as safe as a road one?",
+      "a": "The Jetxles has an ABS shell and 12 vents, so it is a style choice with fewer vents than the others. Check the label as with any helmet, because its wording on standards is loose and the sticker is what counts."
     }
   ],
-  "bottomLine": "The Favoto is the best all-round pick for its standards claims and visor, the AISSTXOER for sizing clarity, and the Jetxles for style. Check the CPSC sticker on arrival.",
+  "bottomLine": "The Favoto is the best all-round pick for its standards claims, vents and visor, the AISSTXOER for sizing clarity in inches, and the Jetxles for style and a wide size range. Whichever you choose, check the CPSC sticker on arrival and set the dial so the helmet sits level.",
   "amazonSearch": "bike helmets under $30",
   "relatedPaths": [
     "/accessories/best-bike-helmets-under-50/",

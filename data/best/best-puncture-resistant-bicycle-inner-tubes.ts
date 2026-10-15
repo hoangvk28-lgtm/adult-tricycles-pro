@@ -223,48 +223,55 @@ export const bestPunctureResistantBicycleInnerTubes: BestArticle = {
   "howWeChose": [
     {
       "title": "Wheel size fit",
-      "body": "A tube must match 20, 24, 26 inch or 700c wheels, so sizing was the first filter."
+      "body": "We treated sizing as the first filter, because a tube made for 26 inch wheels will not seat in a 700c wheel, and trikes come in 20, 24, 26 inch and 700c."
     },
     {
       "title": "Valve type",
-      "body": "Schrader is easy with a household pump, and Presta is lighter but needs the right rim hole."
+      "body": "We compared Schrader and Presta, since Schrader works with a household pump while Presta is lighter but needs the correct hole in the rim."
     },
     {
       "title": "Puncture approach",
-      "body": "We separated thorn resistant tubes, thick walled tubes, TPU spares and liners."
+      "body": "We separated thorn resistant tubes, thick walled butyl, light TPU spares and liners, because each one fights flats in a different way."
     },
     {
       "title": "Weight versus repair effort",
-      "body": "On a trike a rear flat is a chore, so we accepted more weight for prevention."
+      "body": "We accepted extra weight for prevention, since fixing a rear flat on a trike is a chore that a few extra grams cannot justify."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Match the wheel size",
       "paragraphs": [
-        "The size printed on the tire sidewall decides the tube. A 26 x 1.95-2.35 tube does not fit a 700c wheel.",
-        "Read the sidewall and match both diameter and width range."
+        "The size printed on the tire sidewall decides which tube you need, written as diameter by width. A 26 x 1.95-2.35 tube is made for a 26 inch wheel and will not fit a 700c wheel.",
+        "Read the sidewall on each tire, then match both the diameter and the width range. Check all three wheels, since front and rear sizes can differ."
       ]
     },
     {
       "title": "Schrader or Presta",
       "paragraphs": [
-        "Schrader is the wide valve, like a car tire. Presta is thinner and needs a smaller rim hole.",
-        "Check the hole in your rim and which pump you own before choosing."
+        "Schrader is the wider valve, like the one on a car tire. Presta is thinner and requires a smaller hole in the rim, so a Presta tube will not fit a rim drilled for Schrader without a sleeve.",
+        "Look at the hole in your rim and check which pump you own before choosing. The Sunlite tubes use a 32 mm Schrader, and the CYCLAMI uses a 45 mm Presta."
+      ]
+    },
+    {
+      "title": "Valve length and rim depth",
+      "paragraphs": [
+        "A short valve may not clear a deep rim, leaving no room for the pump head to seat. The Sunlite 700 tube has a 32 mm valve, while the Maxxis has a longer 48 mm valve.",
+        "Measure from the rim hole to the outer edge of the rim, then compare it with the valve length. Choose a longer valve or an extender if the margin is thin."
       ]
     },
     {
       "title": "Prevention versus weight",
       "paragraphs": [
-        "Thorn resistant and thick walled tubes weigh more than TPU, but a rear trike flat means removing hardware.",
-        "For a rear wheel, accept the weight and favor prevention."
+        "Thorn resistant and thick walled tubes weigh more than TPU, but a trike rear flat can mean removing axle hardware. The extra grams buy fewer roadside repairs.",
+        "For rear wheels, accept the weight and favor prevention. The Maxxis wall is 0.80 mm of butyl at about 130 g, while the CYCLAMI TPU is about 50 g and is meant as a light spare."
       ]
     },
     {
       "title": "Liners as another approach",
       "paragraphs": [
-        "A liner adds a shield between tire and tube but does not replace a tube. Poor trimming can rub the tube.",
-        "Fit it carefully, and check the width against your tire."
+        "A liner adds a shield between tire and tube but does not replace a tube. Poor trimming can leave a sharp edge that rubs the tube from inside.",
+        "Fit one carefully and check the width against your tire, which is 38 mm on the JULAI strip. Use a liner with any tube in the right size."
       ]
     }
   ],
@@ -281,27 +288,27 @@ export const bestPunctureResistantBicycleInnerTubes: BestArticle = {
           [
             "26 inch trike wheel",
             "Sunlite Thorn Resistant 26 x 1.95-2.35",
-            "Correct size, thorn resistant"
+            "Correct size with a thorn resistant build"
           ],
           [
-            "700c trike or household bike, thorny paths",
+            "700c wheel, thorny paths",
             "Sunlite Thorn Resistant 700 x 35-40",
-            "Thorn resistant"
+            "Same thorn resistant idea in 700c"
           ],
           [
-            "700c, wide tire range",
+            "700c, wide range of tire widths",
             "Maxxis Welter Weight 700 x 33-50",
-            "Covers 33 to 50 mm"
+            "Fits 33 to 50 mm tires with a thick 0.80 mm wall"
           ],
           [
-            "700c, light spare",
+            "700c, light spare to carry",
             "CYCLAMI TPU 700 x 32-47C 2 Pack",
-            "About 50 g"
+            "About 50 g each and a pair in the pack"
           ],
           [
-            "20 or 24 inch, keep tubes",
+            "20 or 24 inch wheels, keep your tubes",
             "JULAI Tire Liners",
-            "Trims to fit"
+            "Trims to fit 20, 24 and 26 inch tires"
           ]
         ]
       }
@@ -311,11 +318,11 @@ export const bestPunctureResistantBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Tube",
-          "text": "The Sunlite and Maxxis replace the tube with a tougher one. Simple, but you have to swap the tube."
+          "text": "The Sunlite and Maxxis replace the tube with a tougher one. That is simple and works with ordinary tools, but you have to swap the tube to get the protection."
         },
         {
           "label": "Liner",
-          "text": "The JULAI strips go inside the tire over the tube you already have. Fit takes care."
+          "text": "The JULAI strips go inside the tire over the tube you already have, so you do not buy a new tube. Fit takes care, and a pair covers only two of the three tires."
         }
       ],
       "note": "Default to a thorn resistant tube unless your wheels are 20 or 24 inch."
@@ -325,11 +332,11 @@ export const bestPunctureResistantBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Thorn resistance and an easy valve for a quick top off."
+          "text": "Thorn resistance and an easy valve for a quick top off. A rear flat on a trike is slower to fix than on a bike, so prevention matters most on the two rear wheels."
         },
         {
           "label": "In this comparison",
-          "text": "The Sunlite 26 inch tube suits 26 inch trikes."
+          "text": "The Sunlite 26 inch tube suits 26 inch trikes and has a removable valve core. The Maxxis thick wall is a good alternative for 700c rear wheels."
         }
       ]
     },
@@ -338,11 +345,11 @@ export const bestPunctureResistantBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride thorny ground, where the Sunlite thorn resistant tubes pay off."
+          "text": "You ride thorny ground or hate patching, where the Sunlite thorn resistant tubes pay off. Add JULAI liners to push protection further."
         },
         {
           "label": "Save if",
-          "text": "You ride smooth paths, where the Maxxis is enough."
+          "text": "You ride smooth paths, where the Maxxis with its 0.80 mm butyl wall is enough, and a CYCLAMI spare adds little weight to carry."
         }
       ]
     }
@@ -350,26 +357,26 @@ export const bestPunctureResistantBicycleInnerTubes: BestArticle = {
   "faq": [
     {
       "q": "Will a 700c tube fit my trike?",
-      "a": "Only if your trike has 700c wheels. Many trikes use 26 inch, so read the tire sidewall."
+      "a": "Only if your trike has 700c wheels. Many adult trikes use 26 inch wheels, so read the tire sidewall before ordering. Check that the width of the tire sits inside the width range printed on the tube."
     },
     {
-      "q": "Schrader or Presta?",
-      "a": "Schrader works with a household pump. Presta is lighter but needs the right rim hole."
+      "q": "Schrader or Presta for a trike?",
+      "a": "Schrader works with a household pump and a gas station hose, while Presta is lighter but needs the right rim hole. Pick the one your rim is drilled for, then match the pump you already own."
     },
     {
       "q": "Are TPU tubes puncture resistant?",
-      "a": "TPU is mainly about weight and packing. The Sunlite thorn resistant tubes are better against thorns."
+      "a": "TPU is mainly about weight and packing size, not thorn defense. The CYCLAMI is a light spare at about 50 g. The Sunlite thorn resistant tubes are the better choice against thorns and glass."
     },
     {
       "q": "Do liners work with these tubes?",
-      "a": "Liners go between tire and tube, so they can be added to any tube if the width fits."
+      "a": "Liners go between the tire and the tube, so they can be added to any tube if the width fits. The JULAI strip is 38 mm wide, so compare it with your tire before cutting it."
     },
     {
-      "q": "Why does the rear tube matter?",
-      "a": "Changing a rear trike tube often means removing axle hardware, so prevention saves effort."
+      "q": "Why does the rear tube matter so much?",
+      "a": "Changing a rear trike tube often means removing axle hardware, which is far more work than a front bike wheel. Prevention saves effort and keeps the trike on the road."
     }
   ],
-  "bottomLine": "The Sunlite 26 inch tube is the best fit for most trikes, and the 700c picks suit trikes with 700c wheels or a household bike. Read your sidewall and valve hole first.",
+  "bottomLine": "The Sunlite 26 x 1.95-2.35 Thorn Resistant tube is the best fit for most trikes, with its Schrader valve and removable core. The Sunlite 700 and Maxxis picks suit trikes with 700c wheels, and the JULAI liners are the answer for smaller wheels. Read your sidewall and rim hole first.",
   "amazonSearch": "puncture-resistant bike inner tubes",
   "relatedPaths": [
     "/accessories/best-inner-tubes-for-adult-tricycles/",

@@ -183,48 +183,48 @@ export const bestBikeTailLightsWithBrakeSensors: BestArticle = {
   "howWeChose": [
     {
       "title": "Sensing method",
-      "body": "We checked how each light detects slowing."
+      "body": "We checked how each light detects slowing, whether through a radar unit or a built in motion sensor, because that decides how reliably it reacts to a heavy trike coming to a stop."
     },
     {
       "title": "Brightness",
-      "body": "We favored higher stated brightness and a daytime mode."
+      "body": "We favored higher stated brightness and a daytime flash mode, since a trike rider is often out in full daylight where a dim brake flash is easily missed by drivers."
     },
     {
       "title": "Battery",
-      "body": "Runtime matters."
+      "body": "We compared stated runtime and charging type, because a light that needs charging every few rides tends to be left off, and a dead light does nothing for you."
     },
     {
       "title": "Weather rating",
-      "body": "IP ratings matter for outdoor trikes."
+      "body": "We noted each IP rating, because an outdoor trike sits in rain, mud spray and dew, and a weak seal is the usual reason a rear light stops working."
     }
   ],
   "whatToLookFor": [
     {
       "title": "How it senses braking",
       "paragraphs": [
-        "Most lights use a motion sensor that detects deceleration.",
-        "A trike slows more gently than a bike, so test the sensor."
+        "Most of these lights use a motion sensor that detects deceleration and brightens the light, while the Garmin Varia RearVue 820 adds radar that watches vehicles approaching from behind. The two approaches solve different problems.",
+        "Decide whether you want a light that reacts to you or a unit that also warns you about cars. Then check the sensing method in the product title or bullet points."
       ]
     },
     {
       "title": "Sensor override",
       "paragraphs": [
-        "A sensor that triggers on bumps can confuse drivers.",
-        "Choose a light where you can switch it off."
+        "A sensor that triggers on every bump can flash at random and confuse the drivers behind you. The Magicshine SEEMEE 300 is the pick here whose motion sensor can be switched off.",
+        "Look for an off switch or a mode that disables brake sensing. Then test on a rough path, because bumps are the most common cause of false triggers."
       ]
     },
     {
       "title": "Daytime mode",
       "paragraphs": [
-        "Daylight needs a bright flash.",
-        "Look for a day flash mode."
+        "Daylight washes out a steady red light, so a bright flash is what actually gets noticed by drivers. The Garmin and the Magicshine both include a day flash mode, and the Magicshine adds an ambient light sensor.",
+        "Look for a named day flash mode and a stated lumen figure. Then judge whether the runtime quoted is for that bright mode or a dimmer one."
       ]
     },
     {
       "title": "Mounting",
       "paragraphs": [
-        "A basket can hide a light.",
-        "Mount above the basket."
+        "A wide basket or rack can hide a rear light completely, and a light mounted low is aimed at the road rather than at traffic. Visibility depends on the mounting spot as much as on lumens.",
+        "Plan to mount the light above the basket rim or on a rack stay. Then measure the tube you plan to clamp, because mounts differ in the diameters they close around."
       ]
     }
   ],
@@ -241,27 +241,27 @@ export const bestBikeTailLightsWithBrakeSensors: BestArticle = {
           [
             "Road riding with cars",
             "Garmin Varia RearVue 820",
-            "Radar and brake flash pattern"
+            "Radar warns you and a brake flash alerts drivers"
           ],
           [
             "Daytime visibility",
             "Magicshine SEEMEE 300",
-            "300 lumens and Smart-Day Flash"
+            "300 lumens, ambient sensor and Smart-Day Flash mode"
           ],
           [
             "Low charging effort",
-            "ROCKBROS Brake Sensor",
-            "Up to 50 hours"
+            "ROCKBROS Smart Brake Sensor Light",
+            "Up to 50 hours between charges"
           ],
           [
-            "Check charge level",
-            "DARKBEAM",
-            "Battery display"
+            "Want to check charge level",
+            "DARKBEAM Brake Sensing Tail Light",
+            "Battery display shows what is left"
           ],
           [
             "Off-road path riding",
-            "ROCKBROS Brake Sensor",
-            "Auto off after 30 seconds"
+            "ROCKBROS Smart Brake Sensor Light",
+            "Auto on and off saves remembering the switch"
           ]
         ]
       }
@@ -271,25 +271,25 @@ export const bestBikeTailLightsWithBrakeSensors: BestArticle = {
       "cards": [
         {
           "label": "Radar",
-          "text": "The Garmin warns you of cars and flashes when you slow."
+          "text": "The Garmin Varia RearVue 820 warns you of approaching vehicles and uses a brake light flash pattern, but it relies on a compatible device and is more complex to set up."
         },
         {
           "label": "Light only",
-          "text": "The SEEMEE, ROCKBROS and DARKBEAM brighten when braking."
+          "text": "The SEEMEE 300, ROCKBROS and DARKBEAM simply brighten when you slow. They are simpler to mount and use, and none of them needs a head unit to work."
         }
       ],
-      "note": "Choose radar for roads and light only for paths."
+      "note": "Choose radar for busy roads and a light only unit for paths and quiet streets."
     },
     {
       "heading": "For Gentle Trike Braking Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A sensor with a stated brake-sensing mode that can be turned off."
+          "text": "A light with a clear brake sensing mode that can be turned off. A trike slows more gently than a bike, so a sensor that never fires is no better than a steady light."
         },
         {
           "label": "In this comparison",
-          "text": "The SEEMEE 300 states its motion sensor can be switched off."
+          "text": "The SEEMEE 300 has a motion sensor that can be switched off, so you can test it and disable it if it fires on bumps. The DARKBEAM senses braking only in its normal mode."
         }
       ]
     },
@@ -298,11 +298,11 @@ export const bestBikeTailLightsWithBrakeSensors: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You share roads with cars, which points to the Garmin."
+          "text": "You share roads with cars at speed, which points to the Garmin Varia RearVue 820, whose radar and 2 km visibility give drivers and you the most warning."
         },
         {
           "label": "Save if",
-          "text": "You ride paths, where the ROCKBROS is enough."
+          "text": "You ride paths and quiet streets, where the ROCKBROS gives brake sensing, auto on and off and up to 50 hours without the cost or complexity of radar."
         }
       ]
     }
@@ -310,26 +310,30 @@ export const bestBikeTailLightsWithBrakeSensors: BestArticle = {
   "faq": [
     {
       "q": "How does a brake sensor work?",
-      "a": "It detects deceleration with a motion sensor and brightens the light."
+      "a": "A built in motion sensor detects deceleration and raises the brightness of the light, the way a car brake light does. The Garmin Varia RearVue 820 pairs this with radar that watches traffic approaching from behind."
     },
     {
       "q": "Will it trigger on bumps?",
-      "a": "It can. Choose a light with an off switch."
+      "a": "It can. The SEEMEE 300 has a sensor that can trigger on bumps, which is why an off switch matters. Test on rough ground before relying on any light, and choose one you can disable if it flashes needlessly."
     },
     {
       "q": "Does a trike slow enough to trigger it?",
-      "a": "Gentle slowing may not. Test before relying on it."
+      "a": "Gentle slowing may not cross the sensor threshold, especially on a heavy trike that coasts to a stop. Test the light in a safe area by braking at different rates, and keep a steady light mode as a backup."
     },
     {
       "q": "Is radar worth it?",
-      "a": "On roads it warns you of approaching vehicles."
+      "a": "On roads with passing cars, radar adds a warning for you and lets drivers see a flash pattern from up to 2 km. On quiet paths it adds cost and setup, since the Garmin also needs a compatible device."
     },
     {
       "q": "Can I use it in the day?",
-      "a": "Yes. Look for a day flash mode."
+      "a": "Yes, but look for a day flash mode. The Garmin offers up to 24 hours in day flash, and the Magicshine SEEMEE 300 has a Smart-Day Flash mode with an ambient light sensor, so it adjusts to changing daylight on its own."
+    },
+    {
+      "q": "How do I check the battery?",
+      "a": "The DARKBEAM has a battery display and the ROCKBROS has a power indicator, so you can see charge before a ride. Make a habit of looking before heading out, since runtime varies with the mode you use."
     }
   ],
-  "bottomLine": "The Garmin Varia RearVue 820 is the best for road riders, and the Magicshine SEEMEE 300 is the best light-only pick. The ROCKBROS and DARKBEAM are solid mid-range choices.",
+  "bottomLine": "The Garmin Varia RearVue 820 is the best choice for road riders who want radar and a brake flash pattern, and the Magicshine SEEMEE 300 is the best light only pick. The ROCKBROS suits daily riders who hate charging, and the DARKBEAM suits riders who like to see their charge.",
   "amazonSearch": "brake-sensing tail lights",
   "relatedPaths": [
     "/accessories/best-bike-tail-lights-for-adult-tricycles/",

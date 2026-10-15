@@ -220,48 +220,59 @@ export const bestBikeGripsUnder20: BestArticle = {
   "howWeChose": [
     {
       "title": "Cushioning",
-      "body": "We compared padding style: gel, foam and wide rubber."
+      "body": "We compared padding style, from gel and foam to wide rubber, because a trike rider rests weight on the hands and the padding decides how soon they numb."
     },
     {
       "title": "Locking",
-      "body": "Lock-on grips stay put while slip-on foam can rotate."
+      "body": "Lock-on grips stay put while slip-on foam can rotate, so we weighed how each grip attaches, from the double locking PRUNUS to the tool-free Ultracycle."
     },
     {
       "title": "Bar fit",
-      "body": "Bore size and stated bar range decide fit."
+      "body": "Bore size and stated bar range decide fit, so we checked the 22.2 mm bore on most of these grips and noted that the BUCKLOS also covers 22 to 23 mm bars."
     },
     {
       "title": "Hand size",
-      "body": "Length and palm width suit larger or smaller hands."
+      "body": "Length and palm width suit larger or smaller hands, from the 125 mm foam grip to the 135 mm ATWEINA."
+    },
+    {
+      "title": "Durability for the money",
+      "body": "Rubber lasts longer than foam, so we weighed how long each soft option is likely to hold its shape at this price."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Lock-on vs slip-on",
       "paragraphs": [
-        "A lock-on grip clamps to the bar with a ring, so it cannot spin. A slip-on grip relies on friction.",
-        "Choose lock-on for daily riding."
+        "A lock-on grip clamps to the bar with a ring and a hex key, so it cannot spin. A slip-on grip, like the foam Ultracycle, relies on friction and can rotate.",
+        "Choose lock-on for daily riding. Check that the pack includes a key, as the PRUNUS and ATWEINA do, so you can fit them the day they arrive."
       ]
     },
     {
       "title": "Palm support",
       "paragraphs": [
-        "A wider palm area spreads pressure and eases numb hands.",
-        "Check the shape in photos."
+        "A wider palm area spreads pressure across the hand and eases numbness. The PRUNUS has a wide soft palm area, while a round grip puts the load on a narrow strip.",
+        "Look at the shape in photos and picture where your palm rests. If you feel pain at the base of the thumb on long rides, a wider platform is worth the extra effort."
       ]
     },
     {
       "title": "Bar diameter",
       "paragraphs": [
-        "Most grips fit 22.2 mm bars. Trike bars differ.",
-        "Measure your bar before ordering."
+        "These grips are built for 22.2 mm bars, though trike bars can differ. A grip even slightly too wide will not clamp, and one too narrow will not slide on.",
+        "Measure your bar before ordering with calipers or a tape, and compare with the 22.2 mm bore. A bar that is off by a millimeter is a reason to choose a different brand."
       ]
     },
     {
       "title": "Material",
       "paragraphs": [
-        "Gel and foam are soft. Rubber lasts longer.",
-        "Match to riding time."
+        "Gel and foam feel soft but can give out sooner. Thermoplastic rubber like the BUCKLOS keeps its shape longer, while the foam on the Ultracycle wears faster with daily use.",
+        "Match the material to riding time. A short daily ride tolerates foam, but a long weekly ride favors rubber with a lock. Press the grip with a thumb to feel how it rebounds."
+      ]
+    },
+    {
+      "title": "Single or double lock",
+      "paragraphs": [
+        "The PRUNUS locks at both ends with aluminum rings, while the others use one ring at the inner end. The second ring stops the outer end from creeping when you push or pull.",
+        "If you steer hard on a loaded trike, a double lock is extra insurance. Check the outer end for movement after your first week of riding."
       ]
     }
   ],
@@ -278,22 +289,27 @@ export const bestBikeGripsUnder20: BestArticle = {
           [
             "Numb hands on long rides",
             "PRUNUS Double Lock-On Ergonomic Grips",
-            "Wide soft palm area"
+            "Wide soft palm area, locked at both ends."
           ],
           [
             "Want gel cushioning",
             "GPMTER Gel Lock-On Grips",
-            "Extra gel layer"
+            "Gel layer under high friction rubber."
           ],
           [
             "Short budget swap",
             "BUCKLOS Single Lock-On Grips",
-            "Soft rubber with a lock ring"
+            "Soft rubber with a ridged surface and lock ring."
           ],
           [
             "Larger hands",
             "ATWEINA Ergonomic Lock-On Grips",
-            "135 mm length"
+            "135 mm length and a hex wrench included."
+          ],
+          [
+            "Softest feel, no tools",
+            "Ultracycle Foam Comfort Grips",
+            "High-density foam that slides on without tools."
           ]
         ]
       }
@@ -303,11 +319,11 @@ export const bestBikeGripsUnder20: BestArticle = {
       "cards": [
         {
           "label": "Foam",
-          "text": "The Ultracycle is the softest with no tools needed, but wears faster and has no lock."
+          "text": "The Ultracycle is the softest with no tools needed, and its foam damps vibration. It has no lock and wears faster, so it suits light use on a smooth path."
         },
         {
           "label": "Rubber",
-          "text": "PRUNUS, GPMTER, BUCKLOS and ATWEINA last longer and lock to the bar."
+          "text": "PRUNUS, GPMTER, BUCKLOS and ATWEINA last longer and lock to the bar. The GPMTER adds a gel layer under the rubber, giving cushion without losing the clamp."
         }
       ],
       "note": "Most riders should default to lock-on rubber unless softness matters most."
@@ -317,11 +333,11 @@ export const bestBikeGripsUnder20: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Wide palm support, soft material and secure locking."
+          "text": "Wide palm support, soft material and secure locking, so you can relax your grip instead of squeezing to keep the bars steady."
         },
         {
           "label": "In this comparison",
-          "text": "The PRUNUS has the widest palm support, and the GPMTER adds gel."
+          "text": "The PRUNUS has the widest palm support and locks at both ends, and the GPMTER adds a gel layer. Neither replaces fitted ergonomic grips, but both reduce pressure."
         }
       ]
     },
@@ -330,11 +346,11 @@ export const bestBikeGripsUnder20: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you ride daily and still have pain, as these basic grips cannot match fitted ergonomic grips."
+          "text": "You ride daily and still have pain, as these basic grips cannot match fitted ergonomic grips like the shaped options in our full trike grip guide."
         },
         {
           "label": "Save if",
-          "text": "you only need a basic swap, where the BUCKLOS or ATWEINA cover it."
+          "text": "You only need a basic swap, where the BUCKLOS or ATWEINA cover it with an aluminum ring and a ridged surface."
         }
       ]
     }
@@ -342,26 +358,30 @@ export const bestBikeGripsUnder20: BestArticle = {
   "faq": [
     {
       "q": "What bar diameter do these fit?",
-      "a": "They fit 22.2 mm bars. Measure yours first."
+      "a": "They are built for 22.2 mm bars, and the BUCKLOS also covers 22 to 23 mm. Measure your bar first, because trike handlebars can differ from the standard bike size and a grip that is too small will not slide on at all."
     },
     {
       "q": "Will grips fix numb hands?",
-      "a": "They can help. Wider, softer grips such as the PRUNUS spread pressure."
+      "a": "They can help. Wider, softer grips such as the PRUNUS spread pressure across the palm, which reduces the squeeze that causes numbness. If numbness persists, check your reach and wrist angle too, and talk to a clinician."
     },
     {
       "q": "Do I need tools?",
-      "a": "Lock-on grips need a hex key. The PRUNUS and ATWEINA include one."
+      "a": "Lock-on grips need a hex key. The PRUNUS and ATWEINA include one, while the Ultracycle foam grips need no tools at all and slide straight onto the bar. The BUCKLOS and GPMTER do not name a key, so keep one handy."
     },
     {
       "q": "Are foam grips durable?",
-      "a": "Foam wears faster than rubber."
+      "a": "Foam wears faster than rubber and has no lock, so it can rotate over time. The Ultracycle is soft and damps vibration, but plan on replacing it sooner than the rubber options if you ride every day."
     },
     {
       "q": "Why a double lock-on?",
-      "a": "Locking at both ends prevents twisting."
+      "a": "Locking at both ends, as on the PRUNUS, stops the grip twisting or creeping outward under steering force. The others lock at one end, which is usually enough for short rides, though a loaded trike benefits from the extra clamp."
+    },
+    {
+      "q": "Can I use gel grips on a wet day?",
+      "a": "The GPMTER uses high friction rubber over its gel layer and works in all weather, so wet hands are less of a concern than with foam. Even so, wipe the grips dry and check the clamp screw after a rainy ride."
     }
   ],
-  "bottomLine": "The PRUNUS is our pick for comfort, and the GPMTER suits those who want gel. Confirm the bar diameter first.",
+  "bottomLine": "The PRUNUS is our pick for comfort, with a wide palm area and locking at both ends, and the GPMTER suits those who want gel. The BUCKLOS or ATWEINA cover a basic swap, and the Ultracycle is for softness without tools. Confirm the bar diameter first.",
   "amazonSearch": "bike grips under $20",
   "relatedPaths": [
     "/accessories/best-bike-grips-for-adult-tricycles/",

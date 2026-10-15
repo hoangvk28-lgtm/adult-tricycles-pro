@@ -147,48 +147,59 @@ export const bestBikeLocksWithAlarms: BestArticle = {
   "howWeChose": [
     {
       "title": "Lock steel",
-      "body": "A hardened shackle ranked above a cable."
+      "body": "A hardened shackle ranked above a cable, because the alarm only matters if the lock survives long enough for someone to hear it."
     },
     {
       "title": "Alarm role",
-      "body": "Alarms were treated as a deterrent, not as protection."
+      "body": "Alarms were treated as a deterrent, not as protection, so the EnzZone's 5/8 inch shackle counted for more than any decibel figure."
     },
     {
       "title": "Fat-tire fit",
-      "body": "Opening size mattered for wide trike wheels."
+      "body": "Opening size mattered for wide trike wheels, such as the EnzZone's 5 inch by 6 inch opening, since a lock that cannot circle the wheel and a fixed post is no use."
     },
     {
       "title": "Battery practicality",
-      "body": "Low-battery warnings and battery types were checked."
+      "body": "Low-battery warnings and battery types were checked, because an alarm lock with a dead cell is still a lock but a quiet one."
+    },
+    {
+      "title": "Unlocking convenience",
+      "body": "Remote, password and key options were compared, since a lock that takes a minute to open gets left at home."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Steel first",
       "paragraphs": [
-        "The alarm cannot protect a lock that is quickly cut. A shackle is harder to defeat than a cable.",
-        "Check shackle thickness and material."
+        "The alarm cannot protect a lock that is quickly cut. A hardened shackle such as the EnzZone's 5/8 inch is harder to defeat than the 31 inch cable on the Mengshen locks.",
+        "Check shackle thickness and material before you look at the siren. A thicker bar buys the time an alarm is meant to attract help during."
       ]
     },
     {
       "title": "Opening size",
       "paragraphs": [
-        "A fat-tire wheel needs a wide opening.",
-        "Measure your frame and wheel against the lock's inner dimensions."
+        "A fat-tire wheel needs a wide opening, and a trike frame adds tubes that are thicker than a road bike's. The EnzZone opens 5 inches wide by 6 inches tall.",
+        "Measure your frame tube and wheel against the lock's inner dimensions. Include the fixed post you will lock to, because the lock has to circle both."
       ]
     },
     {
       "title": "Battery and false alarms",
       "paragraphs": [
-        "Batteries run low and sensors can trigger from wind.",
-        "Check the battery indicator and test sensitivity."
+        "Batteries run low and motion sensors can trigger from wind or a bump. The Mengshen locks take 3 AAA batteries and show a low-battery indicator.",
+        "Check the indicator regularly and try the sensitivity at home. Carry spare cells if the lock takes them, and remember the lock still locks when the alarm is flat."
       ]
     },
     {
       "title": "Where you lock it",
       "paragraphs": [
-        "A lock only helps if it goes around something fixed.",
-        "Choose a post, rack or rail, and lock the frame, not just a wheel."
+        "A lock only helps if it goes around something fixed. A trike left against a railing with the lock on the wheel alone can simply be lifted away at the other end.",
+        "Choose a post, rack or rail, and lock the frame, not just a wheel. Pull on the lock before you walk away to check that nothing shifts."
+      ]
+    },
+    {
+      "title": "Cable vs shackle weight",
+      "paragraphs": [
+        "The EnzZone weighs about 3.2 lb, which is a lot to carry on a trike. The Mengshen cable locks are lighter and easier to coil, but a cable is quicker to cut with common tools.",
+        "Decide how long you leave the trike. A short stop tolerates a cable, but an hours-long stop in public favors the heavier shackle, even though it adds weight to the basket."
       ]
     }
   ],
@@ -205,22 +216,22 @@ export const bestBikeLocksWithAlarms: BestArticle = {
           [
             "Leaving it outside for hours",
             "EnzZone Alarm U-Lock",
-            "Hardened 5/8 inch shackle"
+            "Hardened 5/8 inch shackle with a motion alarm."
           ],
           [
             "Quick stop at a shop",
-            "Mengshen Remote Cable Lock",
-            "Remote or password unlock"
+            "Mengshen Alarm Cable Lock with Remote",
+            "Remote or password unlock in seconds."
           ],
           [
             "Garage or shed",
-            "Mengshen Wireless Cable Lock",
-            "Alarm plus light lock"
+            "Mengshen Wireless Alarm Cable Lock",
+            "115dB alarm on a light cable lock."
           ],
           [
             "Fat tire e-trike",
             "EnzZone Alarm U-Lock",
-            "5 x 6 inch opening"
+            "5 by 6 inch opening and a rubber coating."
           ]
         ]
       }
@@ -230,11 +241,11 @@ export const bestBikeLocksWithAlarms: BestArticle = {
       "cards": [
         {
           "label": "U-lock",
-          "text": "The EnzZone has hardened steel and a motion alarm, but weighs about 3.2 lb."
+          "text": "The EnzZone has hardened steel, a rubber coating and a motion alarm, but weighs about 3.2 lb and needs a post thin enough for the 5 inch opening to reach around. It also fits fat tire wheels."
         },
         {
           "label": "Cable",
-          "text": "The Mengshen locks are easier to carry and unlock, but cut faster."
+          "text": "The Mengshen locks are easier to carry and unlock by remote or password, with a 115dB alarm and an IP55 rating. They cut faster than a shackle, so use them where a thief has little time."
         }
       ],
       "note": "Default to the U-lock unless you only stop briefly."
@@ -244,11 +255,11 @@ export const bestBikeLocksWithAlarms: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Thick steel and a battery you can check."
+          "text": "Thick steel and a battery you can check, since overnight is when nobody is near enough to hear the alarm."
         },
         {
           "label": "In this comparison",
-          "text": "The EnzZone offers a hardened shackle and a weatherproof cylinder."
+          "text": "The EnzZone offers a hardened shackle and a weatherproof build, with three keys included. The Mengshen locks add a low-battery indicator and cut or tamper alarm."
         }
       ]
     },
@@ -257,11 +268,11 @@ export const bestBikeLocksWithAlarms: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You leave the trike in public places, where the EnzZone steel matters."
+          "text": "You leave the trike in public places for hours, where the EnzZone's hardened shackle matters more than any siren."
         },
         {
           "label": "Save if",
-          "text": "You only need a deterrent in a garage, where a Mengshen is enough."
+          "text": "You only need a deterrent in a garage, where a Mengshen cable lock is enough and the remote is a nice daily convenience."
         }
       ]
     }
@@ -269,26 +280,30 @@ export const bestBikeLocksWithAlarms: BestArticle = {
   "faq": [
     {
       "q": "Does an alarm stop theft?",
-      "a": "It deters, but it does not stop a determined thief. Steel strength still matters."
+      "a": "It deters, but it does not stop a determined thief. Steel strength still matters, so the thickness of the shackle or cable should decide your choice before the siren does. Think of the alarm as a way to attract attention."
     },
     {
       "q": "Will wind set it off?",
-      "a": "A sensitive motion sensor can. Test the sensitivity before trusting it."
+      "a": "A sensitive motion sensor can. Try the sensitivity at home, and look for a lock that lets you lower it, because a lock that rings every time the trike is nudged soon gets switched off."
     },
     {
       "q": "How loud is the alarm?",
-      "a": "The Mengshen locks are rated at 115dB. Check the EnzZone volume before relying on it."
+      "a": "The Mengshen locks are rated at 115dB. Check the EnzZone volume before relying on it, and remember that any decibel figure is the maker's number rather than a measurement. Try the alarm once at home so you know what it sounds like."
     },
     {
       "q": "What if the battery dies?",
-      "a": "The lock still works as a lock, but the alarm stops. Check the indicator regularly."
+      "a": "The lock still works as a lock, but the alarm stops. The Mengshen locks have a low-battery indicator and take 3 AAA batteries, so check them regularly. The EnzZone alarm battery also needs checking from time to time."
     },
     {
       "q": "Do I still need to lock to something fixed?",
-      "a": "Yes. Always lock around a fixed object. See our best U-locks for adult tricycles."
+      "a": "Yes. Always lock around a fixed object, and include the frame, not just a wheel. See our best U-locks for adult tricycles, since a lock around the wheel alone lets a thief carry the rest of the trike away."
+    },
+    {
+      "q": "Can the Mengshen locks be used for other things?",
+      "a": "The wireless Mengshen is described as useful for strollers and tool boxes, so it can serve a second purpose when you are not on the trike. Its cut or tamper alarm works the same way on any object."
     }
   ],
-  "bottomLine": "Choose the EnzZone when security matters and the Mengshen cable locks for short stops. The alarm is a deterrent, so let the steel do the work.",
+  "bottomLine": "Choose the EnzZone when security matters and you need a fat-tire opening, and the Mengshen cable locks for short stops where remote unlocking is handy. The alarm is a deterrent, so let the steel do the work and always lock around something fixed.",
   "amazonSearch": "bike locks with alarms",
   "relatedPaths": [
     "/accessories/best-bike-alarms-for-adult-tricycles/",

@@ -189,48 +189,55 @@ export const bestLoadingRampsForRecumbentTrikes: BestArticle = {
   "howWeChose": [
     {
       "title": "Ramp length",
-      "body": "Longer ramps give gentler slopes, which a low trike needs."
+      "body": "Longer ramps give gentler slopes, and a recumbent sits low with little ground clearance, so we ranked the 77 inch Stalwart and 89 inch MAXIVAMN runs above shorter ones."
     },
     {
       "title": "Pair or single",
-      "body": "A trike has two front wheels, so we flagged single-ramp products."
+      "body": "A tadpole recumbent trike has two front wheels that need separate tracks, so we flagged single-ramp products like the MAXIVAMN and credited sets sold as a pair."
     },
     {
       "title": "Capacity",
-      "body": "Rated capacity against your trike plus rider weight."
+      "body": "We compared rated capacity, from 750 lbs to 1100 lbs per ramp, against a trike plus rider weight, because the load lands on one ramp at a time."
     },
     {
       "title": "Traction and security",
-      "body": "Surface texture and straps keep ramps from slipping."
+      "body": "Surface texture, straps and rubber headboards keep ramps from slipping, so we weighed anti-skid steel, perforated aluminum and the included pins and pads."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Length against height",
       "paragraphs": [
-        "Ramp slope depends on how high the load surface is and how long the ramp is.",
-        "Measure the height of your van or truck bed and choose the longest ramp you can store."
+        "Ramp slope depends on how high the load surface is and how long the ramp is. A recumbent sits close to the ground, so a steep ramp can scrape the frame, pedals or boom before the wheels reach the top.",
+        "Measure the height of your van, trailer or truck bed and choose the longest ramp you can store. The 77 inch Stalwart and 89 inch MAXIVAMN give the gentlest slope of these picks."
       ]
     },
     {
       "title": "Wheel track and width",
       "paragraphs": [
-        "Your trike's front wheels sit a fixed distance apart, and each ramp must line up with a wheel.",
-        "Measure the front track and the tire width, and leave margin on each side."
+        "A recumbent trike has two wheels set a fixed distance apart, and each must line up with its own ramp. If the track is wider than the pair allows, a tire hangs over the edge.",
+        "Measure the front track and the tire width, and leave margin on each side. The MAXIVAMN surface is 12 inches wide, so confirm your tires fit before buying two."
       ]
     },
     {
       "title": "Rated capacity",
       "paragraphs": [
-        "Capacity should cover the trike, the battery and any cargo.",
-        "Check each ramp's rating, since a pair's combined number applies when both are used together."
+        "Capacity should cover the trike, the rider if sitting, the battery and any cargo, but you push the trike alone. A pair's combined number applies only when both ramps share the load.",
+        "Check each ramp's own rating: 1100 lbs on the Stalwart, 750 lbs on the Arejonner and MAXIVAMN, 700 lbs on the MAXXHAUL. Choose a figure well above your loaded trike."
       ]
     },
     {
       "title": "Traction and tie-down",
       "paragraphs": [
-        "A perforated or anti-skid surface prevents wheel slip, and straps stop the ramp sliding.",
-        "Secure the ramp top to the truck or trailer before you load."
+        "A perforated or anti-skid surface stops wheel slip, and straps or pins stop the ramp sliding. Low-slung trike wheels are small, and a smooth ramp gives them little to grip.",
+        "Secure the ramp top to the truck, trailer or van before you load, and test with a firm pull. The Arejonner has four safety straps, and the MAXXHAUL includes four safety pins."
+      ]
+    },
+    {
+      "title": "Folding and storage",
+      "paragraphs": [
+        "A ramp that folds in half fits into a van or closet, but a long single run needs a bigger space. Handles matter when you carry two ramps around a low trike.",
+        "Check folded size and carry handles, such as the MAXIVAMN folding to 44.5 inches. Make sure you can lift each piece alone before choosing a heavier steel set."
       ]
     }
   ],
@@ -246,22 +253,22 @@ export const bestLoadingRampsForRecumbentTrikes: BestArticle = {
         "rows": [
           [
             "Van or trailer",
-            "Stalwart 77 Inch Ramps",
-            "77 inch run with 1100 lbs each"
+            "Stalwart 77 Inch Folding Ramps, Set of 2",
+            "77 inch run with 1100 lbs per ramp"
           ],
           [
             "Car trunk or SUV",
-            "Arejonner 72.5 Inch Ramps",
-            "Light and strapped"
+            "Arejonner 72.5 Inch Folding Ramps, Set of 2",
+            "Light at 17 lbs each, with straps"
           ],
           [
             "Tall pickup bed",
-            "MAXIVAMN 89 Inch Ramp",
-            "Longest run, buy two"
+            "MAXIVAMN 89 Inch Aluminum Ramp",
+            "Longest run, buy two for a trike"
           ],
           [
             "Custom wheel spacing",
-            "MAXXHAUL Ramp Top Kit",
+            "MAXXHAUL Steel Ramp Top Kit",
             "Plank length and spacing are yours"
           ]
         ]
@@ -272,11 +279,11 @@ export const bestLoadingRampsForRecumbentTrikes: BestArticle = {
       "cards": [
         {
           "label": "Steel",
-          "text": "Heavier and sturdy. The Stalwart set is zinc-coated steel."
+          "text": "Heavier and sturdy. The Stalwart set is zinc-coated steel with an anti-skid surface and 1100 lbs per ramp, so it suits fixed use in a van or trailer."
         },
         {
           "label": "Aluminum",
-          "text": "Lighter to carry. The Arejonner and MAXIVAMN are alloy or aluminum."
+          "text": "Lighter to carry. The Arejonner at 17 lbs each and the MAXIVAMN aluminum ramp trade capacity for easy handling and a folding fit in a small space."
         }
       ],
       "note": "Default to aluminum if you load alone and the trike is well under the rating."
@@ -286,11 +293,11 @@ export const bestLoadingRampsForRecumbentTrikes: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Light ramps with handles and straps that keep them in place."
+          "text": "Light ramps with handles and straps that keep them in place, because you cannot hold a ramp steady and push a trike at once."
         },
         {
           "label": "In this comparison",
-          "text": "The Arejonner pair weighs 17 lbs each and includes four safety straps."
+          "text": "The Arejonner pair weighs 17 lbs each, folds with a handle and includes four safety straps, so one person can set it up and secure it quickly."
         }
       ]
     },
@@ -299,11 +306,11 @@ export const bestLoadingRampsForRecumbentTrikes: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You load a heavy electric trike, where the Stalwart 1100 lbs per ramp gives margin."
+          "text": "You load a heavy electric trike or a tall bed, where the Stalwart 1100 lbs per ramp and 77 inch run give the best capacity and slope margin."
         },
         {
           "label": "Save if",
-          "text": "Your trike is light and your bed is low, where the Arejonner pair is enough."
+          "text": "Your trike is light and your bed is low, where the Arejonner pair is enough and easier to carry."
         }
       ]
     }
@@ -311,26 +318,30 @@ export const bestLoadingRampsForRecumbentTrikes: BestArticle = {
   "faq": [
     {
       "q": "Can I load a trike with one ramp?",
-      "a": "Not safely, since a trike has two front wheels. Use a pair set to your front wheel track."
+      "a": "Not safely, since a recumbent trike has two front wheels. Use a pair set to your front wheel track, or buy two matched single ramps such as the MAXIVAMN."
     },
     {
       "q": "How long should the ramp be?",
-      "a": "As long as you can store. Longer ramps give gentler slopes."
+      "a": "As long as you can store. Longer ramps give gentler slopes, which a low recumbent frame needs to avoid scraping. Measure the load height first, then compare with the 77 and 89 inch runs here."
     },
     {
       "q": "Are these ramps made for trikes?",
-      "a": "No, they are motorcycle, ATV and mower ramps. Check width and wheel track."
+      "a": "No, they are general folding ramps for motorcycles, ATVs and mowers. Check width and wheel track yourself, because a trike's wheel spacing is not matched to the ramps by the maker."
     },
     {
       "q": "How do I secure the ramp?",
-      "a": "Strap or pin the ramp top to the truck, trailer or van before loading."
+      "a": "Strap or pin the ramp top to the truck, trailer or van before loading. The Arejonner has four safety straps and the MAXXHAUL includes four safety pins. Retest the hold before each load."
     },
     {
       "q": "Do I need a winch?",
-      "a": "Not for a light trike. For a heavy electric model, push with a helper and walk beside it."
+      "a": "Not for a light trike. For a heavy electric model, push with a helper and walk beside it, keeping the motor off. A slow, steady push is safer than relying on power."
+    },
+    {
+      "q": "Can I use my own planks?",
+      "a": "Yes, with the MAXXHAUL Steel Ramp Top Kit, which turns 2x8 planks into ramps rated 700 lbs each, distributed. Planks are not included, so buy suitable lengths and assemble the hardware first."
     }
   ],
-  "bottomLine": "The Stalwart 77 inch pair is the best all-round ramp set. The Arejonner suits solo loading, and the MAXXHAUL kit suits riders who want to match their own wheel track.",
+  "bottomLine": "The Stalwart 77 inch pair is the best all-round ramp set for its gentle run and 1100 lbs per ramp. The Arejonner suits solo loading at 17 lbs each, the MAXIVAMN gives the longest run if you buy two, and the MAXXHAUL kit suits riders matching their own wheel track.",
   "amazonSearch": "loading ramps for trikes",
   "relatedPaths": [
     "/how-to-store-and-transport-an-adult-tricycle/",

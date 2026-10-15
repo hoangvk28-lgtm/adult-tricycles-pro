@@ -225,48 +225,55 @@ export const bestReflectiveTapeForBicyclesAndTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Reflective design",
-      "body": "We compared DOT-C2 rolls, prism sheets and honeycomb patterns for how they return light."
+      "body": "We compared DOT-C2 red and white rolls, prism sheets and honeycomb patterns for how they return light to a driver's headlights."
     },
     {
       "title": "Coverage and format",
-      "body": "Roll width and sticker size were matched to trike surfaces like basket rims, fenders and axle housings."
+      "body": "We matched roll width and sticker size to trike surfaces such as basket rims, fenders, axle housings and slim frame tubes."
     },
     {
       "title": "Adhesion and weather",
-      "body": "Waterproof construction and adhesive strength mattered for a vehicle stored outside."
+      "body": "We favored waterproof construction and strong adhesive, because a trike stored outside sees rain, sun and temperature swings."
     },
     {
       "title": "Color usefulness",
-      "body": "Red and white reads as trailer marking, while fluorescent yellow adds daylight visibility."
+      "body": "We noted that red and white reads as trailer marking, while fluorescent yellow adds daylight visibility that other colors lack."
     }
   ],
   "whatToLookFor": [
     {
       "title": "DOT-C2 versus generic tape",
       "paragraphs": [
-        "DOT-C2 is the marking used for trailer conspicuity tape, in alternating red and white. Generic tape may not follow that pattern.",
-        "A bike or trike is not a regulated trailer, but red and white is instantly recognized. Look for the DOT-C2 mark if you want that familiar pattern."
+        "DOT-C2 is the marking used for trailer conspicuity tape, in alternating red and white. Generic tape may not follow that pattern, and a trike is not a regulated trailer, so the match is about recognition.",
+        "Look for the DOT-C2 mark on the roll if you want that familiar pattern. Red and white is instantly read by drivers as a large, slow vehicle."
       ]
     },
     {
       "title": "Rolls versus stickers",
       "paragraphs": [
-        "Rolls give a continuous outline along an edge, helpful for the wide rear. Stickers are quicker for small, irregular spots.",
-        "Pick a roll for the basket rim and axle, and stickers for fenders, bars and helmets."
+        "Rolls give a continuous outline along an edge, which helps on the wide rear of a trike. Stickers are quicker for small, irregular spots, but they leave gaps between pieces.",
+        "Pick a roll for the basket rim and axle, and stickers for fenders, bars and helmets. Count your edges before you choose between a 30 ft roll and 10 ft rolls."
       ]
     },
     {
       "title": "Surface prep and adhesion",
       "paragraphs": [
-        "Tape sticks poorly to dusty or oily surfaces. Clean with alcohol and press firmly, then let it set before riding.",
-        "Check that it is described for metal, plastic and curved surfaces, since a trike frame has all three."
+        "Tape sticks poorly to dusty or oily surfaces, and it lifts at the edges when the surface is curved. A trike frame has metal, plastic and curved tubes, all in one place.",
+        "Clean with alcohol, press firmly and let it set before riding. Check that the tape is described for metal, plastic and curved surfaces."
       ]
     },
     {
       "title": "Color choice",
       "paragraphs": [
-        "Red reads as rear, white as front. Fluorescent yellow stands out in daylight.",
-        "Use red at the back, white or silver at the front and sides, and keep placements consistent."
+        "Red reads as rear, white as front, and fluorescent yellow stands out in daylight. Mixing colors randomly can confuse a driver judging which way you are headed.",
+        "Use red at the back, white or silver at the front and sides, and keep placements consistent. The SWRT fluorescent yellow roll helps most at dawn and dusk."
+      ]
+    },
+    {
+      "title": "Tape width",
+      "paragraphs": [
+        "A 2 inch band is bold on a basket rim but too wide for a slim tube, where it hangs off the sides. The WENFUMUSIC rolls are 1 inch wide and cut to any length.",
+        "Measure the tube you want to wrap, then choose a width that wraps without a ridge. Use the wide roll on flat edges and the narrow roll on tubes."
       ]
     }
   ],
@@ -282,28 +289,28 @@ export const bestReflectiveTapeForBicyclesAndTricycles: BestArticle = {
         "rows": [
           [
             "Rear basket rim and axle outline",
-            "SWRT DOT-C2 Red and White Roll",
-            "Long 2 inch band in trailer pattern"
+            "SWRT DOT-C2 Red and White Reflective Tape, 2 in x 30 ft",
+            "Long 2 inch band in the trailer pattern"
           ],
           [
-            "Daytime visibility",
-            "SWRT Red and Fluorescent Yellow Roll",
-            "Fluorescent yellow stands out"
+            "Daytime and dusk visibility",
+            "SWRT Red and Fluorescent Yellow Reflective Tape, 2 in x 30 ft",
+            "Fluorescent yellow stands out in daylight"
           ],
           [
             "Slim frame tubes and fork legs",
-            "WENFUMUSIC 3-Roll Pack",
-            "1 inch width"
+            "WENFUMUSIC Reflective Tape 3-Roll Pack, 1 in x 10 ft",
+            "1 inch width wraps narrow tubes"
           ],
           [
             "Fenders and basket corners",
-            "PSLER 36-Piece Sticker Set",
-            "Pre-cut prism pieces"
+            "PSLER 36-Piece Reflective Sticker Set",
+            "Pre-cut prism pieces for curves and corners"
           ],
           [
             "Color-coded marking and spares",
-            "Haikole 50-Piece Pack",
-            "Five colors, 50 pieces"
+            "Haikole 50-Piece Reflective Sticker Pack",
+            "Five colors and 50 pieces"
           ]
         ]
       }
@@ -313,25 +320,25 @@ export const bestReflectiveTapeForBicyclesAndTricycles: BestArticle = {
       "cards": [
         {
           "label": "Roll",
-          "text": "The SWRT and WENFUMUSIC rolls give a continuous line, best on straight edges like the rear basket rim."
+          "text": "The SWRT and WENFUMUSIC rolls give a continuous line, best on straight edges like the rear basket rim. One 30 ft roll covers a trike many times over."
         },
         {
           "label": "Stickers",
-          "text": "The PSLER and Haikole packs suit curves and small surfaces, though they leave gaps."
+          "text": "The PSLER and Haikole packs suit curves and small surfaces such as fenders and bags, though they leave gaps. Many small pieces take more placements."
         }
       ],
-      "note": "Use a roll for the rear and stickers for the details."
+      "note": "Use a roll for the rear outline and stickers for the details."
     },
     {
       "heading": "For Rear Basket and Axle Marking Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Wide, continuous, red-and-white tape that survives rain and can wrap the basket's top edge."
+          "text": "Wide, continuous, red and white tape that survives rain and can wrap the top edge of the basket, plus an adhesive that holds on curves."
         },
         {
           "label": "In this comparison",
-          "text": "The SWRT DOT-C2 roll gives the widest band, and its removable adhesive lets you reposition."
+          "text": "The SWRT DOT-C2 roll gives the widest band in the trailer pattern, and it removes without residue. The fluorescent yellow roll adds daylight contrast."
         }
       ]
     },
@@ -340,11 +347,11 @@ export const bestReflectiveTapeForBicyclesAndTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride in low light often. The SWRT rolls' multi-layer prisms outperform basic stickers."
+          "text": "You ride in low light often. The SWRT rolls' multi-layer prisms are the better pick than basic stickers, and the 60-day guarantee on the yellow roll helps."
         },
         {
           "label": "Save if",
-          "text": "You ride mostly by day. The PSLER stickers are enough to add a quiet backup."
+          "text": "You ride mostly by day. The PSLER stickers add a quiet backup on the fenders and basket corners at low cost."
         }
       ]
     }
@@ -352,26 +359,26 @@ export const bestReflectiveTapeForBicyclesAndTricycles: BestArticle = {
   "faq": [
     {
       "q": "Where should I put reflective tape on an adult trike?",
-      "a": "Rear basket rim, rear axle housing, fender edges, seat post, and both sides near the rear wheels. A line along the widest points helps drivers judge width."
+      "a": "Rear basket rim, rear axle housing, fender edges, seat post, and both sides near the rear wheels. A line along the widest points helps drivers judge the width of the trike at night."
     },
     {
       "q": "Does reflective tape replace lights?",
-      "a": "No. Tape only returns light from a source like headlights, so you still need a battery light for being seen at distance."
+      "a": "No. Tape only returns light from a source such as headlights, so you still need a battery light to be seen at a distance. Use tape as a second layer behind your lights and your vest."
     },
     {
       "q": "Will tape damage my paint?",
-      "a": "Several are described as removable without residue, but test on a hidden spot first and clean before removal."
+      "a": "The SWRT DOT-C2 roll is described as removing without residue, but test a hidden spot first and clean the surface before removal. Warm the tape gently with a hair dryer to ease it off."
     },
     {
-      "q": "How long does it last?",
-      "a": "Waterproof, non-fading tapes last many seasons, but edges can lift. Press edges down and replace worn sections."
+      "q": "How long does reflective tape last?",
+      "a": "Waterproof, non-fading tapes last many seasons, but edges can lift on curves. Press edges down after a rain and replace worn sections. A trike stored outside will wear it faster."
     },
     {
-      "q": "Is white or red better?",
-      "a": "Use red on the rear and white or silver on the front and sides, which matches what drivers expect."
+      "q": "Is white or red better for the trike?",
+      "a": "Use red on the rear and white or silver on the front and sides, which matches what drivers expect. Mixing them randomly can confuse anyone judging which way you are heading."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Reflective Rim Tape for Bicycles",
       "text": "None of these is sold as rim tape, so no pick fits. The slim 1 inch rolls come closest, but check your rim width and look for a tape made for the rim bed, since adhesive tape can peel in wet use."
@@ -392,7 +399,7 @@ export const bestReflectiveTapeForBicyclesAndTricycles: BestArticle = {
       "text": "The PSLER stickers are small, so they fit the curved shell of a helmet better than wide tape. Apply them on a clean, dry surface and avoid covering vents or labels."
     }
   ],
-  "bottomLine": "The SWRT DOT-C2 red and white roll is the best all-round tape for marking a wide trike. Add stickers for small spots, and pair tape with lights and a vest for full visibility.",
+  "bottomLine": "The SWRT DOT-C2 red and white roll is the best all-round tape for marking the wide rear of a trike, with a long 30 ft roll and a familiar pattern. Add the WENFUMUSIC rolls for slim tubes and stickers for small spots, and pair tape with lights and a vest for full visibility.",
   "amazonSearch": "reflective tape for trikes",
   "relatedPaths": [
     "/accessories/best-bike-tail-lights-for-adult-tricycles/",

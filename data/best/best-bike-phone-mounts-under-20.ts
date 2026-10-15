@@ -184,19 +184,23 @@ export const bestBikePhoneMountsUnder20: BestArticle = {
   "howWeChose": [
     {
       "title": "Phone fit",
-      "body": "Stated phone size ranges and thickness limits decided whether a mount works with your device."
+      "body": "Stated phone size ranges and thickness limits decided whether a mount works with your device, from the 4 inch low end of the YTDSUP to the 6.9 inch top of the MCOTOP."
     },
     {
       "title": "Vibration",
-      "body": "Silicone cushioning was weighed against rigid clamps."
+      "body": "Silicone cushioning was weighed against rigid clamps, because shake on a rough path blurs the screen and can loosen a grip over time."
     },
     {
       "title": "Bar fit",
-      "body": "A mount must wrap a wide cruiser bar firmly."
+      "body": "A mount must wrap a wide cruiser bar firmly, so strap reach and tension counted for more than the shape of the cradle."
     },
     {
       "title": "Weather",
-      "body": "Rain protection was considered for the pouch."
+      "body": "Rain protection was considered, since only the ROCKBROS pouch has sealed zippers and the silicone mounts leave the phone open."
+    },
+    {
+      "title": "Value in the box",
+      "body": "The two-pack Kinizuxi and YTDSUP were weighed against single mounts, because a second mount covers a second trike or a spouse's phone."
     }
   ],
   "whatToLookFor": [
@@ -204,28 +208,35 @@ export const bestBikePhoneMountsUnder20: BestArticle = {
       "title": "Silicone strap vs clamp",
       "paragraphs": [
         "A silicone strap wraps around the phone and bar and absorbs vibration, but it relies on tension. A rigid clamp locks positively but transmits more shake.",
-        "Check strap tension before every ride and replace stretched straps."
+        "None of these mounts has a positive lock, so check strap tension before every ride and replace a stretched strap. Give the phone a firm tug before rolling off."
       ]
     },
     {
       "title": "Phone size and case",
       "paragraphs": [
-        "Mounts quote a phone size range. A thick case adds to that size.",
-        "Measure your phone with its case and compare."
+        "Mounts quote a phone size range, and a thick case adds to the real size. The Kinizuxi sets a 15 mm thickness limit, so a rugged case can push a phone past what the straps can hold.",
+        "Measure your phone with its case and compare it with the range, such as 4.7 to 6.8 inches for the Kinizuxi. If the case is bulky, choose the mount with the larger range."
       ]
     },
     {
       "title": "Handlebar diameter",
       "paragraphs": [
-        "A mount must grip the bar firmly. Wide cruiser bars need a longer strap.",
-        "Check the strap length or bar range."
+        "A mount must grip the bar firmly. Wide cruiser bars need a longer strap, and a short one will stretch thin or not close at all.",
+        "Check the strap length or the stated bar range, and wrap the strap around the bar by hand when it arrives. The ROCKBROS needs a frame tube rather than the bar."
       ]
     },
     {
       "title": "Weather protection",
       "paragraphs": [
-        "Silicone mounts leave the phone exposed to rain while a pouch protects it.",
-        "Choose a pouch for wet routes or carry a cover."
+        "Silicone mounts leave the phone exposed to rain, while the ROCKBROS pouch has sealed zippers and a clear touchscreen window. A phone that gets wet may stop responding to touch.",
+        "Choose a pouch for wet routes or carry a cover. Check the touchscreen through the window before relying on it for navigation, because a thick film can dull taps."
+      ]
+    },
+    {
+      "title": "Screen position on a trike",
+      "paragraphs": [
+        "A trike rider sits upright with a flat handlebar, so a phone strapped to the bars sits in the line of sight. A frame pouch sits lower on the tube, which can put the screen below the ideal viewing angle.",
+        "Sit on the trike with the phone in place and see whether you can read it with a quick glance. If you need to look down, the position is not working."
       ]
     }
   ],
@@ -240,24 +251,24 @@ export const bestBikePhoneMountsUnder20: BestArticle = {
         ],
         "rows": [
           [
-            "Phone up to 6.8 inches with a stated thickness",
+            "Phone up to 6.8 inches with a case",
             "Kinizuxi 2 Pack Silicone Phone Mounts",
-            "15 mm limit including case"
+            "15 mm thickness limit including the case."
           ],
           [
             "Small phone of 4 inches",
             "YTDSUP 2 Pack Silicone Phone Mounts",
-            "Range starts at 4 inches"
+            "Range starts at 4 inches, with quick release."
           ],
           [
             "Large phone around 6.9 inches",
             "MCOTOP Silicone Bike Phone Mount",
-            "Fits up to 6.9 inches"
+            "Widest range, up to 6.9 inches."
           ],
           [
             "Phone under 7 inches plus keys",
             "ROCKBROS Frame Phone Bag",
-            "Pouch holds small items"
+            "Pouch holds small items and keeps rain off."
           ]
         ]
       }
@@ -267,11 +278,11 @@ export const bestBikePhoneMountsUnder20: BestArticle = {
       "cards": [
         {
           "label": "Silicone strap",
-          "text": "Kinizuxi, YTDSUP and MCOTOP mount in seconds on the handlebar and cushion vibration."
+          "text": "Kinizuxi, YTDSUP and MCOTOP mount in seconds on the handlebar and cushion vibration. They leave the phone exposed to rain, so pair them with a cover."
         },
         {
           "label": "Frame pouch",
-          "text": "ROCKBROS protects the phone from rain and stores items, but needs a frame tube."
+          "text": "ROCKBROS protects the phone from rain and stores small items, using three hook-and-loop straps. It needs a suitable frame tube, and the screen sits low on a trike."
         }
       ],
       "note": "Most trike riders should default to a silicone strap unless the frame has a suitable tube."
@@ -281,11 +292,11 @@ export const bestBikePhoneMountsUnder20: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Easy orientation changes and a screen in sight."
+          "text": "Easy orientation changes and a screen in sight at a glance, so you are not looking down while steering."
         },
         {
           "label": "In this comparison",
-          "text": "The YTDSUP and Kinizuxi rotate 360 degrees and sit on the handlebar."
+          "text": "The YTDSUP offers horizontal and vertical modes and the Kinizuxi rotates 360 degrees, both on the handlebar. The ROCKBROS keeps the screen lower."
         }
       ]
     },
@@ -294,11 +305,11 @@ export const bestBikePhoneMountsUnder20: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you ride rough paths daily, since the Kinizuxi, YTDSUP and MCOTOP lack a positive lock."
+          "text": "You ride rough paths daily, since the Kinizuxi, YTDSUP and MCOTOP lack a positive lock and the strap tension can slip."
         },
         {
           "label": "Save if",
-          "text": "you ride smooth paths and want a basic holder, where the Kinizuxi two-pack covers two trikes."
+          "text": "You ride smooth paths and want a basic holder. The Kinizuxi two-pack covers two trikes or two phones for less effort."
         }
       ]
     }
@@ -306,26 +317,30 @@ export const bestBikePhoneMountsUnder20: BestArticle = {
   "faq": [
     {
       "q": "Will a silicone mount hold my phone on a rough path?",
-      "a": "Strap tension matters. Check it before each ride, since none of these has a twist lock."
+      "a": "Strap tension matters. Check it before each ride, since none of these has a twist lock. On rough paths the phone can shift, so a quick tug before you roll helps. Replace a stretched strap rather than hoping it holds."
     },
     {
       "q": "Do I need a different mount for a wide bar?",
-      "a": "Check the strap reaches around the bar. All three strap mounts say they fit common handlebars."
+      "a": "Check the strap reaches around the bar. All three strap mounts say they fit common handlebars, but a wide cruiser bar needs enough strap to stay snug. Wrap it by hand when it arrives to confirm the fit."
     },
     {
       "q": "Will a thick case fit?",
-      "a": "The Kinizuxi allows 15 mm including the case."
+      "a": "The Kinizuxi allows 15 mm including the case. The YTDSUP and MCOTOP do not give a thickness limit, so measure the case and check the fit with the phone in place before a ride, on a flat surface."
     },
     {
       "q": "Does the ROCKBROS work on a step-through trike?",
-      "a": "Only with a frame tube to strap to."
+      "a": "Only with a frame tube to strap to. Step-through frames often have a low or sloped tube, so check where the pouch would sit and whether you can read the screen at a glance before you rely on it."
     },
     {
       "q": "Are these waterproof?",
-      "a": "Only the ROCKBROS pouch has sealed zippers."
+      "a": "Only the ROCKBROS pouch has sealed zippers and a clear touchscreen window. The silicone mounts hold the phone open to the air, so use a cover for rain and keep the phone dry in a pocket when the weather turns."
+    },
+    {
+      "q": "Can I use the two-pack on two trikes?",
+      "a": "Yes, the Kinizuxi and YTDSUP each include two mounts, so one can stay on each trike or on a spouse's. Both are tool-free, so moving a mount between bars takes only a minute and a firm strap check."
     }
   ],
-  "bottomLine": "The Kinizuxi is the best all-round pick at this budget. Choose the MCOTOP for the largest phones or the ROCKBROS for a waterproof pouch.",
+  "bottomLine": "The Kinizuxi is the best all-round pick at this budget, with a clear phone range and a 15 mm case limit. Choose the YTDSUP if you switch phone orientation, the MCOTOP for the largest phones or the ROCKBROS for a waterproof pouch if your frame has a tube.",
   "amazonSearch": "bike phone mounts under $20",
   "relatedPaths": [
     "/accessories/best-phone-mounts-for-adult-tricycles/",

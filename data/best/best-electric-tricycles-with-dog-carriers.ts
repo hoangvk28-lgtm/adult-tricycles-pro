@@ -156,48 +156,55 @@ export const bestElectricTricyclesWithDogCarriers: BestArticle = {
   "howWeChose": [
     {
       "title": "Basket capacity",
-      "body": "We looked for stated basket size and a rear differential that keeps turns smooth."
+      "body": "We looked for a stated basket size and a rear differential that keeps turns smooth, because a dog aboard punishes jerky cornering far more than a bag of groceries does."
     },
     {
       "title": "Speed control",
-      "body": "Gears and assist levels let you keep speed gentle with a dog aboard."
+      "body": "Gears and assist levels let you hold speed gentle with a dog in the basket, so we favored trikes that offer fine control at walking pace."
     },
     {
       "title": "Mounting ease",
-      "body": "A step-thru frame helps when you stop often with a leash."
+      "body": "A step-thru frame helps when you stop often to manage a leash, since swinging a leg high while holding a dog is awkward and unsteady."
     },
     {
       "title": "Honest limits",
-      "body": "We note where no pet carrier or basket measurement is given."
+      "body": "None of these trikes includes a pet carrier, and basket measurements are often missing, so we flag both as buyer checks instead of implying a ready-made dog setup."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Basket dimensions",
       "paragraphs": [
-        "A pet carrier has to fit in the basket, not just fit your dog. A basket that is too small lets the carrier tilt.",
-        "Measure the basket opening and depth, and compare to the carrier base."
+        "A pet carrier has to fit the basket, not just fit your dog. A basket that is too small lets the carrier tilt, and a dog in a tilting carrier gets nervous quickly.",
+        "Measure the basket opening and depth, and compare them to the base of the carrier before you buy, since several picks do not give basket size."
       ]
     },
     {
       "title": "Smooth acceleration",
       "paragraphs": [
-        "Sudden torque throws a dog against the basket wall.",
-        "Look for gear sets or low assist levels and avoid throttle starts."
+        "Sudden torque throws a dog against the basket wall and can frighten an animal for good. Gentle launches matter more here than top speed or climbing power.",
+        "Look for gear sets or low assist levels, and avoid throttle starts with the dog aboard."
       ]
     },
     {
       "title": "Restraint plan",
       "paragraphs": [
-        "A dog should wear a harness tethered to an anchor point in the basket, never a collar.",
-        "Plan the anchor point before you buy, since none of these trikes include one."
+        "A dog should wear a harness tethered to an anchor point in the basket, never a collar, because a collar can injure the neck if the dog jumps or the trike stops hard.",
+        "Plan the anchor point before you buy, since none of these trikes include one, and test the setup at a walk first."
       ]
     },
     {
       "title": "Rear weight",
       "paragraphs": [
-        "Heavy rear loads can lift the front wheels slightly on a steep hill.",
-        "Keep dog and basket weight modest and check the trike payload."
+        "Heavy rear loads can lift the front wheels slightly on a steep hill and make steering vague. A dog, a carrier and a basket add up quickly on a small dog's frame.",
+        "Keep dog and basket weight modest, check the trike's stated payload and avoid the steepest grades when the dog is aboard."
+      ]
+    },
+    {
+      "title": "Seat adjustment",
+      "paragraphs": [
+        "A rider who cannot reach the pedals or handlebars comfortably will not control the trike well, and a dog adds distraction. Fit comes before everything else.",
+        "Check the rider height range, such as 4'8\" to 6'2\" on the Ligood T300 and ESKUTE, and compare it to your own height."
       ]
     }
   ],
@@ -213,18 +220,18 @@ export const bestElectricTricyclesWithDogCarriers: BestArticle = {
         "rows": [
           [
             "Small dog in a carrier",
-            "NARRAK N6",
-            "Large basket and controlled speed"
+            "NARRAK N6 E-Trike",
+            "Large basket and Shimano 7-speed for controlled speed"
           ],
           [
             "Small dog, rider with stiff hips",
-            "ESKUTE 48V 13Ah",
-            "Low step-thru for easy mounting"
+            "ESKUTE 48V 13Ah E-Trike",
+            "Low step-thru frame for easy mounting"
           ],
           [
-            "Short rider, small dog",
-            "Ligood T300",
-            "4'8\" seat minimum"
+            "Short rider with a small dog",
+            "Ligood T300 E-Trike",
+            "Adjustable seat starts at 4'8\" with gentle power"
           ]
         ]
       }
@@ -234,11 +241,11 @@ export const bestElectricTricyclesWithDogCarriers: BestArticle = {
       "cards": [
         {
           "label": "Gears",
-          "text": "Shimano 7-speed on the NARRAK N6 gives finer control at low speed."
+          "text": "Shimano 7-speed on the NARRAK N6 gives finer control at low speed, letting you keep a steady, gentle cadence with the dog aboard."
         },
         {
           "label": "Assist-only",
-          "text": "The ESKUTE 48V 13Ah and Ligood T300 rely on assist levels for speed."
+          "text": "The ESKUTE 48V 13Ah and Ligood T300 rely on assist levels and a throttle for speed, which works but gives less fine control at walking pace."
         }
       ],
       "note": "Default to the gear set if you plan to ride with a dog often."
@@ -248,11 +255,11 @@ export const bestElectricTricyclesWithDogCarriers: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A step-thru frame and a basket you can reach without twisting."
+          "text": "A step-thru frame and a basket you can reach without twisting, so you can put the dog in and get on without wrestling the trike."
         },
         {
           "label": "In this comparison",
-          "text": "The ESKUTE 48V 13Ah has the lowest frame entry and three riding modes."
+          "text": "The ESKUTE 48V 13Ah has the lowest frame entry and three riding modes, though its basket size is not given, so measure before choosing a carrier."
         }
       ]
     },
@@ -261,11 +268,11 @@ export const bestElectricTricyclesWithDogCarriers: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want gears and a certified UL 2271 battery, as on the NARRAK N6."
+          "text": "You want gears and a UL 2271 certified battery, as on the NARRAK N6, which pairs a 500W motor with a large basket."
         },
         {
           "label": "Save if",
-          "text": "You ride slowly for short distances, where the ESKUTE 48V 13Ah is enough."
+          "text": "You ride slowly for short distances, where the ESKUTE 48V 13Ah is enough with its 624Wh battery and three riding modes."
         }
       ]
     }
@@ -273,26 +280,30 @@ export const bestElectricTricyclesWithDogCarriers: BestArticle = {
   "faq": [
     {
       "q": "Do these trikes come with a dog carrier?",
-      "a": "No. You add a carrier or pet bed that fits the basket, and you tether the dog to a harness."
+      "a": "No. You add a carrier or pet bed that fits the basket, and you tether the dog to a harness. Measure the basket first so the carrier sits flat and cannot tip when the trike turns."
     },
     {
       "q": "What dog size works?",
-      "a": "Small to medium dogs in a carrier suit the basket. Check the basket size and payload."
+      "a": "Small to medium dogs in a carrier suit the basket. Check the basket size and the trike's payload, add the weight of the dog and carrier to your own, and stay well under the stated limit."
     },
     {
       "q": "How fast should I ride with a dog?",
-      "a": "Keep speed low, in the lowest assist level, and brake gently."
+      "a": "Keep speed low, in the lowest assist level, and brake gently. A calm walking-to-jogging pace is plenty, and the NARRAK N6's 20 mph top speed is faster than a dog needs."
     },
     {
       "q": "Is a rear basket or front basket better?",
-      "a": "A front basket keeps the dog in sight, but rear baskets are larger. Pick what you can see and secure."
+      "a": "A front basket keeps the dog in sight, but rear baskets are usually larger. Pick what you can see and secure, and avoid placing a dog where you cannot notice it getting restless."
     },
     {
       "q": "Can the dog ride on a trike with a throttle?",
-      "a": "Yes, but use the throttle sparingly because sudden starts jostle the dog."
+      "a": "Yes, but use the throttle sparingly because sudden starts jostle the dog. Start in a low assist level and ease on the power, especially while the dog is still getting used to the motion."
+    },
+    {
+      "q": "How do I get a nervous dog used to the trike?",
+      "a": "Let the dog sit in the carrier on the parked trike first, then try a short walking-speed trip. Add distance slowly, and stop at the first sign of stress."
     }
   ],
-  "bottomLine": "The NARRAK N6 offers the best control for dog owners, with the ESKUTE as the easy-mount alternative. Add a proper carrier and harness, since none of these include one.",
+  "bottomLine": "The NARRAK N6 offers the best control for dog owners, combining a large basket, Shimano 7-speed gears and a rear differential for smooth, steady riding. The ESKUTE 48V 13Ah is the easy-mount alternative, and the Ligood T300 suits shorter riders. Add a proper carrier and harness, since none of these include one.",
   "amazonSearch": "electric tricycles for dog owners",
   "relatedPaths": [
     "/accessories/best-baskets-for-adult-tricycles/",

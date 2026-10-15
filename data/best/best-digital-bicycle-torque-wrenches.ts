@@ -249,48 +249,48 @@ export const bestDigitalBicycleTorqueWrenches: BestArticle = {
   "howWeChose": [
     {
       "title": "Range fit",
-      "body": "We looked at the low end first, since bike bolts are small and a 135 Nm wrench cannot read them well."
+      "body": "We looked at the low end of each range first, since trike hardware uses small bolts and a wrench built for 135 Nm cannot read a 5 Nm stem bolt with any real accuracy."
     },
     {
       "title": "Alert style",
-      "body": "Buzzer, light and vibration alerts are easier to catch than a mechanical click on a loud street."
+      "body": "We compared buzzer, light and vibration alerts, because they are easier to catch than a mechanical click when a wrench is held at an awkward angle under a trike frame."
     },
     {
       "title": "Kit and storage",
-      "body": "Bit sets, extensions and cases were weighed against battery needs and size."
+      "body": "We weighed bit sets, extensions and cases against battery needs and tool size, since a wrench that arrives with the right bits saves buying a separate set."
     },
     {
       "title": "Accuracy claims",
-      "body": "Stated accuracy figures are maker claims, so we did not treat any as proof and noted the unverified status."
+      "body": "Stated accuracy figures are maker claims, so we did not treat any as proof and we noted the unverified brands, leaving riders to check the tool against a known fastener."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Where the range starts",
       "paragraphs": [
-        "A digital wrench is only reliable above a minimum value. If your stem bolt wants 5 Nm and the range starts at 20, the reading is not trustworthy.",
-        "Check the lowest value on the spec sheet and make sure your smallest bolt sits comfortably above it."
+        "A digital wrench is only reliable above a minimum value, and below it the reading is guesswork. If your stem bolt calls for 5 Nm and the range starts at 20, the number on screen cannot be trusted.",
+        "Check the lowest value on the spec sheet and make sure your smallest bolt sits comfortably above it. The GROWNEER starts at 1.5 Nm and the Uharbour at 0.9 Nm."
       ]
     },
     {
       "title": "Drive size",
       "paragraphs": [
-        "A 1/4-inch drive suits small hex bits, while 3/8-inch suits sockets for larger nuts. An adapter can bridge them but adds length.",
-        "Pick the drive that matches the bits you already own, and keep a second wrench for the other end of the range."
+        "A 1/4 inch drive suits small hex bits used on stems, bars and seat clamps, while a 3/8 inch drive suits sockets for larger nuts. An adapter can bridge the two but adds length and a little play.",
+        "Pick the drive that matches the bits you already own, and consider a second wrench for the other end of the range. The Uharbour and SUERCUP are 3/8 inch."
       ]
     },
     {
       "title": "Alert behavior",
       "paragraphs": [
-        "Peak mode warns you at the target; Track mode just shows the number. Without an alert, you can overshoot.",
-        "Try the alert in a quiet moment and note that you must stop immediately when it sounds."
+        "Peak mode freezes the highest reading and warns you at the target, while Track mode simply shows the live number. Without an alert, it is easy to overshoot and strip or crack a part.",
+        "Try the alert in a quiet moment and learn what it sounds like, then stop turning the instant it sounds. The VCAN ACTIVE and Uharbour offer Peak and Track modes."
       ]
     },
     {
       "title": "Battery and calibration",
       "paragraphs": [
-        "A flat battery gives bad readings or none. A drop can also shift calibration.",
-        "Keep a spare battery, check the wrench against a second tool on a known bolt now and then, and store it in its case."
+        "A flat battery gives bad readings or none at all, and a hard drop can shift calibration without any visible sign. A wrench that has lost accuracy tightens bolts by feel only, which defeats its purpose.",
+        "Keep a spare battery, check the wrench against a second tool on a known fastener now and then, and store it in its case. The XEIMILE comes with a blow molded case."
       ]
     }
   ],
@@ -307,22 +307,22 @@ export const bestDigitalBicycleTorqueWrenches: BestArticle = {
           [
             "Stem, bar and seat bolts",
             "GROWNEER 1/4-Inch Digital Torque Wrench",
-            "Starts at 1.5 Nm with bits included."
+            "Starts at 1.5 Nm and includes bits and sockets"
           ],
           [
             "Rack and basket mounts",
             "XEIMILE Digital Torque Wrench 4 to 266 In-Lb",
-            "Mid range and a storage case."
+            "Mid range, nine presets and a storage case"
           ],
           [
             "Rear axle and big nuts",
             "Uharbour 3/8-Inch Digital Torque Wrench",
-            "Reaches 60 Nm."
+            "Reaches 60 Nm with a reversible ratchet"
           ],
           [
-            "Car and trike in one",
+            "Car and trike in one garage",
             "SUERCUP 3/8-Inch Digital Torque Wrench",
-            "Spans 2 to 135 Nm."
+            "Spans 2 to 135 Nm with overload warning"
           ]
         ]
       }
@@ -332,11 +332,11 @@ export const bestDigitalBicycleTorqueWrenches: BestArticle = {
       "cards": [
         {
           "label": "Memory",
-          "text": "The VANPO stores 500 readings so you can review what you applied last time."
+          "text": "The VANPO stores 500 readings and has a backlit LCD, so you can review what you applied last time, which suits riders who keep service records."
         },
         {
           "label": "Presets",
-          "text": "The VCAN ACTIVE and SUERCUP store preset values so you can recall the same target quickly."
+          "text": "The VCAN ACTIVE offers ten presets and the SUERCUP nine, so you can recall the same target quickly instead of dialing it in each time."
         }
       ],
       "note": "Most trike owners should pick presets over memory unless they service many machines."
@@ -346,11 +346,11 @@ export const bestDigitalBicycleTorqueWrenches: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A backlit or high-contrast display and a loud alert."
+          "text": "A backlit or high contrast display and an alert you can hear or see from the corner of your eye, because trike frames sit low and shaded."
         },
         {
           "label": "In this comparison",
-          "text": "The VANPO has a backlit LCD, and the XEIMILE has a high-contrast screen."
+          "text": "The VANPO has a backlit LCD, the XEIMILE gives audible and visual alerts at the target, and the GROWNEER adds a buzzer and light alert."
         }
       ]
     },
@@ -359,38 +359,42 @@ export const bestDigitalBicycleTorqueWrenches: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want one tool for stem bolts and axle nuts; buy the GROWNEER and the Uharbour together."
+          "text": "You want one setup for stem bolts and axle nuts. Buy the GROWNEER for the small end and the Uharbour for the 60 Nm end, instead of stretching one tool."
         },
         {
           "label": "Save if",
-          "text": "You only tighten seat and stem hardware, where the GROWNEER alone is enough."
+          "text": "You only tighten seat and stem hardware, where the GROWNEER alone covers 1.5 to 30 Nm and includes 13 sockets and 20 bits."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Is digital better than click?",
-      "a": "Digital shows a live reading and alerts you, which helps in tight spots. Click wrenches need no battery. See /accessories/best-bicycle-torque-wrenches/ for those."
+      "q": "Is digital better than a click wrench?",
+      "a": "A digital wrench shows a live reading and alerts you at the target, which helps in tight spots under a trike frame. A click wrench needs no battery, so choose by whether you prefer a display or a simple tool."
     },
     {
-      "q": "Can a 3/8-inch wrench do stem bolts?",
-      "a": "Usually not well. Its range starts higher and the reading is coarse at the bottom. Use a 1/4-inch model for small bolts."
+      "q": "Can a 3/8 inch wrench do stem bolts?",
+      "a": "Usually not well. Its range starts higher and the reading is coarse at the bottom, so small bolts may fall below the reliable zone. Use a 1/4 inch model for stem, bar and seat hardware."
     },
     {
       "q": "Do I need an adapter?",
-      "a": "If your bits are 1/4-inch and the wrench is 3/8, yes. The VANPO includes a 1/4 to 3/8 adapter."
+      "a": "If your bits are 1/4 inch and the wrench is 3/8 inch, yes. The VANPO includes an extension and adapter, and the Uharbour needs an adapter for 1/4 inch bits, which adds a little length."
     },
     {
       "q": "How do I check calibration?",
-      "a": "Compare it with a second wrench on a known fastener, and have it checked if it has been dropped."
+      "a": "Compare the wrench with a second tool on a known fastener, and have it checked if it has been dropped. Accuracy figures such as 1 or 2 percent are maker claims, so a cross check is sensible."
     },
     {
       "q": "Which units should I use?",
-      "a": "Use the same unit as your parts manual, usually Nm. Most of these wrenches switch between four or five units."
+      "a": "Use the same unit as your parts manual, which is usually Nm. Most of these wrenches switch between four units, and the VANPO reads in foot pounds, so set the unit before you start and check it again after changing the battery."
+    },
+    {
+      "q": "Should I buy two wrenches?",
+      "a": "If you work on both small stem hardware and big axle nuts, yes. One tool with a very wide range, like the SUERCUP at 2 to 135 Nm, is coarse at the bottom for small bolts."
     }
   ],
-  "bottomLine": "The GROWNEER is the best fit for most trike owners. Add the Uharbour only if you also work on axle nuts, or choose the VANPO if you want to log your work.",
+  "bottomLine": "The GROWNEER is the best fit for most trike owners because it starts at 1.5 Nm and includes a full set of bits and sockets. Add the Uharbour only if you also work on axle nuts, or choose the VANPO if you want to log your work.",
   "amazonSearch": "digital torque wrenches",
   "relatedPaths": [
     "/accessories/best-bicycle-torque-wrenches/",

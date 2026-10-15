@@ -149,48 +149,55 @@ export const bestRackMountedBikeTailLights: BestArticle = {
   "howWeChose": [
     {
       "title": "Rack mounting",
-      "body": "Brackets, straps and screws were judged for fit on a rack tube or basket frame."
+      "body": "We judged brackets, straps and screws on how well they fit a rack tube or a basket frame, since a light that slips on the first bump is no use."
     },
     {
       "title": "Visibility",
-      "body": "Beam angle and modes counted for how a trike is seen from behind and the sides."
+      "body": "We counted beam angle and modes for how a wide trike is seen from behind and from the sides, where drivers misjudge its width."
     },
     {
       "title": "Weather resistance",
-      "body": "Stated IPX ratings and sealed hardware mattered for rain commuting."
+      "body": "We looked at stated IPX ratings and sealed hardware, because a trike that commutes in rain needs more than a splash-proof body."
     },
     {
       "title": "Simplicity",
-      "body": "A light you can charge, mount and forget beat one with a confusing mode cycle."
+      "body": "We preferred a light you can charge, mount and forget over one with a confusing mode cycle that you must fight with gloves on."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Bracket type",
       "paragraphs": [
-        "A silicone strap grips a thin round tube well but slips on a flat or wide rack rail, and a screw bracket gives a fixed position.",
-        "Measure the rack tube and check what hardware ships. Add a rubber shim if the strap is loose."
+        "A silicone strap grips a thin round tube well but slips on a flat or wide rack rail, while a screw bracket gives a fixed position. The G2FS ships two sealed brackets with screws and nylon cable ties.",
+        "Measure your rack tube and check what hardware ships. If a strap feels loose, add a rubber shim under it before relying on it."
       ]
     },
     {
       "title": "IPX rating",
       "paragraphs": [
-        "IPX4 survives splashes, while IPX6 survives strong water jets.",
-        "For a trike you ride in rain, choose IPX6, and confirm the charging port has a cover."
+        "IPX4 survives splashes from any direction, while IPX6 survives strong water jets. A rack light sits low and behind the wheel, where road spray lands constantly.",
+        "For a trike you ride in rain, choose IPX6 as on the G2FS, and look at the charging port for a cover. The Ascher pair is IPX4, which suits drizzle."
       ]
     },
     {
       "title": "Beam angle",
       "paragraphs": [
-        "A trike is wider than a bike, so a wide beam helps drivers judge its width.",
-        "A 180 degree beam, or two lights set apart, makes the rear outline clear."
+        "A trike is wider than a bike, so a wide beam helps drivers judge its width. The Ascher beam covers 180 degrees, and two lights spaced apart show the rear outline clearly.",
+        "Stand twenty feet behind the trike and look at the lit area from the side. If the light disappears, move it or add a second unit."
       ]
     },
     {
-      "title": "Modes",
+      "title": "Modes and battery",
       "paragraphs": [
-        "More modes means more clicks and more battery drain.",
-        "A steady and a flashing mode are enough for most riders. Check the amber flash against local rules."
+        "More modes mean more clicks and, usually, more battery drain. A steady mode and a flashing mode are enough for most riders. The G2FS has six modes including fog, and the BV has four.",
+        "Pick the simplest light that does the job, and check the amber or fog flash against local rules before using it on a public road."
+      ]
+    },
+    {
+      "title": "Basket and seat clearance",
+      "paragraphs": [
+        "A rear basket or a backrest can block a light mounted too high or too far forward. A light behind the basket sits clear, while one in front is hidden from traffic.",
+        "Mount below or behind the basket, then check visibility from several feet back. Re-aim the light after loading the basket with a full weight."
       ]
     }
   ],
@@ -205,19 +212,24 @@ export const bestRackMountedBikeTailLights: BestArticle = {
         ],
         "rows": [
           [
-            "Bolt-on rack with flat plate",
-            "G2FS LITH Rack Tail Light",
-            "Two brackets with screws and nuts"
+            "Bolt-on rack with a flat plate",
+            "G2FS LITH USB-C Rack Tail Light",
+            "Two sealed brackets with screws and cable ties"
           ],
           [
             "Round rack tube, any size",
-            "BV LED Tail Light",
-            "Strap or screw mount choice"
+            "BV Bicycle LED Tail Light",
+            "Choose a quick-release strap or a screw mount"
           ],
           [
             "Thin rack tubing, two lights",
-            "Ascher 2 Pack",
-            "Silicone strap wraps a thin tube"
+            "Ascher USB Rechargeable LED Tail Lights 2 Pack",
+            "Silicone strap wraps a thin tube without tools"
+          ],
+          [
+            "Rack on a rear basket frame",
+            "G2FS LITH USB-C Rack Tail Light",
+            "Brackets bolt on and hold in a fixed position"
           ]
         ]
       }
@@ -227,11 +239,11 @@ export const bestRackMountedBikeTailLights: BestArticle = {
       "cards": [
         {
           "label": "One light",
-          "text": "The G2FS LITH and BV give one clear source. Mounted centered on the rack, it is simple and bright."
+          "text": "The G2FS and BV give one clear source. Mounted centered on the rack, a single light is simple, bright and easy to keep charged."
         },
         {
           "label": "Two lights",
-          "text": "The Ascher pair places a light on each side of the basket, showing a trike's true width."
+          "text": "The Ascher pair places a light on each side of the basket, showing a trike's true width. Each unit has a 400 mAh battery, so you charge two."
         }
       ],
       "note": "Most riders should choose one good light, and add the Ascher pair if they ride at dusk."
@@ -241,11 +253,11 @@ export const bestRackMountedBikeTailLights: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "IPX6 or better, a sealed charging port and a low-battery warning."
+          "text": "IPX6 or better, a sealed charging port and a low-battery warning that gives you time to get home before the light dies."
         },
         {
           "label": "In this comparison",
-          "text": "The G2FS LITH has IPX6 and a low voltage alert. The Ascher pair is IPX4, which suits drizzle only."
+          "text": "The G2FS has IPX6 and a low voltage alert, so it suits rainy rides. The Ascher pair is IPX4, and the BV gives no IPX rating, so keep both for dry or damp weather."
         }
       ]
     },
@@ -254,11 +266,11 @@ export const bestRackMountedBikeTailLights: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride in rain or traffic. The G2FS LITH's IPX6 and brackets are worth it."
+          "text": "You ride in rain or traffic. The G2FS brackets, six modes and IPX6 body are worth it when a driver must see you at a distance."
         },
         {
           "label": "Save if",
-          "text": "You ride in daylight on quiet streets. The Ascher pair is enough."
+          "text": "You ride in daylight on quiet streets. The Ascher pair covers both sides of the basket and gives a wide beam for little outlay."
         }
       ]
     }
@@ -266,26 +278,26 @@ export const bestRackMountedBikeTailLights: BestArticle = {
   "faq": [
     {
       "q": "Why mount a tail light on the rack?",
-      "a": "A trike's seat area is often crowded or blocked by a backrest or basket. The rack sits at the rear, wider than a seat post, and is clearly visible to traffic."
+      "a": "A trike's seat area is often crowded or blocked by a backrest or basket. The rack sits at the rear, wider than a seat post, and is clearly visible to traffic. It also keeps the light away from the rider's body."
     },
     {
       "q": "Will a strap fit a rack tube?",
-      "a": "Silicone straps fit thin round tubes best. On a wide or flat rail, use a screw bracket such as the G2FS LITH or BV provides."
+      "a": "Silicone straps fit thin round tubes best. On a wide or flat rail, use a screw bracket such as the G2FS or BV provides. Test the grip by pulling on the light before you ride."
     },
     {
-      "q": "Is IPX4 enough?",
-      "a": "For splashes and light drizzle, yes. For regular rain commuting, IPX6 as on the G2FS LITH is safer."
+      "q": "Is IPX4 enough for a trike?",
+      "a": "For splashes and light drizzle, yes. For regular rain commuting, IPX6 as on the G2FS is safer. The BV gives no rating, so treat it as weather resistant and keep it dry when you can."
     },
     {
       "q": "Should I use two lights?",
-      "a": "Two lights show the width of a trike. The Ascher pair lets you put one on each side of the basket."
+      "a": "Two lights show the width of a trike, which helps drivers judge the gap. The Ascher pair lets you put one on each side of the basket. A single light mounted on the centerline is the simpler option."
     },
     {
       "q": "Does the basket block the light?",
-      "a": "It can. Mount the light below or behind the basket, and check visibility from several feet back."
+      "a": "It can. Mount the light below or behind the basket, then check visibility from several feet back. Re-check after you load the basket, since heavy cargo can change the angle."
     }
   ],
-  "bottomLine": "The G2FS LITH is the best rack-mounted tail light thanks to its brackets and IPX6 body, with the BV as a flexible alternative and the Ascher pair as the budget way to light both sides.",
+  "bottomLine": "The G2FS LITH is the best rack-mounted tail light for a trike, with two brackets, six modes and an IPX6 body. The BV is a flexible alternative with strap or screw mounting, and the Ascher pair is the budget way to light both sides of the basket. Match the bracket to your rack tube before you order.",
   "amazonSearch": "rack-mounted tail lights",
   "relatedPaths": [
     "/accessories/best-bike-tail-lights-for-adult-tricycles/",

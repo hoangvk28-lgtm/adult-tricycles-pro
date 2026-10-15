@@ -221,48 +221,48 @@ export const bestEbikeBatteryChargersForElectricTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Voltage match",
-      "body": "Chargers were included only if the output matches a common trike pack, 54.6V or 42V."
+      "body": "We included chargers only if the output matches a common trike pack, 54.6V for 48V packs or 42V for 36V packs, because a wrong voltage can harm the battery."
     },
     {
       "title": "Connector coverage",
-      "body": "Models with several labeled plug heads ranked higher since a fit is the hardest part."
+      "body": "We ranked models with several labeled plug heads higher, since matching the connector is the hardest part of replacing a charger that went missing or stopped working."
     },
     {
       "title": "Protection circuits",
-      "body": "Short-circuit, over-voltage, temperature and auto shut-off protection were required."
+      "body": "We required short circuit, over voltage, temperature or auto shut off protection, because a charger often runs for hours in a garage while nobody is watching it."
     },
     {
-      "title": "Warnings",
-      "body": "Chargers that tell you exactly which packs they do not fit scored better."
+      "title": "Plain warnings",
+      "body": "We scored better those chargers that say exactly which packs they do not fit, because a clear limit prevents the most expensive mistake a buyer can make."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Pack voltage",
       "paragraphs": [
-        "A 48V lithium pack has 13 cells in series and charges to 54.6V. A 36V pack has 10 cells and charges to 42V.",
-        "Read the label on your battery. Never use a charger rated higher than your pack."
+        "A 48V lithium pack has 13 cells in series and charges up to 54.6V, while a 36V pack has 10 cells and charges to 42V. The charger's output has to match the pack's full voltage, not just its nominal label.",
+        "Read the label on your battery and write down its voltage. Never use a charger rated higher than your pack, and be cautious with any 24V or lead acid pack."
       ]
     },
     {
       "title": "Connector and polarity",
       "paragraphs": [
-        "Plugs come in many sizes, and a plug that fits can still have reversed polarity.",
-        "Compare the center pin positive or negative marking on your old charger. If unsure, ask the trike maker."
+        "Plugs come in many sizes, and a plug that fits the socket can still have reversed polarity, with the center pin carrying positive on one charger and negative on another. Reversed polarity can damage the pack.",
+        "Compare the center pin marking on your old charger or battery socket. If you cannot confirm it, ask the trike maker before plugging anything in."
       ]
     },
     {
       "title": "Amp rating and charge time",
       "paragraphs": [
-        "A 2A charger takes roughly capacity divided by two hours, so a 15Ah pack needs well over seven hours.",
-        "A higher amp charger charges faster but must be allowed by your battery maker."
+        "A 2A charger takes roughly the battery capacity divided by two hours, so a 15Ah pack needs well over seven hours. A higher amp charger finishes faster, but the current has to be allowed by the battery maker.",
+        "Check your pack's capacity and its maximum charge current. Stay within the limit, and plan overnight or daytime charging to match how long the 2A models take."
       ]
     },
     {
       "title": "Heat and fan",
       "paragraphs": [
-        "Chargers heat up. A metal case or fan helps, but a fan adds noise.",
-        "Charge on a hard surface with space around it, and never under bedding."
+        "Chargers heat up while delivering current. A metal case spreads heat, as on the KYNAPSE, and a fan helps cool, as on the PUKOKAL, but a fan adds noise to a garage or apartment.",
+        "Charge on a hard surface with open space around the charger, never under bedding or on a couch. Check that the charger has temperature protection and an auto shut off."
       ]
     }
   ],
@@ -277,24 +277,29 @@ export const bestEbikeBatteryChargersForElectricTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "48V pack, several plug types",
-            "PUKOKAL 54.6V 2A",
-            "Six labeled plug heads"
+            "48V pack with several plug types",
+            "PUKOKAL 54.6V 2A Charger, 6 Plugs",
+            "Six labeled plug heads make matching easier"
           ],
           [
-            "48V pack, charger far from outlet",
-            "Fancy Buying 7-in-1",
-            "8.2 foot cable"
+            "48V pack, outlet far from the trike",
+            "Fancy Buying 7-in-1 54.6V 2A Charger",
+            "8.2 foot cable and seven plug heads"
           ],
           [
-            "48V pack, travel",
-            "KYNAPSE 54.6V",
-            "100 to 240V input"
+            "48V pack, travel or odd outlets",
+            "KYNAPSE 54.6V 2A Charger, SGS Certified",
+            "100 to 240V input and aluminum case"
           ],
           [
             "36V pack",
-            "Jucuwe 42V 2A",
-            "Correct 42V output"
+            "Jucuwe 42V 2A Charger for 36V Packs",
+            "Correct 42V output for 10 cell packs"
+          ],
+          [
+            "Two packs at different voltages",
+            "DIDIDLSHLAX 42V/54.6V Smart Display Charger",
+            "Switchable output with the voltage on a display"
           ]
         ]
       }
@@ -304,25 +309,25 @@ export const bestEbikeBatteryChargersForElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Fixed voltage",
-          "text": "The PUKOKAL, Fancy Buying, KYNAPSE and Jucuwe each output one voltage, which removes a setup error."
+          "text": "The PUKOKAL, Fancy Buying, KYNAPSE and Jucuwe each deliver one voltage, which removes a setup error because the charger cannot be set wrong."
         },
         {
           "label": "Switchable",
-          "text": "The DIDIDLSHLAX offers 42V or 54.6V, handy for two packs but easier to misuse."
+          "text": "The DIDIDLSHLAX offers 42V or 54.6V with a display, handy for a household with two packs, but a wrong setting can put the pack at risk."
         }
       ],
-      "note": "Most owners should pick a fixed-voltage charger."
+      "note": "Most owners should pick a fixed voltage charger and keep it with the pack."
     },
     {
       "heading": "For Replacing a Lost Original Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Same voltage, a plug that matches, and matching polarity."
+          "text": "The same voltage as the pack, a plug that matches the socket, and matching polarity. The amp rating can usually be the same or lower than the original."
         },
         {
           "label": "In this comparison",
-          "text": "For a 48V pack the PUKOKAL's labeled heads make matching easiest; for 36V it is the Jucuwe."
+          "text": "For a 48V pack the PUKOKAL's six labeled plug heads make matching easiest, and for a 36V pack the Jucuwe's 42V output with a 5.5 x 2.1/2.5 mm plug is the fit."
         }
       ]
     },
@@ -331,11 +336,11 @@ export const bestEbikeBatteryChargersForElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want the display of the DIDIDLSHLAX or the metal case of the KYNAPSE."
+          "text": "You want the voltage display on the DIDIDLSHLAX or the aluminum heat spreading case and trickle mode on the KYNAPSE, for a charger that runs cooler."
         },
         {
           "label": "Save if",
-          "text": "You only need a matching voltage and plug, as the Jucuwe or PUKOKAL provides."
+          "text": "You only need a matching voltage and plug, which the Jucuwe for 36V packs or the PUKOKAL for 48V packs provides with the same protection basics."
         }
       ]
     }
@@ -343,26 +348,30 @@ export const bestEbikeBatteryChargersForElectricTricycles: BestArticle = {
   "faq": [
     {
       "q": "Can I use a 54.6V charger on a 36V pack?",
-      "a": "No. 54.6V is too high for a 36V pack and can overcharge it. Use 42V."
+      "a": "No. 54.6V is too high for a 36V pack and can overcharge it, which risks damage and heat. A 36V pack needs a 42V charger such as the Jucuwe, so always check the label before plugging in."
     },
     {
       "q": "Will a 2A charger damage a battery meant for more?",
-      "a": "A lower amp charger is gentler but slower. Higher current is the risk, so stay within the battery maker's limit."
+      "a": "A lower amp charger is gentler but slower. Higher current is the risk, so stay within the battery maker's limit. Expect a 15Ah pack to need well over seven hours on any of these 2A models."
     },
     {
       "q": "How do I know the polarity?",
-      "a": "Check the diagram on the old charger or battery. If unsure, ask the trike maker before plugging in."
+      "a": "Check the diagram printed on the old charger or the battery socket, which shows whether the center pin is positive or negative, and compare it with the new charger. If you cannot confirm it, ask the trike maker before plugging in."
     },
     {
       "q": "Is the original charger better?",
-      "a": "It is guaranteed to match. A replacement is fine if voltage, connector and polarity all match."
+      "a": "It is guaranteed to match your pack. A replacement is fine if voltage, connector and polarity all match, and many replacements add protections such as auto shut off, over voltage cutoff and a cooling fan."
     },
     {
       "q": "Can I charge overnight?",
-      "a": "Many chargers shut off automatically, but charging unattended carries risk. Charge on a hard surface and away from clutter."
+      "a": "Many chargers shut off automatically, but charging unattended carries risk. Charge on a hard surface away from clutter and bedding, and use a charger with temperature and short circuit protection, as the chargers here include."
+    },
+    {
+      "q": "Does a longer cable matter?",
+      "a": "It can. The Fancy Buying charger comes with an 8.2 foot cable, which helps when the outlet is far from where the trike parks and saves you from using an extension cord near a charging battery."
     }
   ],
-  "bottomLine": "Match voltage first and plug second. The PUKOKAL is the easiest fit for 48V trike packs and the Jucuwe is the right choice for 36V. Never use a higher-voltage charger.",
+  "bottomLine": "Match voltage first and the plug second. The PUKOKAL is the easiest fit for 48V trike packs because of its six labeled heads, and the Jucuwe is the right choice for 36V packs. Never use a charger with a higher voltage than your pack.",
   "amazonSearch": "e-bike battery chargers for electric tricycles",
   "relatedPaths": [
     "/electric-tricycles/best-long-range-electric-tricycles/",

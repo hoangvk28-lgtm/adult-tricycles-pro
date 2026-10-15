@@ -180,48 +180,55 @@ export const bestWetBicycleChainLubricants: BestArticle = {
   "howWeChose": [
     {
       "title": "Wet formula",
-      "body": "Only products meant for wet or varied conditions were considered."
+      "body": "We considered only lubes made for wet or varied conditions, because a thin dry film washes off in rain and leaves a trike chain unprotected by the end of a ride."
     },
     {
       "title": "Bottle size",
-      "body": "Volume matters for a long trike chain."
+      "body": "We compared volume, since a trike chain is long and a 2oz bottle runs out sooner than a 6oz bottle on a drivetrain that needs generous coverage."
     },
     {
       "title": "Interval claim",
-      "body": "We noted rated intervals, treated as rough."
+      "body": "We noted any rated interval, such as the 500 plus miles on the SILCA bottle, but treated it as a rough guide because rain, grime and load change real life results."
     },
     {
       "title": "Corrosion protection",
-      "body": "Rust protection matters on a low chain."
+      "body": "We noted rust inhibitors, since a low trike chain sits closer to spray and standing water than a bicycle chain and can start rusting after a few wet rides."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Wet versus dry",
+      "title": "Wet versus dry lube",
       "paragraphs": [
-        "Wet lubes are thicker and stay in rain.",
-        "Choose wet if you ride in damp weather."
+        "A wet lube is a thicker oil that clings to the chain and resists being washed off. A dry lube leaves a thin film that stays cleaner in dust but rinses away when the road is wet.",
+        "Pick wet if you ride in damp weather or leave the trike under a porch. The Finish Line Wet and SILCA Synergetic are made for wet conditions, so they suit regular rain better than any dry or wax product."
       ]
     },
     {
       "title": "Reapply interval",
       "paragraphs": [
-        "A rated interval depends on conditions.",
-        "Listen for dry or noisy chain and reapply."
+        "A rated interval, such as the SILCA Synergetic's 500 plus miles per application, is measured under good conditions. Rain, mud and heavy loads strip lube sooner than the number suggests.",
+        "Treat it as a ceiling, not a promise. Listen for a dry or noisy chain and reapply then, and shorten the interval after wet or muddy rides so the pins stay coated."
       ]
     },
     {
-      "title": "Grime",
+      "title": "Grime pickup",
       "paragraphs": [
-        "Thick oil collects dirt.",
-        "Wipe the chain after applying."
+        "Thick wet oil protects well but also collects dust and road grit, which builds into a black paste on the chain and sprockets. That paste wears links faster than a clean chain would.",
+        "Apply a drop per link, let it soak in, then wipe the outside of the chain with a rag. This keeps oil inside the pins where it works and off the surface where it collects grime."
       ]
     },
     {
       "title": "Bottle size",
       "paragraphs": [
-        "Trike chains are longer.",
-        "Check volume against use."
+        "A trike chain is longer than a bicycle chain, so it takes more drops per application. A small bottle that suits a bicycle can run out after a few lubes on a trike.",
+        "Compare volume to how often you ride. The SILCA is 2oz, Finish Line and the WD-40 wet are 4oz, and the WD-40 all-conditions bottle is 6oz, which gives the most applications per purchase."
+      ]
+    },
+    {
+      "title": "Corrosion protection",
+      "paragraphs": [
+        "Water on bare steel causes rust, and a trike chain sits low where spray lands. A lube with rust inhibitors adds a film that slows this, which matters if the trike is stored outdoors or in a damp shed.",
+        "Look for corrosion inhibitors named on the label, as on the WD-40 6 oz bottle. After riding in rain, dry the chain and lube it so the water does not sit inside the links overnight."
       ]
     }
   ],
@@ -236,24 +243,24 @@ export const bestWetBicycleChainLubricants: BestArticle = {
         ],
         "rows": [
           [
-            "Heavy rain",
-            "Finish Line Wet",
-            "Rain-specific"
+            "Heavy rain and wet streets",
+            "Finish Line Wet Bike Chain Lubricant 4 fl oz",
+            "Made for rain, mud and extreme riding"
           ],
           [
-            "Long mileage",
-            "SILCA Synergetic",
-            "500+ mile rating"
+            "High mileage between applications",
+            "SILCA Synergetic Wet Chain Lube 2oz",
+            "Rated for 500 plus miles per application"
           ],
           [
-            "Muddy",
-            "WD-40 Wet",
-            "Wet and muddy"
+            "Muddy or soaked paths",
+            "WD-40 Specialist Bike Wet Chain Lube 4 oz",
+            "No-wax wet formula for wet, muddy conditions"
           ],
           [
-            "Mixed",
-            "WD-40 6 oz",
-            "All conditions"
+            "Mixed weather through the year",
+            "WD-40 Specialist Bike Chain Lube 6 oz",
+            "Larger bottle with corrosion inhibitors for dry or wet"
           ]
         ]
       }
@@ -263,25 +270,25 @@ export const bestWetBicycleChainLubricants: BestArticle = {
       "cards": [
         {
           "label": "Wet",
-          "text": "Finish Line and WD-40 Wet are rain-focused."
+          "text": "The Finish Line Wet Bike Chain Lubricant 4 fl oz and WD-40 Specialist Bike Wet Chain Lube 4 oz are made for rain and mud. They stay on the chain longest, but the thicker film collects more grime."
         },
         {
           "label": "All-conditions",
-          "text": "The WD-40 6 oz covers varied weather."
+          "text": "The WD-40 Specialist Bike Chain Lube 6 oz suits dry or wet days and adds corrosion inhibitors. It is not rain-specific, so heavy rain strips it faster than a dedicated wet lube."
         }
       ],
-      "note": "Default to wet if you ride in rain."
+      "note": "Default to a wet lube if you ride in rain, and choose the all-conditions bottle for mixed weather."
     },
     {
       "heading": "For Rainy Climates Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A wet lube plus corrosion protection."
+          "text": "Look for a wet formula with rust protection, since low chains sit close to spray and can corrode quickly in an outdoor shed."
         },
         {
           "label": "In this comparison",
-          "text": "Finish Line Wet and SILCA Synergetic fit."
+          "text": "The Finish Line Wet Bike Chain Lubricant 4 fl oz is made for rain. The SILCA Synergetic Wet Chain Lube 2oz adds a 500 plus mile rating, and the WD-40 6 oz bottle has corrosion inhibitors."
         }
       ]
     },
@@ -290,11 +297,11 @@ export const bestWetBicycleChainLubricants: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride high mileage, where SILCA Synergetic saves reapplications."
+          "text": "You ride high mileage, where the SILCA Synergetic Wet Chain Lube 2oz saves reapplications and is worth the small bottle."
         },
         {
           "label": "Save if",
-          "text": "You ride occasionally, where the WD-40 6 oz is enough."
+          "text": "You ride occasionally, where the WD-40 Specialist Bike Chain Lube 6 oz is enough, since its larger bottle covers a long chain more cheaply."
         }
       ]
     }
@@ -302,26 +309,26 @@ export const bestWetBicycleChainLubricants: BestArticle = {
   "faq": [
     {
       "q": "Is wet lube better for a trike?",
-      "a": "In rain, yes. It stays on the chain."
+      "a": "In rain, yes. A wet lube clings to the chain and resists washing off, which protects links and pins on a low drivetrain. In dry dust it collects grime, so wipe the chain after applying to keep the surface clean."
     },
     {
-      "q": "How often do I reapply?",
-      "a": "When the chain sounds dry."
+      "q": "How often should I reapply?",
+      "a": "Reapply when the chain sounds dry or noisy, rather than by date. Rain and mud shorten the interval, and a long trike chain may need a lube more often than a bicycle chain. Check it before long rides."
     },
     {
-      "q": "Do I wipe the chain?",
-      "a": "Yes, after applying."
+      "q": "Should I wipe the chain after lubing?",
+      "a": "Yes. Apply a drop per link, wait a few minutes, then wipe the outside with a clean rag. The oil you want is inside the pins and rollers, and the surface layer only attracts dirt that wears the chain."
     },
     {
-      "q": "Can I mix lubes?",
-      "a": "Clean the chain first."
+      "q": "Can I mix different lubes?",
+      "a": "Clean the chain first. Mixing a wet lube over a wax film or another oil can reduce how well either one works. Strip old lube with a degreaser, let the chain dry and then apply one product consistently."
     },
     {
-      "q": "Which is best for dry weather?",
-      "a": "See our wax lube guide."
+      "q": "What should I use for dry weather?",
+      "a": "A wet lube can still work but may collect dust. For mostly dry riding, a wax lube leaves a cleaner chain. See our wax chain lubricant guide, or use the WD-40 6 oz bottle if your weather changes through the year."
     }
   ],
-  "bottomLine": "For rain, start with Finish Line Wet. The SILCA Synergetic suits high mileage, and the WD-40 6 oz covers mixed weather.",
+  "bottomLine": "For rain, start with the Finish Line Wet Bike Chain Lubricant 4 fl oz, which is made for wet streets and mud. The SILCA Synergetic Wet Chain Lube 2oz suits high mileage riders, the WD-40 Wet 4 oz suits muddy paths, and the WD-40 6 oz bottle covers mixed weather.",
   "amazonSearch": "wet chain lubes",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-lubricants/",

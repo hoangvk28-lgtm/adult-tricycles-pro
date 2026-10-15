@@ -185,48 +185,55 @@ export const bestLongBikeChainLocksForTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Reach around a trike",
-      "body": "Chain length was ranked first because a trike needs more length than a bicycle."
+      "body": "Chain length was ranked first, from 2.6 ft on the OKG to 5 ft on the APECYC, because a trike's wide frame needs far more length than a bicycle."
     },
     {
       "title": "Link and cable build",
-      "body": "We compared hardened link thickness and cable construction for cut resistance."
+      "body": "We compared hardened link thickness, such as the half inch OKG and 6mm NDakter links, against braided cable, since build decides how long a cutter takes."
     },
     {
       "title": "Opening method",
-      "body": "Combination versus key opening was weighed for older riders."
+      "body": "Combination versus key opening was weighed for older riders, who may lose keys or struggle with a small cylinder."
     },
     {
       "title": "Weight in a basket",
-      "body": "Heavier locks lose points for riders who carry them every day."
+      "body": "Heavier locks lose points for riders who carry them every day, and the NDakter set at 4.4 pounds is a clear example of the trade-off."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Chain length",
       "paragraphs": [
-        "The length is the distance the chain can span between the trike and a post, and a trike needs more than a bike.",
-        "Measure from your parking spot to the post with the trike in place, then add a foot. Choose a chain longer than that."
+        "Length is the distance the chain can span between the trike and a post, and a trike needs more than a bike because its frame is wide and its rear axle sits far from the front.",
+        "Measure from your parking spot to the post with the trike in place, then add a foot. Choose a chain longer than that, such as the 5 ft APECYC or the Titanker cable at up to 30 ft."
       ]
     },
     {
       "title": "Link thickness and hardness",
       "paragraphs": [
-        "Thicker hardened links resist bolt cutters, while thin links or soft steel are cut quickly.",
-        "Look for thickness in millimetres and a hardness statement. A half inch hardened chain is tougher than a 6mm one."
+        "Thicker hardened links resist bolt cutters, while thin links or soft steel are cut quickly. Hardening matters as much as thickness, because soft metal bends and shears.",
+        "Look for thickness in millimetres and a hardness statement. The OKG is a half inch hardened alloy, while the APECYC uses hardened steel links and the NDakter 6mm links are thinner."
       ]
     },
     {
       "title": "Cable or chain",
       "paragraphs": [
-        "A cable is flexible and light but cuts easily, while a chain is heavier and stronger.",
-        "Use cable only as a second layer, and put a chain or U-lock on the frame."
+        "A cable is flexible and light but cuts easily, while a chain is heavier and stronger. A cable's strand construction is quick to snip with a hand tool.",
+        "Use cable such as the Titanker only as a second layer, and put a chain or U-lock on the frame. Compare the cable's 12mm thickness with chain link size."
       ]
     },
     {
       "title": "Cover and padlock fit",
       "paragraphs": [
-        "A fabric or nylon sleeve protects trike paint. Some chains need a separate padlock, so check the hole size.",
-        "Pair a chain with a quality padlock and buy the two together if the chain does not include one."
+        "A fabric or nylon sleeve protects trike paint from link scratches. Some chains, like the OKG, need a separate padlock, so the shackle must fit through the end loop.",
+        "Check the hole size and buy a quality padlock with the chain if none is included. The APECYC and NDakter ship with covers and their own locking parts."
+      ]
+    },
+    {
+      "title": "Weight and carry",
+      "paragraphs": [
+        "Chain is heavy, and a long one swings and bangs against the frame. A trike with a rear basket can take the weight, but you will feel the pounds on every ride.",
+        "Weigh the lock against how you carry it. The NDakter set is 4.4 pounds, so check that your basket or bag can hold it before you commit to a long chain."
       ]
     }
   ],
@@ -243,22 +250,22 @@ export const bestLongBikeChainLocksForTricycles: BestArticle = {
           [
             "Post several feet from the trike",
             "APECYC 5 ft Combination Chain Lock",
-            "Five feet of reach"
+            "Five feet of reach with a code"
           ],
           [
             "Need a rigid and flexible pair",
             "NDakter 18mm U-Lock with 4 ft Chain",
-            "U-lock plus 120cm chain"
+            "18mm U-lock plus 120cm chain"
           ],
           [
             "Post right beside the trike",
             "OKG 2.6 ft Hardened Security Chain",
-            "Toughest links, short reach"
+            "Half inch links, short reach"
           ],
           [
-            "Tether to far post as a second layer",
+            "Tether to a far post as a second layer",
             "Titanker 12mm Vinyl Coated Cable",
-            "Up to 30 feet"
+            "Lengths up to 30 feet"
           ]
         ]
       }
@@ -268,11 +275,11 @@ export const bestLongBikeChainLocksForTricycles: BestArticle = {
       "cards": [
         {
           "label": "Combination",
-          "text": "The APECYC chain opens with a five digit code, so there are no keys to lose."
+          "text": "The APECYC opens with a five digit code, so there are no keys to lose, and 100,000 combinations make guessing slow. You can forget the code, though."
         },
         {
           "label": "Key",
-          "text": "The NDakter set uses three keys. Keys cannot be forgotten but can be lost."
+          "text": "The NDakter set uses three keys, so a spare stays at home. Keys cannot be forgotten but can be lost, and the OKG needs a separate padlock."
         }
       ],
       "note": "Older riders who lose keys should default to the APECYC combination."
@@ -282,11 +289,11 @@ export const bestLongBikeChainLocksForTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "At least 5 feet of chain, because a cargo trike's frame and rear axle are long."
+          "text": "At least 5 feet of chain, because a cargo trike's frame and rear axle are long, and you still need slack to reach a rack or post."
         },
         {
           "label": "In this comparison",
-          "text": "The APECYC 5 ft chain gives the best reach, and the Titanker cable can add a tether."
+          "text": "The APECYC 5 ft chain gives the best chain reach, and the Titanker cable can add a tether up to 30 feet as a second layer."
         }
       ]
     },
@@ -295,11 +302,11 @@ export const bestLongBikeChainLocksForTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You park in a public rack at night. The NDakter set with its U-lock gives two points of resistance."
+          "text": "You park in a public rack at night. The NDakter set with its 18mm U-lock gives two points of resistance, one rigid and one flexible."
         },
         {
           "label": "Save if",
-          "text": "The trike is parked at home. The OKG hardened chain is sturdy enough."
+          "text": "The trike is parked at home near a post. The OKG hardened chain has the toughest links and is sturdy enough at 2.6 ft."
         }
       ]
     }
@@ -307,26 +314,30 @@ export const bestLongBikeChainLocksForTricycles: BestArticle = {
   "faq": [
     {
       "q": "Is a chain better than a U-lock for a trike?",
-      "a": "For reach, yes. A chain bends around a wide frame. A U-lock is stronger in its shackle, so many riders carry both."
+      "a": "For reach, yes. A chain bends around a wide frame, while a U-lock is stronger in its shackle but limited by its loop size. Many riders carry both, as the NDakter set does."
     },
     {
       "q": "How long should my chain be?",
-      "a": "Measure from the trike to your usual post, then add a foot. Five feet covers most cases."
+      "a": "Measure from the trike to your usual post, then add a foot. Five feet, as on the APECYC, covers most cases, and a cargo trike may need the full length to reach around the axle."
     },
     {
       "q": "Is a cable lock safe enough?",
-      "a": "Cable is the easiest type to cut. Use it as a tether alongside a chain or U-lock. See /accessories/best-chain-locks-for-adult-tricycles/ for more options."
+      "a": "Cable is the easiest type to cut. Use it as a tether alongside a chain or U-lock. See /accessories/best-chain-locks-for-adult-tricycles/ for more options, and keep the cable as the backup, not the main lock."
     },
     {
       "q": "Will a chain scratch my trike?",
-      "a": "It can. Choose a chain with a fabric or nylon cover, like the APECYC or NDakter."
+      "a": "It can. Choose a chain with a fabric or nylon cover, like the APECYC or NDakter, and the Titanker cable has a vinyl coat. Keep bare links off paint when you lock and carry."
     },
     {
       "q": "What else deters theft?",
-      "a": "An alarm and good parking habits help. Read /adult-tricycle-locking-and-theft-prevention/ and see /accessories/best-bike-alarms-for-adult-tricycles/."
+      "a": "An alarm and good parking habits help. Read /adult-tricycle-locking-and-theft-prevention/ and see /accessories/best-bike-alarms-for-adult-tricycles/, then park in a busy, lit spot where possible."
+    },
+    {
+      "q": "Does the OKG include a padlock?",
+      "a": "No, it needs a separate padlock. It comes with an O ring noose design and a lifetime warranty if cut, but you must buy a padlock that fits through the end loop."
     }
   ],
-  "bottomLine": "The APECYC 5 ft combination chain is the best all round trike lock here for reach and keyless opening. Add the NDakter set for a rigid layer, or the Titanker cable for a long tether. Measure your parking spot before you choose a length.",
+  "bottomLine": "The APECYC 5 ft combination chain is the best all round trike lock here for reach and keyless opening. Add the NDakter set for a rigid layer, the OKG for toughest links at a short span, or the Titanker cable for a long tether. Measure your parking spot first.",
   "amazonSearch": "long chain locks",
   "relatedPaths": [
     "/accessories/best-chain-locks-for-adult-tricycles/",

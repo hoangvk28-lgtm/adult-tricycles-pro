@@ -260,48 +260,55 @@ export const bestPortableBikePumpsForTricycleRiders: BestArticle = {
   "howWeChose": [
     {
       "title": "Volume on wide tires",
-      "body": "We looked at how each pump moves air, since a trike tire holds more than a road tire."
+      "body": "We looked at how each pump moves air, since a trike tire holds more than a road tire and a small pump needs many strokes."
     },
     {
       "title": "Valve heads",
-      "body": "We favored locking or dual heads that work with both Presta and Schrader without losing parts."
+      "body": "We favored locking or dual heads, like the Vibrelli and BV smart valve, that work with both Presta and Schrader without losing loose parts."
     },
     {
       "title": "Mounting",
-      "body": "We considered brackets, straps and bags that fit a trike frame, basket or seat post."
+      "body": "We considered brackets, straps and bags that fit a trike frame, basket rail or seat post, because a pump left at home is no help on the road."
     },
     {
       "title": "Effort for older hands",
-      "body": "We compared manual and electric pumps by how much force the user must apply."
+      "body": "We compared manual and electric pumps by how much force the user must apply, since the ETENWOLF S0 reaches 150 PSI with a button."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Frame pump vs mini pump",
       "paragraphs": [
-        "A frame pump is longer and moves more air per stroke; a mini pump is shorter and takes more strokes. Most portable options here are minis.",
-        "On a trike, a longer pump can ride on a basket rail. Pick the size you will actually carry."
+        "A frame pump is longer and moves more air per stroke, while a mini pump is shorter and takes more strokes. Most portable options here are minis, which trade effort for easy carry.",
+        "On a trike, a longer pump can ride on a basket rail, but pick the size you will actually carry. The aluminum pump is 22.5 cm, so it fits almost anywhere."
       ]
     },
     {
       "title": "Presta and Schrader heads",
       "paragraphs": [
-        "Presta valves are thin; Schrader valves are wide like a car's. Some heads fit both with a flip, a lock or an adapter.",
-        "Check your valve type and prefer a head with nothing to lose, like the Vibrelli."
+        "Presta valves are thin, and Schrader valves are wide like a car's. Some heads fit both with a flip, a lock or an adapter, and every loose adapter can be lost on the road.",
+        "Check your valve type and prefer a head with nothing to lose, like the locking Vibrelli head. The ETENWOLF S0 uses two adapters, with the Presta adapter attached separately."
       ]
     },
     {
       "title": "Volume for wide tires",
       "paragraphs": [
-        "Fat and cruiser tires need many strokes to fill from flat, and a mini pump tires the hands fast.",
-        "Use a mini for top-ups and keep a patch kit, or choose an electric mini for bigger fills."
+        "Fat and cruiser tires need many strokes to fill from flat, and a mini pump tires the hands fast. A trike has three tires, so a flat can mean three tire checks.",
+        "Use a mini pump for top-ups and keep a patch kit, or choose an electric mini like the ETENWOLF at 18 L/min for larger fills. Test a mini pump at home first."
       ]
     },
     {
       "title": "Gauge and mounting",
       "paragraphs": [
-        "A built-in gauge lets you match three tires. Without one, use a separate gauge.",
-        "Check that the bracket fits a trike frame or basket rail, and see our gauge guide for accuracy."
+        "A built-in gauge lets you match all three tires. Without one, you guess pressure, and uneven tires can pull a trike to one side while steering.",
+        "Check that the bracket fits a trike frame or basket rail. The ETENWOLF has a gauge and auto stop, while the Vibrelli uses a velcro strap to bottle cage holes."
+      ]
+    },
+    {
+      "title": "Kits and extras",
+      "paragraphs": [
+        "A pump bundled with levers and patches saves a second purchase, but the bag may not fit a trike. A triangle frame bag is made for a diamond bicycle frame.",
+        "Check where the bag will hang before choosing a kit. The NDakter includes a 16-in-1 tool and 6 patches, and the repair kit uses a reflective IPX4 bag on a nylon strap."
       ]
     }
   ],
@@ -318,27 +325,32 @@ export const bestPortableBikePumpsForTricycleRiders: BestArticle = {
           [
             "Basket or frame carry, manual",
             "Vibrelli Mini Bike Pump",
-            "Locking head and strap mount"
+            "Locking head, velcro mount, 5-year warranty"
           ],
           [
             "Less effort for weak hands",
             "ETENWOLF S0 Electric Mini Pump",
-            "Electric with auto stop"
+            "Electric with gauge and auto stop"
           ],
           [
             "Pump that stays on the trike",
             "BV Mini Bike Pump",
-            "Bracket included"
+            "Bracket included for frame mounting"
           ],
           [
             "Lightest carry",
             "Aluminum Alloy Mini Pump",
-            "139 g body"
+            "139 g body with a hidden hose"
           ],
           [
             "Whole roadside kit",
             "NDakter Frame Bag Kit",
-            "Pump, tool and patches"
+            "Pump, 16-in-1 tool and 6 patches"
+          ],
+          [
+            "One-purchase starter bundle",
+            "Bicycle Repair Kit with Pump",
+            "Pump, patches and tools in an IPX4 bag"
           ]
         ]
       }
@@ -348,11 +360,11 @@ export const bestPortableBikePumpsForTricycleRiders: BestArticle = {
       "cards": [
         {
           "label": "Manual",
-          "text": "The Vibrelli, BV Mini and aluminum pump need no charge but need effort, which is slow on wide tires."
+          "text": "The Vibrelli, BV Mini and aluminum pump need no charge but need effort, which is slow on wide tires. They never go flat and work in any weather."
         },
         {
           "label": "Electric",
-          "text": "The ETENWOLF S0 fills quickly with a gauge and auto stop but needs charging."
+          "text": "The ETENWOLF S0 fills quickly at 18 L/min with a gauge and auto stop. It needs charging, so keep the 2400 mAh battery topped up before long rides."
         }
       ],
       "note": "Most trike riders should default to a manual mini as a backup and add an electric pump if hands tire."
@@ -362,11 +374,11 @@ export const bestPortableBikePumpsForTricycleRiders: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A short body, a secure bracket and a locking valve head."
+          "text": "A short body, a secure bracket or strap and a locking valve head, so the pump does not rattle loose or lose parts over bumps."
         },
         {
           "label": "In this comparison",
-          "text": "The Vibrelli has a velcro mount and locking head, and the BV Mini includes a bracket."
+          "text": "The Vibrelli has a velcro mount and a locking head, and the BV Mini includes a bracket. The aluminum pump is the lightest at 139 g."
         }
       ]
     },
@@ -375,11 +387,11 @@ export const bestPortableBikePumpsForTricycleRiders: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "Your hands tire easily. The ETENWOLF S0 saves effort on three tires."
+          "text": "Your hands tire easily. The ETENWOLF S0 saves effort across three tires and stops at your target pressure, which helps older hands."
         },
         {
           "label": "Save if",
-          "text": "You only top up now and then. The BV Mini or aluminum pump is enough."
+          "text": "You only top up now and then. The BV Mini or the aluminum pump is enough and light to carry."
         }
       ]
     }
@@ -387,26 +399,30 @@ export const bestPortableBikePumpsForTricycleRiders: BestArticle = {
   "faq": [
     {
       "q": "Can a mini pump fill a fat trike tire?",
-      "a": "It can, but slowly. Use it for top-ups and a patch kit for emergencies. An electric mini is faster."
+      "a": "It can, but slowly. Use it for top-ups and keep a patch kit for emergencies. An electric mini like the ETENWOLF is faster, and a locking head such as the Vibrelli keeps the seal tight."
     },
     {
       "q": "Which valve head is best?",
-      "a": "A locking head that fits both valves, like the Vibrelli, is easiest. Check your valves first."
+      "a": "A locking head that fits both valves, like the Vibrelli, is easiest to use. The BV has a smart valve for Presta and Schrader. Check your valves first, then pick a head with no loose parts."
     },
     {
       "q": "Where can I mount a pump on a trike?",
-      "a": "On a basket rail, frame tube or seat post using the bracket or a strap."
+      "a": "On a basket rail, frame tube or seat post using the bracket or a strap. The Vibrelli uses a velcro strap to bottle cage holes, and the BV and aluminum pumps include brackets."
     },
     {
       "q": "Do I need a gauge?",
-      "a": "It helps match three tires. The ETENWOLF S0 has one built in. See our gauge guide."
+      "a": "It helps match three tires. The ETENWOLF S0 has one built in, and the other pumps need a separate gauge. Uneven pressure can make a trike pull to one side."
     },
     {
       "q": "Should I carry anything else?",
-      "a": "Tire levers and a patch kit. See our guides to tire levers and repair kits."
+      "a": "Tire levers and a patch kit. The NDakter kit includes 6 patches and a 16-in-1 tool, and the repair kit includes patches and tools, but check that the bag fits a trike before you rely on it."
+    },
+    {
+      "q": "Are these pumps good for tubeless tires?",
+      "a": "The Vibrelli is noted as not for tubeless tires. If your trike runs tubeless tires, check the pump's stated use before relying on it, and keep a plug or patch kit as a backup."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Budget Portable Bike Pumps",
       "productId": "bv-mini-bike-pump",
@@ -442,7 +458,7 @@ export const bestPortableBikePumpsForTricycleRiders: BestArticle = {
       "text": "The Aluminum Alloy Mini Pump has a hidden TPU hose and a dual valve head, which protects the valve from side force. Check the hose seals tightly on your valve before relying on it."
     }
   ],
-  "bottomLine": "The Vibrelli Mini Bike Pump is the best portable pump for most adult trike riders, with the ETENWOLF S0 as the better pick if hands tire easily. Carry it with levers and a patch kit and check pressure on all three tires.",
+  "bottomLine": "The Vibrelli Mini Bike Pump is the best portable pump for most adult trike riders, with a locking head and 5-year warranty. The ETENWOLF S0 is the better pick if hands tire easily, the BV suits frame mounting, and the NDakter suits a full roadside kit. Check all three tires.",
   "amazonSearch": "portable bike pumps",
   "relatedPaths": [
     "/accessories/best-electric-bike-pumps-for-tricycle-riders/",

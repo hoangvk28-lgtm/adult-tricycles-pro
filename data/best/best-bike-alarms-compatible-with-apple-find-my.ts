@@ -219,48 +219,59 @@ export const bestBikeAlarmsCompatibleWithAppleFindMy: BestArticle = {
   "howWeChose": [
     {
       "title": "Network fit",
-      "body": "We checked that each works with Apple Find My and noted any cross-platform support."
+      "body": "We checked that each tag works with Apple Find My and noted which ones also support Google Find Hub, because the network decides whether a stolen trike can ever be located."
     },
     {
-      "title": "Hiding and tamper",
-      "body": "Security bolts, bells and mounts that look like normal parts rated higher."
+      "title": "Hiding and tamper resistance",
+      "body": "Security bolts, bells and reflector mounts that look like ordinary parts ranked higher, since a thief who spots an obvious tag on a wide trike frame simply pulls it off."
     },
     {
       "title": "Battery effort",
-      "body": "Years between battery changes beat monthly recharging for a parked trike."
+      "body": "Years between battery changes beat monthly recharging for a trike that may sit parked for weeks, because a dead tag reports nothing when the trike goes missing."
+    },
+    {
+      "title": "Mounting on a trike",
+      "body": "We looked at bottle cage mounts, handlebar bells and wrap-around brackets, since a trike has wide bars and tubing that suit some mounts far better than others."
     },
     {
       "title": "Honest limits",
-      "body": "All are unverified and none is a substitute for a lock."
+      "body": "All of these are unverified, and none replaces a lock; they help recovery after a theft and may put off a thief who notices them."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Coverage depends on phones",
+      "title": "Coverage depends on passing phones",
       "paragraphs": [
-        "Find My works only when an Apple device passes within range. In a quiet area that can take a long time.",
-        "Test it in the places you park and decide if you also want a cellular tracker from /accessories/best-bike-alarms-with-gps-trackers/."
+        "Find My has no radio of its own that reaches far. A tag sends a small Bluetooth signal, and any nearby Apple device relays its position, so the tag only reports when someone with an iPhone walks within range.",
+        "On a busy street that happens within minutes, while a quiet cul-de-sac may go silent for hours. Think about where you park, and see /accessories/best-bike-alarms-with-gps-trackers/ if your spot is remote."
       ]
     },
     {
       "title": "Where the tag hides",
       "paragraphs": [
-        "A thief who spots an obvious tag removes it. A bell or a reflector mount is less noticeable.",
-        "Choose a location that looks like normal hardware."
+        "A visible tag is the first thing a thief removes, and a trike has plenty of open tubing where a plain case would stand out. Bells, reflector mounts and spots under the bottle cage look like normal hardware.",
+        "Walk around your trike and pick a spot you would not notice yourself. If the tag needs a bottle cage, check that your frame has bosses, because many trike frames do not."
       ]
     },
     {
       "title": "Tag or complete unit",
       "paragraphs": [
-        "Some products are holders for your own AirTag, while others include a tracker.",
-        "Check what is in the box so you do not buy a holder without a tag."
+        "Some products here are holders for an AirTag you already own, while others contain their own tracker. The holder is cheaper to buy, but you must supply the tag and keep it charged with a fresh coin cell.",
+        "Read the box contents before ordering. The LESOVI bell, for example, holds an AirTag that is not included, so a buyer without one ends up with a bell and nothing to track."
       ]
     },
     {
       "title": "Battery plan",
       "paragraphs": [
-        "A coin cell lasts a year or more, while rechargeables need regular charging.",
-        "Set a reminder to check it twice a year."
+        "A replaceable coin cell can last a year or more, and the Orbit Velo claims up to 3 years. A rechargeable unit like the Ravemen gives about 8 months per charge but needs a cable and a reminder.",
+        "Put a twice-a-year check in your calendar. A tag that has quietly died reports nothing on the day you need it, which is the worst moment to find out."
+      ]
+    },
+    {
+      "title": "One network at a time",
+      "paragraphs": [
+        "The MiLi mount and bell work with Apple Find My or Google Find Hub, but you choose one network at setup. The tag cannot report to both at once.",
+        "If your household mixes iPhone and Android, decide whose phone will hold the alert before pairing. Check that the owner is the person most likely to be home when the alert fires."
       ]
     }
   ],
@@ -277,22 +288,27 @@ export const bestBikeAlarmsCompatibleWithAppleFindMy: BestArticle = {
           [
             "Hidden under the frame",
             "Ravemen Bike Tracker for Apple Find My",
-            "Under bottle cage with tamper screws."
+            "Sits under a bottle cage with tamper-resistant screws."
           ],
           [
             "Long battery, little upkeep",
             "Orbit Velo Bike Tracker with Apple Find My",
-            "Up to 3 years."
+            "Up to 3 years from a replaceable battery."
           ],
           [
             "Looks like a bell",
             "MiLi Anti-Theft Bike Bell with Tracker",
-            "Tracker built in."
+            "Tracker hidden inside an 80 dB bell on the bars."
+          ],
+          [
+            "Looks like a reflector",
+            "MiLi Bike Mount with Built-In Tracker",
+            "Reflective mount hides the tag in plain sight."
           ],
           [
             "Own an AirTag already",
             "LESOVI Bicycle Bell for AirTag",
-            "Holds your tag."
+            "Brass bell holds the tag you already have."
           ]
         ]
       }
@@ -302,25 +318,25 @@ export const bestBikeAlarmsCompatibleWithAppleFindMy: BestArticle = {
       "cards": [
         {
           "label": "Built-in",
-          "text": "The Ravemen, Orbit and MiLi products include a tracker."
+          "text": "The Ravemen, Orbit Velo and both MiLi products contain a tracker, so you unbox and pair. The Ravemen recharges, while the Orbit Velo uses a replaceable cell that can last up to 3 years."
         },
         {
           "label": "Your own tag",
-          "text": "The LESOVI holds an AirTag you already own."
+          "text": "The LESOVI holds an AirTag you already own, in a brass bell with a waterproof sealed ring. It suits a rider with a tag in a drawer, but the AirTag is not in the box."
         }
       ],
-      "note": "Most buyers should choose a built-in tracker unless they already own AirTags."
+      "note": "Most buyers should choose a built-in tracker unless they already own an AirTag."
     },
     {
       "heading": "For Android and iPhone Households Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Support for Find My and Google Find Hub in one product."
+          "text": "A product that supports both Apple Find My and Google Find Hub, so either phone in the house can own the tag. Remember that it reports to only one network at a time."
         },
         {
           "label": "In this comparison",
-          "text": "The MiLi mount and the MiLi bell work with either, though only one at a time."
+          "text": "The MiLi mount and the MiLi bell work with either network, with a 60 m Bluetooth range on the mount. The Ravemen, Orbit Velo and LESOVI are Apple only."
         }
       ]
     },
@@ -329,11 +345,11 @@ export const bestBikeAlarmsCompatibleWithAppleFindMy: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "Your trike is costly; add a chain lock and an alarm from /accessories/best-bike-alarms-for-adult-tricycles/."
+          "text": "Your trike is costly or parks in public. Pair the Ravemen or Orbit Velo with a solid lock, and add an alarm from /accessories/best-bike-alarms-for-adult-tricycles/ so a thief has to deal with noise as well."
         },
         {
           "label": "Save if",
-          "text": "You park in a locked garage, where the LESOVI bell is enough."
+          "text": "You park in a locked garage, where the LESOVI bell with an AirTag you already own is enough. A bell on the bars also does a useful daily job."
         }
       ]
     }
@@ -341,26 +357,30 @@ export const bestBikeAlarmsCompatibleWithAppleFindMy: BestArticle = {
   "faq": [
     {
       "q": "Will Find My stop theft?",
-      "a": "No. It helps recovery and may deter a thief who sees it. Use a solid lock first."
+      "a": "No. A tag helps you locate the trike after it is gone and may put off a thief who spots it. A solid lock and a fixed anchor point are still the first line of defense, so treat the tag as a second layer."
     },
     {
       "q": "Does it need a subscription?",
-      "a": "The Find My products here do not need a monthly plan. A cellular tracker does."
+      "a": "The Find My products here have no monthly plan, since they use the passing-phone network instead of a cellular connection. A true cellular tracker does charge for service, which is the tradeoff for tracking in remote places."
     },
     {
       "q": "Can I pair with Android?",
-      "a": "The MiLi products work with Google Find Hub as well, but only with one network at a time."
+      "a": "The two MiLi products support Google Find Hub as well as Apple Find My, but only one network at a time. The Ravemen, Orbit Velo and LESOVI work with Apple only, so Android owners should look at the MiLi options."
     },
     {
-      "q": "How accurate is it?",
-      "a": "It depends on nearby Apple devices. Expect rough locations in quiet areas."
+      "q": "How accurate is the location?",
+      "a": "Accuracy depends on how many Apple devices pass the trike. Near shops and sidewalks you may get a fresh, close position, while in a quiet area the last report can be old or rough. Test it by walking away with the tag."
     },
     {
-      "q": "Can a thief remove it?",
-      "a": "Yes. Hide it well and use tamper screws where provided."
+      "q": "Can a thief remove the tag?",
+      "a": "Yes, if they find it. Choose a hidden spot, use the tamper-resistant screws on the Ravemen or the security bolts on the Orbit Velo, and avoid clipping a tag where it is obvious on the wide trike frame."
+    },
+    {
+      "q": "Is the MiLi reflector mount only for show?",
+      "a": "The reflector is a minor bonus. Its real job is to look like normal hardware while holding a tracker, so a thief on a quick pass has no reason to inspect it. It also gives some night visibility, but do not treat it as a light."
     }
   ],
-  "bottomLine": "The Ravemen is the best fit for most Apple users, and the Orbit Velo suits a long-term install. Treat all of them as recovery aids, never as a substitute for a lock.",
+  "bottomLine": "The Ravemen is the best fit for most Apple users, thanks to its tamper screws and long charge, and the Orbit Velo suits riders who want an install-once battery. Choose a MiLi if your household uses Android, and the LESOVI if you already own an AirTag. Treat all of them as recovery aids, never as a substitute for a lock.",
   "amazonSearch": "find my bike alarms",
   "relatedPaths": [
     "/accessories/best-bike-alarms-with-gps-trackers/",

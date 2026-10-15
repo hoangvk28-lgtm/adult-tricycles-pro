@@ -182,49 +182,49 @@ export const bestElectricBikePumpsForHomeUse: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Preset pressure and shut-off",
-      "body": "A digital preset that stops at the target is what lets you match three tires without guesswork."
+      "title": "Preset and shut-off",
+      "body": "We looked for a digital preset that stops at the target, because that is what lets you bring three trike tires to the same pressure without chasing a hand gauge."
     },
     {
       "title": "Valve compatibility",
-      "body": "Presta and Schrader fit decides whether the inflator works on a trike tire at all."
+      "body": "We checked Presta and Schrader fit, because a garage inflator that cannot seat on your trike's valve is useless no matter how fast its motor runs."
     },
     {
       "title": "Power source",
-      "body": "Cordless battery or 12V cord changes where you can use the inflator in a garage."
+      "body": "We compared cordless batteries with a 12V cord, because where the trike lives in your garage decides which kind of inflator you will actually pick up and use."
     },
     {
       "title": "Noise and heat",
-      "body": "Cooling design and run limits matter for three tires in a row."
+      "body": "We weighed cooling design and run limits, since filling three tires back to back warms a small motor and a noisy unit gets old quickly in a shared house."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Digital preset and shut-off",
       "paragraphs": [
-        "A preset lets you dial 35 PSI once and stop automatically. Without it you chase the number with a hand gauge.",
-        "Look for a display that shows live and target pressure together."
+        "A preset lets you dial in a number such as 35 PSI once and walk away while the inflator stops by itself. Without it you fill, check with a hand gauge, and repeat, and three tires means three rounds of guessing.",
+        "Look for a display that shows the live pressure and the target together. Then set the number from your tire sidewall and confirm the first tire with a separate gauge."
       ]
     },
     {
       "title": "Presta or Schrader",
       "paragraphs": [
-        "Most trikes use Schrader, but some wheels use Presta. An adapter or a smart nozzle covers both.",
-        "Check your valve type before ordering."
+        "Most trikes use Schrader valves like a car, but some wheels use Presta, a thinner stem that needs a different nozzle. An adapter or a switching nozzle covers both, and a wrong fit leaks air at the head.",
+        "Check your valve type before ordering by looking at the stem on the wheel. The Airmoto includes both attachments and the AstroAI includes a Presta adapter."
       ]
     },
     {
       "title": "Cordless versus corded",
       "paragraphs": [
-        "A cordless unit moves with you; a 12V corded unit never runs flat but needs a source.",
-        "Think about where your trike lives."
+        "A cordless inflator moves with you around the trike and needs no outlet, while a 12V corded unit never runs flat but needs a power source nearby. Which one suits you depends on how your garage is wired.",
+        "Think about where the trike lives and whether a car or 12V supply sits within reach. The AstroAI has a 9.84 foot cord, so measure the distance first."
       ]
     },
     {
       "title": "Run time and cooling",
       "paragraphs": [
-        "Small motors heat up. The AstroAI shuts off after 15 minutes of continuous use.",
-        "Three trike tires need only short runs, so most inflators suffice."
+        "Small motors heat up under load, and some inflators stop after a set time to protect themselves. The AstroAI shuts off after 15 minutes of continuous use, which is a useful limit to know about.",
+        "Three trike tires need only short runs, so most inflators suffice. Inflate one tire at a time, then pause briefly before the next so the motor stays cool."
       ]
     }
   ],
@@ -241,17 +241,22 @@ export const bestElectricBikePumpsForHomeUse: BestArticle = {
           [
             "No outlet in the garage",
             "Hafuloky Cordless Tire Inflator",
-            "Built-in battery and a bicycle mode"
+            "Built in battery, bicycle mode and live readout"
           ],
           [
             "Car parked next to the trike",
             "AstroAI AIRUN H Tire Inflator",
-            "12V DC, 9.84 ft cord, 2-year warranty"
+            "12V DC, 9.84 ft cord and 2 year warranty"
           ],
           [
-            "Shelf storage",
+            "Shelf storage and light carry",
             "OlarHike Cordless Tire Inflator",
-            "About 1 lb and cordless"
+            "About 1 lb with a cordless battery"
+          ],
+          [
+            "One tool for trike and car",
+            "Airmoto Portable Tire Inflator",
+            "Presta and Schrader attachments, up to 120 PSI"
           ]
         ]
       }
@@ -261,11 +266,11 @@ export const bestElectricBikePumpsForHomeUse: BestArticle = {
       "cards": [
         {
           "label": "Cordless",
-          "text": "The Hafuloky, OlarHike and Airmoto run from a rechargeable battery and need no outlet."
+          "text": "The Hafuloky, OlarHike and Airmoto run from a rechargeable battery and need no outlet, so they can be used anywhere in the garage once they are charged."
         },
         {
           "label": "12V corded",
-          "text": "The AstroAI AIRUN H needs a 12V source but does not run flat."
+          "text": "The AstroAI AIRUN H needs a 12V source but does not run flat, which suits a garage where a car is already parked beside the trike."
         }
       ],
       "note": "Most trike owners should choose cordless unless a 12V source is already at hand."
@@ -275,11 +280,11 @@ export const bestElectricBikePumpsForHomeUse: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A preset, a live pressure readout and an auto shut-off, so each tire stops at the same number."
+          "text": "A preset, a live pressure readout and an auto shut off, so each of the three tires stops at the same number without a second gauge in your hand."
         },
         {
           "label": "In this comparison",
-          "text": "The Hafuloky Cordless Tire Inflator shows live and target on a dual LCD, and the AstroAI shows both on a backlit LCD."
+          "text": "The Hafuloky Cordless Tire Inflator shows live and target pressure on a dual LCD, and the AstroAI shows the same information on a backlit LCD with a preset."
         }
       ]
     },
@@ -288,11 +293,11 @@ export const bestElectricBikePumpsForHomeUse: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want a warranty and sturdier build; the AstroAI AIRUN H has a 2-year warranty and a powder metallurgy cylinder."
+          "text": "You want a warranty and a sturdier build. The AstroAI AIRUN H has a 2 year warranty, a 120W motor and a powder metallurgy cylinder for repeated use."
         },
         {
           "label": "Save if",
-          "text": "You only top up now and then; the Airmoto Portable Tire Inflator or OlarHike covers the basics."
+          "text": "You only top up now and then. The Airmoto Portable Tire Inflator or OlarHike covers the basics with auto shut off and a cordless battery."
         }
       ]
     }
@@ -300,26 +305,30 @@ export const bestElectricBikePumpsForHomeUse: BestArticle = {
   "faq": [
     {
       "q": "Can a car inflator fill a trike tire?",
-      "a": "Yes if it has the right valve adapter and a low enough pressure range. Check Presta or Schrader fit and set the preset carefully."
+      "a": "Yes, if it has the right valve adapter and a low enough pressure range. Check Presta or Schrader fit, and set the preset carefully, because trike tires usually run at lower pressure than car tires."
     },
     {
       "q": "What pressure should I set?",
-      "a": "Use the range printed on your tire sidewall and set the same number on all three tires."
+      "a": "Use the range printed on your tire sidewall and set the same number on all three tires. Matching the rear pair also helps the trike track straight and keeps wear even on both rear tires."
     },
     {
       "q": "Are these loud?",
-      "a": "Small compressors are noisy. The Hafuloky is designed for lower noise, but expect some sound from any of them."
+      "a": "Small compressors are noisy. The Hafuloky is designed for cooler, quieter running, but expect some sound from any of them, and consider the time of day if your garage shares a wall with a neighbor."
     },
     {
       "q": "Do I need a 12V outlet?",
-      "a": "Only for the AstroAI. The other three run from a built-in battery."
+      "a": "Only for the AstroAI. The other three run from a built in battery, so they work anywhere once charged. Charge them before a garage session so the battery does not run out on the third tire."
     },
     {
       "q": "How often should I check trike tire pressure?",
-      "a": "Check before each ride or at least weekly, since tires lose pressure slowly even when idle."
+      "a": "Check before each ride or at least weekly, since tires lose pressure slowly even when the trike sits idle in the garage for weeks. A quick check with the preset inflator takes only a few minutes for all three tires."
+    },
+    {
+      "q": "How do I keep the battery ready?",
+      "a": "Charge a cordless unit after use and store it where it stays cool and dry. For the AstroAI, which draws from a 12V source, coil the 9.84 foot cord and keep the Presta adapter with it so both are at hand."
     }
   ],
-  "bottomLine": "The Hafuloky Cordless Tire Inflator is the best fit for matching three trike tires at home. Pick the AstroAI if you have a 12V source and want a warranty. Always match the preset to your sidewall.",
+  "bottomLine": "The Hafuloky Cordless Tire Inflator is the best fit for matching three trike tires at home thanks to its dual display and auto shut off. Pick the AstroAI AIRUN H if you have a 12V source and want a warranty. Always match the preset to your sidewall.",
   "amazonSearch": "electric bike pumps for home",
   "relatedPaths": [
     "/accessories/best-electric-bike-pumps-for-tricycle-riders/",

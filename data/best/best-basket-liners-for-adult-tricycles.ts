@@ -266,48 +266,59 @@ export const bestBasketLinersForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Liner material",
-      "body": "We compared Oxford fabric, insulated and padded liners and how well each keeps small items in."
+      "body": "We compared Oxford fabric, insulated and padded liners and how well each keeps small items in, since wire baskets let loose goods fall through."
     },
     {
       "title": "Weather protection",
-      "body": "We noted covers and coatings that keep rain out and rust away."
+      "body": "We noted covers and coatings that keep rain out and rust away, because a trike basket sits outside and takes spray from the rear wheels."
     },
     {
       "title": "Basket size",
-      "body": "Dimensions decide whether a liner suits a wide trike platform."
+      "body": "Dimensions decide whether a basket and liner suit a wide trike platform or leave gaps that let bags slide around."
     },
     {
       "title": "Capacity and mounting",
-      "body": "Stated ratings and mounting options show how the kit works on a trike."
+      "body": "Published load ratings and mounting options show how each kit works on a trike, where the rack is wider than on a bicycle."
+    },
+    {
+      "title": "Extras in the box",
+      "body": "Cargo nets, covers and removable tote bags add real use, so we weighed what each kit includes beyond the basket itself."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Liner fit and size",
       "paragraphs": [
-        "A liner that is too small leaves gaps in the corners, while one that is too big bunches up and sags. The best fit follows the basket walls.",
-        "Measure the inside length, width and depth of your basket and compare it with the kit dimensions."
+        "A liner that is too small leaves gaps in the corners, while one that is too big bunches up and sags. The best fit follows the basket walls and keeps small items from slipping out.",
+        "Measure the inside length, width and depth of your basket and compare it with the kit dimensions before ordering."
       ]
     },
     {
       "title": "Waterproof vs water resistant",
       "paragraphs": [
-        "Oxford fabric sheds light rain but can soak through under steady rain. A waterproof cover adds a second layer.",
-        "Look for a cover or coated fabric if you ride in wet areas."
+        "Oxford fabric sheds light rain but can soak through under steady rain. A waterproof cover adds a second layer and keeps paper bags from turning to pulp.",
+        "Look for a cover or coated fabric if you ride in wet areas, and dry the liner out after a soaking."
       ]
     },
     {
       "title": "Insulation",
       "paragraphs": [
-        "Foil insulation slows the warming of takeout or cold items on a ride. It adds bulk and cost.",
-        "Choose it only if you carry food, like with the RAYMACE Folding kit."
+        "Foil insulation slows the warming of takeout or cold items on a ride. It adds bulk and cost, and it is wasted on dry goods.",
+        "Choose it only if you carry food, like with the RAYMACE Folding kit, and check the unfolded size against your bag."
       ]
     },
     {
       "title": "Removable liners",
       "paragraphs": [
-        "A liner that comes out can double as a tote and is easier to wash.",
-        "Check for handles or a zip-in design if you want this."
+        "A liner that comes out can double as a tote and is easier to wash. A fixed liner stays put but harbors dirt in corners.",
+        "Check for handles or a zip-in design if you want this, as on the CDYWD front basket."
+      ]
+    },
+    {
+      "title": "Rack width and mounting",
+      "paragraphs": [
+        "These baskets are made for bicycle racks, and a trike platform is wider. A narrow basket sits off-center and can shift under load.",
+        "Measure your rack width and mounting points, and confirm whether the basket mounts horizontally or vertically."
       ]
     }
   ],
@@ -324,32 +335,32 @@ export const bestBasketLinersForAdultTricycles: BestArticle = {
           [
             "Everyday groceries",
             "Auwey Rear Basket with Liner and Cargo Net",
-            "Reinforced Oxford liner"
+            "Reinforced Oxford liner and 100 lb rating"
           ],
           [
             "Wet climates",
             "SAMRELAX Rear Basket with Liner and Waterproof Cover",
-            "Waterproof cover"
+            "Waterproof cover and wire rated to 200 lbs"
           ],
           [
             "Takeout and cold food",
             "RAYMACE Folding Rear Basket with Insulated Liner",
-            "Insulated liner"
+            "Insulated liner and rainproof cover"
           ],
           [
             "Carrying items into shops",
             "CDYWD Front Basket with Removable Liner Bag",
-            "Removable tote"
+            "Padded liner lifts out as a tote"
           ],
           [
             "Tall items or backpacks",
             "YEYPOP Rear Basket with Liner and Waterproof Cover",
-            "11.2 inch depth"
+            "Tall 11.2 inch depth"
           ],
           [
             "Wide flat loads",
             "RAYMACE Rear Rack Basket with Cargo Net and Liner",
-            "18.2 inch width"
+            "Widest basket at 18.2 inches"
           ]
         ]
       }
@@ -359,11 +370,11 @@ export const bestBasketLinersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Fixed or simple liner",
-          "text": "The Auwey and RAYMACE rack basket keep the liner in the basket, which is quick but harder to wash."
+          "text": "The Auwey and RAYMACE rack basket keep the liner in the basket, which is quick to load but harder to wash and dry."
         },
         {
           "label": "Removable liner",
-          "text": "The CDYWD and RAYMACE Folding sets let you take the bag out and carry it separately."
+          "text": "The CDYWD and RAYMACE Folding sets let you take the bag out and carry it separately, which suits shopping on foot after the ride."
         }
       ],
       "note": "Choose removable if you shop on foot after riding."
@@ -373,11 +384,11 @@ export const bestBasketLinersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A basket at least 16 inches wide with a liner that fills the corners."
+          "text": "A basket at least 16 inches wide with a liner that fills the corners, plus mounting that can sit horizontally across the rack."
         },
         {
           "label": "In this comparison",
-          "text": "The RAYMACE rack basket at 18.2 inches and the SAMRELAX at 16.9 inches are the widest."
+          "text": "The RAYMACE rack basket at 18.2 inches and the SAMRELAX at 16.9 inches are the widest, while the YEYPOP is only 6 inches across."
         }
       ]
     },
@@ -386,11 +397,11 @@ export const bestBasketLinersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You carry food or ride in rain, which points to the RAYMACE Folding insulated kit or the SAMRELAX with a waterproof cover."
+          "text": "You carry food or ride in rain, which points to the RAYMACE Folding insulated kit or the SAMRELAX with its waterproof cover."
         },
         {
           "label": "Save if",
-          "text": "You carry dry goods only, where the Auwey kit is enough."
+          "text": "You carry dry goods only, where the Auwey kit is enough and already includes a cargo net and tool-free installation."
         }
       ]
     }
@@ -398,26 +409,30 @@ export const bestBasketLinersForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Do I need a liner on a trike basket?",
-      "a": "If you carry small items, yes. Wire has gaps and a liner keeps items from falling through and rain from getting in."
+      "a": "If you carry small items, yes. Wire has gaps and a liner keeps items from falling through and rain from getting in. Without one, a bag of oranges can escape on the first bump."
     },
     {
       "q": "Will these baskets fit my trike?",
-      "a": "They are made for bicycle racks, so measure your rack width and mounting points. The YEYPOP is designed to work around e-bike battery compartments."
+      "a": "They are made for bicycle racks, so measure your rack width and mounting points. The YEYPOP is designed to work around e-bike battery compartments, and the Auwey notes a rack width check on a trike."
     },
     {
       "q": "Are the liners waterproof?",
-      "a": "Most use Oxford fabric that resists water. The SAMRELAX and RAYMACE kits add covers for heavier rain."
+      "a": "Most use Oxford fabric that resists water. The SAMRELAX, YEYPOP and RAYMACE Folding kits add covers for heavier rain, while the Auwey liner is water resistant but not sealed."
     },
     {
       "q": "Which holds the most weight?",
-      "a": "The SAMRELAX wire is rated for at least 200 lbs, while the Auwey and RAYMACE rack basket are rated to 100 lbs."
+      "a": "The SAMRELAX wire is rated for at least 200 lbs, while the Auwey and RAYMACE rack basket are rated to 100 lbs. The CDYWD front basket has no weight rating."
     },
     {
       "q": "Can the liner be washed?",
-      "a": "Fabric liners can be spot cleaned or wiped. Removable ones like the CDYWD are easiest."
+      "a": "Fabric liners can be spot cleaned or wiped. Removable ones like the CDYWD are easiest, since you can carry the bag to a sink and let it dry."
+    },
+    {
+      "q": "Is a front basket a good idea on a trike?",
+      "a": "It works for light items, but a front load affects steering. The CDYWD mounts at the front, so keep what you put in it light and centered."
     }
   ],
-  "bottomLine": "The Auwey is the best liner kit for most riders, and the SAMRELAX is better in rain. Choose the RAYMACE Folding set for food, the CDYWD for a tote liner and the YEYPOP or wide RAYMACE basket for odd-shaped loads.",
+  "bottomLine": "The Auwey is the best liner kit for most riders because of its reinforced Oxford liner, cargo net and 100 lb rating, and the SAMRELAX is better in rain. Choose the RAYMACE Folding set for food, the CDYWD for a tote liner and the YEYPOP or wide RAYMACE basket for odd-shaped loads.",
   "amazonSearch": "tricycle basket liners",
   "relatedPaths": [
     "/adult-tricycle-basket-bags-and-liners/",

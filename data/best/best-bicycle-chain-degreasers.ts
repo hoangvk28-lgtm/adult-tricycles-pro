@@ -211,49 +211,56 @@ export const bestBicycleChainDegreasers: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Finish safety",
-      "body": "Citrus free or finish safe formulas ranked higher."
+      "title": "Cleaning method",
+      "body": "We compared sprays, pour-on fluids and kits, since the way a degreaser is applied decides whether it reaches the pins and rollers on a long trike chain."
     },
     {
-      "title": "Use method",
-      "body": "We matched fluids to brushing, scrubbing or wax prep."
+      "title": "Surface safety",
+      "body": "We noted citrus content, biodegradable claims and overspray risk, because a degreaser that touches paint, brake surfaces or rubber can cause damage that outlasts the cleaning job."
     },
     {
-      "title": "Handling",
-      "body": "Lids and low odor mattered for older owners."
+      "title": "Residue",
+      "body": "We considered how much film each product leaves behind, since a clean chain should accept lube or wax without competing oil sitting on the surface."
     },
     {
-      "title": "Routine fit",
-      "body": "Wax and wet routines need different products."
+      "title": "Wax compatibility",
+      "body": "We looked at products made to prepare a chain for wax, as more trike owners switch to wax and need a stripper that leaves bare metal."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Citrus content",
       "paragraphs": [
-        "Citrus solvents can lift varnish and paint.",
-        "Look for a stated no citrus formula if your trike has a painted frame."
+        "Many degreasers use citrus solvents, which cut grease well but can harm some paints, plastics and rubber seals. Non citrus formulas tend to be gentler on frames and brake components.",
+        "Look for the words no citrus or not citrus based on the label. The WD-40 Specialist Bike Degreaser is no citrus, and the Runaway Bike Degreaser is not citrus based, so both suit painted trike frames."
       ]
     },
     {
       "title": "Spray or pour",
       "paragraphs": [
-        "Sprays foam on a brush job. Pour bottles work with scrubbers.",
-        "Match the bottle to your tool."
+        "A foaming spray clings to the chain and drivetrain, then needs brushing. A pour-on fluid is meant for a scrubber or parts tray, where it stays contained and reaches inside the links.",
+        "Choose based on how you clean. The WD-40 is a 10 oz foaming spray that suits brush work, while the Runaway Bike Degreaser pours and works best in a clamp on scrubber."
       ]
     },
     {
-      "title": "Residue",
+      "title": "Residue and rinsing",
       "paragraphs": [
-        "Degreaser left on the chain thins fresh lube.",
-        "Rinse and dry the chain fully before oiling."
+        "A degreaser that leaves a film makes the next lube less effective, and spray can drift onto brake rotors or pads. Any film near brakes reduces stopping power.",
+        "Cover brake surfaces before spraying, then rinse or wipe the chain clean. The WD-40 needs rinsing, and the White Lightning 2 in 1 leaves a water resistant film by design, so avoid it before waxing."
       ]
     },
     {
       "title": "Wax compatibility",
       "paragraphs": [
-        "Wax needs a clean chain with no lube left.",
-        "Choose a degreaser meant for wax prep."
+        "Wax bonds to bare metal, so a degreaser must leave no oil or film. A chip based product made for waxing, like SILCA StripChip, melts into the wax pot and prepares a new chain.",
+        "The StripChip is for new chains going to wax, with six 12 g chips, one per chain. It is not meant for dirty used chains, so degrease a used chain with a liquid first."
+      ]
+    },
+    {
+      "title": "Kit or fluid only",
+      "paragraphs": [
+        "A kit adds a scrubber, gloves and floss strips, which suits someone with no tools. Fluid alone is cheaper per ounce, but you need brushes and a way to catch drips.",
+        "Count what you already own. The Ultrafashs 7 Piece Chain Cleaner Kit has a 10 oz degreaser, scrubber, gloves and floss. If you have a brush and gloves, a bottle alone is enough."
       ]
     }
   ],
@@ -268,29 +275,29 @@ export const bestBicycleChainDegreasers: BestArticle = {
         ],
         "rows": [
           [
-            "Brush and spray",
+            "Brush and spray cleaning",
             "WD-40 Specialist Bike Degreaser 10 oz",
-            "Foams and clings"
+            "Foaming spray clings and is easy to brush"
           ],
           [
-            "Scrubber use",
+            "Clamp on scrubber use",
             "Runaway Bike Degreaser",
-            "Made for chain washers"
+            "Made for scrubbers, low odor, non flammable"
           ],
           [
-            "Quick tidy up",
+            "A quick tidy up between rides",
             "White Lightning 2 in 1 Lubricant and Degreaser",
-            "Clean and lube in one"
+            "Cleans and lubricates in one step"
           ],
           [
-            "New chain to wax",
+            "A new chain going to wax",
             "SILCA StripChip Hot Melt Wax Degreaser",
-            "Strips factory grease"
+            "Six 12 g chips, one per new chain"
           ],
           [
-            "Need tools too",
+            "Starting without any tools",
             "Ultrafashs 7 Piece Chain Cleaner Kit",
-            "Scrubber included"
+            "10 oz degreaser with scrubber, gloves and floss"
           ]
         ]
       }
@@ -300,25 +307,25 @@ export const bestBicycleChainDegreasers: BestArticle = {
       "cards": [
         {
           "label": "Spray",
-          "text": "WD-40 and White Lightning go on by hand or brush."
+          "text": "The WD-40 Specialist Bike Degreaser 10 oz foams and clings to the drivetrain, which makes brush work easy. It risks overspray near brakes and needs rinsing, so mask rotors and pads before use."
         },
         {
           "label": "Scrubber fluid",
-          "text": "Runaway and the Ultrafashs fluid work inside a clamp on scrubber."
+          "text": "The Runaway Bike Degreaser pours into a clamp on scrubber and stays contained, with a flip top lid and low odor. It needs a scrubber, but gives more control near brakes and paint."
         }
       ],
-      "note": "Most owners should choose the scrubber route for a long trike chain."
+      "note": "Choose spray for general clean ups and scrubber fluid for tidy, repeated chain cleaning."
     },
     {
       "heading": "For Painted Frames Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A formula that avoids citrus."
+          "text": "Look for a non citrus, paint safe degreaser, and mask brake rotors, pads and the frame finish before you spray or pour."
         },
         {
           "label": "In this comparison",
-          "text": "WD-40 and Runaway both state no citrus."
+          "text": "The WD-40 Specialist Bike Degreaser 10 oz is no citrus and the Runaway Bike Degreaser is not citrus based, so either suits a painted trike frame."
         }
       ]
     },
@@ -327,11 +334,11 @@ export const bestBicycleChainDegreasers: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You wax, because SILCA StripChip saves time on every new chain."
+          "text": "You clean chains often or want a full set of tools, where the Ultrafashs 7 Piece Chain Cleaner Kit gives fluid and scrubber together."
         },
         {
           "label": "Save if",
-          "text": "You clean occasionally, so WD-40 alone covers it."
+          "text": "You already own brushes, where the WD-40 Specialist Bike Degreaser 10 oz or Runaway Bike Degreaser covers the job for the least cost."
         }
       ]
     }
@@ -339,26 +346,26 @@ export const bestBicycleChainDegreasers: BestArticle = {
   "faq": [
     {
       "q": "Can degreaser damage trike paint?",
-      "a": "Citrus based types can. Choose a no citrus formula and wipe spills."
+      "a": "Some can, especially citrus products left on for long periods. The WD-40 Specialist Bike Degreaser is no citrus and the Runaway fluid is not citrus based. Still, keep fluid off paint, wipe drips quickly and rinse the frame afterward."
     },
     {
       "q": "Is degreaser safe near brakes?",
-      "a": "No. Keep it off pads, rotors and rims."
+      "a": "It is not safe to let it reach brake rotors or pads, since a film cuts stopping power. Cover those surfaces before spraying, work with the wheel angle in mind and wipe overspray at once. Test the brakes before riding."
     },
     {
-      "q": "Do I need to rinse?",
-      "a": "Yes, then dry the chain before lubing. See /adult-tricycle-chain-cleaning-and-lubrication/."
+      "q": "Do I need to rinse after degreasing?",
+      "a": "Yes for most products, including the foaming WD-40 spray, which needs rinsing. Rinse with water or wipe thoroughly, then dry the chain before lubing. Any remaining solvent or water weakens the new lube and may cause rust."
     },
     {
       "q": "Can I use degreaser before waxing?",
-      "a": "Yes, and see /accessories/best-bicycle-chain-degreasers-for-waxing/ for wax friendly options."
+      "a": "Yes, if it leaves no residue. A liquid degreaser strips a used chain, while the SILCA StripChip prepares a new chain for the wax pot. Avoid the White Lightning 2 in 1, which leaves a water resistant film."
     },
     {
-      "q": "When should a shop clean it?",
-      "a": "If the chain is rusted or stretched, a shop can replace it and check the drivetrain."
+      "q": "When should a shop clean the drivetrain?",
+      "a": "When the chain is badly caked, skipping or showing signs of wear that cleaning does not fix. A shop can use a parts washer and check the sprockets. If you find stiff links, ask for a wear check too."
     }
   ],
-  "bottomLine": "WD-40 is the easy default, Runaway is best with a scrubber and StripChip is the wax route. See /accessories/best-bicycle-chain-lubricants/ for the next step.",
+  "bottomLine": "The WD-40 Specialist Bike Degreaser 10 oz is the best overall pick for everyday chain cleaning on a painted trike. Choose the Runaway Bike Degreaser if you use a scrubber, the SILCA StripChip for new chains going to wax, and the Ultrafashs kit if you need tools too.",
   "amazonSearch": "chain degreasers",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-lubricants/",

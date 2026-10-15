@@ -110,48 +110,55 @@ export const bestPortableBikePumpsUnder25: BestArticle = {
   "howWeChose": [
     {
       "title": "Valve compatibility",
-      "body": "We checked that the pump head handles both Presta and Schrader valves, because trike wheels use either."
+      "body": "We checked whether each pump head handles both Presta and Schrader valves, because a trike may switch valve types the next time a tube is replaced."
     },
     {
       "title": "Pressure range",
-      "body": "We compared maximum stated pressure, since trike tires usually need less than a road bike but must still reach their rated PSI."
+      "body": "We compared the maximum pressure, since trike tires usually run lower than road tires but the pump still has to reach the number printed on the sidewall."
     },
     {
       "title": "Carry options",
-      "body": "We looked at brackets, bags and straps, because a pump that does not mount stays at home."
+      "body": "We looked at brackets, bags and straps, because a pump that has no secure place on the trike tends to get left in the garage."
     },
     {
       "title": "What else is in the box",
-      "body": "We noted patches, tools and bags, since the gap decides whether you need a second purchase."
+      "body": "We noted patches, tools and bags, since that gap decides whether a rear flat on the road ends with a repair or with a long walk."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Valve head type",
       "paragraphs": [
-        "Presta valves are thin with a locking nut, and Schrader valves are the wider type found on car tires. A single-valve head cannot fill the other type, and swapping tubes on a trike may change the valve.",
-        "Check your tire valves and look for a head that states both types."
+        "Presta valves are thin with a small locking nut, while Schrader valves are the wider type found on car tires. A pump head built for only one of them cannot seat on the other, and a replacement tube can change the valve type without warning.",
+        "On a trike this means a rider can be stranded by a mismatch. Look at the valve on each wheel today, then choose a head that clearly names both types, like the smart valve on the BV."
       ]
     },
     {
       "title": "Maximum PSI",
       "paragraphs": [
-        "Trike tires usually run lower pressure than road bike tires, and a pump that tops out at 120 PSI covers nearly all of them. A pump with a low maximum cannot seat a bead.",
-        "Read the pressure printed on your tire sidewall and choose a pump above it."
+        "Trike tires usually run at lower pressure than road bike tires, so a pump that reaches 120 PSI covers nearly every case. A pump with a low ceiling may still inflate the tire, but it can struggle to seat the bead on a fresh tube.",
+        "Read the pressure range molded into your tire sidewall and pick a pump that clears the top figure with room to spare. Do not buy by the biggest number on the box."
       ]
     },
     {
       "title": "Carry method",
       "paragraphs": [
-        "A trike has a basket and a rear platform where a pump bag fits easily, and a frame bracket suits a pump alone. A pump that rattles loose is easy to lose.",
-        "Test the bracket or strap on your frame before a long ride."
+        "A trike has a rear basket and often a flat platform behind the seat, so a pump can ride in a bag there or sit on the frame in a bracket. A pump left loose will rattle, work itself free and disappear on the first rough patch of path.",
+        "Before a long ride, strap the pump or clip the bracket on and shake the trike by hand. If it shifts, add a rubber shim or move it to the basket in a bag."
       ]
     },
     {
       "title": "Patches and tools",
       "paragraphs": [
-        "A rear flat on a trike needs levers, a patch kit or a tube, and tools for the axle nut. A pump alone leaves you stuck.",
-        "Check your toolkit first and add a multitool if you choose the BV."
+        "A flat on a trike rear wheel usually means loosening an axle nut, prying off the tire, patching or swapping the tube and refilling it. A pump only handles the last step, so the rest of the job still needs tire levers and a patch kit.",
+        "Open your current saddle or basket bag and take stock. If it holds no patches or levers, either add a multitool alongside the BV or start from the all-in-one XCH Robots kit."
+      ]
+    },
+    {
+      "title": "Speed on wide tires",
+      "paragraphs": [
+        "A small barrel moves a small amount of air per stroke, and a wide trike tire holds far more air than a road tire. The result is a long, tiring pumping session, especially with a basic head that leaks a little at the valve.",
+        "Treat these as roadside pumps, not weekly fillers. Count your strokes the first time you top up at home, and keep a floor pump in the garage for the routine work."
       ]
     }
   ],
@@ -166,24 +173,24 @@ export const bestPortableBikePumpsUnder25: BestArticle = {
         ],
         "rows": [
           [
-            "Have tools and patches",
+            "Have tools and patches already",
             "BV Mini Frame Pump 120 PSI",
-            "Dual-valve pump with bracket"
+            "Adds a dual-valve pump and bracket without duplicating gear"
           ],
           [
             "Nothing in the basket yet",
             "XCH Robots Bicycle Repair Kit With Pump",
-            "Pump, patches and tools together"
+            "Pump, patches and tools arrive together in one bag"
           ],
           [
             "Mixed Presta and Schrader tubes",
             "BV Mini Frame Pump 120 PSI",
-            "Smart valve head"
+            "Smart valve head fits either type without swapping parts"
           ],
           [
-            "Want a reflective bag",
+            "Want a reflective bag on the rear",
             "XCH Robots Bicycle Repair Kit With Pump",
-            "Reflective IPX4 bag"
+            "Reflective IPX4 bag helps at dusk and in rain"
           ]
         ]
       }
@@ -193,25 +200,25 @@ export const bestPortableBikePumpsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Frame pump",
-          "text": "The BV is a better pump and mounts on the frame, but needs patches and tools from elsewhere."
+          "text": "The BV is the better pump of the two, with a 120 PSI rating, a ball needle and a bracket so it stays mounted on the trike. You supply patches, levers and tools yourself."
         },
         {
           "label": "Repair kit",
-          "text": "The XCH bundles everything and is cheaper per item, but each piece is basic."
+          "text": "The XCH Robots kit bundles a pump, tire patches and multi-function tools in one bag, which helps a rider starting from nothing. The trade is that every piece is basic and the pump is not built for big volumes."
         }
       ],
-      "note": "Most riders with an existing toolkit should pick the BV."
+      "note": "Riders who already own a toolkit should pick the BV, and first-time owners should pick the XCH kit."
     },
     {
       "heading": "For Trike Rear Flats Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A pump that fits your valve type and reaches the pressure on your tire sidewall, plus patches and levers."
+          "text": "A pump head that fits your valve type and reaches the pressure on your tire sidewall, plus patches and levers to finish the job once the wheel is off the axle."
         },
         {
           "label": "In this comparison",
-          "text": "The BV handles both valves up to 120 PSI, and the XCH Robots kit adds patches and tools."
+          "text": "The BV handles both valves up to 120 PSI and mounts on the frame. The XCH Robots kit adds patches and tools, so it covers the whole repair from a single bag."
         }
       ]
     },
@@ -220,11 +227,11 @@ export const bestPortableBikePumpsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride long distances or have wide tires and want a faster pump head than the BV's."
+          "text": "You ride long distances or run wide tires and want a faster pump head than the BV offers. A floor pump at home plus a better roadside unit would serve you better than either pick here."
         },
         {
           "label": "Save if",
-          "text": "You ride short loops near home. The XCH kit covers basic repairs."
+          "text": "You ride short loops near home. The XCH kit covers a basic repair, and the bag stays on the rear platform where you can reach it easily."
         }
       ]
     }
@@ -232,26 +239,26 @@ export const bestPortableBikePumpsUnder25: BestArticle = {
   "faq": [
     {
       "q": "Which valve type does my trike use?",
-      "a": "Check the tire valve: thin with a nut is Presta, and wider like a car tire is Schrader. The BV pump head fits both."
+      "a": "Check the valve on each wheel. A thin stem with a small nut is Presta, while a wider stem like a car tire is Schrader. The BV pump head fits both, so a mixed set of tubes will not leave you stuck."
     },
     {
-      "q": "Is 120 PSI enough?",
-      "a": "Yes for trike tires, which usually run far lower pressures. Read the sidewall to confirm."
+      "q": "Is 120 PSI enough for a trike?",
+      "a": "Yes for nearly every trike tire, because they usually run well below road bike pressure. Read the range on your sidewall to confirm. Choose a pump whose maximum clears that figure instead of chasing a larger number."
     },
     {
       "q": "Can a mini pump fill a wide trike tire?",
-      "a": "It can, but slowly. A floor pump at home saves effort, and a mini pump is for roadside top-ups."
+      "a": "It can, but slowly, because each stroke moves little air and a wide tire holds a lot. Treat a mini pump as a roadside top-up tool, and keep a floor pump at home for the weekly fill."
     },
     {
       "q": "Does the repair kit include tire levers?",
-      "a": "The XCH kit includes a pump, patches and multi-function tools. Check your tools for levers and carry a pair if not."
+      "a": "The XCH Robots kit includes a pump, tire patches and multi-function tools. Check the tools in your bag for levers, and carry a pair separately if the kit does not cover prying the tire off the rim."
     },
     {
-      "q": "Where do I carry the pump on a trike?",
-      "a": "A frame bracket works for the BV, and a basket or rear platform suits the XCH bag."
+      "q": "Where should I carry the pump on a trike?",
+      "a": "A frame bracket suits the BV, and a basket or rear platform suits the XCH bag. Wherever it goes, strap it down and check it for rattles, since a loose pump is the one most likely to vanish."
     }
   ],
-  "bottomLine": "The BV frame pump is the better choice for riders who already own tools, thanks to its dual-valve head and bracket. The XCH Robots kit suits first-time riders who need a bag with everything. Check your valve type before buying.",
+  "bottomLine": "The BV Mini Frame Pump is the better pick for riders who already carry tools, thanks to its dual-valve head, 120 PSI rating and bracket that keeps it on the trike. The XCH Robots kit suits first-time owners who need a pump, patches and tools in one reflective bag. Check your valve type and your toolkit before buying either.",
   "amazonSearch": "portable bike pumps under $25",
   "relatedPaths": [
     "/accessories/best-portable-bike-pumps-for-tricycle-riders/",

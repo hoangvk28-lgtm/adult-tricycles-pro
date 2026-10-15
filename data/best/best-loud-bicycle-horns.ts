@@ -225,19 +225,19 @@ export const bestLoudBicycleHorns: BestArticle = {
   "howWeChose": [
     {
       "title": "Button reach",
-      "body": "We favored large or separate buttons that work without moving a hand from the grip."
+      "body": "We favored large or separate buttons, such as the HilpurSkx and LESOVI, that work without moving a hand from the grip or off the brake lever."
     },
     {
       "title": "Sound type",
-      "body": "A horn with a gentle mode or adjustable volume is easier to live with on shared paths."
+      "body": "A horn with a gentle mode or adjustable volume, like the Hornit 121 dB mode or the Airzound dial, is easier to live with near walkers."
     },
     {
       "title": "Handlebar fit",
-      "body": "Bar diameter ranges and mounting methods mattered on crowded upright bars."
+      "body": "Bar diameter ranges and mounting methods mattered on crowded upright bars, from 22 to 26 mm clamps to the 1.5 inch range on the HilpurSkx."
     },
     {
       "title": "Power source",
-      "body": "Rechargeable, AAA and air powered options all have different upkeep."
+      "body": "Rechargeable, AAA, air and squeeze bulb options all have different upkeep, so we weighed what each owner has to remember to maintain."
     }
   ],
   "whatToLookFor": [
@@ -245,28 +245,35 @@ export const bestLoudBicycleHorns: BestArticle = {
       "title": "What the dB number means",
       "paragraphs": [
         "Decibel claims are measured close to the horn, and loudness falls quickly with distance. A claimed 120 dB at the bar is much quieter by the time it reaches a driver behind a closed window.",
-        "Treat the number as a comparison, and prefer a sharp tone for drivers and a gentler one for walkers."
+        "Treat the number as a comparison only, and prefer a sharp tone for drivers and a gentler one for walkers. The Hornit offers 140 dB and 121 dB modes for that reason."
       ]
     },
     {
       "title": "Button placement",
       "paragraphs": [
-        "Older hands do better with a large button or a separate thumb switch than a small button on the horn body.",
-        "Test whether your thumb reaches the button while holding the grip and brake lever."
+        "Older hands do better with a large button or a separate thumb switch than with a small button on the horn body. A button you cannot reach is a horn you will not use.",
+        "Test whether your thumb reaches the button while holding the grip and brake lever. The HilpurSkx has a large button and the LESOVI a separate thumb switch."
       ]
     },
     {
       "title": "Sound pattern",
       "paragraphs": [
-        "A single flat tone can be ignored. A two tone or honk pattern gets attention faster.",
-        "If you ride shared paths, look for a lower volume setting or a gentler mode."
+        "A single flat tone can be ignored by a driver who has heard it many times. A two tone or honk pattern gets attention faster than a plain beep.",
+        "If you ride shared paths, look for a lower volume setting or a gentler mode. The HilpurSkx has five volume levels and four tones, and the LESOVI has four sound modes."
       ]
     },
     {
-      "title": "Handlebar diameter and power",
+      "title": "Handlebar diameter and mount",
       "paragraphs": [
-        "Mounts fit specific bar sizes, such as 22 to 26 mm or up to 1.5 inches. Rechargeable horns need a charge every few weeks, while batteries or air need their own care.",
-        "Measure the bar, and pick a power source you will actually maintain."
+        "Mounts fit specific bar sizes, such as 22 to 26 mm, 31.8 mm or up to 1.5 inches. A horn on stretch straps may slip on thick bars, and an air horn needs room for its clamp.",
+        "Measure the bar and compare it with each stated range. The Hornit includes two mounts, the Airzound clamps 22 to 26 mm, and the LESOVI straps need checking on thick bars."
+      ]
+    },
+    {
+      "title": "Power and upkeep",
+      "paragraphs": [
+        "Rechargeable horns need a charge every few weeks, AAA models need new cells, and an air horn needs refills from a pump. Pick a power source you will actually maintain.",
+        "Compare run times: the Hornit lasts up to 12 months on 2 AAA, the HilpurSkx about 2,000 rings and the LESOVI about 2,000 sounds per charge, while the Airzound relies on your pump."
       ]
     }
   ],
@@ -288,22 +295,22 @@ export const bestLoudBicycleHorns: BestArticle = {
           [
             "Older hands, simple use",
             "HilpurSkx 120dB Electric Horn",
-            "Large button, volume levels"
+            "Large button and five volume levels"
           ],
           [
-            "Crowded bars",
+            "Crowded upright bars",
             "LESOVI Electronic Bike Horn",
-            "Separate thumb switch"
+            "Separate thumb switch and IP65 rating"
           ],
           [
             "No batteries wanted",
             "Delta Airzound",
-            "Hand pump refill"
+            "Hand pump refill, no battery"
           ],
           [
-            "Cheapest warning",
+            "Cheapest simple warning",
             "KEWAYO Bulb Horn",
-            "No charging"
+            "Squeeze bulb, no charging"
           ]
         ]
       }
@@ -313,11 +320,11 @@ export const bestLoudBicycleHorns: BestArticle = {
       "cards": [
         {
           "label": "Electric",
-          "text": "Hornit, HilpurSkx and LESOVI use buttons and a battery, with loud, consistent output."
+          "text": "Hornit, HilpurSkx and LESOVI use buttons and a battery, with loud, consistent output. They need charging or new batteries, but they sound the same each press."
         },
         {
           "label": "Air or bulb",
-          "text": "The Airzound uses a pumped reservoir, and the KEWAYO uses a squeeze. Both avoid charging but need physical effort."
+          "text": "The Airzound uses a pumped reservoir, and the KEWAYO uses a squeeze. Both avoid charging but need physical effort, and the KEWAYO is quieter at the low end of its claim."
         }
       ],
       "note": "Most riders should default to an electric button horn."
@@ -327,11 +334,11 @@ export const bestLoudBicycleHorns: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A large button or a separate thumb switch."
+          "text": "A large button or a separate thumb switch, a tool-free mount and a volume setting so a firm press is not needed every time."
         },
         {
           "label": "In this comparison",
-          "text": "The HilpurSkx large button and the LESOVI thumb switch fit best."
+          "text": "The HilpurSkx large button and no-tool mount, and the LESOVI thumb switch with a strap mount that takes about 20 seconds, fit best."
         }
       ]
     },
@@ -340,11 +347,11 @@ export const bestLoudBicycleHorns: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride in traffic, where the Hornit two modes pay off."
+          "text": "You ride in traffic, where the Hornit two modes pay off by letting you warn drivers loudly and walkers gently with one horn."
         },
         {
           "label": "Save if",
-          "text": "You ride quiet paths, where the HilpurSkx or KEWAYO is enough."
+          "text": "You ride quiet paths, where the HilpurSkx or KEWAYO is enough for a warning without paying for the highest output."
         }
       ]
     }
@@ -352,26 +359,30 @@ export const bestLoudBicycleHorns: BestArticle = {
   "faq": [
     {
       "q": "Is 140 dB too loud?",
-      "a": "The Hornit piercing mode is meant for road use around drivers. Use its gentler 121 dB mode near walkers."
+      "a": "The Hornit piercing mode is meant for road use around drivers. Use its gentler 121 dB horn mode near walkers, because a sudden piercing blast can startle someone on a shared path."
     },
     {
       "q": "Do decibel numbers matter?",
-      "a": "Only as a comparison. They are measured near the horn and drop quickly with distance."
+      "a": "Only as a comparison. They are measured near the horn and drop quickly with distance, so a 120 dB claim at the bar is far less when a driver is behind a closed window."
     },
     {
       "q": "Will a horn fit my trike handlebar?",
-      "a": "Check the bar diameter against the stated range. The HilpurSkx covers 0.87 to 1.5 inches and the Hornit includes two mounts."
+      "a": "Check the bar diameter against the stated range. The HilpurSkx covers 0.87 to 1.5 inches, the Hornit includes two mounts for 22 to 26 mm and 31.8 mm bars, and the Airzound clamps 22 to 26 mm."
     },
     {
       "q": "How long does a rechargeable horn last?",
-      "a": "The HilpurSkx and LESOVI give about 2,000 rings per charge, roughly 20 to 30 days of regular use."
+      "a": "The HilpurSkx and LESOVI give about 2,000 rings per charge, which is roughly 20 to 30 days of regular use. The Hornit uses 2 AAA batteries for up to 12 months of normal use."
     },
     {
       "q": "Can a horn replace a bell?",
-      "a": "A horn is better for traffic. A bell is gentler near walkers, so some riders keep both."
+      "a": "A horn is better for traffic. A bell is gentler near walkers, so some riders keep both. See /accessories/best-loud-bicycle-bells-for-adult-tricycles/ for bells, and use the horn only where a loud warning is needed."
+    },
+    {
+      "q": "Are these horns weatherproof?",
+      "a": "The Hornit, Airzound and LESOVI are described as weatherproof, with the LESOVI IP65 rated for water and dust, and the HilpurSkx uses waterproof silicone. The KEWAYO bulb has a metal and silicone build."
     }
   ],
-  "bottomLine": "The Hornit dB140 is the best all round horn for trike riders sharing roads and paths, and the HilpurSkx is the easiest rechargeable choice for older hands. Check your bar diameter and button reach first.",
+  "bottomLine": "The Hornit dB140 is the best all-round horn for trike riders sharing roads and paths, and the HilpurSkx is the easiest rechargeable choice for older hands. The LESOVI suits crowded bars, and the Airzound avoids batteries. Check your bar diameter and button reach first.",
   "amazonSearch": "loud bicycle horns",
   "relatedPaths": [
     "/accessories/best-bicycle-horns-for-adult-tricycles/",

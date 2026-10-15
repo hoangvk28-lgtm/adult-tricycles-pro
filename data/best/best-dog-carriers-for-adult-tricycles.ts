@@ -188,48 +188,48 @@ export const bestDogCarriersForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Weight limit",
-      "body": "We favored carriers with a stated limit and flagged those without one."
+      "body": "We favored carriers with a clear weight rating and flagged those without one, because a basket is only safe for a dog if the dog is well inside its limit on every bump."
     },
     {
       "title": "Tether and enclosure",
-      "body": "A leash point or mesh top decides how well a dog stays inside."
+      "body": "We looked at leash points, mesh tops and sides, because those decide whether a dog stays inside the carrier and how calmly a nervous dog copes with a ride."
     },
     {
       "title": "Mounting position",
-      "body": "Rear baskets sit over the axle while front carriers sit on the handlebar."
+      "body": "We compared rear baskets that sit over the axle with front carriers that sit on the handlebar, since each changes steering feel and how easily you can watch the dog."
     },
     {
       "title": "Fit on a trike",
-      "body": "Handlebar diameter, clearance and basket width decide whether a carrier suits a trike."
+      "body": "We checked handlebar diameter, tire clearance and basket width, because a carrier that suits a two wheel bike may not clear a wide trike front end."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Weight limit vs your dog",
       "paragraphs": [
-        "A carrier's rating must exceed the dog's weight plus moving load on bumps. Front baskets here are rated as low as 11 lbs.",
-        "Weigh your dog and add a margin of at least 20 percent before choosing."
+        "A carrier's rating has to exceed the dog's weight plus the extra load a bump or a stop adds. Ratings here range from 56 lbs for the Lunies Folding down to just 11 lbs for the RAYMACE.",
+        "Weigh your dog and leave a margin of at least 20 percent below the rating. If a carrier gives no limit, ask the maker before trusting it with a living animal."
       ]
     },
     {
       "title": "Tether and harness",
       "paragraphs": [
-        "A tether clipped to a harness, not a collar, stops a dog from jumping out and protects its neck.",
-        "Look for an interior leash or tie-in point, or add your own to the basket frame."
+        "A tether clipped to a harness, not a collar, keeps a dog from jumping out and protects its neck if it tries. Open wire baskets have no built in leash point, so you must supply one.",
+        "Look for an interior leash, as on the PetAmi, or a built in tether, as on the RAYMACE. Otherwise, plan a secure tie in point on the basket frame."
       ]
     },
     {
       "title": "Front vs rear mounting",
       "paragraphs": [
-        "A rear basket sits over the axle and is stable. A front carrier adds weight to the steering, which is more noticeable on a trike.",
-        "Prefer rear for dogs over 10 lbs and front only for very small dogs."
+        "A rear basket sits over the axle and keeps weight low and steady behind you. A front carrier adds weight to the steering, which a trike rider feels more in turns and when starting from a stop.",
+        "Prefer a rear basket for dogs over about 10 lbs and consider a front carrier only for very small ones. A front carrier does let you keep an eye on your dog."
       ]
     },
     {
       "title": "Clearance and fit",
       "paragraphs": [
-        "A front basket needs space between the handlebar and the tire. Trikes with a wide front or fenders may not leave enough.",
-        "Measure handlebar diameter and clearance, such as the 9.8 inch figure for the RAYMACE."
+        "A front basket needs room between the handlebar and the tire, and trikes with a wide front or fenders may not leave enough. The RAYMACE needs 9.8 inches of clearance to the tire.",
+        "Measure the handlebar diameter, such as the 0.9 to 1.3 inch range for the RAYMACE, and the space below it. Check the rear rack width for the Lunies baskets too."
       ]
     }
   ],
@@ -244,24 +244,24 @@ export const bestDogCarriersForAdultTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "Under 10 lbs",
+            "Very small dog under 10 lbs",
             "RAYMACE Folding Handlebar Dog Basket",
-            "Built-in tether, 11 lb limit"
+            "Built in tether and an 11 lb limit"
           ],
           [
             "Small and nervous dog",
             "PetAmi Dog Bike Basket",
-            "Interior leash and mesh top"
+            "Interior leash and a mesh top for airflow"
           ],
           [
-            "Up to a medium small breed",
+            "Small to medium dog on a rear rack",
             "Lunies Folding Rear Basket with Liner",
-            "56 lb wire rating"
+            "Rated to 56 lbs on 4mm steel wire"
           ],
           [
-            "Dog needs room to lie down",
+            "Dog that needs room to lie down",
             "Lunies Large Rear Basket with Cargo Net",
-            "Longer floor"
+            "Longer 17.7 inch floor and an 18L space"
           ]
         ]
       }
@@ -271,25 +271,25 @@ export const bestDogCarriersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Front carrier",
-          "text": "The RAYMACE and PetAmi keep your dog in view but add weight over the steering."
+          "text": "The RAYMACE and PetAmi keep your dog in view but add weight over the steering, and the RAYMACE only handles 11 lbs, so they suit very small dogs."
         },
         {
           "label": "Rear basket",
-          "text": "The two Lunies baskets sit over the rear axle for steadier handling, with the dog behind you."
+          "text": "The two Lunies baskets sit over the rear axle for steadier handling with the dog behind you, but they are open wire and need a harness tie in."
         }
       ],
-      "note": "Default to a rear basket unless your dog is very small and nervous."
+      "note": "Default to a rear basket unless your dog is very small and needs to stay in sight."
     },
     {
       "heading": "For Nervous Dogs Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "An enclosed top, mesh sides for airflow and an interior leash."
+          "text": "An enclosed top, mesh sides for airflow and an interior leash, so the dog feels contained but can still see out and breathe easily."
         },
         {
           "label": "In this comparison",
-          "text": "The PetAmi has a drawstring mesh top and an interior leash, and the RAYMACE has a pet tether."
+          "text": "The PetAmi has a drawstring mesh top and an interior safety leash, and the RAYMACE adds a built in pet tether and extra pockets for treats and a leash."
         }
       ]
     },
@@ -298,11 +298,11 @@ export const bestDogCarriersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "Your dog is over 15 lbs, in which case a sturdy rear basket like the Lunies Folding is the safer choice."
+          "text": "Your dog is over 15 lbs. A sturdy rear basket like the Lunies Folding, rated to 56 lbs and fitted with a harness tie in, is the safer choice."
         },
         {
           "label": "Save if",
-          "text": "Your dog is tiny and rides short distances, where the RAYMACE is enough."
+          "text": "Your dog is tiny and rides short distances. The RAYMACE has a tether, folds to 2 inches and is enough if your dog is under about 10 lbs."
         }
       ]
     }
@@ -310,26 +310,30 @@ export const bestDogCarriersForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Can a dog ride on an adult trike?",
-      "a": "Small dogs can, in a secured carrier with a harness tether. Large dogs should not ride on a trike."
+      "a": "Small dogs can ride in a carrier that is rated for their weight and secured with a harness tether. Check the weight limit first, because the front baskets here are rated for much less than the rear ones."
     },
     {
       "q": "Which is safest?",
-      "a": "No carrier is a guarantee. A rear basket over the axle with a harness tether is the most stable setup here."
+      "a": "No carrier is a guarantee. The most stable setup here is a rear basket over the axle with a harness tether, because it keeps weight low and does not affect steering the way a front carrier does."
     },
     {
       "q": "What weight can the baskets hold?",
-      "a": "The Lunies Folding is rated for 56 lbs, while the RAYMACE only holds 11 lbs. The PetAmi and Large Lunies do not state a limit."
+      "a": "The Lunies Folding is rated for 56 lbs, while the RAYMACE only holds 11 lbs. The PetAmi and the Large Lunies do not give a clear limit, so confirm it before you trust either with a dog."
     },
     {
       "q": "Do I need a harness?",
-      "a": "Yes. Clip a tether to a harness, not a collar, to avoid neck injury if the dog tries to jump."
+      "a": "Yes. Clip the tether to a harness, not a collar, to avoid neck injury if the dog tries to jump. Open wire baskets also need a tie in point, which you must add or provide yourself."
     },
     {
       "q": "How do I introduce my dog?",
-      "a": "Start with short rides on flat ground and let the dog get used to the carrier while stationary."
+      "a": "Start with the carrier on the ground and let the dog explore it, then try short rides on flat ground. Keep early trips brief and build up as the dog relaxes in the basket. Always wait for the harness to be clipped on before you start moving."
+    },
+    {
+      "q": "Will a front carrier affect steering?",
+      "a": "Yes. A front carrier puts the dog's weight over the steering, and the RAYMACE needs 9.8 inches of clearance to the tire. Test the trike with the carrier loaded in an empty area before you ride on the road."
     }
   ],
-  "bottomLine": "The Lunies Folding Rear Basket is the best dog carrier for most trikes. Choose the Large Lunies for room, the PetAmi for nervous dogs and the RAYMACE only for very small ones.",
+  "bottomLine": "The Lunies Folding Rear Basket is the best dog carrier for most trikes because of its 56 lb rating and its steady rear position over the axle. Choose the Large Lunies for room, the PetAmi for nervous dogs and the RAYMACE only for very small ones.",
   "amazonSearch": "dog carriers for tricycles",
   "relatedPaths": [
     "/accessories/best-baskets-for-adult-tricycles/",

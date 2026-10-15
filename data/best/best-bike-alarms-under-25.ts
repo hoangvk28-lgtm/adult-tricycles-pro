@@ -225,48 +225,59 @@ export const bestBikeAlarmsUnder25: BestArticle = {
   "howWeChose": [
     {
       "title": "Siren loudness",
-      "body": "We compared decibel claims, treating them as maker figures and not measured values."
+      "body": "We compared decibel claims from 110dB to 135dB, treating them as maker figures and not measured values, since a louder siren only helps if people can hear it from the street."
     },
     {
       "title": "Sensitivity control",
-      "body": "Adjustable sensitivity was weighted, since a trike in wind can trigger a false alarm."
+      "body": "Adjustable sensitivity was weighted heavily, because a budget alarm on a trike in wind will false alarm unless you can turn it down, and an owner who gets annoyed will stop arming it."
     },
     {
       "title": "Battery and remote",
-      "body": "Rechargeable batteries and remote range were compared for convenience."
+      "body": "Rechargeable batteries and remote range were compared for convenience, from the 66 ft of one WSDCAM to the 260 ft of the other, since arming should not mean walking to the trike."
+    },
+    {
+      "title": "Weather rating",
+      "body": "IP55 and IP65 ratings were noted because an inexpensive alarm on an outdoor trike has to survive rain, and the water rating differs between these units."
     },
     {
       "title": "Alarms only",
-      "body": "A disc brake lock was dropped because trikes rarely have a disc to lock."
+      "body": "A disc brake lock was dropped because trikes rarely have a disc rotor to lock, so every pick here works on any frame."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Loudness",
       "paragraphs": [
-        "A siren in the 110 to 135 dB range gets attention, but the claim is the maker's own.",
-        "Choose the loudest you can accept, with a volume control for quiet places."
+        "Decibels measure siren volume, and these units claim between 110dB and 135dB. The figure is the maker's own, so it tells you the order of loudness rather than an exact level.",
+        "Choose the loudest you can accept, then look for a volume control, like the three levels on the Geevon, so it can be turned down in quiet places. Try it at home before parking in public."
       ]
     },
     {
       "title": "Sensitivity",
       "paragraphs": [
-        "Too sensitive and wind or a passing person triggers it. Too low and a gentle roll away does nothing.",
-        "Pick a model with several levels and test it at home before relying on it."
+        "The sensor decides how much movement sets off the siren. Too sensitive and wind or a passing person triggers it; too low and a gentle roll away does nothing.",
+        "Pick a model with several levels, such as the seven on the NineLeaf or the WSDCAM 113dB, and try it at home. Push the trike a little, then lower the setting until a breeze no longer sets it off."
       ]
     },
     {
-      "title": "Battery",
+      "title": "Battery and remote range",
       "paragraphs": [
-        "Rechargeable alarms need charging, and a dead alarm protects nothing.",
-        "Charge on a regular schedule, and check the light before leaving the trike."
+        "A dead alarm protects nothing, so the battery type matters. The WSDCAM rechargeable has a 700mAh lithium cell, and the NineLeaf adds a tail light on 1 to 3 months per charge.",
+        "Charge on a regular schedule and check the indicator before leaving the trike. Compare the remote ranges too, since 66 ft is fine for a driveway but short for a large lot."
+      ]
+    },
+    {
+      "title": "Weather protection",
+      "paragraphs": [
+        "The Geevon and Antfire carry IP65 while the WSDCAM 113dB is rated IP55. Both resist splashes, but IP65 is the better bet for a trike parked in open rain or sprayed by passing cars.",
+        "Match the rating to your parking spot. A covered porch tolerates IP55, while a bike rack in open weather suits IP65. Wipe the case dry after a storm."
       ]
     },
     {
       "title": "Not a lock",
       "paragraphs": [
-        "An alarm makes noise but does not stop a thief from carrying a trike away or cutting a lock.",
-        "Use it with a lock, from our U-lock and chain lock pillar guides."
+        "An alarm makes noise but does not stop a thief from cutting a lock or carrying a trike to a van.",
+        "Use it with a lock, from our U-lock and chain lock pillar guides, and anchor the trike to something fixed. A thief then has to defeat the steel and deal with the noise at once, and a lock stays useful when the alarm battery is flat."
       ]
     }
   ],
@@ -283,27 +294,27 @@ export const bestBikeAlarmsUnder25: BestArticle = {
           [
             "Public bike rack",
             "Geevon 135dB Bike Alarm",
-            "Loudest siren here"
+            "Loudest siren here, with IP65 protection."
           ],
           [
             "Large yard or driveway",
-            "WSDCAM USB Rechargeable Alarm",
-            "260 ft remote range"
+            "WSDCAM USB Rechargeable Bike Alarm",
+            "Remote works up to 260 ft away."
           ],
           [
             "Windy spot",
-            "WSDCAM 113dB Wireless Alarm",
-            "Seven sensitivity levels"
+            "WSDCAM 113dB Wireless Bike Alarm",
+            "Seven sensitivity levels let you dial it down."
           ],
           [
             "Want rear light too",
             "NineLeaf Tail Light with Alarm",
-            "Light and alarm in one"
+            "Brake light, tail light and alarm in one unit."
           ],
           [
             "Want a horn",
-            "Antfire 120dB Horn",
-            "Horn plus alarm"
+            "Antfire 120dB Electric Bike Horn",
+            "Horn with an anti-theft alarm mode."
           ]
         ]
       }
@@ -313,11 +324,11 @@ export const bestBikeAlarmsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Dedicated",
-          "text": "The Geevon and both WSDCAM units only do alarm work, with louder sirens and better control."
+          "text": "The Geevon and both WSDCAM units only do alarm work, so their sirens and controls are the focus. The Geevon adds IP65 and a remote, while the WSDCAM pair offer range and fine adjustment."
         },
         {
           "label": "All-in-one",
-          "text": "The NineLeaf and Antfire add a light or horn, saving space but with a weaker alarm."
+          "text": "The NineLeaf and Antfire add a tail light or a horn, saving space and money, but their alarm is less capable. The NineLeaf also puts two jobs on one battery, so a failure loses both."
         }
       ],
       "note": "Most trike owners should choose a dedicated alarm like the Geevon."
@@ -327,11 +338,11 @@ export const bestBikeAlarmsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Adjustable volume and sensitivity so a neighbor walking by does not set it off."
+          "text": "Adjustable volume and sensitivity so a neighbor walking by does not set it off, and a remote so you can silence it without hunting for a button."
         },
         {
           "label": "In this comparison",
-          "text": "The Geevon and NineLeaf both have three volume levels and several sensitivity levels."
+          "text": "The Geevon has three volume levels and adjustable sensitivity, and the NineLeaf has seven sensitivity levels. Either lets you tune the alarm to a tight hallway."
         }
       ]
     },
@@ -340,11 +351,11 @@ export const bestBikeAlarmsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You own an electric trike or park in a city. See our full alarm guide for GPS and app-linked units."
+          "text": "You own an electric trike or park in a busy city. See our full alarm guide for GPS and app-linked units, since a siren alone gives no help locating a stolen trike."
         },
         {
           "label": "Save if",
-          "text": "You park near the house. The Geevon or WSDCAM is enough."
+          "text": "You park near the house or in a shed. The Geevon or a WSDCAM is enough, and the tail light combination only makes sense if you ride at night."
         }
       ]
     }
@@ -352,26 +363,30 @@ export const bestBikeAlarmsUnder25: BestArticle = {
   "faq": [
     {
       "q": "Will an alarm stop a thief?",
-      "a": "It deters opportunists because it draws attention, but a determined thief can still cut a lock and carry the trike. Always lock it too."
+      "a": "It deters opportunists because it draws attention, but a determined thief can still cut a lock and carry the trike. Always lock it to something fixed as well, and treat the alarm as a second layer."
     },
     {
       "q": "How do I avoid false alarms?",
-      "a": "Lower the sensitivity and test it. Wind, passing people and bumps can trigger a high setting."
+      "a": "Lower the sensitivity and try it at home. Wind, passing people and bumps can trigger a high setting, so start low and raise it only until a firm push sets it off. The NineLeaf and the WSDCAM 113dB both offer seven sensitivity levels."
     },
     {
       "q": "Does the remote matter?",
-      "a": "Yes, because arming and disarming from a distance is easier than pressing buttons. Range ranges from 66 to 260 feet."
+      "a": "Yes, because arming and disarming from a distance is easier than pressing buttons on the trike. The remote range runs from 66 feet on one WSDCAM to 260 feet on the other, so match it to your parking space."
     },
     {
       "q": "How often should I charge it?",
-      "a": "Follow the maker's guidance, but check the battery monthly. A tail light alarm may last one to three months."
+      "a": "Follow the maker's guidance, but check the battery monthly. The NineLeaf tail light alarm lasts one to three months, and a 700mAh unit like the rechargeable WSDCAM should be topped up before a long trip."
     },
     {
       "q": "Can I mount it on a trike?",
-      "a": "Yes, on a frame tube or basket frame by bracket, tie or tape. Hide it from view where you can."
+      "a": "Yes, on a frame tube or basket frame using a bracket, cable ties or tape, depending on the model. Hide it from view where you can, with the speaker facing outward so the sound carries."
+    },
+    {
+      "q": "Is the Antfire really an alarm?",
+      "a": "It is mainly a 120dB horn with an anti-theft alarm button, so the alarm side is basic. It suits riders who want a loud horn first and a basic deterrent second. A Geevon or WSDCAM gives more control over how it reacts to movement."
     }
   ],
-  "bottomLine": "A budget alarm adds noise, not security. The Geevon is the best deterrent for its volume and remote, and the WSDCAM units offer range and control. Pair any of them with a real lock, and see our full trike alarm guide for more.",
+  "bottomLine": "A budget alarm adds noise, not security. The Geevon is the best deterrent for its volume and remote, and the WSDCAM units offer range and control. Pick the NineLeaf only if you also need a light. Pair any of them with a real lock, and see our full trike alarm guide for more.",
   "amazonSearch": "bike alarms under $25",
   "relatedPaths": [
     "/accessories/best-bike-alarms-for-adult-tricycles/",

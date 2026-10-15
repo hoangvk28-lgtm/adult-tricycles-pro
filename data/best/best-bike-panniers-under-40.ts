@@ -225,49 +225,56 @@ export const bestBikePanniersUnder40: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Capacity",
-      "body": "We compared stated litres and layout."
+      "title": "Mount system",
+      "body": "We compared hooks, straps and velcro, since the attachment decides whether a bag stays steady over bumps on a wide trike rack."
     },
     {
-      "title": "Attachment",
-      "body": "Strap or hook systems decide stability on a rack."
-    },
-    {
-      "title": "Weather",
-      "body": "Rain covers and zippers were weighed."
+      "title": "Waterproofing",
+      "body": "We checked for rain covers, welded seams and water resistant zippers, because soft bags soak through in a downpour and a cover is not always on the bag."
     },
     {
       "title": "Rack width",
-      "body": "Narrow-rack limits matter on trikes."
+      "body": "We noted rack width limits, since trike racks are wider than bicycle racks and some panniers only suit narrow ones."
+    },
+    {
+      "title": "Capacity",
+      "body": "We compared liters, from 7L to 40L total, to match small errands, tool kits and weekly groceries without paying for space you will not use."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Hook systems vs straps",
+      "title": "Hooks versus straps",
       "paragraphs": [
-        "Side panniers hang on hooks, trunk bags strap flat.",
-        "Pick straps for a wide platform."
+        "Hook systems clip onto rack tubes and hold a bag firmly in place. Strap systems wrap around a rack or platform and suit wide, flat surfaces but can loosen with bumps.",
+        "The KEMIMOTO uses six top straps and two side hooks. The ROCKBROS 15L uses straps and buckles, the ROCKBROS 9L uses four velcro straps, and the JXFUKAL uses two velcro straps, so check them each ride."
       ]
     },
     {
       "title": "Waterproofing claims",
       "paragraphs": [
-        "Most budget bags are water resistant, with a cover for heavy rain.",
-        "Confirm a rain cover is included."
+        "Rain covers and water resistant zippers keep out most rain, but a bag is not truly waterproof unless its seams are sealed. Soft fabric also absorbs water if the cover is not on.",
+        "The ROCKBROS 15L, ROCKBROS 9L, KEMIMOTO and JXFUKAL all include a rain cover, and the 9L adds water resistant zippers. The WOTOW has no stated rain cover, so bag valuables in plastic."
       ]
     },
     {
       "title": "Rack width",
       "paragraphs": [
-        "Panniers need a rack narrow enough.",
-        "Measure your rack."
+        "Trike racks are often wider and flatter than bicycle racks, and a pannier that hangs low can rub the rear wheel. A bag that is too wide can also snag on gates.",
+        "Measure the rack width and height. The KEMIMOTO fits racks under 6 inches only. Straps bags like the ROCKBROS 15L and JXFUKAL sit on top of the rack, which avoids the wheel and suits platforms."
       ]
     },
     {
-      "title": "Capacity",
+      "title": "Capacity and use",
       "paragraphs": [
-        "Litres alone can mislead.",
-        "Compare dimensions."
+        "Liters describe interior volume, but real space depends on shape. A small bag suits tools and a light jacket, while groceries need a pair or a large bag.",
+        "Use 7L to 9L for tools and valuables, 15L for daily errands and 40L total for groceries and trips. The JXFUKAL comes in 7L, 9L, 10L or 12L, so choose by what you carry."
+      ]
+    },
+    {
+      "title": "Bag shape and protection",
+      "paragraphs": [
+        "A hard shell keeps its form and protects fragile items, while soft bags sag when empty and can collapse against a wheel. Foam padding adds some structure.",
+        "The ROCKBROS 9L is a hard shell, ideal for tools and valuables. The ROCKBROS 15L has a foam pad that holds shape, and the JXFUKAL has PE foam lining, so choose a firmer bag for fragile items."
       ]
     }
   ],
@@ -284,22 +291,27 @@ export const bestBikePanniersUnder40: BestArticle = {
           [
             "Daily errands",
             "ROCKBROS 15L Rear Rack Bag",
-            "15L with pockets"
+            "15L with rain cover and fold-out side pockets"
           ],
           [
             "Tools and valuables",
             "ROCKBROS 9L Hard Shell Rack Bag",
-            "Holds shape"
+            "Hard shell with water resistant zippers"
           ],
           [
-            "Groceries",
+            "Groceries and trips",
             "KEMIMOTO 40L Panniers",
-            "40L total"
+            "40L total with rain cover and bottle pockets"
           ],
           [
-            "Light commute",
+            "A light commute with a hidden strap",
             "WOTOW 8L Rear Rack Bag",
-            "Shoulder strap"
+            "Hidden shoulder strap and laminated zipper"
+          ],
+          [
+            "Small trips in a compact size",
+            "JXFUKAL 7L Rear Rack Bag",
+            "Several size options with foam lining and rain cover"
           ]
         ]
       }
@@ -309,25 +321,25 @@ export const bestBikePanniersUnder40: BestArticle = {
       "cards": [
         {
           "label": "Trunk bag",
-          "text": "ROCKBROS, WOTOW and JXFUKAL strap flat on a wide platform."
+          "text": "The ROCKBROS 15L, ROCKBROS 9L, WOTOW 8L and JXFUKAL 7L sit on top of the rack, so they clear the wheels and suit wide platforms. They hold less, but are quick to attach and carry off the trike."
         },
         {
           "label": "Side panniers",
-          "text": "KEMIMOTO carries 40L but needs a narrow rack."
+          "text": "The KEMIMOTO 40L Panniers hang on both sides and hold 40L in total, which suits groceries. They need a rack under 6 inches and lack a top trunk bag, so check the width."
         }
       ],
-      "note": "Most trike riders should default to a trunk bag."
+      "note": "Choose a trunk bag for wide platforms, and side panniers only if your rack suits them."
     },
     {
       "heading": "For Wide Trike Racks Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Strap mounting and no rack-width limit."
+          "text": "Look for a strap system that suits a wide platform, with a stated rack width, so the bag sits on top without touching the wheels."
         },
         {
           "label": "In this comparison",
-          "text": "The ROCKBROS 15L straps across the rack in four places."
+          "text": "The ROCKBROS 15L Rear Rack Bag and WOTOW 8L Rear Rack Bag use straps on top of the rack. The KEMIMOTO 40L Panniers need a rack under 6 inches."
         }
       ]
     },
@@ -336,11 +348,11 @@ export const bestBikePanniersUnder40: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you ride in heavy rain daily, since KEMIMOTO and ROCKBROS offer only covers."
+          "text": "You carry groceries or lots of gear, where the KEMIMOTO 40L Panniers give 40L total with a rain cover and bottle pockets."
         },
         {
           "label": "Save if",
-          "text": "you ride in fair weather, where WOTOW or JXFUKAL suffice."
+          "text": "You carry only tools or light items, where the WOTOW 8L Rear Rack Bag or JXFUKAL 7L Rear Rack Bag costs less and fits small racks."
         }
       ]
     }
@@ -348,26 +360,26 @@ export const bestBikePanniersUnder40: BestArticle = {
   "faq": [
     {
       "q": "Are these bags fully waterproof?",
-      "a": "They are water resistant and include rain covers."
+      "a": "Not entirely. Most rely on a rain cover or water resistant zippers rather than sealed seams. The ROCKBROS 15L, 9L, KEMIMOTO and JXFUKAL include a rain cover. The WOTOW has none stated, so line it with plastic for valuables."
     },
     {
-      "q": "Will KEMIMOTO fit a trike?",
-      "a": "Only on a rack narrower than 6 inches."
+      "q": "Will the KEMIMOTO fit a trike?",
+      "a": "Only if your rack is under 6 inches wide. Many trike racks are wider, and the bags also need to clear the wheels. Measure the rack and check the hook spacing before you order the KEMIMOTO 40L Panniers."
     },
     {
-      "q": "Which is best for a wide platform?",
-      "a": "The ROCKBROS 15L."
+      "q": "Which bag is best for a wide platform?",
+      "a": "A trunk bag that straps on top, such as the ROCKBROS 15L or JXFUKAL, suits a wide platform best, since it does not hang down beside the wheel. Measure the platform length and check the strap spread."
     },
     {
       "q": "Do trunk bags fit with panniers?",
-      "a": "KEMIMOTO is not compatible with top trunk bags."
+      "a": "Often, but only if the rack is long enough and the bags do not overlap. The KEMIMOTO has no top trunk bag, so you could add one. Check the rack length and keep total weight within the rack's limit."
     },
     {
       "q": "How secure are velcro straps?",
-      "a": "They hold light loads. Check them often."
+      "a": "They hold light loads on smooth racks, but can loosen on bumps or when wet. The ROCKBROS 9L uses four velcro straps and the JXFUKAL uses two. Re-tighten them each ride and avoid heavy loads."
     }
   ],
-  "bottomLine": "The ROCKBROS 15L is the best all-round pick. Choose the KEMIMOTO only if your rack is narrow.",
+  "bottomLine": "The ROCKBROS 15L Rear Rack Bag is the best overall pick for daily errands, with a rain cover and a foam pad. Choose the ROCKBROS 9L for tools, the KEMIMOTO 40L for groceries if your rack is narrow, the WOTOW 8L for light loads and the JXFUKAL 7L for small trips.",
   "amazonSearch": "bike panniers under $40",
   "relatedPaths": [
     "/accessories/best-panniers-for-adult-tricycles/",

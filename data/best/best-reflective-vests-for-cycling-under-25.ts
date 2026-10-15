@@ -112,48 +112,55 @@ export const bestReflectiveVestsForCyclingUnder25: BestArticle = {
   "howWeChose": [
     {
       "title": "Light output",
-      "body": "We compared stated light type and runtime, because a vest that is bright for 30 minutes is no use on a longer ride."
+      "body": "We compared the stated light type and runtime, because a vest that is bright for thirty minutes is no use on a longer ride."
     },
     {
       "title": "Adjustable fit",
-      "body": "We checked waist and shoulder ranges, since a vest must fit over layers and still stay in place."
+      "body": "We checked waist and shoulder ranges, since a vest must fit over layers and still stay put without sliding up to cover the lights."
     },
     {
       "title": "Weight and comfort",
-      "body": "We noted weight where stated, because a heavy chest light pulls on straps over a long ride."
+      "body": "We noted weight where it is given, because a heavy chest light pulls on the straps during a slow ride."
     },
     {
       "title": "Passive backup",
-      "body": "We looked at reflective material, because a vest should still be visible when the battery is flat."
+      "body": "We looked at the reflective material, because a vest should still show up in headlights when the battery goes flat."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "LED front and back",
+      "title": "Lights front and back",
       "paragraphs": [
-        "Lights on both sides make you visible from front and behind, while a rear-only vest leaves oncoming traffic unaware. A trike is wide, so oncoming drivers need cues as well.",
-        "Look for lights on both sides and check where the switch sits so you can reach it."
+        "Lights on both sides make you visible from front and behind, while a rear-only vest leaves oncoming traffic unaware. A trike is wide, so drivers coming toward you need cues as well.",
+        "Look for lights on both sides, and check where the switch sits so a gloved hand can reach it. The Topward has LEDs front and back."
       ]
     },
     {
       "title": "Chest light for seeing",
       "paragraphs": [
-        "A chest-mounted beam lights what you look at, but it can dazzle others if angled up and tilts down on an upright body. An adjustable beam solves this.",
-        "Check for adjustable angle and a stated lumen figure, and aim it at the ground ahead."
+        "A chest-mounted beam lights what you look at, but it can dazzle others if angled up and it tilts toward the road on an upright body. An adjustable angle solves this.",
+        "Check for an adjustable beam and a stated lumen figure. The Samlior offers 800 lumens at a 90 degree beam, so aim it at the ground ahead."
       ]
     },
     {
       "title": "Runtime by mode",
       "paragraphs": [
-        "High mode on a chest light can drain a battery in 3 hours, while flashing LEDs last much longer. Plan on the mode you will use.",
-        "Compare runtime for each mode and charge before long rides."
+        "High mode on a chest light can drain a battery in three hours, while flashing LEDs last much longer. The Samlior runs 3 to 9 hours and the Topward 5 to 9 hours.",
+        "Compare runtime for the mode you will use and charge before long rides. Carry a USB cable in the basket so a short stop can top the battery up."
       ]
     },
     {
       "title": "Adjustable size",
       "paragraphs": [
-        "Waist ranges such as 23 to 49 inches let the vest fit over a coat, and shoulder straps prevent slipping. A vest that rides up covers the lights.",
-        "Measure your chest or waist over the clothes you will wear."
+        "Waist ranges such as 23 to 49 inches let a vest fit over a coat, and shoulder straps prevent slipping. A vest that rides up covers the lights.",
+        "Measure your chest or waist over the thickest clothes you wear. The Samlior also gives a shoulder range of 15 to 27 inches."
+      ]
+    },
+    {
+      "title": "Weight on the torso",
+      "paragraphs": [
+        "A light vest is easy to forget, while a heavier vest with a chest light pulls forward. The Topward weighs 145 g, and the Samlior is heavier because of its light.",
+        "Try each strap setting with the battery on. On an upright trike the load sits on your chest the whole ride, so comfort adds up."
       ]
     }
   ],
@@ -170,22 +177,22 @@ export const bestReflectiveVestsForCyclingUnder25: BestArticle = {
           [
             "Lit commuter streets",
             "Topward LED Reflective Vest",
-            "Light weight and LEDs front and back"
+            "145 g with LEDs front and back"
           ],
           [
             "Unlit paths at dawn",
             "Samlior Running Vest With Chest Light",
-            "800 lumen adjustable beam"
+            "800 lumen chest light with an adjustable beam"
           ],
           [
             "Wearing over a winter coat",
             "Topward LED Reflective Vest",
-            "Waist up to 49 inches"
+            "Fits waists from 23 to 49 inches"
           ],
           [
-            "Need to see ahead",
+            "Need to see the path ahead",
             "Samlior Running Vest With Chest Light",
-            "Adjustable focus"
+            "90 degree beam you can tilt down"
           ]
         ]
       }
@@ -195,11 +202,11 @@ export const bestReflectiveVestsForCyclingUnder25: BestArticle = {
       "cards": [
         {
           "label": "Be seen",
-          "text": "The Topward adds LEDs and strips to mark your body for traffic."
+          "text": "The Topward adds LEDs and reflective strips to mark your body for traffic. It does not try to light the road."
         },
         {
           "label": "See ahead",
-          "text": "The Samlior adds a chest beam that lights the path as well."
+          "text": "The Samlior adds a chest beam that lights the path as well as marking you. It weighs more and runs only three hours on high."
         }
       ],
       "note": "Most riders should choose the Topward and use a proper headlight to see."
@@ -209,11 +216,11 @@ export const bestReflectiveVestsForCyclingUnder25: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Lights on the chest and back at torso height, with adjustable straps that keep them there."
+          "text": "Lights on the chest and back at torso height, with adjustable straps that keep them there even when you lean into a turn."
         },
         {
           "label": "In this comparison",
-          "text": "Both vests place lights on the torso, and the Samlior's beam can be tilted for an upright body."
+          "text": "Both vests place lights on the torso, and the Samlior's beam can be tilted for an upright body. The Topward adjusts over jackets without losing its position."
         }
       ]
     },
@@ -222,11 +229,11 @@ export const bestReflectiveVestsForCyclingUnder25: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want a vest with a longer runtime on bright modes than the Samlior's 3 hours."
+          "text": "You want a longer runtime on bright modes than the Samlior's three hours, or a heavier-duty setup for unlit roads."
         },
         {
           "label": "Save if",
-          "text": "You ride short lit routes. The Topward gives front and back visibility."
+          "text": "You ride short lit routes. The Topward gives front and back visibility at 145 g and charges in about two hours."
         }
       ]
     }
@@ -234,26 +241,26 @@ export const bestReflectiveVestsForCyclingUnder25: BestArticle = {
   "faq": [
     {
       "q": "Do I need a vest if my trike has lights?",
-      "a": "A vest adds visibility at torso height, where drivers look. Trike lights sit low, so a vest complements them."
+      "a": "A vest adds visibility at torso height, where drivers look. Trike lights sit low, so a vest complements them. Think of the two as separate layers rather than substitutes."
     },
     {
       "q": "How long do the vests run?",
-      "a": "The Topward runs 5 to 9 hours, and the Samlior runs 3 to 9 hours depending on mode."
+      "a": "The Topward runs 5 to 9 hours and the Samlior runs 3 to 9 hours, depending on mode. Charge before long rides, and use a flashing mode when you want the longest runtime."
     },
     {
       "q": "Will they fit over a jacket?",
-      "a": "Yes, the Topward adjusts from 23 to 49 inches at the waist and the Samlior from 28 to 49. Measure over your thickest layer."
+      "a": "Yes. The Topward adjusts from 23 to 49 inches at the waist and the Samlior from 28 to 49. Measure over your thickest layer and make sure the lights sit clear of the straps."
     },
     {
-      "q": "Is the Samlior chest light a replacement for a headlight?",
-      "a": "No. A bar-mounted headlight keeps a steady beam, while a chest light moves with your torso. Use both."
+      "q": "Can the Samlior chest light replace a headlight?",
+      "a": "No. A bar-mounted headlight keeps a steady beam, while a chest light moves with your torso. Use both, and aim the chest beam at the ground so it does not dazzle oncoming drivers."
     },
     {
       "q": "How do I wash an LED vest?",
-      "a": "Remove the battery pack or light, check the maker's care guidance and avoid soaking electronics. Wipe the fabric gently."
+      "a": "Remove the battery pack or light, follow the maker's care guidance and avoid soaking the electronics. Wipe the fabric gently and let it dry fully before reconnecting the battery, so moisture never reaches the electronics."
     }
   ],
-  "bottomLine": "The Topward LED vest is the better everyday pick for most trike riders thanks to its low weight and front and rear LEDs. The Samlior suits dark paths with its adjustable chest light. Check waist range before ordering.",
+  "bottomLine": "The Topward LED vest is the better everyday pick for most trike riders thanks to its 145 g weight, front and rear LEDs and a waist range up to 49 inches. The Samlior suits dark paths with its 800 lumen adjustable chest light. Check your waist range over your jacket before ordering.",
   "amazonSearch": "reflective cycling vests under $25",
   "relatedPaths": [
     "/accessories/best-reflective-vests-for-cycling/",

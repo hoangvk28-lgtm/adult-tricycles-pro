@@ -148,48 +148,55 @@ export const bestPortableBikePumpsWithPressureGauges: BestArticle = {
   "howWeChose": [
     {
       "title": "Gauge usefulness",
-      "body": "Readable scales and target ranges counted for more than a gauge that simply exists."
+      "body": "We gave more weight to a readable scale with target ranges than to a gauge that merely exists, because a trike rider matching three tires needs numbers they can trust."
     },
     {
       "title": "Air per stroke",
-      "body": "Barrel size decides how many strokes a wide trike tire needs."
+      "body": "We compared barrel design, since a wide trike tire takes far more air than a road tire and a slim barrel turns a top-up into a long workout."
     },
     {
       "title": "Valve fit",
-      "body": "Head design and whether adapters are needed mattered on awkward rear valves."
+      "body": "We checked head design and whether adapters are needed, because rear valves tucked behind a basket are awkward and a poor seal wastes every stroke."
     },
     {
       "title": "Carry on a trike",
-      "body": "Mounts, size and weight decided whether a pump rides in a basket or on a rack."
+      "body": "We weighed mounts, size and weight to see whether a pump rides in a basket, in a seat bag or on a rack tube without rattling loose."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Inline vs dial gauges",
+      "title": "Inline versus barrel gauges",
       "paragraphs": [
-        "A dial on the hose shows pressure as you pump, while a gauge on the barrel reads only when the head is attached.",
-        "A small gauge's accuracy at 8 to 15 psi is often poor. Check its scale and confirm the first fill with a separate gauge."
+        "A dial on the hose shows pressure while you pump, while a gauge on the barrel often reads only when the head is attached and the pump is at rest. Small gauges are often poor at 8 to 15 psi, so treat low readings with caution.",
+        "Check the scale before buying. After the first fill, confirm the reading with a separate gauge, then note how far the built-in gauge is off so you can correct for it."
       ]
     },
     {
       "title": "Barrel size and strokes",
       "paragraphs": [
-        "A wide trike tire takes much more air than a road tire. A slim 10 inch barrel needs many strokes.",
-        "A telescoping or two-stage barrel moves more per stroke. Choose it if you will fill tires on the road."
+        "A wide trike tire needs much more air than a road tire, and a slim 10 inch barrel needs many strokes to deliver it. A telescoping or two-stage barrel moves more air per stroke and spares the hands.",
+        "Choose the telescoping Blackburn if you will fill tires on the road. Count strokes on the first home fill, and plan your carry pump around that number."
       ]
     },
     {
       "title": "Hose reach",
       "paragraphs": [
-        "Valves behind a rear basket are hard to reach, and a stiff head puts side load on the valve stem.",
-        "A retractable or flexible hose lets you reach the valve without bending it."
+        "Valves behind a rear basket or tucked beside a fender are hard to reach, and a stiff pump head puts side load on the valve stem. Over time that bends the stem and starts a slow leak.",
+        "A retractable or flexible hose lets the pump rest on the ground while the head stays square on the valve. Test the reach on your rear wheels before trusting any pump on the road."
       ]
     },
     {
       "title": "Mounting",
       "paragraphs": [
-        "A pump rattling in a basket can be damaged or lost, and a bracket keeps it secure.",
-        "Look for an included bracket and check that it fits the diameter of a trike rack tube."
+        "A pump that rattles loose in a basket can crack its gauge or vanish on a bumpy path, and a bracket keeps it secure. Trike racks use tubes that differ from bicycle frames, so a bracket meant for a bike may not clamp on.",
+        "Look for an included bracket, then measure the diameter of your rack tube and compare it with what the bracket accepts. Test it with a shake before the first ride."
+      ]
+    },
+    {
+      "title": "Matching three tires",
+      "paragraphs": [
+        "A trike has two rear tires that should read the same and a front that usually runs differently. Mismatched rear pressure makes the trike pull to one side under braking.",
+        "Pick a pump with a memory or stop function, or fill both rear tires back to back with one gauge. Write the target numbers on a tag you keep in the basket."
       ]
     }
   ],
@@ -205,18 +212,23 @@ export const bestPortableBikePumpsWithPressureGauges: BestArticle = {
         "rows": [
           [
             "Mounted on a rack tube",
-            "Blackburn Telescoping Frame Pump",
-            "Bracket included, readable gauge"
+            "Blackburn Telescoping Bicycle Frame Pump with Gauge",
+            "Bracket included and a readable gauge with target ranges"
           ],
           [
             "Loose in a basket or pocket",
-            "NUWAB 10 Inch Mini Pump",
-            "Lightest at 127 g"
+            "NUWAB 10 Inch Mini Bike Pump with Gauge",
+            "Lightest of the three at 127 g"
           ],
           [
             "In a seat bag, no hand effort",
-            "ETENWOLF S0 Mini Electric",
-            "Palm-sized and electric"
+            "ETENWOLF S0 Mini Electric Bike Pump with Gauge",
+            "Palm-size electric pump at 0.54 lbs"
+          ],
+          [
+            "Wide tire, roadside fill by hand",
+            "Blackburn Telescoping Bicycle Frame Pump with Gauge",
+            "Two-stage barrel moves more air per stroke"
           ]
         ]
       }
@@ -226,25 +238,25 @@ export const bestPortableBikePumpsWithPressureGauges: BestArticle = {
       "cards": [
         {
           "label": "Manual",
-          "text": "The Blackburn and NUWAB never run out of charge, but each stroke takes effort and a wide tire takes many."
+          "text": "The Blackburn and NUWAB never run out of charge, but every stroke takes effort and a wide trike tire needs many of them. Cold hands and sore wrists make that chore worse."
         },
         {
           "label": "Electric",
-          "text": "The ETENWOLF S0 fills with a button press and shows pressure on its readout, at the cost of charging."
+          "text": "The ETENWOLF S0 fills with a button press and shows pressure as it works, with a 2400 mAh battery. The cost is charging it, and it slows down on large tires."
         }
       ],
-      "note": "Most riders with healthy hands should pick the Blackburn, and those with sore hands should pick the ETENWOLF S0."
+      "note": "Riders with healthy hands should pick the Blackburn, and riders with sore hands should pick the ETENWOLF S0."
     },
     {
       "heading": "For Matching Three Tires Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A gauge that reads clearly at low psi and a memory or stop function so the second rear tire matches the first."
+          "text": "A gauge that reads clearly at low psi and a memory or stop function, so the second rear tire gets exactly the same fill as the first."
         },
         {
           "label": "In this comparison",
-          "text": "The ETENWOLF S0's memory function repeats a preset on each tire, and the Blackburn's gauge shows target ranges by bike type."
+          "text": "The ETENWOLF S0 has a memory function that repeats a preset on each tire. The Blackburn gauge shows target ranges by bike type, which helps you aim before the first stroke."
         }
       ]
     },
@@ -253,11 +265,11 @@ export const bestPortableBikePumpsWithPressureGauges: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride far from home or have limited grip. The ETENWOLF S0 is the one to buy."
+          "text": "You ride far from home or have limited grip strength. The ETENWOLF S0 removes the hand effort and handles up to 150 PSI, with adapters for both valve types."
         },
         {
           "label": "Save if",
-          "text": "You ride short loops. The NUWAB covers an emergency at little cost."
+          "text": "You ride short loops and carry a pump only as insurance. The NUWAB weighs 127 g and covers an emergency top-up with little fuss."
         }
       ]
     }
@@ -265,26 +277,26 @@ export const bestPortableBikePumpsWithPressureGauges: BestArticle = {
   "faq": [
     {
       "q": "Are built-in pump gauges accurate?",
-      "a": "They are good for a rough check, not for exact matching. Confirm the first fill against a separate gauge, particularly at low trike pressures."
+      "a": "They are good for a rough check, not for exact matching. Small dials lose precision at the low pressures trikes use. Confirm your first fill with a separate gauge, then note how far the built-in reading is off for later fills."
     },
     {
       "q": "Which pump suits fat trike tires?",
-      "a": "The Blackburn's telescoping barrel moves more air per stroke than the NUWAB. For fully fat tires, see our fat tire pump guide."
+      "a": "The Blackburn's telescoping barrel moves more air per stroke than the NUWAB, so it is the better manual choice for large-volume tires. For fully fat tires, our fat tire pump guide covers pumps built for that job."
     },
     {
       "q": "Do I need an adapter for Presta valves?",
-      "a": "The Blackburn and NUWAB fit both valve types directly. The ETENWOLF S0 uses adapters, so check they are in the box."
+      "a": "The Blackburn has an AnyValve head and the NUWAB fits both types directly. The ETENWOLF S0 uses Schrader and Presta adapters, so make sure they are in the box and stored in the bag with the pump."
     },
     {
       "q": "Can I mount a pump on a trike?",
-      "a": "Yes, if a bracket fits a rack tube. The Blackburn includes one, so check its diameter against your rack."
+      "a": "Yes, if the bracket fits a rack tube. The Blackburn includes a bracket, so measure the diameter of your rack tube first and test the clamp before riding with it."
     },
     {
       "q": "Is an electric pump worth it?",
-      "a": "If hand strength is limited, yes. The ETENWOLF S0 weighs 0.54 lbs and removes the effort."
+      "a": "If hand strength is limited, yes. The ETENWOLF S0 weighs 0.54 lbs and removes the effort, but it needs charging and fills large tires more slowly. Charge it before any ride where you might need a top-up."
     }
   ],
-  "bottomLine": "The Blackburn Telescoping Frame Pump is the best portable pump with a gauge for most trike riders, and the ETENWOLF S0 is the answer when hand strength is the problem.",
+  "bottomLine": "The Blackburn Telescoping Frame Pump is the best portable pump with a gauge for most trike riders, combining a two-stage barrel, a bracket and target ranges on the dial. The ETENWOLF S0 is the answer when hand strength is the problem, and the NUWAB is the light emergency carry. Confirm the first fill with a second gauge.",
   "amazonSearch": "portable pumps with gauges",
   "relatedPaths": [
     "/accessories/best-portable-bike-pumps-for-tricycle-riders/",

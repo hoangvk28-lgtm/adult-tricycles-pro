@@ -226,48 +226,55 @@ export const bestPanniersForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Attachment honesty",
-      "body": "Bags that state a hook range or rack width ranked ahead of those that say universal."
+      "body": "Bags that state a hook range or rack width ranked ahead of vague universal fit, such as the Favoto 8 to 16mm hooks and the KEMIMOTO under 6 inch rack limit."
     },
     {
       "title": "Waterproofing",
-      "body": "Fabric, seams, zippers and rain covers were compared."
+      "body": "We compared the Favoto IPX6 fabric, the PU-coated Kinetrail cloth, the waterproof EVA and polyester bags and the KEMIMOTO rain cover, since wet groceries ruin a ride."
     },
     {
       "title": "Capacity",
-      "body": "Pairs from 34L to 48L and single bags from 10L to 12L were matched to different jobs."
+      "body": "Pairs from 34L to 48L and single bags from 10L to 12L were matched to different jobs, from weekly shopping to a lock and a jacket."
     },
     {
-      "title": "Heel and spoke clearance",
-      "body": "Shape and straps were weighed for trike geometry."
+      "title": "Heel and rack clearance",
+      "body": "Shape and straps were weighed for trike geometry, because a bag that hangs too far back or too low can rub the rear wheel or catch a heel."
     }
   ],
   "whatToLookFor": [
     {
       "title": "What the bag hooks onto",
       "paragraphs": [
-        "A pannier hangs from a rack tube, usually 8 to 16 mm. A trike basket rim may be thicker or flat.",
-        "Measure the rim or rack before ordering."
+        "A pannier hangs from a rack tube, and the hooks have a set range, such as the Favoto 8 to 16mm. A trike basket rim may be thicker or flat, and then the hooks simply will not close.",
+        "Measure the rim or rack tube with calipers before ordering. If it falls outside the stated range, choose a strap or hook-and-loop mount instead."
       ]
     },
     {
       "title": "Rack width limit",
       "paragraphs": [
-        "Several bags support racks under 6 inches wide, and trike cargo frames can be wider.",
-        "Check the width at the point of attachment."
+        "The KEMIMOTO supports racks under 6 inches wide, and trike cargo frames can be wider than that. A wide platform may leave nowhere for the side hooks to grip.",
+        "Check the rack width at the exact point of attachment. The Kinetrail 10L and MOSISO sit on a flat rack surface with four straps, so they suit wide platforms better."
       ]
     },
     {
       "title": "Waterproofing",
       "paragraphs": [
-        "PVC tarpaulin with welded seams and a roll-top keeps water out better than stitched fabric.",
-        "A rain cover helps with cheaper fabrics."
+        "Fabric, seams and zippers decide how long a bag stays dry. IPX6 on the Favoto speaks of water jets, a rain cover adds a second layer, and a coated cloth sheds drizzle.",
+        "Read the exact rating or cover in the details rather than the word waterproof. Heavy rain still needs a cover or a liner, even on the bags here."
       ]
     },
     {
       "title": "Clearance",
       "paragraphs": [
-        "A bag that hangs too far back can touch the rear wheels on a trike.",
-        "Look for angled shapes and side stays."
+        "A bag that hangs too far back can touch the rear wheels on a trike, and a wide trike axle puts the wheels close to the sides. A bag that swings can also catch your heels while pedaling.",
+        "Look for angled shapes and side stays, such as the KEMIMOTO heel clearance angle. Fit the bag, load it and spin the wheel to check for rubbing."
+      ]
+    },
+    {
+      "title": "Weight limit and balance",
+      "paragraphs": [
+        "A pannier has a load limit, such as the Favoto up to 22 lb. Uneven loads between left and right pull the trike toward one side in turns.",
+        "Weigh your usual load and balance it between both bags. Others in this group do not state a limit, so keep heavy items low and check how the mount holds."
       ]
     }
   ],
@@ -283,23 +290,28 @@ export const bestPanniersForAdultTricycles: BestArticle = {
         "rows": [
           [
             "Weekly grocery run",
-            "Favoto 48L",
-            "48L pair, IPX6"
+            "Favoto 48L Waterproof Pannier Pair",
+            "48L pair with IPX6 waterproof fabric"
           ],
           [
             "Variable loads",
-            "Kinetrail expandable",
-            "25 to 35L"
+            "Kinetrail Expandable 25 to 35L Panniers",
+            "Side panels expand from 25 to 35L"
           ],
           [
-            "Daily commute items",
-            "Kinetrail 10L",
-            "Waterproof zippers"
+            "Rain exposed commute",
+            "KEMIMOTO 34L Pannier Pair with Rain Cover",
+            "Rain cover and heel clearance angle"
           ],
           [
-            "Small valuables",
-            "MOSISO",
-            "Six pockets"
+            "Tools, lock and a jacket",
+            "Kinetrail 10L Rack Bag, 3 in 1",
+            "Waterproof EVA that converts to a shoulder bag"
+          ],
+          [
+            "Phone, wallet and daily items",
+            "MOSISO Waterproof Rack Trunk Bag",
+            "Six small pockets and a shoulder strap"
           ]
         ]
       }
@@ -309,11 +321,11 @@ export const bestPanniersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Panniers",
-          "text": "Waterproof, removable, and easy to carry indoors, but need a rack tube to hook on."
+          "text": "Waterproof, removable and easy to carry indoors, but they need a rack tube or rim to hook onto. Pairs like the Favoto split the weight left and right."
         },
         {
           "label": "Basket",
-          "text": "Already fitted and often larger, but open to rain unless you add a liner."
+          "text": "Already fitted and often larger, but open to rain unless you add a liner. A basket needs no hooks, so it avoids the rim-thickness and rack-width fit problems."
         }
       ],
       "note": "Most trike riders do well with the basket plus a liner; add panniers only if you have a rack."
@@ -323,11 +335,11 @@ export const bestPanniersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A pair with 30L or more, a roll-top or zip closure and a hook range matching your rack."
+          "text": "A pair with 30L or more, a secure closure and a hook range matching your rack, so frozen items stay dry and the bags stay level."
         },
         {
           "label": "In this comparison",
-          "text": "The Favoto 48L and the KEMIMOTO 34L fit best."
+          "text": "The Favoto 48L and the KEMIMOTO 34L fit best. The Kinetrail expandable panniers suit uneven loads with 25 to 35L of space."
         }
       ]
     },
@@ -336,11 +348,11 @@ export const bestPanniersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride in rain often, where the Favoto IPX6 fabric or the KEMIMOTO rain cover pays off."
+          "text": "You ride in rain often, where the Favoto IPX6 fabric or the KEMIMOTO rain cover pays off in dry cargo and fewer soaked bags."
         },
         {
           "label": "Save if",
-          "text": "You carry light items, where the MOSISO or Kinetrail 10L is enough."
+          "text": "You carry light items, where the MOSISO or Kinetrail 10L is enough and spares you the cost of a full pair."
         }
       ]
     }
@@ -348,26 +360,30 @@ export const bestPanniersForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Will panniers fit a trike?",
-      "a": "Only if the trike has a rack tube or rim they can hook onto. Measure it first."
+      "a": "Only if the trike has a rack tube or rim they can hook onto. Measure it first, and compare it with the stated range such as 8 to 16mm for the Favoto."
     },
     {
       "q": "How much can panniers hold?",
-      "a": "The Favoto pair supports up to 22 lb. Others do not state a limit, so check."
+      "a": "The Favoto pair supports up to 22 lb, with 24L in each bag. Others do not state a limit, so check the product details and keep loads moderate, centered and low."
     },
     {
       "q": "Are these bags fully waterproof?",
-      "a": "The Favoto is described as IPX6, the KEMIMOTO includes a rain cover and others are water resistant. Heavy rain still needs a cover or liner."
+      "a": "The Favoto is rated IPX6, the KEMIMOTO includes a rain cover and the Kinetrail panniers use PU-coated fabric. Heavy rain still calls for a cover or liner, so do not assume a bag is submersible."
     },
     {
       "q": "What is the hook size?",
-      "a": "The Favoto states 8 to 16 mm. Other bags say fits most racks, so measure."
+      "a": "The Favoto states 8 to 16mm with 3-point quick-release clips. For other bags, read the mounting details or measure your rack and compare, since a loose hook can drop a bag."
     },
     {
       "q": "Do panniers rub the rear wheels?",
-      "a": "They can on a wide trike frame. Look for angled shapes and check the clearance."
+      "a": "They can on a wide trike frame. Look for angled shapes like the KEMIMOTO, load the bag, and spin the wheel by hand to check clearance before your first ride."
+    },
+    {
+      "q": "Can I use a trunk bag instead of panniers?",
+      "a": "Yes, if your rack has a flat surface. The Kinetrail 10L and MOSISO 12L mount with four hook-and-loop straps, and both carry over the shoulder. They suit small loads rather than groceries."
     }
   ],
-  "bottomLine": "Panniers need something to hook onto. The Favoto 48L is the best match when you can measure a tube, the KEMIMOTO adds a rain cover, and the smaller bags suit light loads. Check rack width and rim thickness first.",
+  "bottomLine": "Panniers need something to hook onto, so measure first. The Favoto 48L is the best match when your rack tube is 8 to 16mm, the KEMIMOTO adds a rain cover for narrow racks, the Kinetrail expandable pair handles variable loads, and the smaller bags suit light loads.",
   "amazonSearch": "panniers for adult tricycles",
   "relatedPaths": [
     "/accessories/best-rear-racks-for-adult-tricycles/",

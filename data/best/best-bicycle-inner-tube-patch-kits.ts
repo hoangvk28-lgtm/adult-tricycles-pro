@@ -216,48 +216,55 @@ export const bestBicycleInnerTubePatchKits: BestArticle = {
   "howWeChose": [
     {
       "title": "Patch count",
-      "body": "A trike has three tubes, so more patches ranked higher."
+      "body": "A trike has three tubes, so more patches ranked higher, because a bad stretch of road can puncture more than one tire in a day."
     },
     {
       "title": "Glue versus glueless",
-      "body": "We separated vulcanizing glue kits from stick-on patches because they behave differently."
+      "body": "We separated vulcanizing glue kits from stick-on patches because they behave differently, with glue lasting longer and glueless working faster."
     },
     {
       "title": "Tools included",
-      "body": "Levers, scuffers and valve tools make a kit complete."
+      "body": "Levers, scuffers and valve tools make a kit complete, so we noted which kits need a separate tool pouch and which do not."
     },
     {
       "title": "Carry size",
-      "body": "A kit you will not carry is no help, so size and weight mattered."
+      "body": "A kit you will not carry is no help, so size and weight mattered, from a 3.5 oz case to a full garage box."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Glue or glueless",
       "paragraphs": [
-        "Vulcanizing glue bonds chemically to the tube after it dries, while glueless patches stick on contact.",
-        "For a roadside fix, glueless is faster. For a repair that lasts, use glue."
+        "Vulcanizing glue bonds chemically to the tube after it dries, while glueless patches stick on contact. The glue needs a few minutes to set, the glueless patch does not.",
+        "For a roadside fix, glueless is faster. For a repair that lasts, use glue and follow the drying time on the tube."
       ]
     },
     {
       "title": "Scuffer quality",
       "paragraphs": [
-        "Roughening the tube removes the release film so the patch grips.",
-        "Metal rasps are more durable than sandpaper alone."
+        "Roughening the tube removes the release film and any mold residue so the patch grips. A weak scuffer leaves a smooth surface and the patch peels at the edge.",
+        "Metal rasps are more durable than sandpaper alone. Scuff past the patch outline so the whole area bonds."
       ]
     },
     {
       "title": "Levers",
       "paragraphs": [
-        "Trike tires can be tight, so stiff levers help.",
-        "If the kit has plastic levers, test them on your wheel before a trip."
+        "Trike tires can be tight on the rim, so stiff levers help. A plastic lever that bends on a stubborn bead slows the repair or snaps.",
+        "If the kit has plastic levers, test them on your wheel before a trip. Metal levers, as in the XIAOCUNCN, resist flex."
       ]
     },
     {
       "title": "Patch size",
       "paragraphs": [
-        "Large tubes and big pinholes need several sizes.",
-        "Choose a kit with at least two patch sizes."
+        "Large tubes and big pinholes need several patch sizes, and a single small patch may not cover a pinch flat. Matching size to damage keeps the repair flat inside the tire.",
+        "Choose a kit with at least two patch sizes, and keep spares for each of the three tires."
+      ]
+    },
+    {
+      "title": "Where the tube fails",
+      "paragraphs": [
+        "A patch fixes a small tube puncture, not a split seam or sidewall cut. Failing tubes show cracks near the valve or along old patches.",
+        "Replace a tube with several patches or cracks, and carry a spare tube as backup."
       ]
     }
   ],
@@ -273,28 +280,28 @@ export const bestBicycleInnerTubePatchKits: BestArticle = {
         "rows": [
           [
             "Garage or van kit",
-            "ZMRYO 80-Piece",
+            "ZMRYO 80-Piece Bike Tire Repair Kit",
             "54 patches and full tools"
           ],
           [
             "Seat bag or basket",
-            "Beanewone",
-            "3.5 oz case"
+            "Beanewone Bike Tube Patch Kit",
+            "Compact 3.5 oz case"
           ],
           [
             "Pocket emergency kit",
-            "PAX Glueless",
-            "Tiny boxes, no glue"
+            "PAX 14-Piece Glueless Patch Kit",
+            "Tiny boxes and no glue wait"
           ],
           [
-            "Refill for existing levers",
-            "Slime 1022-A",
-            "Five patches and scuffer"
+            "Simple spare in a toolbox",
+            "Slime 1022-A Tube Patch Kit",
+            "Five patches, scuffer and cement"
           ],
           [
             "Tight tires",
-            "XIAOCUNCN",
-            "Metal levers included"
+            "XIAOCUNCN 24-Patch Repair Kit",
+            "Metal levers and a sturdy box"
           ]
         ]
       }
@@ -304,11 +311,11 @@ export const bestBicycleInnerTubePatchKits: BestArticle = {
       "cards": [
         {
           "label": "Glue",
-          "text": "The ZMRYO, Beanewone, Slime and XIAOCUNCN use glue or cement for a stronger bond."
+          "text": "The ZMRYO, Beanewone, Slime and XIAOCUNCN use glue or cement for a stronger, longer lasting bond, but need a few minutes of drying."
         },
         {
           "label": "Glueless",
-          "text": "The PAX uses pre-glued PET patches for speed."
+          "text": "The PAX uses pre-glued PET patches for speed. They suit a quick roadside fix but are better treated as a temporary repair."
         }
       ],
       "note": "Carry glue as your main fix and glueless as a backup."
@@ -318,11 +325,11 @@ export const bestBicycleInnerTubePatchKits: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "At least 15 patches and multiple glue tubes so a bad day does not exhaust the kit."
+          "text": "At least 15 patches and multiple glue tubes so a bad day does not exhaust the kit across three tires."
         },
         {
           "label": "In this comparison",
-          "text": "The ZMRYO and Beanewone both include four tubes of glue."
+          "text": "The ZMRYO and Beanewone both include four tubes of glue, and the ZMRYO adds 54 patches against the Beanewone's 18."
         }
       ]
     },
@@ -331,11 +338,11 @@ export const bestBicycleInnerTubePatchKits: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride far from home, where the ZMRYO reduces repeat trips."
+          "text": "You ride far from home, where the ZMRYO with its 54 patches, three levers and valve core tools reduces the chance of running out."
         },
         {
           "label": "Save if",
-          "text": "You ride near home, where the Slime kit is enough."
+          "text": "You ride near home, where the Slime kit with five patches, a metal scuffer and cement is enough for a simple fix."
         }
       ]
     }
@@ -343,26 +350,30 @@ export const bestBicycleInnerTubePatchKits: BestArticle = {
   "faq": [
     {
       "q": "How long should glue dry?",
-      "a": "Follow the instructions on the tube. Most want a few minutes of drying before the patch goes on."
+      "a": "Follow the instructions on the tube. Most want a few minutes of drying before the patch goes on, until the glue turns tacky rather than wet. Rushing it weakens the bond."
     },
     {
       "q": "Do I need levers?",
-      "a": "Yes, unless you can pry the tire off by hand. Trike tires are often tight."
+      "a": "Yes, unless you can pry the tire off by hand. Trike tires are often tight. The ZMRYO has three levers, the XIAOCUNCN has metal ones, and the Slime kit has none."
     },
     {
       "q": "Can I patch a sidewall cut?",
-      "a": "Patches fix tube punctures, not tire sidewall damage. Replace a cut tire."
+      "a": "Patches fix tube punctures, not tire sidewall damage. Replace a cut tire, since a patch inside it will not hold the casing together under load."
     },
     {
       "q": "Are glueless patches permanent?",
-      "a": "Treat them as emergency fixes and replace the tube when you can."
+      "a": "Treat them as emergency fixes and replace the tube when you can. The PAX patches are thin and quick, which makes them useful as a backup in a seat bag."
     },
     {
       "q": "How many patches should I carry?",
-      "a": "At least three, one for each tire, plus spares."
+      "a": "At least three, one for each tire, plus spares. The Beanewone offers 18 patches in a small case, which is plenty for a day ride."
+    },
+    {
+      "q": "Do I need to find the leak first?",
+      "a": "Yes. Inflate the tube, listen for hissing, and dip it in water if needed. Mark the spot, then scuff and patch it."
     }
   ],
-  "bottomLine": "The ZMRYO is the best overall kit for a trike garage, the Beanewone is the best carry-everywhere pick and the PAX is a glueless backup. Match the kit to where you keep it.",
+  "bottomLine": "The ZMRYO is the best overall kit for a trike garage because it carries 54 patches, four glue tubes and levers. The Beanewone is the best carry-everywhere pick and the PAX is a glueless backup. Match the kit to where you keep it, and pick the XIAOCUNCN if metal levers matter.",
   "amazonSearch": "inner tube patch kits",
   "relatedPaths": [
     "/accessories/best-bicycle-tire-repair-kits-for-tricycles/",

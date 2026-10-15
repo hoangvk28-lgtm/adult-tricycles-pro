@@ -155,48 +155,62 @@ export const bestPremiumElectricTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Ride quality",
-      "body": "Suspension, posture and torque sensing were weighed first, since these are what premium money really buys."
+      "body": "We weighed suspension, riding posture and torque sensing first, since those are the things premium money should actually buy on a trike that carries older riders over long distances."
     },
     {
       "title": "Battery certification",
-      "body": "Certified packs and clear capacity numbers ranked above larger claims with no standard shown."
+      "body": "We ranked certified packs and clear capacity numbers above bigger claims with no standard shown, because a battery is the part of an e-trike you charge indoors."
     },
     {
       "title": "Payload and frame",
-      "body": "Stated frame ratings and aluminum construction were compared for riders who carry weight or a passenger."
+      "body": "We compared stated frame ratings and aluminum construction for riders who carry cargo or a passenger, where a 500 lb figure leaves more headroom than a low one."
     },
     {
       "title": "Setup burden",
-      "body": "Separate shipments and modification kits were counted, because premium should not mean a project."
+      "body": "We counted separate shipments and modification kits, because a premium trike should not arrive as a weekend project spread across several boxes."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Full suspension",
       "paragraphs": [
-        "Suspension front and rear absorbs bumps before they reach your spine, wrists and seat, which matters on long rides.",
-        "Look for full suspension in the specs, and expect extra weight and maintenance."
+        "Suspension at the front and rear absorbs bumps before they reach the spine, wrists and seat, which matters on long rides over cracked pavement. It adds weight and a few moving parts that need checking.",
+        "Look for full suspension named in the specs, as on the TINIOVER River. If you ride only on smooth paths, a rigid frame saves weight and maintenance."
       ]
     },
     {
       "title": "Semi-recumbent posture",
       "paragraphs": [
-        "A reclined seat with front-mounted pedals shifts weight from hands to a backrest and eases pressure on wrists and neck.",
-        "Sit on one if possible, because mounting and dismounting differ from an upright trike."
+        "A reclined seat with the pedals out in front moves weight from the hands to a backrest and eases pressure on the wrists and neck. Getting on and off differs from an upright trike, and the layout is longer.",
+        "Sit on one before you commit, or confirm you can swing a leg over comfortably. Measure the length against your storage space, since the River is a long, unusual layout."
+      ]
+    },
+    {
+      "title": "Torque sensor assist",
+      "paragraphs": [
+        "A torque sensor measures how hard you push and matches the motor to it, so assist feels gentle and smooth. Cadence-only systems add power based on pedal turn, which feels more abrupt on a hill start.",
+        "The River has a torque sensor, and the KAKIGO has a 90Nm motor with a 7-speed drivetrain. Ask how each system delivers assist before judging power."
       ]
     },
     {
       "title": "Payload rating",
       "paragraphs": [
-        "Payload counts rider plus cargo plus passenger. A 500 lb rating leaves headroom, while a lower rating can be exceeded by two riders.",
-        "Add everyone and everything you will carry, then stay under the figure."
+        "Payload counts the rider, cargo and any passenger together, so a 500 lb rating on the River leaves more room than a lower figure. Two adults and a basket of groceries can exceed a lighter rating quickly.",
+        "Add everyone and everything you carry, then stay under the figure with some margin. Check whether the passenger seat counts against the same total."
+      ]
+    },
+    {
+      "title": "Battery certification",
+      "paragraphs": [
+        "A UL 2849 rating on the KAKIGO pack means the electrical system was assessed to a recognized standard, which matters for a battery charged near a living space. A big range figure with no certification tells you far less.",
+        "Look for a named standard, a voltage and a capacity in amp-hours. Treat the claimed range as a best case and plan shorter rides on hilly routes."
       ]
     },
     {
       "title": "Shipping and support",
       "paragraphs": [
-        "Premium trikes often ship in several packages, and parts or modification kits may arrive on different dates.",
-        "Read the shipping note, and confirm who handles warranty and spare parts."
+        "Premium trikes often arrive in several packages, and accessories or modification kits can land on different dates. Assembly then becomes a long job with missing parts.",
+        "Read the shipping note before ordering, and confirm who handles warranty claims and spare parts. Wait until every box has arrived before starting."
       ]
     }
   ],
@@ -212,18 +226,23 @@ export const bestPremiumElectricTricycles: BestArticle = {
         "rows": [
           [
             "Sore wrists, back or neck",
-            "TINIOVER River",
-            "Full suspension and semi-recumbent seat"
+            "TINIOVER River Full Suspension Electric Trike",
+            "Full suspension and a semi-recumbent seat spare joints"
           ],
           [
             "Riding with a partner",
-            "KAKIGO Two-Seater",
-            "Passenger seat and certified battery"
+            "KAKIGO Two-Seater Electric Tricycle",
+            "Passenger seat and a UL 2849 certified battery"
           ],
           [
             "Want to tailor the rear",
-            "TINIOVER Creek Pro",
-            "Modular rear and passenger option"
+            "TINIOVER Creek Pro Folding Electric Tricycle",
+            "Modular rear and a passenger seat with backrest"
+          ],
+          [
+            "Hilly routes with a load",
+            "KAKIGO Two-Seater Electric Tricycle",
+            "1350W peak motor and 90Nm torque"
           ]
         ]
       }
@@ -233,11 +252,11 @@ export const bestPremiumElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Comfort",
-          "text": "The River spends its premium on suspension and posture for one rider."
+          "text": "The River spends its premium on suspension, a torque sensor and a reclined posture for one rider, with a 500 lb payload rating on a 6061 aluminum frame."
         },
         {
           "label": "Capacity",
-          "text": "The KAKIGO and Creek Pro spend theirs on seating and cargo flexibility."
+          "text": "The KAKIGO and Creek Pro spend theirs on a passenger seat and flexible rear space. They suit couples and families, but accessories or kits can ship separately."
         }
       ],
       "note": "Solo riders should default to the River unless a passenger is a regular need."
@@ -247,11 +266,11 @@ export const bestPremiumElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Suspension, a backrest and a posture that unloads wrists and knees."
+          "text": "Suspension that softens impacts, a backrest that supports the spine and a posture that unloads the wrists and knees, plus assist that stays gentle at low effort."
         },
         {
           "label": "In this comparison",
-          "text": "The River offers all three, with a torque sensor that keeps pedalling effort gentle."
+          "text": "The River offers all three, with a torque sensor that keeps pedaling effort smooth. The KAKIGO adds a low center of gravity frame but no suspension is confirmed."
         }
       ]
     },
@@ -260,38 +279,38 @@ export const bestPremiumElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride daily for long distances, where the River's comfort pays off."
+          "text": "You ride daily for long distances, where the River's comfort pays off across every outing. A certified battery on the KAKIGO is also worth it if you charge indoors."
         },
         {
           "label": "Save if",
-          "text": "You ride occasionally, where the best electric tricycles under 2000 deliver most of the benefit."
+          "text": "You ride occasionally or on short trips. The best electric tricycles under 2000 deliver most of the benefit without the long, unusual layout."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "What does a premium e-trike buy me?",
-      "a": "Better ride quality through suspension and posture, more refined assist through torque sensing and often a stronger frame rating."
+      "q": "What does a premium e-trike actually buy me?",
+      "a": "Better ride quality through suspension and posture, smoother assist through torque sensing, and often a stronger frame rating. The River adds all three. You are paying for comfort on long rides rather than for a faster top speed."
     },
     {
       "q": "Is a semi-recumbent trike hard to ride?",
-      "a": "It feels different at first because you sit lower and further back. Most riders adapt within a few outings, but mounting takes a little practice."
+      "a": "It feels different at first because you sit lower and further back with pedals out front. Most riders adapt within a few outings, but mounting and dismounting take practice, so try it in an empty lot."
     },
     {
       "q": "Why are premium trikes so large?",
-      "a": "Suspension, heavy frames and passenger seats add length and weight. Measure your storage space before ordering."
+      "a": "Suspension, heavy frames and passenger seats add length and weight. The River uses a long layout, and the KAKIGO is a two-seater. Measure your storage space and door widths before ordering."
     },
     {
       "q": "Do these come ready to ride?",
-      "a": "Not always. Accessories and modification kits can arrive in separate packages, so wait until everything has been delivered."
+      "a": "Not always. The KAKIGO's mirrors and anti-tip wheels, and the Creek Pro's kits, can arrive in separate packages. Wait until every box has been delivered before starting assembly, so you are not left holding a half-built trike while a missing part is in transit."
     },
     {
       "q": "Is it worth upgrading from a mid-range trike?",
-      "a": "If comfort on long rides matters, yes. For short, simple trips the tier below is usually enough."
+      "a": "If comfort on long rides matters, yes, particularly for sore joints. For short, simple trips the tier below is usually enough, and the extra length of a premium frame can be a storage burden."
     }
   ],
-  "bottomLine": "The TINIOVER River is the clearest premium choice for one rider who values comfort. The KAKIGO covers two riders, and the Creek Pro covers owners who like to configure their trike.",
+  "bottomLine": "The TINIOVER River is the clearest premium choice for one rider who values comfort, with full suspension, a semi-recumbent seat and a 500 lb payload rating. The KAKIGO covers two riders with a UL 2849 certified battery, and the Creek Pro suits owners who like to configure their trike. Check shipping notes and storage space first.",
   "amazonSearch": "premium electric tricycles",
   "relatedPaths": [
     "/electric-tricycles/best-electric-tricycles-under-2000/",

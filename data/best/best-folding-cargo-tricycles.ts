@@ -195,48 +195,55 @@ export const bestFoldingCargoTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Fold and storage",
-      "body": "We checked that each trike has a real fold and weighed how portable it is once folded."
+      "body": "We checked that each trike has a real fold and weighed how portable it is once folded, because a fold that barely saves space is a poor trade for the extra hinge."
     },
     {
       "title": "Cargo capacity",
-      "body": "Baskets, frame ratings and stated limits shaped how much each can carry."
+      "body": "Baskets, frame ratings and stated limits shaped how much each can carry, and we favored picks that give a figure you can plan a shopping trip around."
     },
     {
       "title": "Motor and gearing",
-      "body": "Torque and gear range decided how well each handles loads on hills."
+      "body": "Torque and gear range decided how well each handles loads on hills, since a heavy basket on a slope is where a weak drivetrain shows."
     },
     {
-      "title": "Proof and honesty",
-      "body": "Newer products are labeled as unproven rather than recommended on specs alone."
+      "title": "Evidence behind the brand",
+      "body": "Newer makers are flagged plainly rather than recommended on specs alone, so you can see which picks have short records before you rely on them."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Fold joints and wear",
       "paragraphs": [
-        "Hinges take repeated stress and can loosen or develop play over time, which affects steering.",
-        "Check that joints lock firmly with no wobble, and inspect them regularly."
+        "Hinges take repeated stress and can loosen or develop play over time, which affects steering and makes a loaded trike feel vague. Folding cargo trikes carry more load through the joint than a basic folder.",
+        "Check that joints lock firmly with no wobble, and inspect and tighten them regularly, especially on a quick-fold frame."
       ]
     },
     {
       "title": "Weight when folded",
       "paragraphs": [
-        "A fold shrinks the footprint, not the weight, so you still lift or roll a heavy frame.",
-        "Check the stated frame weight and decide if you can manage it up stairs or into a trunk."
+        "A fold shrinks the footprint, not the weight, so you still lift or roll a heavy frame up stairs or into a trunk. Electric versions add a motor and battery on top.",
+        "Check the stated frame weight, such as the NARRAK's 74 lb, and decide whether you can manage it where you store the trike."
       ]
     },
     {
       "title": "Basket and capacity limits",
       "paragraphs": [
-        "Frame ratings and basket limits differ, and the lower one governs how you load.",
-        "Measure your usual shopping against the basket size before ordering."
+        "Frame ratings and basket limits differ, and the lower one governs how you load. A 450 lb frame does not mean the basket will hold a heavy shop.",
+        "Measure your usual shopping against the basket size before ordering, and ask the maker for the basket limit when the figure is missing."
       ]
     },
     {
       "title": "Motor or manual",
       "paragraphs": [
-        "A motor adds weight and charging chores but removes hill strain, while manual keeps things simple.",
-        "Choose by your hills and your knees, not by price alone."
+        "A motor adds weight and charging chores but removes hill strain, while a manual folder keeps things simple and has no battery to maintain or charge. Each suits a different household.",
+        "Choose by your hills and your knees, not by price alone, and note which picks have a removable battery for indoor charging."
+      ]
+    },
+    {
+      "title": "Reverse and parking",
+      "paragraphs": [
+        "A trike cannot pivot in place, so backing out of a closet, garage or tight parking space means pushing a heavy frame unless it has a powered reverse.",
+        "Look for a reverse function if you park in tight spots, as on the ESKUTE T300 MAX, and test it before you rely on it."
       ]
     }
   ],
@@ -252,23 +259,23 @@ export const bestFoldingCargoTricycles: BestArticle = {
         "rows": [
           [
             "Apartment or closet",
-            "MOONCOOL 500W",
-            "Quick fold and removable battery"
+            "MOONCOOL 500W Folding Electric Trike",
+            "Quick fold and a removable battery for indoor charging"
           ],
           [
             "Car trunk or van",
-            "NARRAK",
+            "NARRAK Folding Electric Trike",
             "Lightest electric frame at about 74 lbs"
           ],
           [
             "No outlet nearby",
-            "MOPHOTO",
-            "Manual, no battery to charge"
+            "MOPHOTO Adult Folding Tricycle",
+            "Manual, with no battery to charge"
           ],
           [
             "Garage with a driveway slope",
-            "ESKUTE T300 MAX",
-            "Torque and reverse"
+            "ESKUTE T300 MAX Electric Tricycle",
+            "80Nm torque and one-touch reverse"
           ]
         ]
       }
@@ -278,11 +285,11 @@ export const bestFoldingCargoTricycles: BestArticle = {
       "cards": [
         {
           "label": "Electric",
-          "text": "The MOONCOOL 500W, ESKUTE and NARRAK add motor help but also weight and charging."
+          "text": "The MOONCOOL 500W, ESKUTE T300 MAX and NARRAK add motor help but also weight and charging, which suits hills and heavy baskets."
         },
         {
           "label": "Manual",
-          "text": "The MOPHOTO is simpler and cheaper to run, but every hill depends on your legs."
+          "text": "The MOPHOTO is simpler and cheaper to run, with a 350 lb capacity and 7-speed gears, but every hill depends on your legs."
         }
       ],
       "note": "Most buyers hauling groceries should lean electric unless the route is flat and short."
@@ -292,11 +299,11 @@ export const bestFoldingCargoTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A smaller wheel size and a stated minimum rider height."
+          "text": "A smaller wheel size and a stated minimum rider height, so the pedals and bars are within reach without stretching."
         },
         {
           "label": "In this comparison",
-          "text": "The MOPHOTO comes in a 20 inch size for riders from about 4'8\"."
+          "text": "The MOPHOTO comes in a 20 inch size for riders from about 4'8\", with 24 and 26 inch options for taller ones."
         }
       ]
     },
@@ -305,11 +312,11 @@ export const bestFoldingCargoTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You haul near the limit daily and want a proven record, as in our [cargo tricycle guide](/adult-tricycles/best-cargo-tricycles-for-adults/)."
+          "text": "You haul near the limit daily and want a longer record behind the trike, as in our [cargo tricycle guide](/adult-tricycles/best-cargo-tricycles-for-adults/)."
         },
         {
           "label": "Save if",
-          "text": "Your loads are light, in which case the MOPHOTO or NARRAK is enough."
+          "text": "Your loads are light, in which case the MOPHOTO or NARRAK is enough, with no motor or only a modest one to pay for."
         }
       ]
     }
@@ -317,26 +324,30 @@ export const bestFoldingCargoTricycles: BestArticle = {
   "faq": [
     {
       "q": "How small does a folding cargo trike get?",
-      "a": "It shrinks the footprint noticeably, but not the weight. Expect to roll it rather than lift it."
+      "a": "It shrinks the footprint noticeably, but not the weight. Expect to roll it rather than lift it, and measure your closet, trunk or van before assuming it will fit."
     },
     {
       "q": "Do fold joints wear out?",
-      "a": "They can loosen with use, so inspect and tighten them regularly, especially on the MOPHOTO's quick-fold frame."
+      "a": "They can loosen with use, so inspect and tighten them regularly, especially on the MOPHOTO's quick-fold frame. Play at a hinge changes the steering feel, so address it before it grows."
     },
     {
       "q": "Can a folding trike carry heavy loads?",
-      "a": "Yes within its stated limits, such as the MOONCOOL's 450 lb frame rating or the MOPHOTO's 350 lb capacity. Respect the basket limits too."
+      "a": "Yes, within its stated limits, such as the MOONCOOL's 450 lb frame rating or the MOPHOTO's 350 lb capacity. Respect the basket limits too, since they can be lower than the frame figure."
     },
     {
       "q": "Is a manual folder good for hills?",
-      "a": "Only with a low gear and decent fitness. A 7-speed helps, but electric picks do far better on grades."
+      "a": "Only with a low gear and decent fitness. A 7-speed helps, but the electric picks do far better on grades, especially the ESKUTE T300 MAX with its 80Nm of torque."
     },
     {
       "q": "Which fold is easiest?",
-      "a": "The MOONCOOL 500W describes a quick fold. Try each fold before you rely on it for daily storage."
+      "a": "The MOONCOOL 500W states a quick fold, as does the MOPHOTO. Try each fold before you rely on it for daily storage, and make sure you can manage the weight while doing so."
+    },
+    {
+      "q": "Is the ESKUTE a good choice for an apartment?",
+      "a": "It has a removable 48V 20.8Ah battery, but it is heavy and its fold details need checking. The MOONCOOL 500W is the better apartment pick."
     }
   ],
-  "bottomLine": "The MOONCOOL 500W is the best balance of fold, baskets and motor. The MOPHOTO suits manual riders, the ESKUTE hill riders, and the NARRAK those who need the lightest electric frame.",
+  "bottomLine": "The MOONCOOL 500W is the best balance of fold, baskets and motor, with a 450 lb frame rating and a removable battery. The MOPHOTO suits manual riders, the ESKUTE T300 MAX hill riders, and the NARRAK those who need the lightest electric frame for car transport.",
   "amazonSearch": "folding cargo trikes",
   "relatedPaths": [
     "/adult-tricycles/best-cargo-tricycles-for-adults/",

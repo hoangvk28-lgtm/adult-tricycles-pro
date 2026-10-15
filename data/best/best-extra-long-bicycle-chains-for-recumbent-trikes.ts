@@ -177,48 +177,55 @@ export const bestExtraLongBicycleChainsForRecumbentTrikes: BestArticle = {
   "howWeChose": [
     {
       "title": "Link count",
-      "body": "We looked at stated link counts, since a long trike needs more than a normal chain."
+      "body": "We looked at stated link counts first, since a recumbent trike runs the chain far longer than an upright bike and a normal chain often falls short."
     },
     {
       "title": "Speed rating",
-      "body": "Chain width must match the cassette, so we kept speed ratings clear."
+      "body": "Chain width must match the cassette, so we kept speed ratings clear and separated single-speed chains from the 6, 7 and 8 speed options."
     },
     {
       "title": "Tools and links",
-      "body": "Master links and a chain breaker make joining chains easy."
+      "body": "Master links and a chain breaker make joining and cutting to length practical at home, so kits that include them ranked higher for first-time buyers."
     },
     {
       "title": "Honest limits",
-      "body": "Most picks are unverified, and none is a proven long-life chain."
+      "body": "Most picks come from lesser-known brands, and none has a long-term durability record we can point to, so we describe what each offers and leave durability as an open question."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Link count",
       "paragraphs": [
-        "A recumbent trike runs the chain far longer than an upright bike, often through idlers. A chain with 116 links may not reach.",
-        "Measure the old chain or wrap string along the route, then count links."
+        "A recumbent trike routes the chain through a long path, often with idlers, so it needs far more links than a normal bike. A 116-link chain may not reach on a big frame.",
+        "Measure the old chain, or wrap string along the full route and count the links, before choosing between 112, 116 and 126 links."
       ]
     },
     {
       "title": "Speed match",
       "paragraphs": [
-        "A chain made for 8 speed is narrower than a single-speed chain, and the wrong width binds or skips.",
-        "Check your cassette speed and buy the matching chain."
+        "A chain made for 8 speed is narrower than a single-speed chain, and the wrong width binds or skips under load. The width has to match the cassette or hub.",
+        "Check your cassette speed and buy the matching chain, since a 1/8 inch single-speed chain will not run on a geared cassette."
       ]
     },
     {
       "title": "Master links",
       "paragraphs": [
-        "A master link lets you join two chains and later open them without a tool.",
-        "Buy a kit with master links if you need to join chains."
+        "A master link lets you join two chains into one long run and later open it again without a tool. That is the standard way to build an extra-long chain.",
+        "Buy a kit with master links if you need to join chains, and check whether the chain you pick comes with one."
       ]
     },
     {
-      "title": "Chain tool",
+      "title": "Chain breaker tool",
       "paragraphs": [
-        "You need a chain breaker to cut to length.",
-        "If the kit has none, buy one before starting."
+        "You need a chain breaker to push out a pin and cut a chain to length. Without it, even a perfect link count cannot be trimmed to fit your trike.",
+        "If the kit has none, buy a breaker before you start, and plan the cut with the chain laid along the real route."
+      ]
+    },
+    {
+      "title": "Chain coating and care",
+      "paragraphs": [
+        "A plated chain such as the nickel-plated KMC resists rust better than bare steel, but all chains need clean lubrication to run quietly. A long chain collects more dirt along its path.",
+        "Lube with a product suited to your paths, and wipe the chain regularly so grit does not wear the long run."
       ]
     }
   ],
@@ -235,22 +242,22 @@ export const bestExtraLongBicycleChainsForRecumbentTrikes: BestArticle = {
           [
             "Geared, need to cut to length",
             "XIAOTINGZI 6/7/8 Speed Chain Kit",
-            "126 links and tools."
+            "126 links plus master links and a chain breaker"
           ],
           [
             "8 speed, quality shifting",
             "KMC X8 8-Speed Chain",
-            "Smooth shift ramps."
+            "Smooth shift ramps and nickel plating from a known maker"
           ],
           [
             "Geared, tight budget",
             "FGBNM 6/7/8 Speed Bike Chain",
-            "116 links."
+            "116 links that fit 6, 7 and 8 speed"
           ],
           [
             "Single speed or hub gear",
             "Schwinn 112-Link Single-Speed Chain",
-            "1/8 inch width."
+            "Heavy-duty 1/8 inch width with anti-drop design"
           ]
         ]
       }
@@ -260,11 +267,11 @@ export const bestExtraLongBicycleChainsForRecumbentTrikes: BestArticle = {
       "cards": [
         {
           "label": "Kit",
-          "text": "The XIAOTINGZI kit includes master links and a breaker."
+          "text": "The XIAOTINGZI kit includes master links and a breaker, so a first-timer can cut to length or join chains without buying anything else."
         },
         {
           "label": "Chain only",
-          "text": "The KMC, FGBNM and Schwinn supply a chain and you bring the tools."
+          "text": "The KMC X8, FGBNM and Schwinn supply a chain and you bring the tools, which suits owners who already have a breaker and master links."
         }
       ],
       "note": "Most first-time buyers should choose the kit unless they own a chain breaker."
@@ -274,11 +281,11 @@ export const bestExtraLongBicycleChainsForRecumbentTrikes: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Master links and a matching chain width."
+          "text": "Master links and a matching chain width, so the two chains join into one run that behaves like a single chain."
         },
         {
           "label": "In this comparison",
-          "text": "The XIAOTINGZI includes two pairs of master links, and the KMC and FGBNM share a speed range."
+          "text": "The XIAOTINGZI includes two pairs of master links, and the KMC X8 and FGBNM share a speed range, so two of either can be joined if the speed matches."
         }
       ]
     },
@@ -287,11 +294,11 @@ export const bestExtraLongBicycleChainsForRecumbentTrikes: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You shift often with 8 speed; choose the KMC X8 and lube with /accessories/best-dry-bicycle-chain-lubricants/."
+          "text": "You shift often with 8 speed; choose the KMC X8 and keep it clean with a lube from /accessories/best-dry-bicycle-chain-lubricants/."
         },
         {
           "label": "Save if",
-          "text": "You ride occasionally, where the FGBNM is enough."
+          "text": "You ride occasionally, where the FGBNM is enough with its 116 links and its forged steel build."
         }
       ]
     }
@@ -299,26 +306,30 @@ export const bestExtraLongBicycleChainsForRecumbentTrikes: BestArticle = {
   "faq": [
     {
       "q": "How long a chain does a recumbent trike need?",
-      "a": "It varies widely. Measure the existing chain or route string along the path and count links."
+      "a": "It varies widely by frame and routing. Measure the existing chain, or route string along the path and count the links, and remember that 112 to 126 links is the span these picks cover."
     },
     {
       "q": "Can I join two chains?",
-      "a": "Yes, with a master link. Keep the chains the same speed rating."
+      "a": "Yes, with a master link. Keep the chains the same speed rating so the widths match, and check the joined run on the trike for kinks before riding."
     },
     {
       "q": "Do I need a chain tool?",
-      "a": "To cut to length, yes. The XIAOTINGZI kit includes one."
+      "a": "To cut to length, yes. The XIAOTINGZI kit includes a chain breaker and pliers, while the KMC X8, FGBNM and Schwinn chains do not, so plan to buy one if you pick those."
     },
     {
       "q": "Which speed rating should I buy?",
-      "a": "Match your cassette. The KMC X8 is for 8 speed and the Schwinn is for single speed."
+      "a": "Match your cassette. The KMC X8 is built for 8 speed, the FGBNM and XIAOTINGZI cover 6, 7 and 8 speed, and the Schwinn is for single speed only."
     },
     {
       "q": "What lube should I use?",
-      "a": "A dry lube suits dusty paths; see /accessories/best-dry-bicycle-chain-lubricants/."
+      "a": "A dry lube suits dusty paths and keeps grit from sticking to a long chain. See /accessories/best-dry-bicycle-chain-lubricants/ for options."
+    },
+    {
+      "q": "Will one KMC chain be long enough?",
+      "a": "Possibly not. The KMC X8 is 116 links, which may be short on a big recumbent, so measure the route first and order two chains plus a master link if needed."
     }
   ],
-  "bottomLine": "Buy the XIAOTINGZI kit for the most links and tools, or the KMC X8 for smoother 8-speed shifting. Measure first and expect to join chains.",
+  "bottomLine": "Buy the XIAOTINGZI kit for the most links, at 126, plus master links and a chain breaker, or the KMC X8 for smoother 8-speed shifting from a known maker. Measure the route first, match the chain to your cassette speed, and expect to join chains on a big trike.",
   "amazonSearch": "extra-long bike chains",
   "relatedPaths": [
     "/accessories/best-bicycle-chains-for-adult-tricycles/",

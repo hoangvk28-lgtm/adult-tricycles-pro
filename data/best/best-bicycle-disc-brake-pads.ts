@@ -217,48 +217,55 @@ export const bestBicycleDiscBrakePads: BestArticle = {
   "howWeChose": [
     {
       "title": "Caliper match",
-      "body": "Named caliper models ranked above vague claims."
+      "body": "We started with which calipers each pad fits, since a pad is shaped for a specific caliper and the wrong shape cannot sit properly against a trike's rotor."
     },
     {
       "title": "Compound",
-      "body": "We covered resin and semi metallic types."
+      "body": "We compared resin, semi metallic and copper fibre blends, because heavier trikes and long descents put more heat into the pads than a light bicycle does."
     },
     {
-      "title": "Install help",
-      "body": "Tools and steps helped older owners."
+      "title": "Kit contents",
+      "body": "We noted whether tools, springs or instructions come included, since a first-time pad change goes easier with a piston press and a step by step guide."
     },
     {
-      "title": "Heat handling",
-      "body": "Heavy trikes need pads that resist fade."
+      "title": "Pack size",
+      "body": "We compared the number of pairs, since four pairs gives spares for a trike with two or three disc brakes and saves a trip to the shop."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Caliper match",
       "paragraphs": [
-        "Pad shape follows the caliper.",
-        "Remove the old pad and compare outline and pin type."
+        "A disc pad is cut to the shape of one caliper family, so it only seats and slides correctly in the matching body. A wrong pad can rattle, drag or leave a part of the rotor uncovered.",
+        "Read the model printed on the caliper, then compare it with the pad's stated fit. The Shimano B05S-RX is for two piston calipers, the PACYTION SRAM pad is for Elixir, XO and DB series, and the Darteno names BR-M575, M525 and MT200."
       ]
     },
     {
       "title": "Resin versus semi metallic",
       "paragraphs": [
-        "Resin is quiet and gentle. Semi metallic bites harder and resists heat.",
-        "Heavy trikes suit semi metallic."
+        "Resin pads grip quietly with a softer feel but fade sooner under heat on long descents. Semi metallic pads tolerate heat better and last longer, but squeal more and wear the rotor faster.",
+        "Pick resin for quiet, flat rides, like the Shimano B05S-RX. Pick semi metallic like the AGPTEK or Darteno for hills and heavier loads. Darteno states it handles up to 700 degrees, which suits long descents."
       ]
     },
     {
       "title": "Bedding in",
       "paragraphs": [
-        "New pads need gentle stops to settle.",
-        "Avoid hard braking on the first ride."
+        "New pads need a short break-in period, where the surface transfers a thin layer of material to the rotor. Without bedding in, pads grab unevenly or squeal and may feel weak.",
+        "Follow the pad maker's steps, usually a series of gentle stops from moderate speed. The PACYTION kits include video instructions and a piston press, which helps if this is your first change."
       ]
     },
     {
       "title": "Rotor condition",
       "paragraphs": [
-        "A glazed or oily rotor ruins new pads.",
-        "Wipe the rotor with brake cleaner."
+        "Pads work against the rotor, and a bent, worn or oily rotor ruins a fresh set. Oil on the surface contaminates the new compound and causes noise and poor stopping.",
+        "Clean the rotor with disc brake cleaner and check it is straight and thick enough. If the rotor shows blue heat marks, deep grooves or a wobble, replace it before fitting new pads."
+      ]
+    },
+    {
+      "title": "Tools and extras",
+      "paragraphs": [
+        "A pad swap needs a way to push the pistons back, a hex wrench and often a spring or gap spacer. Missing one of these stops the job halfway.",
+        "Check what the pack includes. The PACYTION packs add a gap regulator, piston press and hex wrench, while the AGPTEK and Darteno packs supply pads only, so you need your own tools."
       ]
     }
   ],
@@ -273,29 +280,29 @@ export const bestBicycleDiscBrakePads: BestArticle = {
         ],
         "rows": [
           [
-            "Shimano two piston",
+            "Shimano two piston calipers",
             "Shimano B05S-RX Disc Brake Pad and Spring",
-            "Matched resin pad"
+            "Resin compound, stainless back plate, spring included"
           ],
           [
-            "MT200 or E10.11",
+            "Shimano MT200 or Tektro E10.11 calipers",
             "AGPTEK 4 Pair Semi Metallic Disc Pads",
-            "Named fit"
+            "Four pairs, balanced semi metallic compound"
           ],
           [
-            "BR-M575 or M525",
+            "BR-M575, BR-M525 or MT200 calipers",
             "Darteno 4 Pair Semi Metallic Disc Pads",
-            "Wide list"
+            "Wide fit range, four pairs, heat resistant"
           ],
           [
-            "First change, no tools",
+            "A first pad change with no tools",
             "PACYTION 4 Pair Disc Pads with Tools",
-            "Press and gap tool"
+            "Tools included, plus video installation instructions"
           ],
           [
-            "SRAM Elixir",
+            "SRAM Elixir, XO or DB calipers",
             "PACYTION 4 Pair SRAM Elixir Disc Pads",
-            "SRAM fit"
+            "Fits named SRAM models, tools included"
           ]
         ]
       }
@@ -305,25 +312,25 @@ export const bestBicycleDiscBrakePads: BestArticle = {
       "cards": [
         {
           "label": "Resin",
-          "text": "Shimano B05S-RX is quieter and gentler on the rotor."
+          "text": "The Shimano B05S-RX Disc Brake Pad and Spring is a resin pad, so it is quiet and has good modulation. It fades sooner on long descents, so it suits flat riding and lighter loads."
         },
         {
           "label": "Semi metallic",
-          "text": "AGPTEK, Darteno and PACYTION bite harder and resist heat."
+          "text": "The AGPTEK, Darteno and both PACYTION packs use semi metallic or copper fibre blends. They tolerate heat better and last longer, but they can be noisier and may wear the rotor faster."
         }
       ],
-      "note": "Heavy trikes should default to semi metallic."
+      "note": "Choose resin for quiet flat rides, and semi metallic for hills or heavy loads."
     },
     {
       "heading": "For Heavier Trikes Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Heat resistance and a stated compound."
+          "text": "Look for a heat resistant compound and a pack with extra pairs, since a heavy trike with a passenger loads the brakes harder."
         },
         {
           "label": "In this comparison",
-          "text": "Darteno and AGPTEK are semi metallic and heat resistant."
+          "text": "The Darteno 4 Pair Semi Metallic Disc Pads state heat resistance up to 700 degrees, and every four pair pack gives spares. The Shimano B05S-RX is resin, so it suits lighter use."
         }
       ]
     },
@@ -332,11 +339,11 @@ export const bestBicycleDiscBrakePads: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want quiet braking, so the Shimano pad is a good choice."
+          "text": "You want a quiet brake with good feel and own the matching Shimano caliper, where the Shimano B05S-RX Disc Brake Pad and Spring is worth the price."
         },
         {
           "label": "Save if",
-          "text": "You want four pairs, so AGPTEK or Darteno fits."
+          "text": "You want spares and fit several calipers, where the Darteno 4 Pair Semi Metallic Disc Pads gives four pairs and a wide range for less."
         }
       ]
     }
@@ -344,26 +351,26 @@ export const bestBicycleDiscBrakePads: BestArticle = {
   "faq": [
     {
       "q": "How do I know which pad fits?",
-      "a": "Compare the old pad outline and pin type. Match the caliper, not the trike."
+      "a": "Read the model number on your caliper, then match it to the pad's stated fit. Shimano MT200, M355 and M446 appear in the PACYTION range, while SRAM Elixir and XO models need the SRAM pad. If your caliper is not named, ask the maker or a shop before buying."
     },
     {
       "q": "Are resin or semi metallic pads better?",
-      "a": "Resin is quieter, semi metallic bites harder. Heavy trikes suit semi metallic."
+      "a": "It depends on use. Resin is quiet and gentle, but fades sooner when hot. Semi metallic lasts longer and handles heat better, but it can squeal and wear rotors faster. A trike carrying a passenger on hills usually suits semi metallic."
     },
     {
       "q": "How do I bed in new pads?",
-      "a": "Make a series of gentle stops. Avoid hard braking at first."
+      "a": "Make several gentle stops from moderate speed to transfer material to the rotor, then repeat from a little faster. Avoid hard panic stops during the first rides. Follow the maker's steps, and expect the brakes to feel stronger after the break-in."
     },
     {
       "q": "Can I use these on a drum brake?",
-      "a": "No. See /adult-tricycle-brakes-and-parking-brakes/."
+      "a": "No, you cannot. These are disc brake pads and need a disc caliper and rotor. A drum brake uses shoes inside the hub, which is a different part. Check which brake your trike has before ordering."
     },
     {
       "q": "When should I use a shop?",
-      "a": "If the brake still feels weak after new pads, a shop can check. See /adult-tricycle-maintenance-checklist/."
+      "a": "If the caliper leaks fluid, a piston sticks, the rotor is bent or you cannot identify the caliper model, a shop can service it. Brakes are a safety system, so have a shop check your work if unsure."
     }
   ],
-  "bottomLine": "Shimano B05S-RX for quiet braking on Shimano calipers, AGPTEK or Darteno for bite, PACYTION SRAM for SRAM. Pair with /accessories/best-bicycle-brake-cable-kits-for-tricycles/ for cable work.",
+  "bottomLine": "The Shimano B05S-RX Disc Brake Pad and Spring is the best resin pad for a matching Shimano two piston caliper. Choose the AGPTEK or Darteno four pair packs for semi metallic grip and spares, the PACYTION kit for a first pad change, and the PACYTION SRAM pad for Elixir calipers.",
   "amazonSearch": "disc brake pads",
   "relatedPaths": [
     "/accessories/best-bicycle-brake-pads-for-adult-tricycles/",

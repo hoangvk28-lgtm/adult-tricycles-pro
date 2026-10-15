@@ -222,48 +222,55 @@ export const bestLoudBicycleBells: BestArticle = {
   "howWeChose": [
     {
       "title": "Material and ring length",
-      "body": "Brass and copper alloy ring longer and clearer than thin aluminum, so we weighed material first."
+      "body": "Brass and copper alloy ring longer and clearer than thin aluminum, so we weighed the ROCKBROS, Timber Yew and Ravemen metals ahead of the two aluminum bells."
     },
     {
       "title": "Bar fit",
-      "body": "Stated bar diameter ranges decide whether a bell fits a trike's bars at all."
+      "body": "Bar diameter ranges decide whether a bell fits a trike at all, from 0.83 to 0.86 inch on the IHYjinchoo to bars up to 47 mm on the Ravemen."
     },
     {
       "title": "Ease of ringing",
-      "body": "Lever, dual hammer or passive designs matter for older or stiff thumbs."
+      "body": "Lever, dual hammer or passive designs matter for older or stiff thumbs, so we credited the Ravemen two hammers and the Timber Yew motion ring."
     },
     {
       "title": "Mount and weather",
-      "body": "Tool-free straps, hex clamps and rust resistance affect everyday use."
+      "body": "Tool-free straps, hex clamps and rust resistance affect everyday use, so we compared how each bell fastens and how it ages in rain."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Material: brass, copper or aluminum",
       "paragraphs": [
-        "Brass and copper alloy ring longer, which makes the sound easier to place. Thin aluminum gives a sharper but shorter chime.",
-        "If you ride shared paths, favor brass or copper for the sustained ring."
+        "Brass and copper alloy keep ringing after the strike, which makes the sound easier to place from a distance. Thin aluminum gives a sharper but shorter chime that fades quickly.",
+        "If you ride shared paths, favor brass or copper for the sustained ring, as on the ROCKBROS or Timber Yew. Choose aluminum only when cost or a spare matters more."
       ]
     },
     {
       "title": "Bar diameter",
       "paragraphs": [
-        "Trike bars range from 22.2 mm to thick cruiser or e-trike bars. A bell with a narrow range, such as 0.83 to 0.86 inch, will not fit thicker bars.",
-        "Measure your bar and compare it with the stated range."
+        "Trike bars range from 22.2 mm to thick cruiser or e-trike bars. A bell with a narrow range, such as 0.83 to 0.86 inch on the IHYjinchoo, will not fit thicker bars.",
+        "Measure your bar with calipers and compare it with the range. The ROCKBROS covers 0.87 to 1.25 inch, the Mudder 0.87 to 1.38 inch and the Ravemen bars up to 47 mm."
       ]
     },
     {
       "title": "Ringing action",
       "paragraphs": [
-        "A lever hammer needs a firm thumb. A dual-hammer design rings from any grip.",
-        "If your thumb is stiff, choose a design you can ring with a finger."
+        "A lever hammer needs a firm thumb stroke each time. A dual-hammer design rings from any grip, and a motion-activated design rings by itself without a thumb.",
+        "If your thumb is stiff, choose a design you can ring with a finger or by motion, such as the Ravemen Q3 or the Timber Yew. Try the stroke on your own grip."
       ]
     },
     {
       "title": "Mounting and weather",
       "paragraphs": [
-        "Strap mounts need no tools, while clamps need a hex key. Anti-rust materials last longer in rain.",
-        "Check clearance beside brake levers and grips."
+        "Strap and buckle mounts need no tools, while clamps need a hex key. Anti-rust materials last longer in rain, and a loose clamp lets the bell spin on the bar.",
+        "Check clearance beside brake levers and grips before ordering. The ROCKBROS needs a hex wrench, the Ravemen uses three reusable straps, and the Mudder has a tool-free buckle."
+      ]
+    },
+    {
+      "title": "Quoted loudness",
+      "paragraphs": [
+        "A quoted 90 to 100 dB is measured near the bell and tells you little about how far the ring carries. Tone and ring length matter as much as the number for being heard.",
+        "Treat the dB as a rough comparison, as with the Ravemen and Mudder. Prefer the clearer, longer ring of metal bells for walkers who may be wearing earbuds."
       ]
     }
   ],
@@ -285,12 +292,22 @@ export const bestLoudBicycleBells: BestArticle = {
           [
             "Thick bars up to 47 mm",
             "Ravemen Q3 Dual-Hammer Copper Bell",
-            "3 straps for bars up to 47 mm"
+            "Three straps fit bars up to 47 mm"
+          ],
+          [
+            "Wide range of bars, spare wanted",
+            "Mudder Adjustable Aluminum Bike Bell Set",
+            "Two bells for 0.87 to 1.38 inch bars"
           ],
           [
             "Slim straight bars",
             "IHYjinchoo Classic Aluminum Bike Bell",
             "Quick-release clamp for 0.83 to 0.86 inch"
+          ],
+          [
+            "Bars with spare space for shims",
+            "Timber Yew Brass Trail Bell",
+            "Shims for 31.8 and 22.2 mm bars"
           ]
         ]
       }
@@ -300,11 +317,11 @@ export const bestLoudBicycleBells: BestArticle = {
       "cards": [
         {
           "label": "Brass and copper",
-          "text": "The ROCKBROS Classic Brass Bike Bell, Timber Yew Brass Trail Bell and Ravemen Q3 ring longer and warmer."
+          "text": "The ROCKBROS Classic Brass Bike Bell, Timber Yew Brass Trail Bell and Ravemen Q3 ring longer and warmer, which helps a rider be heard on a path."
         },
         {
           "label": "Aluminum",
-          "text": "The Mudder Adjustable Aluminum Bike Bell Set and IHYjinchoo Classic Aluminum Bike Bell give a sharper, shorter chime at lower cost."
+          "text": "The Mudder Adjustable Aluminum Bike Bell Set and IHYjinchoo Classic Aluminum Bike Bell give a sharper, shorter chime at lower cost, with anti-rust aluminum."
         }
       ],
       "note": "Most riders should default to brass or copper unless price or a spare is the priority."
@@ -314,11 +331,11 @@ export const bestLoudBicycleBells: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A dual-hammer or passive design that does not need a firm thumb stroke."
+          "text": "A dual-hammer or passive design that does not need a firm thumb stroke, and a mount that does not require tight hex wrench work."
         },
         {
           "label": "In this comparison",
-          "text": "The Ravemen Q3 has two hammers you can ring from any hand position, and the Timber Yew rings by motion."
+          "text": "The Ravemen Q3 has two hammers you can ring from any hand position and a tool-free strap mount, and the Timber Yew rings by motion."
         }
       ]
     },
@@ -327,11 +344,11 @@ export const bestLoudBicycleBells: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride shared paths daily; the ROCKBROS Classic Brass Bike Bell or Timber Yew Brass Trail Bell gives a long, clear ring."
+          "text": "You ride shared paths daily. The ROCKBROS Classic Brass Bike Bell or Timber Yew Brass Trail Bell gives a long, clear ring that carries to walkers ahead."
         },
         {
           "label": "Save if",
-          "text": "You need a spare or a second trike bell; the Mudder Adjustable Aluminum Bike Bell Set gives two bells."
+          "text": "You need a spare or a second trike bell. The Mudder Adjustable Aluminum Bike Bell Set gives two bells with a tool-free buckle."
         }
       ]
     }
@@ -339,26 +356,30 @@ export const bestLoudBicycleBells: BestArticle = {
   "faq": [
     {
       "q": "Is brass louder than aluminum?",
-      "a": "Brass tends to ring longer and clearer, which carries well on shared paths. Aluminum gives a sharper, shorter chime."
+      "a": "Brass tends to ring longer and clearer, which carries well on shared paths. Aluminum gives a sharper, shorter chime. Pick by how far ahead you want to be heard, not just a decibel number."
     },
     {
       "q": "Will a bell fit my trike bars?",
-      "a": "Measure your bar diameter and compare it with the stated range, such as 0.87 to 1.25 inch for the ROCKBROS or up to 47 mm for the Ravemen."
+      "a": "Measure your bar diameter and compare it with the range. That is 0.87 to 1.25 inch for the ROCKBROS, 0.87 to 1.38 inch for the Mudder or up to 47 mm for the Ravemen with its straps."
     },
     {
       "q": "What bell suits arthritic hands?",
-      "a": "A dual-hammer design like the Ravemen Q3, or a passive ring like the Timber, avoids a firm thumb stroke. Ask your doctor or therapist about grip needs."
+      "a": "A dual-hammer design like the Ravemen Q3, or a passive ring like the Timber Yew, avoids a firm thumb stroke. Ask your doctor or therapist about grip needs before settling on a thumb lever."
     },
     {
-      "q": "Do I need tools?",
-      "a": "The ROCKBROS needs a hex wrench. The Ravemen uses straps and the Mudder uses a buckle."
+      "q": "Do I need tools to fit a bell?",
+      "a": "The ROCKBROS needs a hex wrench and comes with two anti-skid pads. The Ravemen uses straps, the Mudder uses a buckle, and the IHYjinchoo claims installation in under 60 seconds."
     },
     {
       "q": "How loud should a bell be?",
-      "a": "Loud enough for walkers to hear at a distance. The Ravemen and Mudder quote 90 to 100 dB."
+      "a": "Loud enough for walkers to hear at a distance. The Ravemen and Mudder quote 90 to 100 dB, but the clear sustained ring of brass often matters more than the number."
+    },
+    {
+      "q": "Can I fit two bells to a trike?",
+      "a": "Yes, especially if you ride two trikes. The Mudder set comes with two bells, so one can stay on a spare bike or sit as a backup if the first loosens."
     }
   ],
-  "bottomLine": "The ROCKBROS Classic Brass Bike Bell is the best all-round loud bell for most trike riders. Choose the Ravemen Q3 if your thumb is stiff or your bars are thick. Measure your bars before you order.",
+  "bottomLine": "The ROCKBROS Classic Brass Bike Bell is the best all-round loud bell for most trike riders, with a clear sustained ring and a wide bar range. Choose the Ravemen Q3 if your thumb is stiff or your bars are thick, and the Mudder set for a spare. Measure your bars before ordering.",
   "amazonSearch": "loud bike bells",
   "relatedPaths": [
     "/accessories/best-bicycle-bells-for-tricycle-riders/",

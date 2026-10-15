@@ -223,48 +223,48 @@ export const bestCargoNetsForTricycleBaskets: BestArticle = {
   "howWeChose": [
     {
       "title": "Mesh size",
-      "body": "We compared 2 inch and 3 inch grids and what each holds."
+      "body": "We compared 2 inch and 3 inch grids and what each holds, because the opening size decides whether small cans and boxes stay in the basket or fall out on the first bump."
     },
     {
       "title": "Stretch and size",
-      "body": "Unstretched and maximum sizes decide whether the net reaches the basket rim."
+      "body": "We checked resting and maximum stretched sizes, because those two numbers decide whether a net reaches the rim of a wide trike basket and still holds tension."
     },
     {
       "title": "Hooks",
-      "body": "Plastic and metal hooks differ in durability and ease of repositioning."
+      "body": "We compared plastic and metal hooks, because they differ in durability, in how well they grip basket wire and in how easily they can be repositioned on the grid."
     },
     {
       "title": "Kit value",
-      "body": "We included basket kits with nets for riders who need both."
+      "body": "We included basket kits that come with a net, for riders who have no basket yet and would otherwise have to guess at a net size that matches."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Mesh size",
       "paragraphs": [
-        "A 2 inch mesh keeps cans and small boxes from slipping through. A 3 inch mesh is cheaper but lets small items escape.",
-        "Match the grid to your smallest regular item."
+        "A 2 inch mesh keeps cans, jars and small boxes from slipping through, while a 3 inch grid is easier to hook onto but lets small items escape. The grid is the main difference between nets of the same outer size.",
+        "Match the grid to the smallest thing you carry regularly. If it is smaller than the opening, the item will work its way out over a bumpy ride."
       ]
     },
     {
       "title": "Net size vs basket",
       "paragraphs": [
-        "A net must stretch beyond the basket's rim and hook onto the wire. Too small and it will not reach, too large and it sags.",
-        "Measure the basket's top opening and choose a net with a resting size slightly smaller."
+        "A net has to stretch past the basket rim and hook onto the wire, so a net that is too small never reaches and one that is too large sags over the load. Stretch only holds the load if there is tension.",
+        "Measure the top opening of your basket and choose a net whose resting size is slightly smaller, with a stretched size that covers the rim comfortably."
       ]
     },
     {
       "title": "Hook material",
       "paragraphs": [
-        "Plastic ABS hooks are light but can crack with age and cold. Metal hooks resist snapping but can scratch paint.",
-        "Look for rounded metal hooks if your basket is coated."
+        "Plastic ABS hooks are light and gentle on coated wire but can crack with age and cold. Metal hooks resist snapping and slide to new positions more easily, though they can scratch paint if they are bare.",
+        "Look for rounded metal hooks if your basket is coated, and plan to inspect plastic hooks each season. Check the hook count too, because more hooks spread the tension."
       ]
     },
     {
       "title": "Stretch and tension",
       "paragraphs": [
-        "A net with a thick latex core stretches farther and snaps back, keeping the load tight.",
-        "Check the stated stretch size, like 30 by 30 inches, against your basket."
+        "A thick latex or bungee core stretches farther and snaps back, which keeps a heaped load pressed down rather than loose. A thin or tired cord goes slack and lets bags slide around.",
+        "Check the stated core thickness and the maximum stretch, such as 30 by 30 inches, against your basket size. Test by pulling it across the rim and checking it snaps back."
       ]
     }
   ],
@@ -279,29 +279,29 @@ export const bestCargoNetsForTricycleBaskets: BestArticle = {
         ],
         "rows": [
           [
-            "Small loose items",
+            "Small loose items like cans",
             "ZUOZE 15x15 Inch Cargo Net",
-            "2 inch mesh and thick core"
+            "2 inch mesh and thick 5mm latex core"
           ],
           [
-            "Basic cover on a budget",
+            "Basic cover for an existing basket",
             "JCHL 15x15 Inch Cargo Net",
-            "Six hooks and tight mesh"
+            "Six hooks and a tight 2 inch mesh"
           ],
           [
-            "Bulky bags",
+            "Bulky bags and bigger loads",
             "Zoe sunny 15.7x15.7 Inch Cargo Net 2-Pack",
-            "3 inch grid and metal hooks"
+            "3 inch grid, metal hooks and two nets"
           ],
           [
             "No basket yet",
             "SAMRELAX Rear Basket Kit with Cargo Net",
-            "Basket and matched net"
+            "Basket arrives with a matched net"
           ],
           [
-            "Tall loads and rain",
+            "Tall loads and rain protection",
             "Lunies Large Rear Basket with Cargo Net",
-            "8 inch depth"
+            "8 inch depth and a waterproof cover"
           ]
         ]
       }
@@ -311,25 +311,25 @@ export const bestCargoNetsForTricycleBaskets: BestArticle = {
       "cards": [
         {
           "label": "Plastic hooks",
-          "text": "The ZUOZE and JCHL use ABS hooks, which are light and gentle on finishes but can crack with age."
+          "text": "The ZUOZE and JCHL nets use ABS hooks, which are light and gentle on finishes but can crack with age, so inspect them if your trike lives outdoors."
         },
         {
           "label": "Metal hooks",
-          "text": "The Zoe sunny pack uses metal hooks that are tougher and slide across the grid."
+          "text": "The Zoe sunny pack uses 12 metal hooks that are tougher and can be repositioned across the grid, which suits heavier or bulkier loads."
         }
       ],
-      "note": "Choose metal for heavy loads and plastic for light use."
+      "note": "Choose metal for heavy loads and plastic for light everyday use."
     },
     {
       "heading": "For Wide Rear Baskets Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A net that stretches to at least the basket width with hooks you can reposition."
+          "text": "A net that stretches to at least the basket width with hooks you can move around the rim, so tension stays even across a wide, shallow basket."
         },
         {
           "label": "In this comparison",
-          "text": "The Zoe sunny nets stretch to 33 by 33 inches, and the ZUOZE stretches to 30 by 30."
+          "text": "The Zoe sunny nets stretch to 33 by 33 inches, which suits the widest baskets, while the ZUOZE and JCHL stretch to 30 by 30 with a tighter mesh."
         }
       ]
     },
@@ -338,11 +338,11 @@ export const bestCargoNetsForTricycleBaskets: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You also need a basket, which makes the SAMRELAX or Lunies kit better value."
+          "text": "You also need a basket. The SAMRELAX kit has a wire rated to at least 200 lbs plus a liner and cover, and the Lunies kit adds an 18L basket with a waterproof cover."
         },
         {
           "label": "Save if",
-          "text": "Your basket already fits and you only need a net, where the JCHL is enough."
+          "text": "Your basket already fits and you only need a net. The JCHL gives the same 2 inch mesh and six hooks as the ZUOZE in a simpler package."
         }
       ]
     }
@@ -350,26 +350,30 @@ export const bestCargoNetsForTricycleBaskets: BestArticle = {
   "faq": [
     {
       "q": "What size cargo net do I need?",
-      "a": "A net whose resting size is slightly smaller than your basket opening. The ZUOZE and JCHL start at 15 by 15 inches and stretch to 30 by 30."
+      "a": "Choose a net whose resting size is slightly smaller than your basket opening so it stays tight. The ZUOZE and JCHL start at 15 by 15 inches and stretch to 30 by 30, while the Zoe sunny nets stretch to 33."
     },
     {
       "q": "Why use a 2 inch mesh?",
-      "a": "It keeps small items such as cans from slipping through. The 3 inch grid on the Zoe sunny net suits bulkier loads."
+      "a": "It keeps small items such as cans and boxes from slipping through the grid. The 3 inch grid on the Zoe sunny net suits bulkier loads, but a small item can push through it on a bumpy ride."
     },
     {
-      "q": "Are motorcycle nets safe for a trike basket?",
-      "a": "They are general-purpose bungee nets and work well on baskets. Check the hook fit on your basket wire."
+      "q": "Are plastic hooks strong enough?",
+      "a": "For light everyday loads, yes. ABS hooks are light and gentle on coated wire, but they can crack with age and cold, so check them each season and carry a spare net if you ride in winter."
     },
     {
       "q": "Do I need a net if my basket has a liner?",
-      "a": "A liner keeps small items in but does not hold down a heaped load. A net does."
+      "a": "A liner keeps small items in the basket but does not hold down a heaped load. A net presses the load down and keeps bags from bouncing out, so the two do different jobs and work well together."
     },
     {
       "q": "How do I attach the net?",
-      "a": "Hook it around the basket rim at several points and move hooks to adjust tension."
+      "a": "Hook it around the basket rim at several points, spread evenly, and then move individual hooks to adjust the tension. Make sure the net crosses the top of the load rather than sagging in the middle."
+    },
+    {
+      "q": "Is a basket kit better than a separate net?",
+      "a": "If you need a basket anyway, yes, because the net is matched to it. The SAMRELAX is 16.9 inches wide and the Lunies holds 18L, but measure your rack and the load you carry first."
     }
   ],
-  "bottomLine": "The ZUOZE net is the best standalone pick thanks to its tight mesh. Choose the Zoe sunny pack for bulky loads, or the SAMRELAX or Lunies kits if you also need a basket.",
+  "bottomLine": "The ZUOZE net is the best standalone pick here because its 2 inch mesh and thick latex core hold small items. Choose the Zoe sunny pack for bulky loads and two nets, or the SAMRELAX or Lunies kits if you also need a new basket.",
   "amazonSearch": "cargo nets for trike baskets",
   "relatedPaths": [
     "/accessories/best-baskets-for-adult-tricycles/",

@@ -221,48 +221,55 @@ export const bestWaterBottleCagesForTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Mounting without bosses",
-      "body": "We favored holders that clamp to a bar or tube, since most trikes lack threaded bosses."
+      "body": "We favored holders that clamp to a bar or tube, since most trikes lack threaded bosses. A cage that needs holes the frame does not have cannot be fitted."
     },
     {
       "title": "Bottle fit",
-      "body": "We compared stated bottle sizes and adjustment."
+      "body": "We compared stated bottle sizes and adjustment, from the Accmor's 3.4 inch limit to the 23 to 28 oz range on the FiveBox. A holder that grips poorly drops the drink on the first bump."
     },
     {
       "title": "Install effort",
-      "body": "Tool-free clamps were separated from screw-mounted cages."
+      "body": "We separated tool-free clamps from screw-mounted cages. The FiveBox needs a 4 mm hex key and the ROCKBROS comes with a 3 mm wrench."
     },
     {
       "title": "Extras",
-      "body": "Features such as a tracker slot or a phone pocket were noted."
+      "body": "We noted extras such as the Lamicall tracker slot and the Accmor phone pocket. Extras add value only when the core grip is solid."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Threaded bosses",
       "paragraphs": [
-        "A normal cage needs two threaded holes in the frame. Most trikes lack them.",
-        "Look at the frame tubes before ordering, or choose a clamp holder."
+        "A normal cage needs two threaded holes in the frame. Most trikes lack them, so a standard cage has nothing to attach to.",
+        "Look at the frame tubes before ordering, or choose a clamp holder. The FiveBox needs screw spacing of 56 to 71 mm."
       ]
     },
     {
       "title": "Bar diameter",
       "paragraphs": [
-        "A clamp must fit the bar. Trike bars are often 22.2 or 25.4 mm.",
-        "Measure and compare to the stated clamp range."
+        "A clamp must fit the bar. Trike bars are often 22.2 or 25.4 mm, and a mismatch causes slipping.",
+        "Measure and compare to the stated clamp range. Tighten the clamp and check it each ride, since vibration loosens it."
       ]
     },
     {
       "title": "Bottle width",
       "paragraphs": [
-        "A holder has a maximum diameter. Insulated bottles are often wider.",
-        "Measure the widest point of your bottle."
+        "A holder has a maximum diameter. Insulated bottles are often wider than a standard cycling bottle, and a tight fit will not close.",
+        "Measure the widest point of your bottle. The Accmor takes cups and bottles up to 3.4 inches, and the FiveBox holds 23 to 28 oz bottles."
       ]
     },
     {
       "title": "Reach and clearance",
       "paragraphs": [
-        "On a wide bar, a holder can block levers or mirrors.",
-        "Plan its position before tightening."
+        "On a wide bar, a holder can block levers or mirrors. Reaching down for a drink is also harder on a wide bar.",
+        "Plan its position before tightening. Test that you can still reach the brake levers and the drink with your usual grip."
+      ]
+    },
+    {
+      "title": "Material and weight",
+      "paragraphs": [
+        "A cage's material decides how long it lasts. The FiveBox is aluminum alloy, and the ROCKBROS is 35 g polycarbonate that is lighter but plastic.",
+        "Pick aluminum for durability and plastic for low weight. Both need frame holes, while clamp holders do not."
       ]
     }
   ],
@@ -279,27 +286,27 @@ export const bestWaterBottleCagesForTricycles: BestArticle = {
           [
             "No bosses, want a clamp",
             "Accmor Universal Cup Holder",
-            "Clamps on the bar"
+            "Rubber-pad clamp rotates 360 degrees on the bar"
           ],
           [
             "No bosses, want a phone too",
             "Accmor Cup Holder with Phone Holder",
-            "Cup plus phone"
+            "Cup and phone holder share one clamp"
           ],
           [
-            "Tube or bar, with tracker",
-            "Lamicall Bike Bottle Holder",
-            "Tracker slot"
+            "Bar or tube mount with tracker",
+            "Lamicall Bike Bottle Holder with Tracker Storage",
+            "Hidden slot holds a small GPS tracker"
           ],
           [
             "Has threaded bosses",
             "FiveBox Aluminum Bottle Cage",
-            "Aluminum, standard spacing"
+            "Aluminum alloy with standard screw spacing"
           ],
           [
             "Has bosses, lightest",
             "ROCKBROS Ultralight Bottle Cage",
-            "35 g"
+            "Only 35 g with screws and a 3 mm key"
           ]
         ]
       }
@@ -309,11 +316,11 @@ export const bestWaterBottleCagesForTricycles: BestArticle = {
       "cards": [
         {
           "label": "Clamp holder",
-          "text": "The Accmor holders and Lamicall cage mount without frame holes but add bulk to the bar."
+          "text": "The Accmor holders and Lamicall cage mount without frame holes but add bulk to the bar. They suit trikes that lack bosses."
         },
         {
           "label": "Frame cage",
-          "text": "The FiveBox and ROCKBROS cages are lighter and neater but need threaded bosses."
+          "text": "The FiveBox and ROCKBROS cages are lighter and neater but need threaded bosses. If your frame has none, they cannot be fitted."
         }
       ],
       "note": "Default to a clamp holder unless your frame clearly has bosses."
@@ -323,11 +330,11 @@ export const bestWaterBottleCagesForTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A holder that grips cups, not only bottles, with silicone petals."
+          "text": "A holder that grips cups, not only bottles, ideally with silicone petals that hold the drink steady on rough ground."
         },
         {
           "label": "In this comparison",
-          "text": "The Accmor Universal Cup Holder takes cups up to 3.4 inches wide."
+          "text": "The Accmor Universal Cup Holder takes cups up to 3.4 inches wide, and the 2-in-1 version adds a phone holder with silicone petals."
         }
       ]
     },
@@ -336,11 +343,11 @@ export const bestWaterBottleCagesForTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want a phone too or worry about theft. The Accmor 2-in-1 and Lamicall add those."
+          "text": "You want a phone too or worry about theft. The Accmor 2-in-1 and Lamicall add a phone holder and a hidden tracker slot."
         },
         {
           "label": "Save if",
-          "text": "You only carry water and have bosses. The ROCKBROS cage is light and basic."
+          "text": "You only carry water and have bosses. The ROCKBROS cage is light and basic, at 35 g with screws and a wrench included."
         }
       ]
     }
@@ -348,26 +355,30 @@ export const bestWaterBottleCagesForTricycles: BestArticle = {
   "faq": [
     {
       "q": "Do trikes have bottle cage mounts?",
-      "a": "Many do not. Check for two threaded holes on a frame tube; if there are none, use a clamp holder like the Accmor."
+      "a": "Many do not. Check for two threaded holes on a frame tube; if there are none, use a clamp holder like the Accmor. Do not drill into the frame, since that weakens the tube."
     },
     {
       "q": "Will a cup holder hold a large bottle?",
-      "a": "The Accmor takes cups and bottles up to 3.4 inches in diameter. Measure your bottle."
+      "a": "The Accmor takes cups and bottles up to 3.4 inches in diameter. Measure your bottle at the widest point, because insulated bottles are often wider. The FiveBox handles 23 to 28 oz bottles."
     },
     {
       "q": "What is the tracker slot for?",
-      "a": "The Lamicall has a hidden compartment for a small GPS tracker such as an AirTag."
+      "a": "The Lamicall has a hidden compartment for a small GPS tracker such as an AirTag. It lets you hide a tracker on the trike. It mounts on a bar or tube with two screws."
     },
     {
       "q": "How do I mount a cage with no bosses?",
-      "a": "Use a clamp holder, or the Lamicall on a bar or tube. Do not drill into the frame."
+      "a": "Use a clamp holder, or the Lamicall on a bar or tube. Do not drill into the frame. Measure your bar diameter first and compare it with the stated clamp range."
     },
     {
       "q": "Are clamp holders stable on rough paths?",
-      "a": "The Accmor uses a rubber pad and silicone petals to keep a drink in place. Tighten the clamp and check it each ride."
+      "a": "The Accmor uses a rubber pad and silicone petals to keep a drink in place. Tighten the clamp and check it each ride, because vibration can loosen any bar mount over time."
+    },
+    {
+      "q": "Which holder is lightest?",
+      "a": "The ROCKBROS Ultralight is 35 g and made of polycarbonate, but it needs pre-drilled frame holes. The FiveBox aluminum cage is also light. If you have no holes, a clamp holder is the only choice."
     }
   ],
-  "bottomLine": "Choose the Accmor holder if your trike has no bosses, and the FiveBox cage if it does. Measure your bar and bottle before ordering.",
+  "bottomLine": "Choose the Accmor holder if your trike has no bosses, and the FiveBox cage if it does. The Accmor 2-in-1 adds a phone holder, and the Lamicall adds a tracker slot. Measure your bar and bottle before ordering.",
   "amazonSearch": "water bottle cages for tricycles",
   "relatedPaths": [
     "/accessories/best-phone-mounts-for-adult-tricycles/",

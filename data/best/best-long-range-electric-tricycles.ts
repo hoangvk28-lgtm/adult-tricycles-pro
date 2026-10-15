@@ -236,48 +236,55 @@ export const bestLongRangeElectricTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Watt-hours first",
-      "body": "We converted volts and amp-hours to watt-hours so packs compare directly, rather than relying on mile claims."
+      "body": "We converted volts and amp-hours to watt-hours, from 499Wh on the ANCHEER to 960Wh on the MOONCOOL TK2 Pro, so packs compare directly instead of relying on mile claims."
     },
     {
       "title": "Removable packs",
-      "body": "Packs that come off the trike for indoor charging ranked higher."
+      "body": "Packs that come off the trike for indoor charging ranked higher, since a long range pack is only useful if you can charge it conveniently at home."
     },
     {
       "title": "Assist and efficiency",
-      "body": "Torque sensors, cruise control and gearing were weighed as range savers."
+      "body": "Torque sensors, cruise control and gearing were weighed as range savers, because a motor that matches effort uses less energy than one that runs flat out."
     },
     {
       "title": "Honest claims",
-      "body": "Unverified models are labeled as claims, not proven range."
+      "body": "Unverified range figures, such as the ESKUTE up to 80 miles, are treated as claims, not confirmed range, and we ranked packs on watt-hours instead."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Watt-hours, not miles",
       "paragraphs": [
-        "Multiply volts by amp-hours: 48V times 20Ah is 960Wh. That figure sets how much energy you can use.",
-        "Compare packs on watt-hours across brands."
+        "Multiply volts by amp-hours: 48V times 20Ah is 960Wh. That figure sets how much energy you can use, while mile claims depend on rider weight, hills and assist level.",
+        "Compare packs on watt-hours across brands: 960Wh for the TK2 Pro, about 998Wh for the ESKUTE 20.8Ah, 624Wh for the Ligood and 499Wh for the ANCHEER."
       ]
     },
     {
       "title": "What range assumes",
       "paragraphs": [
-        "Stated miles usually assume pedal assist at a light rider weight and flat ground. Throttle, hills and loaded baskets cut that.",
-        "Plan for noticeably less than the stated figure on hilly rides."
+        "Stated miles usually assume pedal assist at a light rider weight and flat ground. Throttle, hills and loaded baskets cut that, and a heavy trike loses range faster.",
+        "Plan for noticeably less than the stated figure on hilly rides. The ESKUTE 80 miles is a pedal assist claim, and the Ligood 65 miles needs caution."
       ]
     },
     {
       "title": "Removable battery",
       "paragraphs": [
-        "A removable pack lets you charge indoors and swap in a spare.",
-        "Check the charge time, 6 to 9 hours on the models here."
+        "A removable pack lets you charge indoors and swap in a spare if the system allows it. A fixed pack means rolling the whole trike to a socket.",
+        "Check the charge time, about 6 to 8 hours on the MOONCOOL TK2 Pro, and confirm the pack releases with a key. All five picks here have removable packs."
       ]
     },
     {
-      "title": "Efficiency features",
+      "title": "Efficiency",
       "paragraphs": [
-        "Torque sensors match assist to effort, and gearing lets you pedal at a steady cadence.",
-        "Both stretch range."
+        "Torque sensors match assist to effort, and gearing lets you pedal at a steady cadence. These keep the motor out of its thirsty range on hills.",
+        "Look for torque sensors on the TK2 Pro and TKPRO, cruise control on the TKPRO, and 7-speed gearing on the ANCHEER. Both stretch range on the same watt-hours."
+      ]
+    },
+    {
+      "title": "Fit and rider size",
+      "paragraphs": [
+        "A long ride is only enjoyable if the trike fits your height. A frame that is too small makes you pedal cramped, and one too large makes mounting hard.",
+        "Check the stated rider heights: the Ligood suits 4'8 to 6'2 and the ANCHEER suits 55 to 75 inch riders. The TKPRO low step-through is 12.2 inches."
       ]
     }
   ],
@@ -293,23 +300,28 @@ export const bestLongRangeElectricTricycles: BestArticle = {
         "rows": [
           [
             "Day-long mixed rides",
-            "MOONCOOL TK2 Pro",
-            "960Wh and torque sensing"
+            "MOONCOOL TK2 Pro Electric Trike",
+            "960Wh pack with torque and cadence sensors"
           ],
           [
             "Steady flat long rides",
-            "MOONCOOL TKPRO",
-            "20Ah with cruise control"
+            "MOONCOOL TKPRO Folding Electric Trike",
+            "20Ah pack with cruise control"
+          ],
+          [
+            "Largest claimed range",
+            "ESKUTE T300 MAX Electric Trike",
+            "20.8Ah pack and one-touch reverse"
           ],
           [
             "Short daily errands",
-            "Ligood T300",
-            "624Wh in a compact frame"
+            "Ligood T300 Folding Electric Trike",
+            "624Wh pack in a compact frame"
           ],
           [
             "Budget flat routes",
-            "ANCHEER 24 inch",
-            "499Wh at the lowest commitment"
+            "ANCHEER 24 Inch Folding Electric Trike",
+            "499Wh pack at the lowest commitment"
           ]
         ]
       }
@@ -319,11 +331,11 @@ export const bestLongRangeElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "One large battery",
-          "text": "A 960Wh TK2 Pro covers a full day without a swap, but weighs more."
+          "text": "A 960Wh TK2 Pro covers a full day without a swap, but weighs more and costs more upfront. It suits riders who charge once overnight."
         },
         {
           "label": "Smaller battery plus spare",
-          "text": "A Ligood 624Wh or ANCHEER 499Wh pack is lighter, and a second pack doubles range."
+          "text": "A Ligood 624Wh or ANCHEER 499Wh pack is lighter to carry, and a second compatible pack would add range. Confirm that a spare fits before relying on it."
         }
       ],
       "note": "Most riders do best with one large pack."
@@ -333,11 +345,11 @@ export const bestLongRangeElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "At least 750W, 80Nm or more torque and 900Wh or more."
+          "text": "At least 750W, 80Nm or more torque and 900Wh or more, so the motor does not run at its limit and drain the pack halfway up a climb."
         },
         {
           "label": "In this comparison",
-          "text": "The TK2 Pro (90Nm, 960Wh) and ESKUTE (80Nm, about 1,000Wh) fit; the ANCHEER does not."
+          "text": "The TK2 Pro (750W, 90Nm, 960Wh) and ESKUTE (80Nm, 20.8Ah) fit, while the ANCHEER at 499Wh will run low sooner on hills."
         }
       ]
     },
@@ -346,11 +358,11 @@ export const bestLongRangeElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride over 20 miles at a time, where the TK2 Pro or TKPRO battery pays off."
+          "text": "You ride over 20 miles at a time, where the TK2 Pro or TKPRO 20Ah battery pays off in fewer charges and less range worry."
         },
         {
           "label": "Save if",
-          "text": "Your rides are short and flat, where the ANCHEER or Ligood is enough."
+          "text": "Your rides are short and flat, where the ANCHEER or Ligood is enough and you can skip the weight of a large pack."
         }
       ]
     }
@@ -358,26 +370,30 @@ export const bestLongRangeElectricTricycles: BestArticle = {
   "faq": [
     {
       "q": "How far will an electric trike really go?",
-      "a": "Less than the stated figure in most cases. Stated ranges assume pedal assist and light loads, so hills, throttle and cargo reduce them."
+      "a": "Less than the stated figure in most cases. Stated ranges assume pedal assist and light loads, so hills, throttle and cargo reduce them. Use watt-hours to compare packs rather than relying on one mile number."
     },
     {
       "q": "What battery size is long range?",
-      "a": "For a heavy trike, 900Wh or more is a useful benchmark. The MOONCOOL TK2 Pro is 960Wh."
+      "a": "For a heavy trike, 900Wh or more is a useful benchmark. The MOONCOOL TK2 Pro is 960Wh, and the ESKUTE is a 48V 20.8Ah pack. The smaller packs here suit shorter rides."
     },
     {
       "q": "Is a removable battery important?",
-      "a": "Yes, for apartments and for charging indoors. All five here have removable packs."
+      "a": "Yes, for apartments and for charging indoors. All five here have removable packs, so you can carry the pack inside rather than rolling the trike to a socket."
     },
     {
       "q": "Does throttle shorten range?",
-      "a": "Usually, because the motor does more of the work. Use assist for cruising."
+      "a": "Usually, because the motor does more of the work. Use assist for cruising and save the throttle for starts and hills. The TKPRO has cruise control, which can help hold a steady, efficient speed."
     },
     {
       "q": "Can I add a second battery?",
-      "a": "Some systems allow a spare pack, but check compatibility with the model before buying."
+      "a": "Some systems allow a spare pack, but check compatibility with the model before buying. None of these picks promise a spare, so ask the maker if a second pack is part of your plan."
+    },
+    {
+      "q": "Which model fits smaller or taller riders?",
+      "a": "The Ligood T300 suits riders 4'8 to 6'2 on 18 inch wheels, while the ANCHEER 24 inch suits 55 to 75 inch riders. Check height ranges before range, since a poor fit shortens your ride."
     }
   ],
-  "bottomLine": "Range comes from watt-hours, not mile claims. The MOONCOOL TK2 Pro is the best long-range pick with 960Wh, the TKPRO is the steady-ride value, and the ESKUTE claims more but should be treated as unproven.",
+  "bottomLine": "Range comes from watt-hours, not mile claims. The MOONCOOL TK2 Pro is the best long-range pick with its 960Wh pack, the TKPRO is the steady-ride value, and the ESKUTE claims the most but should be treated as unconfirmed. Ligood and ANCHEER suit shorter, flatter rides.",
   "amazonSearch": "long-range electric tricycles",
   "relatedPaths": [
     "/electric-tricycles/best-electric-tricycles-with-throttle/",

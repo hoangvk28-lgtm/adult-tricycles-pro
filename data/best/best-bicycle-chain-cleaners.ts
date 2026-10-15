@@ -142,48 +142,55 @@ export const bestBicycleChainCleaners: BestArticle = {
   "howWeChose": [
     {
       "title": "Scrubber design",
-      "body": "We favoured kits that clean without removing the chain."
+      "body": "We favored kits that clean without removing the chain, since taking a trike chain apart is a chore most owners will avoid."
     },
     {
       "title": "Degreaser clarity",
-      "body": "Stated fluid volume and material safety counted."
+      "body": "Published fluid volume and material safety counted, because a strong solvent can harm paint, rubber and plastic parts near the drivetrain."
     },
     {
       "title": "Tools in the box",
-      "body": "Brushes, scrapers and gloves reduce the need for extras."
+      "body": "Brushes, scrapers and gloves reduce the need for extras, which matters when your hands are not as strong as they once were."
     },
     {
       "title": "Trike fit",
-      "body": "Long chains and coaster brakes shaped how we judged each kit."
+      "body": "Long chains and coaster brakes shaped how we judged each kit, since both change how you turn the cranks while cleaning."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Scrubber or brush",
       "paragraphs": [
-        "A clamp on scrubber holds the chain in a bath of degreaser while you turn the cranks. A brush cleans by hand.",
+        "A clamp on scrubber holds the chain in a bath of degreaser while you turn the cranks. A brush cleans by hand and takes more time and effort.",
         "A scrubber is quicker for long chains. Check that the pedal turns freely before using one."
       ]
     },
     {
       "title": "Material safety",
       "paragraphs": [
-        "Strong solvents can harm paint, rubber and plastic parts.",
-        "Choose a degreaser that states it is safe for alloy, rubber and plastics, and keep it off brake pads and rotors."
+        "Strong solvents can harm paint, rubber and plastic parts. They also leave brake pads and rotors slick if any reaches them.",
+        "Choose a degreaser that says it is safe for alloy, rubber and plastics, and keep it off brake pads and rotors."
       ]
     },
     {
       "title": "Coaster brake issue",
       "paragraphs": [
-        "A coaster brake locks when you pedal backward, so you cannot run the chain backward through a scrubber.",
-        "Lift the rear wheels or flip the trike so the drive wheels spin freely."
+        "A coaster brake locks when you pedal backward, so you cannot run the chain backward through a scrubber. Backward motion would stall at the lock.",
+        "Lift the rear wheels or flip the trike so the drive wheels spin freely, then pedal forward."
       ]
     },
     {
       "title": "Lube included",
       "paragraphs": [
-        "A kit lube saves a trip, but a small bottle goes quickly on a long chain.",
-        "Measure your chain run and plan to buy a larger bottle separately."
+        "A kit lube saves a trip, but a small bottle goes quickly on a long chain. A trike chain runs longer than a standard bicycle chain.",
+        "Estimate your chain run and plan to buy a larger bottle separately, or choose a kit with a bigger lube volume."
+      ]
+    },
+    {
+      "title": "Extra brushes and floss",
+      "paragraphs": [
+        "Mud packs into sprocket teeth where a scrubber cannot reach. Floss strips and small brushes pull it out.",
+        "If you ride on dirt or wet paths, pick a kit with extra brushes and gear floss."
       ]
     }
   ],
@@ -205,12 +212,12 @@ export const bestBicycleChainCleaners: BestArticle = {
           [
             "Mud packed in sprockets",
             "focopot Bike Cleaning Kit with Degreaser and Scrubber",
-            "Ten floss strips and extra brushes"
+            "Ten floss strips and a wheel brush"
           ],
           [
             "Oily road film",
             "Motul C1 Chain Clean and C2 Lube Kit",
-            "Cleaner aimed at residue and sand"
+            "Cleaner aimed at residue, sand and oil"
           ]
         ]
       }
@@ -220,11 +227,11 @@ export const bestBicycleChainCleaners: BestArticle = {
       "cards": [
         {
           "label": "Scrubber",
-          "text": "Ultrafashs and focopot include a clamp on scrubber that cleans the full chain as you pedal."
+          "text": "Ultrafashs and focopot include a clamp on scrubber that cleans the full chain as you pedal, which saves time on a long trike chain."
         },
         {
           "label": "Brush",
-          "text": "Motul uses a brush and cleaner, with more hands on time."
+          "text": "Motul uses a brush and cleaner, with more hands on time but no clamp to fit around the chain."
         }
       ],
       "note": "Most trike owners should choose a scrubber kit."
@@ -234,11 +241,11 @@ export const bestBicycleChainCleaners: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A scrubber that works with the drive wheels lifted."
+          "text": "A scrubber that works with the drive wheels lifted, or a brush you can use with the chain held still."
         },
         {
           "label": "In this comparison",
-          "text": "Ultrafashs and focopot scrubbers need free spin, while Motul brush cleaning works with the chain stationary."
+          "text": "Ultrafashs and focopot scrubbers need free spin, while Motul brush cleaning works with the chain stationary on a coaster brake trike."
         }
       ]
     },
@@ -247,11 +254,11 @@ export const bestBicycleChainCleaners: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want both scrubber and brushes, which points to focopot."
+          "text": "You want both a scrubber and brushes for heavily soiled chains, which points to focopot with its ten floss strips and wheel brush."
         },
         {
           "label": "Save if",
-          "text": "Your chain is only lightly dirty, so Ultrafashs or a brush alone is enough."
+          "text": "Your chain is only lightly dirty, so Ultrafashs with its scrubber, 10 oz degreaser and gloves is enough."
         }
       ]
     }
@@ -263,29 +270,33 @@ export const bestBicycleChainCleaners: BestArticle = {
     },
     {
       "q": "Do I have to remove the chain?",
-      "a": "No. The scrubbers in these kits clean in place."
+      "a": "No. The scrubbers in the Ultrafashs and focopot kits clean in place, so you only need to turn the cranks while the chain runs through the bath."
     },
     {
       "q": "Can I use these on a coaster brake trike?",
-      "a": "Yes, but lift the drive wheels so the cranks turn the chain freely."
+      "a": "Yes, but lift the drive wheels so the cranks turn the chain freely. Never force the pedals backward against a coaster brake."
     },
     {
       "q": "Is degreaser safe near brakes?",
-      "a": "Keep it away from pads, rotors and rims. Wipe spills at once."
+      "a": "Keep it away from pads, rotors and rims. Wipe spills at once, and let the chain dry before you ride."
     },
     {
       "q": "When should I use a bike shop?",
-      "a": "If the chain is stretched or rusted, a shop can replace it and check wear. Our /adult-tricycle-maintenance-checklist/ lists the signs."
+      "a": "If the chain is stretched or rusted, a shop can replace it and check wear. Our /adult-tricycle-maintenance-checklist/ covers the signs."
+    },
+    {
+      "q": "Does the Motul kit suit a trike?",
+      "a": "It is made for motorcycles, but its C1 cleaner and C2 lube work on a chain. It has no scrubber or sprocket tools, so expect more hands on work."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Bicycle Chain Cleaning Kits",
       "text": "The [Ultrafashs kit](#ultrafashs-7-piece-chain-cleaner-kit) bundles a chain scrubber, 10 oz of degreaser and a 2 oz bottle of wet lube, so you can clean and relube in one go. Check that the scrubber fits your chain width, then dry the chain before lubing. Trike chains run long, so expect to refill the degreaser.",
       "productId": "ultrafashs-7-piece-chain-cleaner-kit"
     }
   ],
-  "bottomLine": "Choose Ultrafashs for a simple routine, focopot for dirty sprockets and Motul if you prefer a brush. Pair it with a lube from /accessories/best-bicycle-chain-lubricants/ after cleaning.",
+  "bottomLine": "Choose Ultrafashs for a simple routine because it bundles a scrubber, degreaser, lube and gloves, focopot for dirty sprockets, and Motul if you prefer a brush and one brand for cleaner and lube. Pair it with a lube from /accessories/best-bicycle-chain-lubricants/ after cleaning.",
   "amazonSearch": "chain cleaners",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-lubricants/",

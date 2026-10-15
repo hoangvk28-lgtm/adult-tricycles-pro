@@ -220,48 +220,48 @@ export const bestCycleComputersForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Wheel size setting",
-      "body": "We noted which units need a circumference entry and which use GPS."
+      "body": "We noted which units need a wheel circumference entered and which read GPS, because a wrong number on a sensor unit quietly gives wrong speed and distance on every ride."
     },
     {
       "title": "Display",
-      "body": "We compared stated screen sizes and backlights."
+      "body": "We compared screen sizes and backlights, because small digits are hard to read bouncing along on a trike and older eyes need larger, higher contrast numbers."
     },
     {
       "title": "Power",
-      "body": "Battery type and stated life were compared."
+      "body": "We compared battery type and stated life, because a unit that needs charging after every ride behaves differently from one that runs for years on a coin cell."
     },
     {
       "title": "Weather",
-      "body": "IPX ratings were noted."
+      "body": "We noted each water rating, because a computer on an outdoor trike handlebar gets rained on, splashed and left in the sun far more than a garage kept bike unit does."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Wheel circumference",
       "paragraphs": [
-        "A wired or sensor unit counts wheel turns, so a wrong circumference gives wrong speed and distance.",
-        "Roll the wheel one turn on the ground, measure the distance, and enter it. Use the wheel the sensor reads."
+        "A wired or sensor based unit counts wheel turns, so a wrong circumference gives wrong speed and distance on every ride. Trike front and rear wheels can differ, and the sensor only reads one of them.",
+        "Roll the wheel one full turn on flat ground, measure the distance, and enter that number. Use the wheel the sensor actually reads, not a figure from a chart."
       ]
     },
     {
       "title": "GPS vs sensor",
       "paragraphs": [
-        "GPS avoids the wheel setting but needs charging. Sensors need setup but run on a coin cell.",
-        "Pick by whether you prefer charging or entering a number."
+        "GPS reads satellites, so it avoids the wheel setting but needs regular charging. A wired sensor unit needs a one time setup but can run on a small battery for a long time.",
+        "Decide whether you would rather charge a unit or enter a number once. The CYCPLUS G1 is GPS with a 1200 mAh battery, while the CATEYE Velo 7 is rated up to three years."
       ]
     },
     {
       "title": "Display size",
       "paragraphs": [
-        "Small digits are hard for older eyes.",
-        "Look for a larger screen and a backlight."
+        "Small digits are hard to read when a trike bounces over rough pavement, and older eyes lose them first. A larger screen with a backlight keeps speed and distance readable in shade or at dusk.",
+        "Look for the stated screen size and a backlight, then limit the data fields to the few you need. The iGPSPORT BSC500 has 3.3 inches and the CYCPLUS G1 has 2.0 inches."
       ]
     },
     {
       "title": "Bar mount",
       "paragraphs": [
-        "The mount must fit the bar diameter and not collide with a mirror.",
-        "Measure first."
+        "The mount has to fit your handlebar diameter without hitting a mirror, a bell or a light that already crowds a trike's wide bar. A unit that sits crooked or touches another part is hard to read and easy to knock loose.",
+        "Measure the bar diameter and map the free space before ordering. Wired units also need a cable run along a wide bar, so check that the wire is long enough."
       ]
     }
   ],
@@ -278,27 +278,27 @@ export const bestCycleComputersForAdultTricycles: BestArticle = {
           [
             "Clear screen, no wheel setup",
             "CYCPLUS G1 GPS Bike Computer",
-            "GPS, 2.0 inch screen"
+            "GPS with a 2.0 inch backlit screen"
           ],
           [
             "No charging at all",
             "CATEYE Velo 7 Wired Computer",
-            "Battery up to three years"
+            "Battery rated up to three years"
           ],
           [
-            "Lowest cost",
+            "Lowest cost wired unit",
             "Hilceriy Wired Bike Computer",
-            "IPX6, backlight"
+            "IPX6 rating, backlight and auto wake-up"
           ],
           [
-            "Maps on screen",
+            "Maps on a big screen",
             "iGPSPORT BSC500 GPS Computer",
-            "3.3 inch touchscreen"
+            "3.3 inch touchscreen with route navigation"
           ],
           [
             "Longest battery with maps",
             "Garmin Edge 1050",
-            "Up to 20 hours"
+            "Up to 20 hours, 60 in saver mode"
           ]
         ]
       }
@@ -308,25 +308,25 @@ export const bestCycleComputersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "GPS",
-          "text": "The CYCPLUS G1 and Garmin Edge 1050 read satellites, so no wheel size is needed but they need charging."
+          "text": "The CYCPLUS G1 and Garmin Edge 1050 read satellites, so no wheel size is needed, but they must be charged and are less simple than a basic unit."
         },
         {
           "label": "Wired sensor",
-          "text": "The CATEYE Velo 7 and Hilceriy run on a battery and need a wheel circumference entry."
+          "text": "The CATEYE Velo 7 and Hilceriy count wheel turns, so they need a wheel circumference entry, and they need a cable run along the bar."
         }
       ],
-      "note": "Choose GPS unless you want a no-charge setup."
+      "note": "Choose GPS unless you strongly want a no-charge setup."
     },
     {
       "heading": "For Older Eyes Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A large screen, a backlight and few data fields."
+          "text": "A large screen, a backlight and few data fields, so speed and distance can be read in a glance without squinting or looking away from the road for long."
         },
         {
           "label": "In this comparison",
-          "text": "The iGPSPORT BSC500 has a 3.3 inch screen. The CYCPLUS G1 has a 2.0 inch backlit screen."
+          "text": "The iGPSPORT BSC500 has a 3.3 inch touchscreen, the Garmin Edge 1050 a color touchscreen, and the CYCPLUS G1 a 2.0 inch screen with an automatic backlight."
         }
       ]
     },
@@ -335,11 +335,11 @@ export const bestCycleComputersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want navigation. The BSC500 or the Garmin Edge 1050 add maps."
+          "text": "You want route navigation. The iGPSPORT BSC500 adds maps and sensors, and the Garmin Edge 1050 adds hazard alerts, on device course creation and a color screen."
         },
         {
           "label": "Save if",
-          "text": "You only want speed and distance. The CATEYE Velo 7 does it with a long battery."
+          "text": "You only want speed and distance. The CATEYE Velo 7 does that with a battery rated up to three years, and the Hilceriy adds IPX6 and a backlight."
         }
       ]
     }
@@ -347,26 +347,30 @@ export const bestCycleComputersForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "What wheel size should I enter?",
-      "a": "Use the circumference of the wheel the sensor reads. Roll it one turn and measure, because front and rear trike wheels can differ."
+      "a": "Use the circumference of the wheel the sensor reads. Roll that wheel one full turn on flat ground and measure the distance, because front and rear trike wheels can differ and a wrong number skews every reading."
     },
     {
       "q": "Do I need a sensor with GPS?",
-      "a": "No. GPS units like the CYCPLUS G1 read position from satellites."
+      "a": "No. GPS units like the CYCPLUS G1 read position from satellites, so no wheel setting is needed. The iGPSPORT BSC500 includes speed and cadence sensors if you want extra data to go with its maps."
     },
     {
       "q": "Is wired or wireless better on a trike?",
-      "a": "A wired unit like the CATEYE Velo 7 needs a cable run along a wide bar. A wireless unit avoids it."
+      "a": "A wired unit like the CATEYE Velo 7 needs a cable run along a wide bar, which can be fiddly on a trike. A GPS unit avoids the wire, though you give up the long coin cell battery life."
     },
     {
       "q": "Which is best for low vision?",
-      "a": "Pick the largest screen with a backlight, like the iGPSPORT BSC500 at 3.3 inches."
+      "a": "Pick the largest screen you can, with a backlight. The iGPSPORT BSC500 has a 3.3 inch touchscreen, the CYCPLUS G1 has a 2.0 inch screen with an automatic backlight, and fewer data fields make numbers larger."
     },
     {
       "q": "How long do batteries last?",
-      "a": "The CATEYE Velo 7 is rated up to three years. The Garmin Edge 1050 is up to 20 hours."
+      "a": "The CATEYE Velo 7 is rated up to three years, so it needs no charging. The Garmin Edge 1050 runs up to 20 hours, or 60 hours in battery saver mode, and the CYCPLUS G1 has a 1200 mAh battery."
+    },
+    {
+      "q": "Does water resistance matter?",
+      "a": "On an outdoor trike, yes. The CYCPLUS G1 and Hilceriy both carry an IPX6 rating, which covers heavy rain spray, so they suit a handlebar that is left outside or ridden in wet weather. Check the rating before you buy."
     }
   ],
-  "bottomLine": "Choose the CYCPLUS G1 for clear GPS tracking, the CATEYE Velo 7 for a no-charge setup, or a larger unit for maps. Set the wheel size correctly on any sensor unit.",
+  "bottomLine": "Choose the CYCPLUS G1 for clear GPS tracking with no wheel setup, the CATEYE Velo 7 for a no-charge setup, or the iGPSPORT BSC500 or Garmin Edge 1050 if you want maps. Set the wheel size correctly on any sensor based unit.",
   "amazonSearch": "cycle computers for adult tricycles",
   "relatedPaths": [
     "/accessories/best-phone-mounts-for-adult-tricycles/",

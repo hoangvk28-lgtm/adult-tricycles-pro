@@ -147,48 +147,55 @@ export const bestWaterproofReflectiveCyclingJackets: BestArticle = {
   "howWeChose": [
     {
       "title": "Waterproofing",
-      "body": "Sealed seams and a rated membrane ranked first."
+      "body": "We compared waterproof ratings and seam sealing, such as the 5000mm rating on the Bikewa jackets. A rating and sealed seams matter more than a water-resistant label in sustained rain."
     },
     {
       "title": "Reflectivity",
-      "body": "Panels on several sides helped upright visibility."
+      "body": "We looked at reflective panels on the front, back and hood. A trike rider sits upright and is seen from behind and the sides, so reflective placement matters more than a single stripe."
     },
     {
       "title": "Ventilation",
-      "body": "Vents matter in warm rain."
+      "body": "We checked for underarm and back vents. A waterproof shell traps heat, and a rider who sweats inside a shell ends up wet from the inside regardless of the rain outside."
     },
     {
       "title": "Packability",
-      "body": "Jackets that stow in a pocket suit a trike basket."
+      "body": "We compared whether the jacket folds into a pocket and how much it weighs. A jacket that packs into a basket gets used, while a bulky one stays at home."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Waterproof rating",
       "paragraphs": [
-        "A mm rating shows how much water pressure fabric resists. Higher resists heavier rain.",
-        "Look for a stated rating and sealed seams."
+        "A rating such as 5000mm describes how tall a column of water the fabric holds before it leaks. Higher numbers hold up better in heavy rain, while low numbers suit light showers.",
+        "The Bikewa jackets show 5000mm. Look for sealed seams too, because stitching holes leak even on a high-rated fabric, and check that the zipper is covered."
       ]
     },
     {
       "title": "Side visibility",
       "paragraphs": [
-        "Trike riders are visible from the side.",
-        "Check for reflective on the sides, chest and back."
+        "Cars see a trike rider from behind and from the side at junctions, and a trike is wider than a bike. Reflective panels on the back, arms and hood catch headlights at different angles.",
+        "The Bikewa jackets have reflective elements at the front, back and hood. Check the panel placement in photos, and pair the jacket with lights rather than relying on reflectivity alone."
       ]
     },
     {
       "title": "Fit over layers",
       "paragraphs": [
-        "A shell must fit over a sweater.",
-        "Size up or check the size chart."
+        "A shell jacket sits over your clothes, so the size must leave room for a sweater or fleece. A tight shell restricts your arms, and a loose one flaps and lets in wind.",
+        "Compare the size chart with your chest and arm length, and try a jacket with the layers you wear. These are thin shells, so size up if you plan to layer."
       ]
     },
     {
       "title": "Hood and hem",
       "paragraphs": [
-        "An upright rider needs a hood that stays on and a hem that covers the lap.",
-        "Check for drawcords."
+        "A rider sits upright, so rain runs down your neck and onto your back. A hood that fits over a helmet and a longer rear hem keep water off your seat.",
+        "The women's Bikewa has a two-way adjustable hood with a rain brim. Check that the hood fits over your helmet and that cuffs seal at the wrists."
+      ]
+    },
+    {
+      "title": "Insulation and warmth",
+      "paragraphs": [
+        "A thin waterproof shell blocks wind and rain but offers no warmth. Cold riders need a layer underneath, and the shell traps sweat if you overheat.",
+        "Plan layers for temperature. A packable shell such as the COOFANDY weighs 0.4 lb, so you can carry it in a basket and put it on only when needed."
       ]
     }
   ],
@@ -203,24 +210,29 @@ export const bestWaterproofReflectiveCyclingJackets: BestArticle = {
         ],
         "rows": [
           [
-            "Dusk showers",
-            "Bikewa Men's Jacket",
-            "Reflective front, back and hood"
+            "Dusk showers on the way home",
+            "Bikewa Men's Cycling Rain Jacket",
+            "Reflective front, back and hood, 5000mm rating"
           ],
           [
-            "Women's cut",
-            "Bikewa Women's Jacket",
-            "Women's cut, rain brim"
+            "Women's cut with a hood brim",
+            "Bikewa Women's Cycling Rain Jacket",
+            "Two-way hood with a rain brim, sealed seams"
           ],
           [
-            "Emergency layer",
-            "COOFANDY Packable",
-            "0.4 lb"
+            "Emergency layer kept in a basket",
+            "COOFANDY Packable Rain Jacket",
+            "0.4 lb and packs into its own pocket"
           ],
           [
-            "Warm rain",
-            "Bikewa Men's Jacket",
-            "Underarm vents"
+            "Warm rain, need venting",
+            "Bikewa Men's Cycling Rain Jacket",
+            "Underarm and back vents let heat out"
+          ],
+          [
+            "Plenty of pockets for phone and keys",
+            "Bikewa Women's Cycling Rain Jacket",
+            "Five pockets, and it packs into a back pocket"
           ]
         ]
       }
@@ -230,11 +242,11 @@ export const bestWaterproofReflectiveCyclingJackets: BestArticle = {
       "cards": [
         {
           "label": "Reflective",
-          "text": "The Bikewa jackets reflect headlights at night."
+          "text": "Bikewa Men's Cycling Rain Jacket and Bikewa Women's Cycling Rain Jacket have reflective elements that stay visible at dusk. Reflective panels work in headlights and need no battery, though they only help when light hits them."
         },
         {
           "label": "Bright color",
-          "text": "The COOFANDY neon green is visible by day."
+          "text": "The COOFANDY Packable Rain Jacket has a neon green color but no reflective panels given. Bright color helps in daylight and overcast weather, but it does little at night."
         }
       ],
       "note": "Default to reflective if you ride after dusk."
@@ -244,11 +256,11 @@ export const bestWaterproofReflectiveCyclingJackets: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Waterproof pockets and venting."
+          "text": "Look for reflective panels on the back and arms, a hood that fits over a helmet, and vents. Pair the jacket with a rear light and a flag on your trike."
         },
         {
           "label": "In this comparison",
-          "text": "The Bikewa men's jacket offers three zippered waterproof pockets."
+          "text": "The Bikewa Men's Cycling Rain Jacket has reflective front, back and hood with a 5000mm rating. The women's version adds a rain brim, and both pack into a pocket."
         }
       ]
     },
@@ -257,38 +269,42 @@ export const bestWaterproofReflectiveCyclingJackets: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride in heavy rain often."
+          "text": "Spend more if you commute in the rain or after dark. The Bikewa jackets add a 5000mm rating, venting and reflective panels, which make long wet rides more comfortable and safer."
         },
         {
           "label": "Save if",
-          "text": "You only need a basket layer."
+          "text": "Save if you want an emergency layer. The COOFANDY Packable Rain Jacket weighs 0.4 lb and has sealed seams, but you should add lights because it has no reflective panels given."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Are these warm?",
-      "a": "No. They are thin shells, so wear a layer underneath."
+      "q": "Are these jackets warm?",
+      "a": "No. They are thin shells that block rain and wind, not insulated coats. Add a sweater or fleece underneath for cold days, and use the vents on the Bikewa jackets when you start to overheat."
     },
     {
       "q": "Do they fit over a winter coat?",
-      "a": "Probably not. Size up and check the chart."
+      "a": "Probably not comfortably. These are cut as thin shells, and fit needs checking. If you plan to layer a thick winter coat underneath, order a size up and compare your chest measurement with the maker's size chart first."
     },
     {
-      "q": "What is a 5000mm rating?",
-      "a": "It measures water resistance of the fabric. Higher is better."
+      "q": "What is a 5000mm waterproof rating?",
+      "a": "It describes how much water pressure the fabric resists, measured as a column of water in millimeters. 5000mm handles steady rain, but sealed seams and covered zippers matter too, since water often enters through stitching."
     },
     {
-      "q": "Do I need a vest too?",
-      "a": "After dark, a lighted vest helps."
+      "q": "Do I still need a vest or lights?",
+      "a": "Yes. Reflective panels only work when light hits them, so a rear light and a front light still matter. A vest or a flag adds visibility, which helps on a wide trike at busy junctions and crossings."
     },
     {
-      "q": "How do I clean it?",
-      "a": "Follow the care label, and avoid fabric softener, which clogs the membrane."
+      "q": "How do I clean a waterproof jacket?",
+      "a": "Follow the care label, which usually calls for a gentle wash and air drying. Avoid fabric softener, which can clog the waterproof coating, and wipe off mud before it dries. Check the zippers and seams for wear every season."
+    },
+    {
+      "q": "Which jacket suits carrying in a basket?",
+      "a": "The COOFANDY Packable Rain Jacket weighs 0.4 lb and packs into its own pocket, which suits a basket well. The Bikewa jackets also pack into a back pocket, and they add reflective panels, though they are a little bulkier."
     }
   ],
-  "bottomLine": "The Bikewa jackets are the best for visibility and venting, and the COOFANDY is the lightest basket layer. Check the size chart before ordering.",
+  "bottomLine": "The Bikewa Men's Cycling Rain Jacket is the best pick for most trike riders thanks to its 5000mm rating, reflective panels and vents. The Bikewa Women's jacket suits a women's cut, and the COOFANDY Packable Rain Jacket is the lightest layer for a basket. Check the size chart before ordering.",
   "amazonSearch": "waterproof reflective cycling jackets",
   "relatedPaths": [
     "/accessories/best-reflective-vests-for-cycling/",

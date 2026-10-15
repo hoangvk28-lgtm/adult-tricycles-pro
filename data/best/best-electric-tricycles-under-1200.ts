@@ -116,49 +116,49 @@ export const bestElectricTricyclesUnder1200: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Battery",
-      "body": "We compared volts, amp-hours and certification."
+      "title": "Battery quality",
+      "body": "We looked at battery size, voltage and safety certification, since the battery decides range and carries the most fire risk. A certified pack from a known standard is worth more than a bigger unlabeled one."
     },
     {
-      "title": "Motor",
-      "body": "We compared rated and peak output and torque."
+      "title": "Motor and torque",
+      "body": "We weighed rated power, peak power and torque. On a loaded trike starting from a stop on a slope, torque matters more than a headline wattage number."
     },
     {
-      "title": "Brakes",
-      "body": "We favored hydraulic systems."
+      "title": "Braking",
+      "body": "We compared brake types and rotor count, because a heavy electric trike carries momentum on downhill streets. Hydraulic brakes need less hand force, which helps older or weaker hands."
     },
     {
       "title": "Practical extras",
-      "body": "We weighed reverse, baskets and folding."
+      "body": "We counted reverse, baskets, folding and walk mode. These small things decide whether a trike is easy to park in a garage or whether you dread moving it."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Battery certification",
       "paragraphs": [
-        "UL 2849 or UL 2271 certification covers the battery and charger system, which matters for fire safety.",
-        "Look for the certification on the battery and charger."
+        "A lithium battery stores a lot of energy in a small case, and a poorly made pack can overheat while charging. Safety standards such as UL 2849 or UL 2271 test the pack as part of a complete system.",
+        "Look for the standard in the product title or bullet points, not only a marketing word like safe. Charge on a hard floor away from curtains, and never leave a pack plugged in overnight."
       ]
     },
     {
       "title": "Hydraulic brakes",
       "paragraphs": [
-        "Hydraulic brakes need less hand force than mechanical discs, helpful for weak hands.",
-        "Check for a parking brake."
+        "Hydraulic disc brakes push fluid through a line, so a light squeeze delivers strong stopping force. Cable brakes need more hand pressure and drift out of adjustment as the cable stretches.",
+        "If you have arthritis or weak grip, this matters on every long downhill. Look for the brake type and rotor count in the specs, and squeeze a lever in a shop if you can."
       ]
     },
     {
       "title": "Reverse function",
       "paragraphs": [
-        "Reverse backs out of garages without pushing a heavy trike.",
-        "Confirm it works without a throttle."
+        "Many trikes cannot roll backward easily once the motor and drivetrain are loaded. A reverse mode runs the motor backward at low speed so you can back out of a space.",
+        "This is a big deal in garages and sheds where you cannot turn around. Check that the control is a simple button, and confirm it is actually offered before you order."
       ]
     },
     {
-      "title": "Weight",
+      "title": "Weight and storage",
       "paragraphs": [
-        "Fat tires, big batteries and suspension add weight.",
-        "Check the stated weight against your storage."
+        "Electric trikes carry a motor, battery and steel or aluminum frame, so they are heavy to lift and awkward to turn. A folding frame helps with storage but rarely makes it light.",
+        "Measure the door, the hallway and any steps between the trike and its parking spot. If you cannot ramp or roll it, a folding model will not solve a lifting problem."
       ]
     }
   ],
@@ -173,19 +173,29 @@ export const bestElectricTricyclesUnder1200: BestArticle = {
         ],
         "rows": [
           [
-            "Longest range",
-            "ESKUTE T300 MAX",
-            "20.8Ah battery."
+            "Longest range and big battery",
+            "ESKUTE T300 MAX Electric Tricycle",
+            "48V 20.8Ah battery, up to 80 miles claimed"
           ],
           [
-            "Hydraulic brakes and folding",
-            "NARRAK 750W",
-            "Hydraulic brakes and folds."
+            "Hydraulic brakes and a folding frame",
+            "NARRAK 750W Folding Fat Tire Electric Tricycle",
+            "Hydraulic brakes with three rotors on a folder"
           ],
           [
-            "Backing out of garages",
-            "ESKUTE T300 MAX",
-            "One-touch reverse."
+            "Backing out of a tight garage",
+            "ESKUTE T300 MAX Electric Tricycle",
+            "One-touch reverse for awkward garage parking"
+          ],
+          [
+            "Steep hill with a heavy load",
+            "ESKUTE T300 MAX Electric Tricycle",
+            "80Nm torque and 1200W peak help starts"
+          ],
+          [
+            "Front and rear baskets for errands",
+            "NARRAK 750W Folding Fat Tire Electric Tricycle",
+            "Both baskets fitted, plus walk mode for pushing"
           ]
         ]
       }
@@ -195,25 +205,25 @@ export const bestElectricTricyclesUnder1200: BestArticle = {
       "cards": [
         {
           "label": "Big battery",
-          "text": "The ESKUTE trades folding for 20.8Ah and reverse."
+          "text": "The ESKUTE T300 MAX Electric Tricycle carries a 48V 20.8Ah battery, 1200W peak and 80Nm torque. It suits long rides and hills, but it is heavy and has more systems to maintain."
         },
         {
           "label": "Folding",
-          "text": "The NARRAK folds but has a 13Ah battery."
+          "text": "The NARRAK 750W Folding Fat Tire Electric Tricycle has a smaller 48V 13Ah battery but folds and adds hydraulic brakes with three rotors. It suits storage in a closet or trunk, at the cost of range."
         }
       ],
-      "note": "Choose range unless you must fold."
+      "note": "Choose range and torque unless you truly need to fold the trike to store it."
     },
     {
       "heading": "For Hilly Neighborhoods Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "High torque and strong brakes."
+          "text": "Look for strong torque, hydraulic brakes and a walk mode, since hills punish both the motor and your hands. Check that the brakes can hold a loaded trike on a slope."
         },
         {
           "label": "In this comparison",
-          "text": "The ESKUTE has 80Nm and the NARRAK has hydraulic brakes."
+          "text": "The ESKUTE T300 MAX Electric Tricycle brings 80Nm of torque and a 1200W peak. The NARRAK 750W adds hydraulic brakes with three rotors and a walk mode for pushing up the last stretch."
         }
       ]
     },
@@ -222,38 +232,42 @@ export const bestElectricTricyclesUnder1200: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you want a verified-rating brand or lighter frame."
+          "text": "Spend more if you ride long distances or climb hills often. The ESKUTE T300 MAX Electric Tricycle gives you a bigger battery and torque, which reduces strain on your legs and the motor."
         },
         {
           "label": "Save if",
-          "text": "you ride short and flat, where a cheaper e-trike is enough."
+          "text": "Save if your rides are short and you want folding storage. The NARRAK 750W Folding Fat Tire Electric Tricycle still has hydraulic brakes and two baskets, which covers most errands."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Do I need hydraulic brakes?",
-      "a": "They help on hills and with weak hands."
+      "q": "Do I need hydraulic brakes on an electric trike?",
+      "a": "They are worth having. An electric trike is heavy and keeps momentum downhill, and hydraulic brakes give strong stopping with a light squeeze. The NARRAK uses hydraulic brakes with three rotors, which suits riders with weak grip or arthritis."
     },
     {
-      "q": "Is reverse worth it?",
-      "a": "If you park in a garage, yes."
+      "q": "Is a reverse function worth it?",
+      "a": "For tight garages and sheds, yes. Backing a heavy trike by hand is awkward, and a button that runs the motor backward saves your back. The ESKUTE T300 MAX has one-touch reverse; check that any other model offers it before you buy."
     },
     {
-      "q": "Which folds?",
-      "a": "The NARRAK."
+      "q": "Which of these folds?",
+      "a": "The NARRAK 750W folds, which suits closets and car trunks. It is still heavy, so measure the space and the path to it. The ESKUTE T300 MAX is not described as folding, so plan for a permanent parking spot."
     },
     {
-      "q": "How far will they go?",
-      "a": "Stated ranges are best cases."
+      "q": "How far will they really go?",
+      "a": "Claimed range depends on assist level, rider weight, hills and wind. The ESKUTE claims up to 80 miles and the NARRAK up to 50 miles in pedal assist, but expect less when you carry groceries or climb hills."
     },
     {
-      "q": "Are they heavy?",
-      "a": "Yes, check stated weights and your storage."
+      "q": "Are electric trikes too heavy to move?",
+      "a": "They are heavy. The motor, battery and thick frame add up, and neither model here is light. Plan to roll it rather than lift it, and make sure your door and any ramp suit its width."
+    },
+    {
+      "q": "How should I charge the battery safely?",
+      "a": "Use the charger supplied, plug it in on a hard surface away from curtains and paper, and unplug once it is full. Look for a certified pack such as the UL 2849 battery on the ESKUTE."
     }
   ],
-  "bottomLine": "The ESKUTE T300 MAX is the best choice for range and reverse, the NARRAK 750W for hydraulic brakes and folding. Both are heavy, so check storage and service.",
+  "bottomLine": "The ESKUTE T300 MAX Electric Tricycle is the best pick for range, hills and tight parking thanks to its large certified battery, torque and one-touch reverse. The NARRAK 750W is the better choice if you must fold the trike and want hydraulic brakes. Both are heavy, so confirm storage, ramps and local service first.",
   "amazonSearch": "electric tricycles under $1200",
   "relatedPaths": [
     "/electric-tricycles/best-electric-tricycles-under-1000/",

@@ -146,48 +146,55 @@ export const bestStorageShedsForTricyclesUnder150: BestArticle = {
   "howWeChose": [
     {
       "title": "Floor size",
-      "body": "We favored stated dimensions."
+      "body": "We compared the floor footprint against the width of a trike. A trike is much wider than a bicycle, so a shed that holds four bikes may fit only one trike."
     },
     {
-      "title": "Frame",
-      "body": "We compared steel and clip frames."
+      "title": "Frame strength",
+      "body": "We looked at frame material and tube thickness. A galvanized steel frame holds up in wind and snow load much better than a lighter pop-up frame."
     },
     {
-      "title": "Weather",
-      "body": "We compared fabric and coating."
+      "title": "Weather protection",
+      "body": "We compared fabric weight and waterproof ratings, such as 420D Oxford and 2000mm. A heavier, better coated cover keeps rain off the trike and lasts more seasons."
     },
     {
-      "title": "Setup",
-      "body": "We compared assembly time."
+      "title": "Setup effort",
+      "body": "We weighed how long and how hard each shed is to set up. A quick clip-up shed is easier for older hands, while a steel frame takes more time but stays put."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Floor size",
       "paragraphs": [
-        "Most adult trikes need about 30+ inches of width and 70+ inches of length.",
-        "Measure yours, then add room to walk."
+        "A shed sized for bikes assumes narrow handlebars. A trike has a wide rear axle and a basket, so it needs more floor width than a bicycle of the same length.",
+        "Measure your trike at its widest point, including the basket and pedals, then compare with the shed floor. The IRILIA is about 63 by 86 inches, and the Happy Travel is 86.5 by 59 inches."
       ]
     },
     {
       "title": "Frame strength",
       "paragraphs": [
-        "Steel resists wind.",
-        "Look for anchors."
+        "The frame holds the cover up against wind, rain and snow. A full galvanized steel frame, like the IRILIA's 24mm tubes, stands up to gusts better than a light pop-up frame.",
+        "Look for frame material and tube diameter in the specs. If you live in a windy area, choose a steel frame and anchor it, since light sheds lift."
       ]
     },
     {
       "title": "Waterproof rating",
       "paragraphs": [
-        "Higher mm ratings resist rain.",
-        "Look for sealed seams."
+        "A rating like 2000mm describes how much water the fabric resists before it leaks. Thicker fabric such as 420D Oxford also tears less than 210D.",
+        "Check the fabric weight and coating. The IRILIA uses 420D Oxford with 2000mm waterproofing, and the Happy Travel uses lighter 210D, so expect shorter life."
       ]
     },
     {
       "title": "Ventilation",
       "paragraphs": [
-        "Closed tents trap moisture.",
-        "Look for a vent."
+        "A sealed shed traps moisture, and damp air condenses on the cover and drips onto the trike. That can rust chains and bolts over time.",
+        "Look for a vent, like the IRILIA's rear mesh vent, and keep the trike dry before it goes inside. Wipe off condensation on humid days and leave the door open on dry ones."
+      ]
+    },
+    {
+      "title": "Doorway and height",
+      "paragraphs": [
+        "A trike must roll through the door without scraping a basket or fender. A low or narrow door makes entry awkward, and tall baskets may catch the frame.",
+        "Measure your trike height and compare it with the door opening. The Happy Travel has a two-way zipper door and a large window, which makes access easier."
       ]
     }
   ],
@@ -202,19 +209,29 @@ export const bestStorageShedsForTricyclesUnder150: BestArticle = {
         ],
         "rows": [
           [
-            "Windy area",
-            "IRILIA",
-            "Steel frame."
+            "Windy area, year-round storage",
+            "IRILIA 5.25 x 7.2 ft Bike Storage Shed",
+            "Galvanized steel frame, 2000mm waterproof cover"
           ],
           [
-            "Quick seasonal use",
-            "Happy Travel",
-            "3 minute setup."
+            "Quick seasonal storage",
+            "Happy Travel Bike Storage Shed Tent",
+            "Clip setup in about 3 minutes"
           ],
           [
-            "Unknown size",
-            "TACXO",
-            "Confirm first."
+            "Size unknown, light-duty use",
+            "TACXO Bike Outdoor Storage Shed",
+            "Pop-up design, but check floor size first"
+          ],
+          [
+            "Humid climate, condensation worry",
+            "IRILIA 5.25 x 7.2 ft Bike Storage Shed",
+            "Rear mesh vent helps moist air escape"
+          ],
+          [
+            "Window and easy access",
+            "Happy Travel Bike Storage Shed Tent",
+            "Large window and two-way zipper door"
           ]
         ]
       }
@@ -224,11 +241,11 @@ export const bestStorageShedsForTricyclesUnder150: BestArticle = {
       "cards": [
         {
           "label": "Steel",
-          "text": "IRILIA is steadier."
+          "text": "The IRILIA 5.25 x 7.2 ft Bike Storage Shed uses a galvanized steel frame and 420D Oxford fabric. It stays up in wind and lasts through more seasons, but takes about 30 minutes to assemble."
         },
         {
           "label": "Pop-up",
-          "text": "Happy Travel packs small."
+          "text": "The Happy Travel Bike Storage Shed Tent and TACXO Bike Outdoor Storage Shed use a pop-up style frame with lighter fabric. They go up fast and pack small, but they are less sturdy in wind or snow."
         }
       ],
       "note": "Choose steel for permanent use."
@@ -238,11 +255,11 @@ export const bestStorageShedsForTricyclesUnder150: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Door height and width."
+          "text": "Look for a door tall and wide enough to roll a trike through, and a floor with room to turn it. Measure the trike with the basket attached before you shop."
         },
         {
           "label": "In this comparison",
-          "text": "The Happy Travel is 73 inches tall."
+          "text": "The IRILIA 5.25 x 7.2 ft Bike Storage Shed gives about 63 by 86 inches. The Happy Travel is 86.5 by 59 inches, but it offers little room beside a trike."
         }
       ]
     },
@@ -251,38 +268,42 @@ export const bestStorageShedsForTricyclesUnder150: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you want a hard shed."
+          "text": "Spend more if you want year-round storage. The IRILIA has a steel frame, a 2000mm waterproof cover and a rear vent, which protects chain and bolts better than a thin cover."
         },
         {
           "label": "Save if",
-          "text": "you only need seasonal cover."
+          "text": "Save if you only store the trike for a season. The Happy Travel Bike Storage Shed Tent sets up fast with a window and zipper, but it uses lighter 210D fabric."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Will a trike fit?",
-      "a": "Compare floors."
+      "q": "Will a trike fit in these sheds?",
+      "a": "It may, but not always. Trikes are wider than bikes, so measure the trike at its widest point. The IRILIA is about 63 by 86 inches and the Happy Travel is 86.5 by 59 inches. The TACXO size is unconfirmed."
     },
     {
-      "q": "Do these need anchors?",
-      "a": "Yes."
+      "q": "Do these sheds need anchors?",
+      "a": "Yes, especially in wind. Light fabric sheds can lift or shift in a gust. Use ground stakes, sandbags or anchors through the frame, and choose the steel IRILIA frame for windy areas. Check the anchors after every storm."
     },
     {
-      "q": "Is condensation normal?",
-      "a": "Yes."
+      "q": "Is condensation normal inside a bike shed?",
+      "a": "Yes, it is common. Warm, damp air meets a cool cover and forms drops. The IRILIA has a rear mesh vent to help, and you should dry the trike off before storing it. Open the door on dry days to let air through."
     },
     {
       "q": "Can two trikes fit?",
-      "a": "Maybe."
+      "a": "Probably not. Adult trikes are wide, and even sheds that claim room for four to five bikes may fit only one trike. Check the floor dimensions, measure the trike with its basket, and leave room to walk around it."
     },
     {
-      "q": "Do they replace a shed?",
-      "a": "No."
+      "q": "Do these replace a real shed?",
+      "a": "No. They give weather protection, but they are lighter than a wood or metal shed and offer little security. Use a lock on the trike inside, and expect a shorter life from thinner fabric, especially in strong sun and wind."
+    },
+    {
+      "q": "How long does setup take?",
+      "a": "The Happy Travel claims about 3 minutes, and the IRILIA takes about 30 minutes. Steel frames take longer but stay put, so allow time and ask someone to help you hold the poles if you can."
     }
   ],
-  "bottomLine": "The IRILIA is the best choice for sturdy storage. The Happy Travel is quicker, and the TACXO needs dimensions confirmed.",
+  "bottomLine": "The IRILIA 5.25 x 7.2 ft Bike Storage Shed is the best choice for sturdy year-round trike storage, with a steel frame, 2000mm waterproof fabric and a rear vent. The Happy Travel suits quicker seasonal use. The TACXO needs its floor dimensions confirmed first.",
   "amazonSearch": "bike storage sheds under $150",
   "relatedPaths": [
     "/accessories/best-storage-sheds-for-tricycles-under-300/",

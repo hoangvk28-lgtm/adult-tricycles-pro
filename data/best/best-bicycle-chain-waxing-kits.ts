@@ -210,49 +210,56 @@ export const bestBicycleChainWaxingKits: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Effort level",
-      "body": "We separated hot melt wax from easy drip waxes."
+      "title": "Application style",
+      "body": "We compared hot melt wax that needs a pot with drip bottles that work on the bike, since a method owners will not repeat is not much use on a trike."
     },
     {
-      "title": "Equipment needs",
-      "body": "We noted which products need a melting pot."
+      "title": "Starting point",
+      "body": "We noted whether each product assumes a clean chain or needs prep, because wax applied over old oil does not last and can trap grit in the links."
     },
     {
-      "title": "Conditions",
-      "body": "Dry, wet and e bike formulas were matched to use."
+      "title": "Weather range",
+      "body": "We looked at dry, wet and electric specific formulas, because the right wax depends on dust, rain and the extra load a motor puts on the drivetrain."
     },
     {
-      "title": "Bottle size",
-      "body": "Trike chains are long, so volume counted."
+      "title": "Pot and bottle size",
+      "body": "We considered pot capacity and bottle volume, since a long trike chain needs more wax than a bicycle chain and small bottles run out quickly."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Hot melt versus drip",
       "paragraphs": [
-        "Hot melt means dipping a stripped chain in melted wax. Drip means applying wax lube onto the chain.",
-        "Drip is far easier for a long trike chain."
+        "Hot melt wax is melted in a pot, where a removed chain is dipped so wax reaches every pin and roller. Drip wax is a liquid applied to the chain on the bike, which is faster but thinner.",
+        "Choose drip if you want a quick routine, like the SILCA Super Secret 4 oz. Choose hot melt like the SILCA Secret 500 g only if you own a melting pot and are willing to remove the chain."
       ]
     },
     {
-      "title": "Clean start",
+      "title": "Clean chain start",
       "paragraphs": [
-        "Wax does not bond over oil.",
-        "Strip the chain first."
+        "Wax bonds to bare metal, so old lube blocks it and leaves grit trapped inside the links. A waxed chain that was not cleaned first collects grime faster than a lightly oiled one.",
+        "Strip the chain with a degreaser and dry it before applying any wax. The SILCA Super Secret needs a clean chain, so plan for the cleaning step even if you only use the drip bottle."
       ]
     },
     {
       "title": "Pot size",
       "paragraphs": [
-        "Hot wax needs a pot that fits the whole chain.",
-        "Measure the chain coil before buying."
+        "A melting pot must hold a whole chain, and a trike chain is longer than a bicycle chain. If the pot is too small, you may wax half at a time or coil the chain awkwardly.",
+        "Measure your chain length and compare it with the pot's stated capacity. The SILCA Secret 500 g hot melt wax needs a melting system sold separately, so check that the pot fits before ordering."
       ]
     },
     {
-      "title": "Conditions",
+      "title": "Weather conditions",
       "paragraphs": [
-        "Dry waxes suit dust, wet waxes suit rain.",
-        "Choose by your usual weather."
+        "Dry waxes stay clean in dust but wash off in rain, while wet waxes hold longer in damp weather but carry more grit. Matching the formula to your climate affects how often you reapply.",
+        "The BTAS Dry Bike Chain Wax Lube suits dusty paths, and the Muc-Off Wet Chain Lube 2 Pack is a wet weather formula. Check the label for the weather it is made for."
+      ]
+    },
+    {
+      "title": "Electric trike formulas",
+      "paragraphs": [
+        "Motor assist adds torque on the chain, and high pressure additives help a film resist being squeezed out. A formula made for e-bikes is designed to cope with that load.",
+        "The Squirt E-Bike Chain Wax is made with high pressure additives and a wax microfilm. If your trike has a motor, check the label, and note that it needs drying time after application."
       ]
     }
   ],
@@ -267,29 +274,29 @@ export const bestBicycleChainWaxingKits: BestArticle = {
         ],
         "rows": [
           [
-            "Easy routine",
+            "An easy routine, most owners",
             "SILCA Super Secret Wax Based Chain Lube 4 oz",
-            "Drip wax with no pot"
+            "Drip bottle, no melting pot needed"
           ],
           [
-            "Own a melting pot",
+            "Already own a melting pot",
             "SILCA Secret Bike Chain Wax Blend 500 g",
-            "Hot melt wax"
+            "Hot melt bag that lasts years"
           ],
           [
-            "Dusty rides",
+            "Dusty paths and dry weather",
             "BTAS Dry Bike Chain Wax Lube 4 oz",
-            "Dry wax formula"
+            "Wax based dry lube with ceramic additive"
           ],
           [
-            "Electric trike",
+            "An electric assist trike",
             "Squirt E-Bike Chain Wax 120 ml",
-            "E bike additives"
+            "High pressure additives and a wax microfilm"
           ],
           [
-            "Rain and mud",
+            "Rain and mud on regular rides",
             "Muc-Off Wet Chain Lube 50 ml 2 Pack",
-            "Wet weather wax"
+            "Wet weather formula in a two bottle pack"
           ]
         ]
       }
@@ -299,25 +306,25 @@ export const bestBicycleChainWaxingKits: BestArticle = {
       "cards": [
         {
           "label": "Hot melt",
-          "text": "SILCA Secret Blend gives the cleanest chain but needs a pot and a stripped chain."
+          "text": "The SILCA Secret Bike Chain Wax Blend 500 g fills chain crevices and gives a clean finish, with a bag that lasts years. It needs a melting system sold separately, and the pot must fit a long chain."
         },
         {
           "label": "Drip wax",
-          "text": "SILCA Super Secret, BTAS, Squirt and Muc-Off are far easier."
+          "text": "The SILCA Super Secret, BTAS Dry, Squirt E-Bike and Muc-Off Wet bottles apply on the bike with no pot. The film is thinner and the bottles are small, so a long chain uses them faster."
         }
       ],
-      "note": "Most trike owners should choose a drip wax."
+      "note": "Most trike owners should default to drip wax, and move to hot melt only with a pot."
     },
     {
       "heading": "For Electric Trikes Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A wax with high pressure additives."
+          "text": "Look for an e-bike formula with high pressure additives, and plan on cleaning and drying the chain before each application."
         },
         {
           "label": "In this comparison",
-          "text": "Squirt E-Bike Chain Wax fits this need."
+          "text": "The Squirt E-Bike Chain Wax 120 ml is made for electric assist drivetrains, with high pressure additives and a wax microfilm. It suits an electric trike better than the dry waxes."
         }
       ]
     },
@@ -326,38 +333,38 @@ export const bestBicycleChainWaxingKits: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride often, so the SILCA blend saves reapplication."
+          "text": "You ride often and own a pot, where the SILCA Secret Bike Chain Wax Blend 500 g gives years of waxing from one bag."
         },
         {
           "label": "Save if",
-          "text": "You ride rarely, so BTAS covers it."
+          "text": "You ride seldom, where the SILCA Super Secret Wax Based Chain Lube 4 oz covers a clean routine without extra equipment."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Do I need a melting pot?",
-      "a": "Only for hot melt wax. Drip waxes work without one."
+      "q": "Do I need a melting pot for chain wax?",
+      "a": "Only for hot melt wax like the SILCA Secret 500 g blend, which needs a pot sold separately. Drip waxes such as the SILCA Super Secret apply straight to the chain on the bike. Check the pot is large enough for a trike chain."
     },
     {
-      "q": "Can I wax over old lube?",
-      "a": "No. Strip the chain first. See /accessories/best-bicycle-chain-degreasers-for-waxing/."
+      "q": "Can I wax over an old lube?",
+      "a": "No. Old oil blocks the wax from bonding and traps grit in the links. Strip the chain with a degreaser first, dry it completely, and then apply wax. Skipping this step is the most common reason a waxed chain wears quickly."
     },
     {
-      "q": "Is wax good for a trike chain?",
-      "a": "It keeps a low chain cleaner, but a long chain takes more effort."
+      "q": "Is wax a good choice for a trike chain?",
+      "a": "It can be. The dry film leaves a cleaner chain near the basket and rear wheels, and it runs quietly. The catch is upkeep, since wax needs a clean chain, regular top ups and extra care in wet weather."
     },
     {
       "q": "Can wax lube get on the brakes?",
-      "a": "Wipe excess and keep it off pads and rotors."
+      "a": "Yes, if you are careless with it. Drip wax can drift onto rotors or pads and reduce stopping power. Shield the brakes with a rag when applying, wipe overspray and test the brakes before you ride."
     },
     {
       "q": "When should I use a shop?",
-      "a": "If you want a hot wax service or a chain replaced, a shop can do it. See /adult-tricycle-maintenance-checklist/."
+      "a": "If the chain is worn, skips under load or you cannot get the pot and cleaning routine to work, a shop can strip, wax and gauge the chain for you. Ask them to check the sprockets as well."
     }
   ],
-  "bottomLine": "SILCA Super Secret drip wax suits most owners, with hot melt only for enthusiasts. For other lube types see /accessories/best-bicycle-chain-lubricants/.",
+  "bottomLine": "The SILCA Super Secret Wax Based Chain Lube 4 oz is the best overall pick for most trike owners, thanks to its drip bottle and clean running. Choose the SILCA Secret 500 g if you own a melting pot, the Squirt E-Bike wax for electric trikes, and the Muc-Off Wet pack for rain.",
   "amazonSearch": "chain waxing kits",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-degreasers-for-waxing/",

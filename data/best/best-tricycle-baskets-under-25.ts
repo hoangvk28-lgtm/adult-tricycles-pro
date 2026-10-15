@@ -187,48 +187,55 @@ export const bestTricycleBasketsUnder25: BestArticle = {
   "howWeChose": [
     {
       "title": "Mount security",
-      "body": "Quick-release brackets and bolted hardware ranked above straps, because a basket that shifts is a hazard."
+      "body": "We ranked quick-release brackets and bolted hardware above straps, because a basket that shifts on a trike is a hazard. The mount also decides how often you must recheck it."
     },
     {
       "title": "Material",
-      "body": "Rust-resistant wire and metal were compared with plastic weave for long outdoor life."
+      "body": "We compared rust-resistant wire and metal with the imitation wicker plastic weave for outdoor life. Coated wire drains rain, which matters on a trike that lives outside."
     },
     {
       "title": "Trike suitability",
-      "body": "Rear baskets that keep weight low were favoured over front baskets that load the steering."
+      "body": "We favoured rear baskets that keep weight low over front baskets that load the steering. A rear mount also leaves the handlebar clear for brakes, lights and hands."
     },
     {
       "title": "Folding and carrying",
-      "body": "Fold-flat designs and carry handles were weighed for riders who take the basket with them."
+      "body": "We weighed fold-flat designs and carry handles for riders who take the basket inside. The Huntoshon folds to 15 x 11 x 1.77 inches, and the Schwinn has a folding carry handle."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Mount type",
       "paragraphs": [
-        "A bolted or quick-release bracket holds the basket rigidly, while straps can shift under load.",
-        "Inspect the mount hardware and retighten after the first week."
+        "A bolted or quick-release bracket holds the basket rigidly, while straps can shift under load. Even a small shift changes how the trike steers.",
+        "Inspect the mount hardware and retighten after the first week. Tug the basket side to side before every ride, especially with the YJLDDZ strap mounting."
       ]
     },
     {
       "title": "Front vs rear position",
       "paragraphs": [
-        "A front basket adds weight over the steering and makes turning feel heavier. A rear basket sits low and stays out of the way.",
-        "Put heavy items in a rear basket and keep a front one for light things."
+        "A front basket adds weight over the steering and makes turning feel heavier. A rear basket sits low, stays out of the way and keeps the load near the rear axle.",
+        "Put heavy items in a rear basket and keep a front one for light things. Check that your trike has a rack before choosing the Huntoshon."
       ]
     },
     {
       "title": "Handlebar diameter",
       "paragraphs": [
-        "Many quick-release baskets are designed for a 31.8 mm bar, and a mismatch causes slipping.",
-        "Measure your handlebar with calipers or a tape before ordering."
+        "Many quick-release baskets, like the Schwinn, are designed for a 31.8 mm bar, and a mismatch causes slipping or a loose fit. Older and cruiser bars can differ.",
+        "Measure your handlebar with calipers or a tape before ordering. If the bar is thinner than the clamp, the basket will rotate under load."
       ]
     },
     {
       "title": "Material and drainage",
       "paragraphs": [
-        "Wire drains rain and resists cracking, while plastic weave resists rust but can crack in cold.",
-        "Choose coated wire for year-round use."
+        "Wire drains rain and resists cracking, while plastic weave resists rust but can crack in cold. A solid base holds water and rusts hardware.",
+        "Choose coated wire for year-round use. Look for a weather-resistant or anti-rust coating and add a liner, as the QUMMFA includes, for small items."
+      ]
+    },
+    {
+      "title": "Size and shape",
+      "paragraphs": [
+        "A basket's footprint decides what it can carry and whether it blocks anything on the trike. The QUMMFA is 13 x 7.9 x 7.9 inches, which is modest for a grocery bag.",
+        "Compare the stated dimensions with the bag or item you carry most. Allow room for the basket to sit clear of cables, levers and your knees."
       ]
     }
   ],
@@ -244,23 +251,23 @@ export const bestTricycleBasketsUnder25: BestArticle = {
         "rows": [
           [
             "Short errands, take it inside",
-            "Schwinn Quick Release",
-            "Quick-release and folding handle"
+            "Schwinn Quick Release Wire Basket",
+            "Quick-release mount and a folding carry handle"
           ],
           [
-            "Groceries on a rack",
-            "Huntoshon Folding Rear",
-            "Rear mount with a large pannier space"
+            "Groceries on a rear rack",
+            "Huntoshon Folding Rear Bike Basket",
+            "Rear mount with large pannier style space"
           ],
           [
             "Loose small items",
-            "QUMMFA with Liner",
-            "Removable liner stops fall-through"
+            "QUMMFA Foldable Bike Basket with Liner",
+            "Removable liner stops items falling through the wire"
           ],
           [
-            "Cruiser style and light loads",
-            "YJLDDZ Wicker",
-            "Woven look with a cup holder"
+            "Relaxed rides, light loads",
+            "YJLDDZ Black Wicker Front Basket with Cup Holder",
+            "Woven look with a built-in cup holder"
           ]
         ]
       }
@@ -270,11 +277,11 @@ export const bestTricycleBasketsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Wire",
-          "text": "The Schwinn, Huntoshon and QUMMFA use coated metal, which is stronger and drains water."
+          "text": "The Schwinn, Huntoshon and QUMMFA use coated metal, which is stronger and drains water. They suit daily use and weather exposure."
         },
         {
           "label": "Woven",
-          "text": "The YJLDDZ trades strength for looks and a softer feel."
+          "text": "The YJLDDZ uses imitation wicker plastic and leather straps. It trades strength and mount security for looks and a wipe-clean surface, and it is not for heavy loads."
         }
       ],
       "note": "Default to wire unless style is your first priority."
@@ -284,11 +291,11 @@ export const bestTricycleBasketsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A rear mount, a rigid bracket and enough width for a shopping bag."
+          "text": "A rear mount, a rigid bracket and enough width for a shopping bag, so the weight stays low and does not load the steering."
         },
         {
           "label": "In this comparison",
-          "text": "The Huntoshon Folding Rear basket is the only one built for the rear rack."
+          "text": "The Huntoshon Folding Rear basket is the only one built for the rear rack, and it folds nearly flat. Check the rack fit and add a liner for small items."
         }
       ]
     },
@@ -297,11 +304,11 @@ export const bestTricycleBasketsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You carry heavy loads daily, where a purpose-built rear basket from the best baskets for adult tricycles guide is a better fit."
+          "text": "You carry heavy loads daily, where a purpose-built rear basket from the best baskets for adult tricycles guide is a better fit than a handlebar clamp."
         },
         {
           "label": "Save if",
-          "text": "You carry only light items, where the Schwinn is enough."
+          "text": "You carry only light items, where the Schwinn is enough and comes off with its quick-release bracket when you park."
         }
       ]
     }
@@ -309,26 +316,30 @@ export const bestTricycleBasketsUnder25: BestArticle = {
   "faq": [
     {
       "q": "Can I put a front basket on a trike?",
-      "a": "Yes, but keep it light. Heavy front loads make steering feel heavier and can affect handling."
+      "a": "Yes, but keep it light. Heavy front loads make steering feel heavier and can affect handling. The Schwinn mounts on a 31.8 mm bar, and the YJLDDZ uses straps. Retighten either after the first week."
     },
     {
       "q": "Will a bike basket fit my trike rack?",
-      "a": "Often, but not always. Measure the rack width and tube diameter, and compare them with the basket's clamp range."
+      "a": "Often, but not always. Measure the rack width and tube diameter, and compare them with the basket's mount range. The Huntoshon uses a quick-release rear mount, so check that the rack accepts it before ordering."
     },
     {
       "q": "Are wicker baskets durable?",
-      "a": "Imitation wicker plastic resists water and sun, but strap mounting limits how much weight it should carry."
+      "a": "Imitation wicker plastic resists water and sun, but strap mounting limits how much weight it should carry. The YJLDDZ suits light loads and a cup. For daily errands, a coated wire basket is the safer choice."
     },
     {
       "q": "How do I stop items falling through a wire basket?",
-      "a": "Use a liner bag, as with the QUMMFA, or place a folded cloth or insert in the bottom."
+      "a": "Use a liner bag, as with the QUMMFA, or place a folded cloth or insert in the bottom. Small cans and fruit are the usual escapees. A liner also keeps the wire from marking the bag."
     },
     {
       "q": "How much can these hold?",
-      "a": "Load ratings are often unstated, so keep to light loads and check the mount after the first few rides."
+      "a": "Load ratings are often unstated, so keep to light loads and check the mount after the first few rides. The QUMMFA is 13 x 7.9 x 7.9 inches, which suits a small bag. Heavy shopping belongs in a rear basket."
+    },
+    {
+      "q": "Which basket is easiest to take inside?",
+      "a": "The Schwinn has a quick-release bracket and a folding carry handle, so it comes off in seconds. The Huntoshon folds nearly flat for storage. Both suit riders who park in public and want to avoid leaving a basket on the trike."
     }
   ],
-  "bottomLine": "For most riders the Schwinn is the easy choice, and the Huntoshon is the right answer for a rear rack. Check the mount fit before you buy, because that is where cheap baskets fail.",
+  "bottomLine": "For most riders the Schwinn is the easy choice, thanks to its quick-release mount and folding handle. The Huntoshon is the right answer for a rear rack, and the QUMMFA suits loose items. Check the mount fit before you buy, because that is where cheap baskets fail.",
   "amazonSearch": "tricycle baskets under $25",
   "relatedPaths": [
     "/accessories/best-baskets-for-adult-tricycles/",

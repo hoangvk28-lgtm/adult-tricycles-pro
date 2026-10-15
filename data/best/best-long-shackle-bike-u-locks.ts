@@ -223,48 +223,55 @@ export const bestLongShackleBikeULocks: BestArticle = {
   "howWeChose": [
     {
       "title": "Interior size",
-      "body": "We ranked shackle size first because a trike's width needs a larger loop."
+      "body": "We ranked shackle size first, since a trike's width needs a larger loop, and the Kryptonite Keeper 4 x 10 inch interior is roomiest of these rigid locks."
     },
     {
       "title": "Shackle thickness",
-      "body": "Thicker hardened shackles resist cutting and prying."
+      "body": "We compared diameters from 12mm on the Kryptonite pair and 13mm on the 8170D to 0.75 inch on the 8385D, because thicker hardened shackles resist cutting and prying."
     },
     {
       "title": "Added reach",
-      "body": "Cable sets were credited for reach but marked down for cut resistance."
+      "body": "Cable sets like the 4 ft Master Lock and 5 ft Sportneer were credited for reach but marked down for cut resistance, since a cable is the easiest part to snip."
     },
     {
       "title": "Opening method",
-      "body": "Key and code locks were weighed for riders with limited dexterity."
+      "body": "Key and code locks were weighed for riders with limited dexterity, and the Parkview Combo 4 digit code was the only keyless option."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Interior dimensions",
       "paragraphs": [
-        "Interior size is the free loop between shackle and crossbar, and it limits what you can lock.",
-        "Check width and height in inches. On a trike, 10 inches of height helps more than extra thickness."
+        "Interior size is the free loop between the shackle and crossbar, and it limits what you can lock. A trike's rear axle and frame are wide, so a narrow loop may not fit around both the axle and a post.",
+        "Check width and height in inches. On a trike, 10 inches of height helps more than extra thickness, and the Master Lock 4 inch width is narrow for a wide axle."
       ]
     },
     {
       "title": "Shackle diameter",
       "paragraphs": [
-        "A thick shackle resists bolt cutters. 12mm and 13mm are common, and 0.75 inch is thicker.",
-        "Read the diameter in the product bullets, not just a phrase like heavy duty."
+        "A thick shackle resists bolt cutters and prying. Diameters of 12mm and 13mm are common, and 0.75 inch on the Master Lock 8385D is thicker still, so it takes more effort to cut.",
+        "Read the diameter in the product bullets, not just a phrase like heavy duty. Compare 12mm on the Keeper, 13mm on the 8170D and 0.75 inch on the 8385D."
       ]
     },
     {
       "title": "Cable or none",
       "paragraphs": [
-        "A cable adds reach, but it is the easiest part to cut.",
-        "Use a cable through a wheel only as a second layer, with the U-lock on the frame."
+        "A cable adds reach, but it is the easiest part to cut. A thin steel cable can be snipped quickly, which makes it a weak link beside the shackle.",
+        "Use a cable through a wheel only as a second layer, with the U-lock on the frame. The Sportneer 5 ft cable is longer than the 8385D 4 ft cable."
       ]
     },
     {
       "title": "Key or combination",
       "paragraphs": [
-        "A combination avoids lost keys, but codes can be forgotten.",
-        "Register the code if offered, and write it down somewhere safe."
+        "A combination avoids lost keys, but codes can be forgotten. A key never fades from memory, yet it can be dropped and lost at the post.",
+        "Register the code if offered, as with the Parkview Combo, and write it down in a safe place. Keep a spare key at home for the keyed locks."
+      ]
+    },
+    {
+      "title": "Double locking and transport",
+      "paragraphs": [
+        "A double locking shackle latches at both ends, so cutting one side does not free the lock. A carrier bracket lets you carry a heavy U-lock on the frame instead of in a bag.",
+        "Look for double locking, as on both Master Locks, and for a carrier bracket. Check that the bracket fits a tube on your trike before you rely on it."
       ]
     }
   ],
@@ -281,22 +288,27 @@ export const bestLongShackleBikeULocks: BestArticle = {
           [
             "Wide rear axle and a post",
             "Kryptonite Keeper U-Lock",
-            "4 x 10 inch interior"
+            "Roomy 4 x 10 inch interior"
           ],
           [
             "Frame and wheel together",
             "Master Lock 8385D U-Lock with 4 ft Cable",
-            "Thick shackle plus cable"
+            "Thick shackle plus 4 ft cable"
           ],
           [
             "Distant post",
             "Sportneer U-Lock with 5 ft Cable",
-            "Five feet of cable"
+            "Five feet of cable for extra reach"
           ],
           [
             "Close parking, simple lock",
             "Master Lock 8170D U-Lock 8 inch Shackle",
-            "13mm shackle"
+            "13mm shackle without extras"
+          ],
+          [
+            "Riders who lose keys",
+            "Kryptonite Parkview Combo U-Lock",
+            "4 digit code opens a 12mm shackle"
           ]
         ]
       }
@@ -306,11 +318,11 @@ export const bestLongShackleBikeULocks: BestArticle = {
       "cards": [
         {
           "label": "Key",
-          "text": "The Keeper, both Master Locks and the Sportneer use keys. Keep a spare at home."
+          "text": "The Keeper, both Master Locks and the Sportneer use keys, which cannot be forgotten but can be lost. Keep a spare at home, and the Sportneer ships with spare keys."
         },
         {
           "label": "Combination",
-          "text": "The Kryptonite Parkview Combo opens with a four digit code, so there is no key to lose."
+          "text": "The Kryptonite Parkview Combo opens with a four digit code, so there is no key to lose. It offers registered combination recovery and a lifetime warranty."
         }
       ],
       "note": "Older riders who lose keys should default to the Parkview Combo if the loop fits."
@@ -320,11 +332,11 @@ export const bestLongShackleBikeULocks: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "At least a 4 by 10 inch interior or a cable to extend reach."
+          "text": "At least a 4 by 10 inch interior or a cable to extend reach, because the U-lock must loop the frame and a post without twisting."
         },
         {
           "label": "In this comparison",
-          "text": "The Kryptonite Keeper has the roomiest loop, and the Sportneer set adds a 5 foot cable."
+          "text": "The Kryptonite Keeper has the roomiest rigid loop, and the Sportneer set adds a 5 foot cable. The Parkview Combo is a standard, smaller loop."
         }
       ]
     },
@@ -333,11 +345,11 @@ export const bestLongShackleBikeULocks: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You park outside regularly. The Master Lock 8385D's thicker shackle is worth it."
+          "text": "You park outside regularly. The Master Lock 8385D thicker 0.75 inch shackle and its cable are worth it when the trike sits at a public rack."
         },
         {
           "label": "Save if",
-          "text": "You park at home. The Master Lock 8170D is enough."
+          "text": "You park at home. The Master Lock 8170D at 13mm is enough, although you give up added reach and a cable."
         }
       ]
     }
@@ -345,26 +357,30 @@ export const bestLongShackleBikeULocks: BestArticle = {
   "faq": [
     {
       "q": "Will a U-lock fit around a trike?",
-      "a": "Only a roomy one will. The Keeper has a 4 by 10 inch interior, which loops a rear axle and a post on many trikes."
+      "a": "Only a roomy one will. The Keeper has a 4 by 10 inch interior, which loops a rear axle and a post on many trikes. The 4 inch wide Master Locks are narrow for a wide axle."
     },
     {
       "q": "Is a cable worth adding?",
-      "a": "For reach, yes. Treat it as a second layer, not your main lock."
+      "a": "For reach, yes. The Master Lock 8385D has a 4 ft cable and the Sportneer a 5 ft cable. Treat it as a second layer, not your main lock, because it is easier to cut."
     },
     {
       "q": "What is a good shackle thickness?",
-      "a": "12mm or more is common. 0.75 inch is thicker still."
+      "a": "12mm or more is common. The Keeper and Parkview use 12mm, the 8170D uses 13mm, and the 8385D is 0.75 inch. Thicker takes longer to cut, but it also adds weight."
     },
     {
       "q": "Should I choose a chain instead?",
-      "a": "A chain reaches farther. See /accessories/best-long-bike-chain-locks-for-tricycles/ for chains."
+      "a": "A chain reaches farther. See /accessories/best-long-bike-chain-locks-for-tricycles/ for chains, and keep the U-lock for a rigid layer on the frame."
     },
     {
       "q": "How do I lock a trike best?",
-      "a": "Lock the frame to a fixed post. Read /adult-tricycle-locking-and-theft-prevention/ and consider /accessories/best-chain-locks-for-adult-tricycles/."
+      "a": "Lock the frame to a fixed post. Read /adult-tricycle-locking-and-theft-prevention/ and consider /accessories/best-chain-locks-for-adult-tricycles/ for a second layer when parking overnight."
+    },
+    {
+      "q": "Do these come with a carrier bracket?",
+      "a": "The Keeper, the Master Locks and the Sportneer include a bracket or carrier. Check that it fits a tube on your trike, since a trike has few round tubes for mounting."
     }
   ],
-  "bottomLine": "The Kryptonite Keeper is the best long shackle pick for trikes, with a 4 by 10 inch interior. The Master Lock 8385D adds a cable, and the Parkview Combo suits riders who lose keys. Always measure your rear axle and post first.",
+  "bottomLine": "The Kryptonite Keeper is the best long shackle pick for trikes, with a 4 by 10 inch interior. The Master Lock 8385D adds a cable and a thicker shackle, the Sportneer adds the longest cable, and the Parkview Combo suits riders who lose keys. Measure your rear axle and post first.",
   "amazonSearch": "long-shackle u-locks",
   "relatedPaths": [
     "/accessories/best-long-folding-bike-locks/",

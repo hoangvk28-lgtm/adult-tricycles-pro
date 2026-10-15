@@ -225,48 +225,55 @@ export const bestKickstandsForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Honest need",
-      "body": "We started from the fact that trikes stand on their own."
+      "body": "A trike stands on three wheels, so we began by asking when a kickstand helps at all: mainly conversions, loading stability and two-wheel frames set up as a trike."
     },
     {
       "title": "Frame fit",
-      "body": "Chainstay width and mounting type were compared."
+      "body": "We compared how each stand attaches, rear chainstay clamp versus center mount, and which tube shapes and widths it accepts, because a clamp that does not fit is useless."
     },
     {
       "title": "Load rating",
-      "body": "We noted stated load figures."
+      "body": "We noted figures like the HENMI 99 lb and RUHUO about 50 lb, since a basket full of groceries leans hard on a stand and a weak one folds."
     },
     {
       "title": "Adjustment",
-      "body": "Tool-free versus fixed length was compared."
+      "body": "We weighed tool-free length changes, as on the BV spring-loaded latch, against fixed length stands such as the Greenfield 305 mm."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Do you need one",
       "paragraphs": [
-        "A trike stands on three wheels, so a kickstand is for loading stability or conversions.",
-        "If rolling is the worry, use the parking brake."
+        "A trike stands on three wheels, so it does not lean over and does not need a kickstand to stay upright. A stand only matters on converted frames or when you want extra stability while loading.",
+        "If rolling is your worry, use the parking brake instead, because a stand does not stop wheel roll. Decide the real job before you buy any of these."
       ]
     },
     {
       "title": "Mount type",
       "paragraphs": [
-        "Rear mounts clamp to chainstays; center mounts bolt under the frame.",
-        "Check which your frame supports."
+        "Rear mounts clamp to the chainstays behind the bottom bracket, while center mounts such as the Greenfield bolt under the frame with a top plate. Each puts the pivot in a different place.",
+        "Look under your frame and see which has a flat spot. A rear clamp needs chainstays you can reach, and a center mount needs bolt holes or a surface for the plate."
       ]
     },
     {
-      "title": "Tube shape",
+      "title": "Tube shape and width",
       "paragraphs": [
-        "Some clamps fit only oval or rectangular tubes.",
-        "Measure width and shape."
+        "Some clamps fit only oval or rectangular tubes, and each has a width range. The HENMI, for example, fits oval and rectangular chainstays from 10.8 to 20.5 mm but not round tubes.",
+        "Measure the width of the tube with calipers or a ruler and check its shape. If it is round, move to a clamp that states round-tube fit before ordering."
       ]
     },
     {
       "title": "Length and wheel size",
       "paragraphs": [
-        "The stand must match wheel size.",
-        "Check the stated range."
+        "The stand must be long enough to lift the drive wheels or hold the frame upright, and wheel diameter sets that length. A stand that is too short leans, and one too long tips the frame.",
+        "Match your wheel size to the stated range, such as 24 to 29 in on the HENMI and RUHUO or 24 to 28 in on the BV, and use adjustable length where you can."
+      ]
+    },
+    {
+      "title": "Foot and ground contact",
+      "paragraphs": [
+        "A wide non-slip foot spreads weight so the stand does not sink into soft ground or slide on smooth pavement. A narrow metal tip can punch into grass and let the frame tilt.",
+        "Look for a wide plastic or rubber foot, such as on the BV mountain stand or HENMI. If you park on gravel or turf, choose the widest pad you can find."
       ]
     }
   ],
@@ -283,27 +290,27 @@ export const bestKickstandsForAdultTricycles: BestArticle = {
           [
             "Oval chainstays, heavy load",
             "HENMI Aluminum Kickstand",
-            "99 lb rating"
+            "99 lb rating and anti-twist 3-point mount"
           ],
           [
             "Want tool-free tuning",
             "BV Adjustable Kickstand 24 to 28 in",
-            "Latch adjustment"
+            "Spring-loaded latch changes length"
           ],
           [
             "Soft ground",
             "BV Mountain Bike Kickstand 24 to 29 in",
-            "Wide foot"
+            "Wide non-slip foot resists sinking"
           ],
           [
-            "Light bike on a budget",
+            "Light trike on a budget",
             "RUHUO Adjustable Kickstand",
-            "Rubber-lined clamp"
+            "Rubber-lined clamp, about 50 lb"
           ],
           [
             "Large frame, center mount",
             "Greenfield KS2-305 Center Kickstand",
-            "Center plate"
+            "Center plate and 305 mm length"
           ]
         ]
       }
@@ -313,25 +320,25 @@ export const bestKickstandsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Kickstand",
-          "text": "It steadies a converted frame while you load, but it does not stop rolling."
+          "text": "It steadies a converted frame while you load or lift a basket, but it does not stop wheels rolling on a slope. It also adds a point that can fail under load."
         },
         {
           "label": "Parking brake",
-          "text": "It locks the wheels and stops roll-away on slopes."
+          "text": "It locks the wheels and stops roll-away on slopes or when you step off. It does more for safety than any stand."
         }
       ],
-      "note": "Use a parking brake first; add a kickstand only if the frame needs it."
+      "note": "Use the parking brake first, then add a kickstand only if your frame genuinely needs the extra stability."
     },
     {
       "heading": "For Converted Frames Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A stand that fits your tube shape and a stated load rating."
+          "text": "A stand that fits your tube shape and width, a stated load rating that covers the heaviest basket, and an adjustable length for odd wheel sizes."
         },
         {
           "label": "In this comparison",
-          "text": "The HENMI is the strongest at 99 lb, and the Greenfield suits center mounting."
+          "text": "The HENMI is the strongest at 99 lb for oval or rectangular tubes, the BV latch stand adjusts without tools, and the Greenfield suits center mounting on large frames."
         }
       ]
     },
@@ -340,11 +347,11 @@ export const bestKickstandsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You load heavy baskets. The HENMI has the highest rating."
+          "text": "You load heavy baskets or park on uneven ground, where the HENMI 99 lb rating and anti-twist mount give the most margin of the group."
         },
         {
           "label": "Save if",
-          "text": "The bike is light. The RUHUO is simple."
+          "text": "The trike or frame is light and you park on pavement, where the RUHUO at about 50 lb is simple and enough."
         }
       ]
     }
@@ -352,26 +359,30 @@ export const bestKickstandsForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Does a trike need a kickstand?",
-      "a": "Usually not, since it stands on three wheels. Use a kickstand on conversions or for loading stability."
+      "a": "Usually not, since it stands on three wheels. A kickstand helps on converted frames or when you want extra stability while loading, but it is optional for a factory trike."
     },
     {
-      "q": "Will it stop roll-away?",
-      "a": "No. A parking brake does that."
+      "q": "Will a kickstand stop roll-away?",
+      "a": "No. A kickstand holds the frame up but does not lock the wheels, so a trike on a slope can still roll. A parking brake does that job, so use one first and the stand second."
     },
     {
-      "q": "Which fits wide frames?",
-      "a": "Check tube width. The HENMI fits oval or rectangular tubes 10.8 to 20.5 mm."
+      "q": "Which kickstand fits wide frames?",
+      "a": "Check tube width and shape before buying. The HENMI fits oval or rectangular chainstays from 10.8 to 20.5 mm, and the Greenfield center mount suits large frames that offer a flat spot underneath."
     },
     {
-      "q": "How strong are these?",
-      "a": "The HENMI is rated 99 lb. The RUHUO supports about 50 lb."
+      "q": "How strong are these kickstands?",
+      "a": "The HENMI is rated to 99 lb and the RUHUO supports about 50 lb. The other stands do not give a load figure here, so keep baskets light and test the stand with the load you carry."
     },
     {
       "q": "Can I adjust length without tools?",
-      "a": "Yes, the BV adjustable stand uses a spring-loaded latch."
+      "a": "Yes, the BV adjustable stand uses a spring-loaded latch so you can change length at the roadside. The HENMI also advertises one-second adjustment, while the Greenfield is a fixed 305 mm."
+    },
+    {
+      "q": "Do these fit round tubes?",
+      "a": "The HENMI does not fit round tubes, so check the tube shape first. For the other clamps, confirm the shape and width in the product details or measure and ask before ordering."
     }
   ],
-  "bottomLine": "Most trikes do not need a kickstand; pair a parking brake with one only if your frame requires it. The HENMI is the strongest pick.",
+  "bottomLine": "Most trikes do not need a kickstand, so pair a parking brake with one only if your frame requires it. The HENMI Aluminum Kickstand is the strongest pick at 99 lb, the BV latch suits tool-free tuning, and the Greenfield suits center mounting.",
   "amazonSearch": "kickstands for adult tricycles",
   "relatedPaths": [
     "/how-to-store-and-transport-an-adult-tricycle/",

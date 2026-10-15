@@ -259,48 +259,59 @@ export const bestBikeMirrorsUnder15: BestArticle = {
   "howWeChose": [
     {
       "title": "Grip and bar fit",
-      "body": "We compared stated bar diameters and mount types, since fitment is the main failure on trikes."
+      "body": "We compared stated bar diameters and mount types, such as the BriskMore's 14 to 24mm, because fit is the main failure on trikes."
     },
     {
       "title": "Lens type and size",
-      "body": "Glass versus plastic and lens size were compared for image steadiness."
+      "body": "Glass versus plastic and lens size were compared for image steadiness, from the Diyife's 124 by 73mm glass to the small flat mirror that clips to glasses."
     },
     {
       "title": "Vibration resistance",
-      "body": "Housing material and fixing points were noted, as plastic arms shake more."
+      "body": "Housing material and fixing points were noted, as plastic arms shake more and blur the image on rough paths."
     },
     {
       "title": "Single versus pair",
-      "body": "A pair helps on a wide trike, so pairs were noted."
+      "body": "A pair helps on a wide trike, so the Accmor and Nakazawa pairs were noted against single mirrors that cover one side."
+    },
+    {
+      "title": "Alternatives to the bar",
+      "body": "A clip-on mirror for glasses or a helmet was kept because some trike bars have closed grips or no free space."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Bar-end versus clamp",
       "paragraphs": [
-        "Bar-end mirrors go in the open end of the grip, while clamp mirrors wrap the bar.",
-        "Check which your bars allow. Closed grip ends rule out bar-end mirrors."
+        "Bar-end mirrors go into the open end of the grip tube, while clamp mirrors wrap around the bar. Each needs a different bar layout to work, and the wrong choice means a return.",
+        "Check which your bars allow before you order anything. Closed grip ends rule out bar-end mirrors, and a bar crowded with levers and a bell rules out a clamp."
       ]
     },
     {
       "title": "Inner diameter range",
       "paragraphs": [
-        "A mirror that does not match your bar's inner diameter will not stay put.",
-        "Measure the grip end or bar tube and compare with the stated range before ordering."
+        "A mirror that does not match your bar's inner diameter will not stay put or will not go in at all. The BriskMore covers 14 to 24mm, the Diyife 16 to 20mm and the Accmor 17.4 to 22mm.",
+        "Measure the grip end or bar tube and compare it with the stated range before ordering. A range that includes your size with room to spare is safer than one that only just fits."
       ]
     },
     {
       "title": "Glass versus plastic",
       "paragraphs": [
-        "Glass gives a clearer, steadier image. Plastic resists breakage but scratches and distorts more.",
-        "Choose glass for road use and plastic if the trike gets knocked around."
+        "Glass gives a clearer, steadier image that stays sharp. Plastic resists breakage but scratches and distorts more over time, as with the Accmor's convex plastic lens.",
+        "Choose glass for road use and plastic if the trike gets knocked around in storage. The Wittkop and Diyife are glass, and the BriskMore adds a shatter film."
       ]
     },
     {
       "title": "Vibration",
       "paragraphs": [
-        "Cheap arms can shake at speed and blur the image, especially on rough paths.",
-        "Look for a short arm and a three-point mount, and tighten the screws before every ride."
+        "Cheap arms can shake at speed and blur the image, especially on rough paths or gravel. A three-point mount, like the Diyife's, holds the arm still far better.",
+        "Look for a short arm and a three-point mount, and tighten the screws before every ride. Check the image while stopped, then while rolling over a rough patch."
+      ]
+    },
+    {
+      "title": "Lens size and field of view",
+      "paragraphs": [
+        "A larger lens shows more behind you, but it also sticks out further and can catch on a doorway or gate. The Diyife's lens is 124 by 73mm, the largest in this group.",
+        "Pick the lens size to match your storage space, and think about whether the trike goes through a narrow gate or past a garage wall."
       ]
     }
   ],
@@ -317,22 +328,27 @@ export const bestBikeMirrorsUnder15: BestArticle = {
           [
             "Open-ended flat grips",
             "BriskMore Bar End Mirror",
-            "14 to 24mm range with glass"
+            "14 to 24mm range with a shatter-film glass lens."
           ],
           [
             "Grips 16 to 20mm",
-            "Diyife Bar End Mirror",
-            "Largest lens"
+            "Diyife Bar End Bike Mirror",
+            "Largest lens here at 124 by 73mm."
           ],
           [
-            "Standard 22mm bar",
+            "Thicker 22 to 25mm bars",
             "Nakazawa Handlebar Mirror 2 Pack",
-            "Clamps to 22 to 25mm bars"
+            "Pair fits 22 to 25mm bars."
+          ],
+          [
+            "Wide trike bar, both sides",
+            "Accmor Bar End Mirror 2 Pack",
+            "Two convex plastic mirrors in one pack."
           ],
           [
             "No bar space",
-            "Saillong Eyeglass Mirror",
-            "Clips to glasses"
+            "Saillong Eyeglass Helmet Mirror",
+            "Clips to glasses or a helmet visor."
           ]
         ]
       }
@@ -342,11 +358,11 @@ export const bestBikeMirrorsUnder15: BestArticle = {
       "cards": [
         {
           "label": "Glass",
-          "text": "The BriskMore, Diyife and Wittkop use glass, which gives a steadier image but can chip."
+          "text": "The BriskMore, Diyife and Wittkop use glass, which gives a steadier image but can chip. The BriskMore adds a shatter film to hold any broken pieces together."
         },
         {
           "label": "Plastic",
-          "text": "The Accmor uses plastic, which survives bumps but scratches and distorts more."
+          "text": "The Accmor uses a convex plastic lens that survives bumps but scratches and distorts more. It suits a trike stored in a crowded shed or a busy hallway."
         }
       ],
       "note": "Most trike riders should choose glass for a clearer view."
@@ -356,11 +372,11 @@ export const bestBikeMirrorsUnder15: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Two mirrors, one on each side, and enough arm length to clear your shoulders."
+          "text": "Two mirrors, one on each side, and enough arm length to clear your shoulders when you glance back."
         },
         {
           "label": "In this comparison",
-          "text": "The Accmor and Nakazawa each come as a pair, and the BriskMore can be bought for each side."
+          "text": "The Accmor and Nakazawa each come as a pair, and the BriskMore can be bought for each side. The Wittkop folds for parking."
         }
       ]
     },
@@ -369,11 +385,11 @@ export const bestBikeMirrorsUnder15: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "Your mirror vibrates or you ride fast. See our full trike mirror guide for stronger mounts."
+          "text": "Your mirror vibrates or you ride fast. See our full trike mirror guide for stronger mounts and larger fields of view."
         },
         {
           "label": "Save if",
-          "text": "You ride slowly on smooth paths. The BriskMore or Accmor is enough."
+          "text": "You ride slowly on smooth paths. The BriskMore or Accmor is enough, and they cost little to replace if one gets knocked."
         }
       ]
     }
@@ -381,26 +397,30 @@ export const bestBikeMirrorsUnder15: BestArticle = {
   "faq": [
     {
       "q": "Do I need a mirror on a trike?",
-      "a": "It helps a lot, since twisting around is harder on a trike. A mirror lets you check traffic while keeping both hands on the bars."
+      "a": "It helps a lot, since twisting around is harder on a trike. A mirror lets you check traffic while keeping both hands on the bars and your seat steady, and a wide frame means a shoulder check is slow."
     },
     {
       "q": "How do I know if a bar-end mirror fits?",
-      "a": "Measure the inner diameter of the open grip end and compare with the stated range. Closed ends need a clamp mirror."
+      "a": "Measure the inner diameter of the open grip end and compare it with the stated range. Closed ends need a clamp mirror, and a range that barely covers your size is a risk."
     },
     {
       "q": "Why does my mirror shake?",
-      "a": "Loose screws and long arms. Tighten the fixings and use a short, stable arm."
+      "a": "Loose screws and long arms. Tighten the fixings and use a short, stable arm, and consider a three-point mount like the Diyife's if the problem continues. Rough paths make it worse, so slow down if the image blurs."
     },
     {
       "q": "One mirror or two?",
-      "a": "One on the traffic side is the minimum. Two help on a wide trike and cost little."
+      "a": "One on the traffic side is the minimum. Two help on a wide trike and cost little, especially in pairs like the Accmor and Nakazawa. A second mirror also lets you check the curb side before pulling over."
     },
     {
       "q": "Is a glasses mirror a good idea?",
-      "a": "It is a fix when bars will not fit one, but the image is small and takes getting used to."
+      "a": "It is a fix when bars will not fit one, but the image is small and takes getting used to. It moves with your head, so it suits riders who already scan the road often."
+    },
+    {
+      "q": "Can I fold a mirror for parking?",
+      "a": "The Wittkop folds for parking and mounts above or below the bar with a single screw. That keeps the glass from catching a gate or doorway when the trike is stored in a tight space."
     }
   ],
-  "bottomLine": "A cheap mirror is a useful addition if you match the bar size first. The BriskMore is the best all-round choice, the Diyife shows the most, and the pairs help on a wide trike. For sturdier mounts, see our full trike mirror guide.",
+  "bottomLine": "A cheap mirror is a useful addition if you match the bar size first. The BriskMore is the best all-round choice, the Diyife shows the most, and the Accmor and Nakazawa pairs help on a wide trike. For sturdier mounts, see our full trike mirror guide.",
   "amazonSearch": "bike mirrors under $15",
   "relatedPaths": [
     "/accessories/best-mirrors-for-adult-tricycles/",

@@ -195,48 +195,55 @@ export const bestElectricTricyclesUnder2000: BestArticle = {
   "howWeChose": [
     {
       "title": "Assist quality",
-      "body": "Torque sensors and gearing were weighed for how natural the motor feels, not just how powerful it is."
+      "body": "Torque sensors and gearing were weighed for how natural the motor feels under your feet, not just how powerful it is, because smooth assist is what you notice every ride."
     },
     {
       "title": "Battery certification and size",
-      "body": "Certified packs with generous watt-hours ranked above larger packs with no standard shown."
+      "body": "Certified packs with generous watt hours ranked above larger packs with no standard shown, since a battery charged in a home garage should meet a recognized safety rule."
     },
     {
       "title": "Braking and control",
-      "body": "Hydraulic discs, parking brakes and lighting were compared as safety features, not extras."
+      "body": "Hydraulic discs, parking brakes and lighting were compared as safety hardware rather than extras, because this band is where those items start to appear on a trike."
     },
     {
-      "title": "Flexibility",
-      "body": "Passenger seats and modular rears were assessed for how well they fit different household needs."
+      "title": "Household flexibility",
+      "body": "Passenger seats and modular rears were assessed for how well they fit different household needs, from a solo commute to riding with a partner or grandchild."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Torque sensor vs cadence sensor",
       "paragraphs": [
-        "A torque sensor measures pedalling force and gives proportional assist, while a cadence sensor only detects that the pedals are turning and applies preset power.",
-        "Look for torque sensor in the specs, and test it on a hill if you can."
+        "A torque sensor measures how hard you push the pedals and gives proportional assist, while a cadence sensor only detects that the pedals are turning and applies preset power. The first feels natural, the second can surge.",
+        "Look for torque sensor in the specs, and if you can, test it on a hill to see whether the push matches your effort."
       ]
     },
     {
       "title": "Separate shipping",
       "paragraphs": [
-        "Several trikes here ship in two packages, with accessories such as mirrors and anti-tip wheels arriving apart from the frame.",
+        "Several trikes here ship in two packages, with accessories such as mirrors and anti-tip wheels arriving apart from the frame. That means the trike can show up without parts you rely on for safety.",
         "Check for the shipping note, and do not ride until every safety part has arrived and been fitted."
       ]
     },
     {
       "title": "Passenger seat weight limits",
       "paragraphs": [
-        "A second seat adds weight at the rear and raises the load on the frame, so total capacity matters more than seat count.",
-        "Add both riders and cargo, and stay below the frame rating."
+        "A second seat adds weight at the rear and raises the load on the frame, so total capacity matters more than the seat count. Braking distance also grows with the extra mass.",
+        "Add both riders and any cargo, and stay below the frame rating with room to spare."
       ]
     },
     {
       "title": "Battery certification",
       "paragraphs": [
-        "UL 2849 covers e-bike batteries, chargers and wiring together, making it a stronger signal than a battery-only claim.",
-        "Look for the standard name, and use only the supplied charger."
+        "UL 2849 covers e-bike batteries, chargers and wiring together, making it a stronger signal than a battery-only claim. It matters most for packs charged indoors over many hours.",
+        "Look for the standard name in the title or bullets, and use only the supplied charger."
+      ]
+    },
+    {
+      "title": "Parking brake and lighting",
+      "paragraphs": [
+        "A parking brake holds a heavy trike still on a slope while you load or mount, and full lighting makes you visible at dusk. Both are easy to overlook on a spec sheet.",
+        "Check the title for a parking brake and lights, and confirm the brake is a lever you can reach without letting go of the bars."
       ]
     }
   ],
@@ -252,23 +259,23 @@ export const bestElectricTricyclesUnder2000: BestArticle = {
         "rows": [
           [
             "Solo rider on hills",
-            "MOONCOOL TKPRO",
-            "Torque sensor and hydraulic brakes"
+            "MOONCOOL TKPRO Folding Electric Tricycle",
+            "Torque sensor and hydraulic brakes with a 20Ah battery"
           ],
           [
             "Two people on one trike",
-            "KAKIGO Two-Seater",
-            "Passenger seat and 90Nm torque"
+            "KAKIGO Two-Seater Electric Tricycle",
+            "Passenger seat included, with 90Nm torque to carry both"
           ],
           [
             "Needs change over time",
-            "TINIOVER Creek",
-            "Convertible rear section"
+            "TINIOVER Creek Folding Electric Tricycle",
+            "Convertible rear section for cargo or a passenger"
           ],
           [
             "Plain daily errands",
-            "MOONCOOL 500W 20 Inch",
-            "Certified battery with no extras"
+            "MOONCOOL 500W 20 Inch Folding Electric Trike",
+            "Certified battery with no extras to learn"
           ]
         ]
       }
@@ -278,11 +285,11 @@ export const bestElectricTricyclesUnder2000: BestArticle = {
       "cards": [
         {
           "label": "Torque sensor",
-          "text": "The TKPRO focuses on feel and control, with assist that follows your effort."
+          "text": "The MOONCOOL TKPRO focuses on feel and control, with assist that follows your effort, hydraulic discs, a parking brake and cruise control for steady solo rides."
         },
         {
           "label": "Passenger seat",
-          "text": "The KAKIGO and Creek focus on capacity, letting a second person ride along."
+          "text": "The KAKIGO and TINIOVER Creek focus on capacity, letting a second person ride along, with the KAKIGO shipping its seat and the Creek offering one as a kit."
         }
       ],
       "note": "Solo riders should default to the TKPRO unless carrying a passenger is a regular need."
@@ -292,11 +299,11 @@ export const bestElectricTricyclesUnder2000: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A passenger seat with a backrest, anti-tip wheels and a frame rated well above your combined weight."
+          "text": "A passenger seat with a backrest, anti-tip wheels and a frame rated well above your combined weight, plus brakes you trust with two aboard."
         },
         {
           "label": "In this comparison",
-          "text": "The KAKIGO includes anti-tip wheels and mirrors, while the Creek offers a seat with backrest through its modification kit."
+          "text": "The KAKIGO includes anti-tip wheels and mirrors, while the Creek offers a seat with backrest through its modification kit, which ships separately."
         }
       ]
     },
@@ -309,7 +316,7 @@ export const bestElectricTricyclesUnder2000: BestArticle = {
         },
         {
           "label": "Save if",
-          "text": "You only need steady, certified assist, where the MOONCOOL 500W is enough."
+          "text": "You only need steady, certified assist, where the MOONCOOL 500W 20 Inch is enough with its 450 lb frame and low step-through."
         }
       ]
     }
@@ -317,26 +324,30 @@ export const bestElectricTricyclesUnder2000: BestArticle = {
   "faq": [
     {
       "q": "What should I demand at this price?",
-      "a": "Battery certification, a stated frame rating, quality brakes and clear shipping details. A torque sensor is a bonus that improves ride feel."
+      "a": "Battery certification, a stated frame rating, quality brakes and clear shipping details. A torque sensor is a bonus that improves ride feel, and the MOONCOOL TKPRO is the pick here that includes one."
     },
     {
       "q": "Do passenger trikes feel stable?",
-      "a": "They can, with the weight kept low and anti-tip wheels fitted. A second rider changes the balance, so go slowly at first."
+      "a": "They can, with the weight kept low and anti-tip wheels fitted. A second rider changes the balance and braking distance, so ride slowly at first and practice turns in an open, flat space."
     },
     {
       "q": "Why do some trikes arrive in two boxes?",
-      "a": "Accessories such as mirrors or modification kits may ship separately. Wait for everything before you ride."
+      "a": "Accessories such as mirrors, anti-tip wheels or modification kits may ship separately from the frame. Wait for everything to arrive and be fitted before you ride, and keep the packaging until you are sure nothing is missing."
     },
     {
       "q": "Is a 20Ah battery worth it?",
-      "a": "If you ride far or in hills, yes. The TKPRO's 20Ah pack suits 60 to 75 mile outings, though it charges more slowly."
+      "a": "If you ride far or in hills, yes. The TKPRO's 20Ah pack suits 60 to 75 mile outings in estimates, though it is heavier and charges more slowly than the 15Ah packs on the other picks."
     },
     {
       "q": "Is premium worth it?",
-      "a": "For stronger support and suspension, possibly. See our premium electric tricycles guide for the next step up."
+      "a": "For stronger support and suspension, possibly. See our premium electric tricycles guide for the next step up, and stay in this band if certified power and sound brakes are your priorities."
+    },
+    {
+      "q": "Does the MOONCOOL 500W have a torque sensor?",
+      "a": "No. The MOONCOOL 500W 20 Inch has a modest 500W motor without a torque sensor, which makes it the simple pick. Choose the TKPRO if natural-feeling assist is what you want."
     }
   ],
-  "bottomLine": "The MOONCOOL TKPRO is the best-rounded pick, the KAKIGO wins for two riders and the Creek wins for adaptability. Decide on passenger needs before anything else.",
+  "bottomLine": "The MOONCOOL TKPRO is the best-rounded pick, combining a torque sensor, hydraulic brakes and a 20Ah battery in a folding frame. The KAKIGO wins for two riders with its included passenger seat, and the TINIOVER Creek wins for adaptability. Decide on passenger needs before anything else.",
   "amazonSearch": "electric tricycles under $2,000",
   "relatedPaths": [
     "/electric-tricycles/best-premium-electric-tricycles/",

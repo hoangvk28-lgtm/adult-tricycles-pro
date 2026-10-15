@@ -147,48 +147,55 @@ export const bestReplacementTiresForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Size match",
-      "body": "We included tires in the 26 inch and 20 x 4.0 sizes that fit common trike wheels."
+      "body": "We included tires in the 26 inch and 20 x 4.0 sizes that fit common trike wheels, because a replacement has to match the rim before anything else matters."
     },
     {
       "title": "Pressure range",
-      "body": "A stated PSI range helps a trike owner set pressure for a heavy load."
+      "body": "We favored tires with a stated PSI range, since a trike owner setting pressure for a heavy load needs a number to stay within."
     },
     {
       "title": "Tread and terrain",
-      "body": "Cruiser and knobby treads were compared for pavement versus loose ground."
+      "body": "We compared smooth cruiser treads and knobby treads for pavement versus loose ground, and noted the noise trade-off on hard surfaces."
     },
     {
       "title": "Pack contents",
-      "body": "Packs with tubes or two tires were credited, since a trike has two rear tires."
+      "body": "We credited packs with tubes or two tires, because a trike has two rear tires that should be replaced together."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Size on the sidewall",
       "paragraphs": [
-        "The sidewall prints the tire size, for example 26 x 2.125, and the ETRTO number. The new tire must match the rim.",
-        "Read your old tire and match both numbers. See /adult-tricycle-wheel-sizes-20-24-26-inch/ for sizes."
+        "The sidewall prints the tire size, for example 26 x 2.125, and the ETRTO number such as 57-559. The new tire must match the rim, and the two numbers describe width and bead seat diameter.",
+        "Read your old tire and match both numbers. Our guide to wheel sizes at /adult-tricycle-wheel-sizes-20-24-26-inch/ explains the difference between sizes, so you can match the old tire before you buy the new one."
       ]
     },
     {
       "title": "Pressure range",
       "paragraphs": [
-        "A trike carries weight on rear tires, so the maximum PSI matters. Too little pressure causes pinch flats.",
-        "Check the range printed on the tire and keep pressure within it."
+        "A trike carries weight on its rear tires, so the pressure range printed on the sidewall matters. Too little pressure causes pinch flats, and too much makes the ride harsh. The MOHEGIA runs 40 to 65 PSI.",
+        "Keep pressure within the printed range and check it with a gauge. Heavier riders usually run nearer the top of the range."
       ]
     },
     {
       "title": "Tread style",
       "paragraphs": [
-        "Smooth treads roll easily on pavement, while knobs grip loose ground but are louder.",
-        "Pick the tread for where you ride most."
+        "Smooth treads roll easily on pavement, while knobs grip loose ground but make more noise and drag. The Blackburn has a knobby tread and a protective layer under it.",
+        "Pick the tread for where you ride most. If you split time, choose the style for the rougher surface, and accept some noise on the pavement."
       ]
     },
     {
       "title": "Folding or wire bead",
       "paragraphs": [
-        "A folding bead is lighter and easier to carry, while a wire bead is firm.",
-        "Both fit the same rim. Take care when seating a folding bead."
+        "A folding bead is lighter and easier to carry as a spare, while a wire bead is firm and easier to seat. Both fit the same rim, since the size is the same.",
+        "Take care when seating a folding bead, and make sure it is fully in the rim before inflating. The MOHEGIA has a folding bead and the Blackburn a folding carbon steel bead."
+      ]
+    },
+    {
+      "title": "Fat tire fit",
+      "paragraphs": [
+        "A 20 x 4.0 tire is a different class from a 26 inch cruiser tire, with a bigger air volume and a different rim. Fitting the wrong one is not possible.",
+        "Check the rim width and the frame clearance before ordering the Ultraverse pair. Read the pressure printed on your old tire."
       ]
     }
   ],
@@ -205,17 +212,22 @@ export const bestReplacementTiresForAdultTricycles: BestArticle = {
           [
             "Pavement and neighborhood paths",
             "MOHEGIA 26 x 2.125 Folding Tires with Tubes",
-            "Smooth cruiser style"
+            "Smooth cruiser style with tubes and levers"
           ],
           [
             "Gravel and grass",
             "Blackburn Mountain Tire 26 x 1.75 to 2.25",
-            "Knobby tread and protective layer"
+            "Knobby tread and a protective layer"
           ],
           [
             "Fat tire e-trike on mixed ground",
             "Ultraverse 20 x 4.0 Fat Tire Pair",
-            "All terrain tread"
+            "All terrain tread on a robust sidewall"
+          ],
+          [
+            "Replacing both rear tires at once",
+            "MOHEGIA 26 x 2.125 Folding Tires with Tubes",
+            "Two tires per box so the pair matches"
           ]
         ]
       }
@@ -225,11 +237,11 @@ export const bestReplacementTiresForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Cruiser",
-          "text": "The MOHEGIA tire rolls smoothly, and the box includes tubes and levers."
+          "text": "The MOHEGIA tire rolls smoothly on pavement, and the box includes tubes and levers. It is not meant for loose gravel."
         },
         {
           "label": "Knobby",
-          "text": "The Blackburn tire grips loose ground, but it is louder and sold singly."
+          "text": "The Blackburn tire grips loose ground and has a protective layer under the tread. It is louder on pavement and sold as a single tire."
         }
       ],
       "note": "Most riders on paved paths should default to the MOHEGIA tires."
@@ -239,11 +251,11 @@ export const bestReplacementTiresForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A two pack in your size so both rear tires match."
+          "text": "A two pack in your size so both rear tires match in diameter and grip. A mismatch can pull the trike toward one side."
         },
         {
           "label": "In this comparison",
-          "text": "The MOHEGIA pack and the Ultraverse pair each give two tires. The Blackburn is sold singly."
+          "text": "The MOHEGIA pack and the Ultraverse pair each give two tires. The Blackburn is sold singly, so you must buy two for the rear."
         }
       ]
     },
@@ -252,11 +264,11 @@ export const bestReplacementTiresForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride on rough ground and flat often. The Blackburn tire's protective layer helps."
+          "text": "You ride on rough ground and flat often. The Blackburn tire's protective layer under the tread helps, and it costs more per tire."
         },
         {
           "label": "Save if",
-          "text": "You ride on pavement. The MOHEGIA set with tubes is enough."
+          "text": "You ride on pavement. The MOHEGIA set with tubes is enough, and it saves you buying tubes and levers separately."
         }
       ]
     }
@@ -264,26 +276,26 @@ export const bestReplacementTiresForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "How do I know my trike's tire size?",
-      "a": "Read the sidewall, which prints diameter and width, such as 26 x 2.125. Match it on the new tire."
+      "a": "Read the sidewall, which prints diameter and width, such as 26 x 2.125. Match it on the new tire, and check the ETRTO number if you can find it."
     },
     {
       "q": "Do I need to replace both rear tires?",
-      "a": "It is wise to replace them as a pair so grip and diameter match. A mismatch can pull the trike."
+      "a": "It is wise to replace them as a pair so grip and diameter match. A mismatch can pull the trike toward one side, particularly under braking, when the two sides grip differently and the trike tugs."
     },
     {
       "q": "What pressure should I run?",
-      "a": "Stay within the range printed on the sidewall. Heavier riders usually run near the higher end. See /adult-tricycle-tires-pressure-and-punctures/."
+      "a": "Stay within the range printed on the sidewall. Heavier riders usually run near the higher end. Our guide at /adult-tricycle-tires-pressure-and-punctures/ explains how to set it. Check with a gauge before each ride, since pressure drops slowly even when no flat has happened."
     },
     {
       "q": "Can I use a mountain tire on a cruiser trike?",
-      "a": "If the size and width fit the rim, yes. It will be louder on pavement."
+      "a": "If the size and width fit the rim, yes. The Blackburn is made for 26 x 1.75 to 2.25, but it will be louder on pavement, and the knobs may wear faster on hard surfaces. Check the width against your frame clearance."
     },
     {
       "q": "What about tubes and liners?",
-      "a": "See /accessories/best-inner-tubes-for-adult-tricycles/ for tubes, and /accessories/best-puncture-resistant-tire-liners-for-bicycles/ for liners."
+      "a": "Our guide at /accessories/best-inner-tubes-for-adult-tricycles/ covers tubes, and /accessories/best-puncture-resistant-tire-liners-for-bicycles/ covers liners. The MOHEGIA already includes tubes, so you may only need liners if you ride thorny routes, and the Ultraverse tires need tubes bought to match."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best 16 X 1.75 Bicycle Tires for Tricycles",
       "text": "None of the tires in this pillar are sold in 16 x 1.75, so avoid forcing a near size. Read the size printed on your old tire and match it exactly. See the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) to confirm what your trike uses."
@@ -400,7 +412,7 @@ export const bestReplacementTiresForAdultTricycles: BestArticle = {
       "text": "We do not have a pick for 26 x 4.8 here, and a wrong size tire can be unsafe or will not seat properly. Match the full size on the sidewall, including width. The [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) explains how to read it."
     }
   ],
-  "bottomLine": "The MOHEGIA 26 x 2.125 pair is the sensible choice for cruiser trikes, with tubes included. The Blackburn suits loose ground, and the Ultraverse pair fits 20 x 4.0 fat tire e-trikes. Match the size to your sidewall first.",
+  "bottomLine": "The MOHEGIA 26 x 2.125 pair is the sensible choice for cruiser trikes, with tubes and levers in the box. The Blackburn suits loose ground, and the Ultraverse pair fits 20 x 4.0 fat tire e-trikes. Match the size to your sidewall first, then replace the rear tires as a pair.",
   "amazonSearch": "replacement tires for trikes",
   "relatedPaths": [
     "/adult-tricycle-wheel-sizes-20-24-26-inch/",

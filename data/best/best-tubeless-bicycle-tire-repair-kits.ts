@@ -217,48 +217,55 @@ export const bestTubelessBicycleTireRepairKits: BestArticle = {
   "howWeChose": [
     {
       "title": "Plug size",
-      "body": "Wide trike tires need larger plugs, so kits with 3.5 mm strips ranked higher."
+      "body": "We compared strip diameters from 1.5 mm up to the 3.5 mm strips in the PRO BIKE TOOL kit. Plug diameter decides whether a kit can close a big hole in a wide trike tire."
     },
     {
       "title": "Insertion tools",
-      "body": "A combined reamer and inserter, or two separate tools, decided how easy a roadside repair is."
+      "body": "We checked each kit for a reamer, inserter or fork tool. Without the right tool, a plug is hard to push into a tight puncture at the roadside."
     },
     {
       "title": "Storage",
-      "body": "Capsules and tubes that protect the plugs were compared for basket carry."
+      "body": "We noted aluminum capsules, tubes and bodies that fit in a basket or seat bag. A kit that is hard to find or rattles loose may be forgotten on the ride."
     },
     {
       "title": "Tubeless fit",
-      "body": "We flagged that these only work on tubeless-ready tires, not tube-type wheels."
+      "body": "We looked at whether each kit suits wide tubeless tires or only small thorn holes. A kit for narrow tires may not seal the larger holes on a fat trike tire."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Is your trike tubeless?",
       "paragraphs": [
-        "A plug repairs a hole in a tire that holds air without a tube. A tube-type tire needs a patch kit instead.",
-        "Look at the sidewall for 'tubeless' or 'TLR', and check whether sealant is inside. If you are unsure, assume tubes."
+        "A plug repairs a hole in a tire that holds air without a tube. A tube-type tire needs a patch kit instead, so the first job is to know which you have.",
+        "Look at the sidewall for 'tubeless' or 'TLR', and check whether sealant is inside. If you are unsure, assume tubes and skip these kits."
       ]
     },
     {
       "title": "Plug diameter",
       "paragraphs": [
-        "A 1.5 mm strip seals small thorn holes, while a fat tire needs thicker strips for larger holes.",
-        "Choose a kit with a 3.5 mm option if your tire is over about 2.5 inches wide."
+        "A 1.5 mm strip seals small thorn holes, while a fat tire needs thicker strips for larger holes. The wrong size leaks or pushes out under pressure.",
+        "Choose a kit with a 3.5 mm option if your tire is over about 2.5 inches wide. The KOM and ATEN kits offer only small strips."
       ]
     },
     {
       "title": "Reamer and inserter",
       "paragraphs": [
         "A reamer cleans the hole, and the inserter pushes the plug in. A combined tool is quick and a separate pair is a good backup.",
-        "Practice once at home so the first use is not roadside."
+        "Practice once at home so the first use is not roadside. The PRO BIKE TOOL, ATEN and ROCKBROS kits include these tools."
       ]
     },
     {
       "title": "Sealant first",
       "paragraphs": [
-        "Sealant fixes small holes by itself, and a plug is for what sealant cannot close.",
-        "Carry a plug kit, a pump and a spare tube as the last resort."
+        "Sealant fixes small holes by itself, and a plug is for what sealant cannot close. A plug without sealant in the tire may not hold for long.",
+        "Carry a plug kit, a pump and a spare tube as the last resort. Check sealant levels at the start of the season."
+      ]
+    },
+    {
+      "title": "Weight and storage",
+      "paragraphs": [
+        "Weight matters little on a trike, but a compact kit is easier to stash. The KOM weighs 25 g, and the PRO BIKE TOOL and ATEN come in aluminum capsules.",
+        "Pick a kit that fits your basket or seat bag and stays dry. Store it where you can find it at the roadside."
       ]
     }
   ],
@@ -274,28 +281,28 @@ export const bestTubelessBicycleTireRepairKits: BestArticle = {
         "rows": [
           [
             "Fat tubeless tire, larger holes",
-            "PRO BIKE TOOL Kit",
-            "Includes 3.5 mm strips"
+            "PRO BIKE TOOL Tubeless Tire Repair Kit",
+            "Includes 3.5 mm strips alongside 1.5 mm strips"
           ],
           [
             "Already own a Dynaplug tool",
-            "Dynaplug Soft Nose Plugs",
-            "Refill pack that matches"
+            "Dynaplug Soft Nose Tubeless Repair Plugs",
+            "Refill pack of 5 plugs that matches the tool"
           ],
           [
-            "Narrower wide tire, budget",
-            "ROCKBROS Kit",
-            "Three pins and five strips"
+            "Narrower tire, basic kit",
+            "ROCKBROS Tubeless Tire Repair Kit",
+            "Three pins, five strips and an aluminum body"
           ],
           [
             "Small basket pocket",
-            "ATEN Kit",
-            "Compact aluminum tube"
+            "ATEN Tubeless Bike Tire Repair Kit",
+            "Compact aluminum tube doubles as a handle"
           ],
           [
             "Lowest weight",
-            "KOM Cycling Kit",
-            "25 grams"
+            "KOM Cycling Tubeless Tire Repair Kit",
+            "Only 25 g with eight 1.5 mm strips"
           ]
         ]
       }
@@ -305,11 +312,11 @@ export const bestTubelessBicycleTireRepairKits: BestArticle = {
       "cards": [
         {
           "label": "Full kit",
-          "text": "The PRO BIKE TOOL, ROCKBROS, ATEN and KOM kits include a reamer and inserter, so you can fix a puncture straight away."
+          "text": "The PRO BIKE TOOL, ROCKBROS, ATEN and KOM kits include a reamer and inserter, so you can fix a puncture straight away without extra tools."
         },
         {
           "label": "Refill plugs",
-          "text": "The Dynaplug soft nose pack is for restocking a tool you already own."
+          "text": "The Dynaplug soft nose pack is for restocking a tool you already own, and it will not work without the Dynaplug insertion tube."
         }
       ],
       "note": "Most riders should buy a full kit and add refills later."
@@ -319,11 +326,11 @@ export const bestTubelessBicycleTireRepairKits: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A plug of 3.5 mm or more, a sturdy inserter and a case that fits a basket."
+          "text": "A plug of 3.5 mm or more, a sturdy inserter and a case that fits a basket, so a big hole can be sealed away from home."
         },
         {
           "label": "In this comparison",
-          "text": "The PRO BIKE TOOL kit's 3.5 mm strips are the best match. The Dynaplug plugs stack for big holes."
+          "text": "The PRO BIKE TOOL kit's 3.5 mm strips are the best match. The Dynaplug plugs stack for big holes if you already own the tool."
         }
       ]
     },
@@ -332,11 +339,11 @@ export const bestTubelessBicycleTireRepairKits: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride far from home on tubeless fat tires. The PRO BIKE TOOL kit has the most versatile plug set."
+          "text": "You ride far from home on tubeless fat tires. The PRO BIKE TOOL kit has the most versatile plug set, with ten plugs in two sizes."
         },
         {
           "label": "Save if",
-          "text": "You ride short loops. The ROCKBROS or ATEN kit is enough."
+          "text": "You ride short loops near home. The ROCKBROS or ATEN kit is enough, with five strips each and tools to insert them."
         }
       ]
     }
@@ -344,26 +351,30 @@ export const bestTubelessBicycleTireRepairKits: BestArticle = {
   "faq": [
     {
       "q": "Can I use a plug kit on a tube-type trike tire?",
-      "a": "No. A plug repairs a tubeless tire. A tube-type tire needs a patch kit or a spare tube."
+      "a": "No. Plugs are for tubeless tires that hold air without a tube. A tube-type tire needs a patch kit or a spare tube. Check the sidewall for 'tubeless' or 'TLR' before buying one of these kits."
     },
     {
       "q": "How do I know if my trike is tubeless?",
-      "a": "Look for 'tubeless' or 'TLR' on the sidewall, and ask whoever built the wheel. Most adult trikes ship with tubes."
+      "a": "Look at the sidewall for 'tubeless' or 'TLR', and check whether sealant is inside. If you cannot find either, assume your trike runs tubes. A bike shop can confirm in a minute if you are unsure."
     },
     {
       "q": "Which plug size suits fat tires?",
-      "a": "A 3.5 mm strip fits larger holes better than 1.5 mm. The PRO BIKE TOOL kit includes both."
+      "a": "A larger plug closes larger holes. The PRO BIKE TOOL kit includes 3.5 mm strips as well as 1.5 mm, and suits fat or wide tires. The KOM and ATEN kits only have small strips, so they suit small punctures."
     },
     {
       "q": "Do I still need sealant?",
-      "a": "Yes. Sealant handles small holes and plugs handle bigger ones, so use them together."
+      "a": "Yes. Sealant closes small holes by itself, and a plug is for what sealant cannot close. Check sealant levels each season. Carry a pump too, because you need to reinflate the tire after a repair."
     },
     {
       "q": "Should I carry a spare tube?",
-      "a": "Yes. If a plug fails, a spare tube and a pump get you home."
+      "a": "Yes. A plug is not a guaranteed repair, and a spare tube is the last resort. Carry the plug kit, a pump and a tube together so a bad puncture does not end the ride."
+    },
+    {
+      "q": "Is practicing a repair worth it?",
+      "a": "Yes. Try the reamer and inserter once at home on a spare tire or an old tube so the first use is not at the roadside. This takes a few minutes and shows how much force the plug needs."
     }
   ],
-  "bottomLine": "For tubeless fat trike tires the PRO BIKE TOOL kit is the best choice because of its larger plugs. If your trike runs tubes, skip these and buy a patch kit instead.",
+  "bottomLine": "For tubeless fat trike tires the PRO BIKE TOOL kit is the best choice because of its larger 3.5 mm plugs and combined reamer and inserter. The ROCKBROS and ATEN suit smaller holes, and the KOM is the lightest option. If your trike runs tubes, skip these and buy a patch kit instead.",
   "amazonSearch": "tubeless repair kits",
   "relatedPaths": [
     "/accessories/best-bicycle-tire-repair-kits-for-tricycles/",

@@ -231,19 +231,19 @@ export const bestAdultTricyclesUnder500: BestArticle = {
   "howWeChose": [
     {
       "title": "Frame material",
-      "body": "We compared aluminum and steel frames and what each means for weight and rust."
+      "body": "We compared aluminum and steel frames and what each means for weight and rust, since that is where budget trikes differ most between brands."
     },
     {
       "title": "Drivetrain",
-      "body": "We separated single-speed trikes from 7-speed models by how well they handle slopes."
+      "body": "We separated single speed trikes from 7-speed models by how well they handle slopes, and noted how much tuning each setup asks of the owner."
     },
     {
       "title": "Brakes",
-      "body": "Drum, V and linear pull brakes need different setups, so we noted each type."
+      "body": "Drum, V and linear pull brakes need different setups and hand strength, so we noted each type and how forgiving it is after a rushed assembly."
     },
     {
       "title": "Fit and capacity",
-      "body": "Published height ranges, frame ratings and basket limits show where a budget trike is honest."
+      "body": "Published height ranges, frame ratings and basket limits show where a budget trike is honest and where you must measure and weigh things yourself."
     }
   ],
   "whatToLookFor": [
@@ -251,28 +251,35 @@ export const bestAdultTricyclesUnder500: BestArticle = {
       "title": "Steel vs aluminum frames",
       "paragraphs": [
         "Steel is cheaper and strong but heavier and prone to rust if the coating chips. Aluminum is lighter and resists rust but usually costs more.",
-        "Check the frame material in the specs and inspect paint at the welds when the box arrives."
+        "Check the frame material in the specs and inspect paint at the welds when the box arrives. Touch up any chip before rain gets in."
       ]
     },
     {
       "title": "Where budget trikes cut corners",
       "paragraphs": [
-        "Expect basic brake hardware, thinner seat padding and baskets rated lower than the frame. These parts wear first.",
-        "Look for stated basket ratings and brake type, and plan on tightening bolts after the first week."
+        "Expect basic brake hardware, thinner seat padding and baskets rated lower than the frame. These parts wear first and decide how the trike feels after a month.",
+        "Look for published basket ratings and brake type, and plan on tightening bolts after the first week of riding."
       ]
     },
     {
       "title": "Assembly cost",
       "paragraphs": [
-        "Most trikes arrive partly assembled and need pedals, handlebars, seat and brake adjustment. A poor assembly causes more problems than a cheap part.",
-        "Check that tools and a manual are included, or budget for a bike shop to check it, which adds cost."
+        "Most trikes arrive partly assembled and need pedals, handlebars, seat and brake adjustment. A poor assembly causes more problems than a cheap part, especially with brakes.",
+        "Check that tools and a manual are included, or budget for a bike shop to inspect it, which adds cost but removes guesswork."
       ]
     },
     {
       "title": "Gears vs simplicity",
       "paragraphs": [
-        "A 7-speed adds a derailleur that needs tuning, while a single speed has almost nothing to adjust.",
-        "Choose gears only if your route has slopes you would otherwise avoid."
+        "A 7-speed adds a derailleur that needs tuning, while a single speed has almost nothing to adjust. Cables stretch in the first weeks and shifting drifts.",
+        "Choose gears only if your route has slopes you would otherwise avoid, and learn to shift before you stop pedaling."
+      ]
+    },
+    {
+      "title": "Tires and bumps",
+      "paragraphs": [
+        "Oversized or wider tires absorb cracks and gravel, which saves your wrists and seat on rough streets. Narrow tires roll faster on smooth pavement.",
+        "Think about the worst surface on your route. If it is beach or cracked asphalt, wider tires matter more than an extra gear."
       ]
     }
   ],
@@ -289,27 +296,27 @@ export const bestAdultTricyclesUnder500: BestArticle = {
           [
             "Durability and low maintenance",
             "Schwinn Meridian Adult Tricycle",
-            "Aluminum frame, single speed"
+            "Aluminum frame and simple single speed"
           ],
           [
             "Hills and comfort",
             "MOONCOOL 7-Speed Adult Tricycle",
-            "7 gears and backrest"
+            "Seven gears and a backrest seat"
           ],
           [
             "Heavier rider",
             "Brightpeak 1 Speed Adult Tricycle",
-            "450 lb rating"
+            "Frame rating of 450 lbs"
           ],
           [
             "Exact fit across heights",
             "Slsy Adult Tricycle 3-Wheeled Bike",
-            "Three published size ranges"
+            "Three published size ranges from 4 feet 8 inches"
           ],
           [
             "Rough pavement or beach",
             "Max4out Adult Tricycle 24/26 Inch",
-            "Oversized tires"
+            "Oversized tires and shock-absorbing seat"
           ]
         ]
       }
@@ -319,11 +326,11 @@ export const bestAdultTricyclesUnder500: BestArticle = {
       "cards": [
         {
           "label": "Aluminum",
-          "text": "The Schwinn Meridian uses it, which saves weight and resists rust but sets the price ceiling."
+          "text": "The Schwinn Meridian uses it, which saves weight and resists rust, so it suits outdoor storage and riders who lift the trike, though it sets the price ceiling."
         },
         {
           "label": "Steel",
-          "text": "The MOONCOOL, Brightpeak and Slsy use steel, which is cheaper and sturdy but heavier and needs care if paint chips."
+          "text": "The MOONCOOL, Brightpeak and Slsy use steel, which is cheaper and sturdy but heavier and needs care if the paint chips and bare metal meets moisture."
         }
       ],
       "note": "Pick aluminum if you store outdoors or lift the trike, steel if price and strength matter most."
@@ -333,11 +340,11 @@ export const bestAdultTricyclesUnder500: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Included tools, a published height chart and a low step-through frame."
+          "text": "Included tools, a published height chart and a low step-through frame, so assembly and fit are not guesswork on the first day."
         },
         {
           "label": "In this comparison",
-          "text": "The Slsy 3-Wheeled Bike publishes the clearest height chart, and the Max4out includes tools and an installation video."
+          "text": "The Slsy 3-Wheeled Bike has the clearest height chart, and the Max4out includes tools and an installation video for first assembly."
         }
       ]
     },
@@ -346,11 +353,11 @@ export const bestAdultTricyclesUnder500: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You need electric assist for hills or heavy cargo, which none of these five provide."
+          "text": "You need electric assist for hills or heavy cargo, which none of these five provide. The electric trike guides cover that step."
         },
         {
           "label": "Save if",
-          "text": "You ride short, flat loops, where the Schwinn Meridian or Brightpeak is plenty."
+          "text": "You ride short, flat loops, where the Schwinn Meridian or Brightpeak is plenty and a simple drivetrain keeps upkeep minimal."
         }
       ]
     }
@@ -358,26 +365,30 @@ export const bestAdultTricyclesUnder500: BestArticle = {
   "faq": [
     {
       "q": "Is a trike under $500 worth buying?",
-      "a": "Yes, if you accept basic components and plan for assembly time. A budget trike works well for flat, moderate use."
+      "a": "Yes, if you accept basic components and plan for assembly time. A budget trike works well for flat, moderate use, and a careful first-week check of bolts and brakes closes most gaps."
     },
     {
       "q": "Which has the strongest frame?",
-      "a": "The Brightpeak rates its steel frame at 450 lbs. The others rate 350 lbs total for rider and cargo."
+      "a": "The Brightpeak rates its steel frame at 450 lbs. The MOONCOOL, Slsy and Max4out rate 350 lbs total for rider and cargo, so compare those with your own weight plus load."
     },
     {
-      "q": "Do cheap trikes need tuning?",
-      "a": "Usually. Check bolts, brake cable tension and gear indexing after assembly and again after a week of riding."
+      "q": "Do budget trikes need tuning?",
+      "a": "Usually. Check bolts, brake cable tension and gear indexing after assembly and again after a week of riding, because cables stretch and fasteners settle in early use."
     },
     {
       "q": "Aluminum or steel?",
-      "a": "Aluminum like the Schwinn's is lighter and resists rust, while steel on the others is cheaper and strong but heavier."
+      "a": "Aluminum like the Schwinn's is lighter and resists rust, while steel on the others is cheaper and strong but heavier. Steel needs paint touch-ups to stay rust-free outdoors."
     },
     {
       "q": "What does the money not buy?",
-      "a": "No motor, usually basic brakes and modest baskets. For assist on hills, look at the electric guides instead."
+      "a": "No motor, usually basic brakes and modest baskets. For assist on hills, look at the electric trike guides instead."
+    },
+    {
+      "q": "Which size fits a shorter rider?",
+      "a": "The Max4out 24 inch fits from about 4 feet 1 inch, and the Slsy starts at 4 feet 8 inches with its smaller wheel size. Check the inseam against the pedal reach too."
     }
   ],
-  "bottomLine": "The Schwinn Meridian is the best-built option under $500, and the MOONCOOL is the one to buy if you need gears. Choose the Brightpeak for frame rating or the Slsy and Max4out for sizing and comfort.",
+  "bottomLine": "The Schwinn Meridian Adult Tricycle is the best-built option under $500, and the MOONCOOL is the one to buy if you need gears. Choose the Brightpeak for its 450 lb frame rating, the Slsy for clear sizing, or the Max4out for comfort on rough surfaces.",
   "amazonSearch": "adult tricycles under $500",
   "relatedPaths": [
     "/adult-tricycles/best-adult-tricycles/",

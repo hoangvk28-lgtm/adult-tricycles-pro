@@ -147,48 +147,59 @@ export const bestBicycleHornAndLightCombos: BestArticle = {
   "howWeChose": [
     {
       "title": "Number of jobs",
-      "body": "We counted how many tasks each unit handles, from light and horn to signals and alarm."
+      "body": "We counted how many tasks each unit handles, from light and horn to signals and alarm, since every extra device is another bracket on a crowded trike bar."
     },
     {
       "title": "Bar and rack space",
-      "body": "Units that avoid extra brackets on a crowded trike bar ranked higher."
+      "body": "Units that avoid extra brackets on a crowded trike bar ranked higher, because baskets, bells and brake levers already fill the handlebar."
     },
     {
       "title": "Waterproofing",
-      "body": "IPX ratings matter for a trike that lives outdoors."
+      "body": "IPX ratings matter for a trike that lives outdoors, so we compared the IPX5 and IPX6 claims and noted the charging port as the likely weak point."
     },
     {
       "title": "Charging",
-      "body": "USB charging and battery life decide whether the unit actually gets used."
+      "body": "USB charging and battery capacity decide whether the unit actually gets used, so we noted what each one needs to stay ready for a ride."
+    },
+    {
+      "title": "Visibility",
+      "body": "Front and rear lights, brake sensing and turn signals decide how clearly drivers read a slow, wide trike at dusk."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Horn rules and volume",
       "paragraphs": [
-        "Electric horns come in decibel ratings that makers measure differently, so treat the number as a claim.",
-        "Try the horn before riding on shared paths, and keep a bell as a quieter alternative."
+        "Electric horns come in decibel ratings that makers measure differently, so treat the number as a claim rather than a guarantee. A very loud horn can also startle walkers on shared paths.",
+        "Try the horn before riding on shared paths, and keep a bell as a quieter alternative for passing people at close range."
       ]
     },
     {
       "title": "Light placement",
       "paragraphs": [
-        "A rear light behind a wide basket is partly blocked. Mount it above or beside the basket.",
-        "Check the view from a car height behind the trike."
+        "A rear light behind a wide basket is partly blocked, so following drivers see only a glow. Height and angle decide how well a trike reads from behind.",
+        "Mount the light above or beside the basket, then check the view from car height behind the trike."
       ]
     },
     {
       "title": "Remote or on-body button",
       "paragraphs": [
-        "A remote on the grip is faster to use, but it needs charging.",
-        "If you ride rarely, a body-mounted button is simpler."
+        "A remote on the grip is faster to use, but it is one more thing to charge and keep clamped to the bar. A body-mounted button is simpler but harder to reach.",
+        "If you ride rarely, a body-mounted button is simpler. If you signal often, the remote is worth the charging."
       ]
     },
     {
       "title": "Waterproof rating",
       "paragraphs": [
-        "IPX5 and IPX6 both handle rain, but a seal around the USB port matters.",
-        "Check that the port cover seats fully after each charge."
+        "IPX5 and IPX6 both handle rain, but the USB port is where water usually gets in. A loose cover defeats the rating.",
+        "Check that the port cover seats fully after each charge, and dry the unit if it has been out in a downpour."
+      ]
+    },
+    {
+      "title": "Turn signals and brake sensing",
+      "paragraphs": [
+        "Turn signals tell drivers your plan without a hand off the bar. Brake sensing lights the rear when you slow, which matters on a trike where you cannot lean or swerve.",
+        "Look for signals and automatic brake lighting if you ride in traffic, and test them in a dim garage."
       ]
     }
   ],
@@ -204,28 +215,28 @@ export const bestBicycleHornAndLightCombos: BestArticle = {
         "rows": [
           [
             "Want signals and a horn",
-            "WSDCAM 5-in-1",
-            "Remote with signals and horn"
+            "WSDCAM 5-in-1 Smart Tail Light",
+            "Remote with turn signals and horn"
           ],
           [
             "Want front and rear lights",
-            "Silanit 140 dB set",
+            "Silanit 140 dB Horn with Front and Rear Lights",
             "Headlight, tail light and horn together"
           ],
           [
             "Park outside often",
-            "G Keni",
+            "G Keni Smart Anti-Theft Tail Light",
             "105 to 115 dB alarm and brake sensing"
           ],
           [
             "Wide rear basket",
-            "WSDCAM 5-in-1",
-            "Signals replace hand signals"
+            "WSDCAM 5-in-1 Smart Tail Light",
+            "Signals replace hand signals behind a basket"
           ],
           [
             "Tool-free setup",
-            "Silanit 140 dB set",
-            "Strap mount fits all bars"
+            "Silanit 140 dB Horn with Front and Rear Lights",
+            "Strap mount fits all handlebar sizes"
           ]
         ]
       }
@@ -235,11 +246,11 @@ export const bestBicycleHornAndLightCombos: BestArticle = {
       "cards": [
         {
           "label": "Rear only",
-          "text": "The WSDCAM and G Keni cover the tail and add safety features."
+          "text": "The WSDCAM and G Keni cover the tail and add extras such as signals, brake sensing or an alarm, but give no headlight."
         },
         {
           "label": "Front and rear",
-          "text": "The Silanit adds a headlight for seeing and being seen."
+          "text": "The Silanit adds a headlight for seeing and being seen, along with a horn on the bar and IPX6 waterproofing."
         }
       ],
       "note": "Most trike riders who ride at dusk should favor the front and rear set."
@@ -249,11 +260,11 @@ export const bestBicycleHornAndLightCombos: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A single mounting point and a remote that clamps to a 0.93 to 1.26 inch bar."
+          "text": "A single mounting point and a remote that clamps to a 0.93 to 1.26 inch bar, so you add one device instead of three."
         },
         {
           "label": "In this comparison",
-          "text": "The WSDCAM remote fits that range and replaces several bar-mounted devices."
+          "text": "The WSDCAM remote fits that range and replaces several bar-mounted devices, while the Silanit strap mount fits all bar sizes without tools."
         }
       ]
     },
@@ -262,11 +273,11 @@ export const bestBicycleHornAndLightCombos: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride in traffic and want signals, which points to the WSDCAM."
+          "text": "You ride in traffic and want signals, which points to the WSDCAM with its remote, turn signals and 160 lumens."
         },
         {
           "label": "Save if",
-          "text": "You ride short daylight trips, where the G Keni or Silanit is enough."
+          "text": "You ride short daylight trips, where the G Keni or Silanit is enough and neither needs a remote to be charged."
         }
       ]
     }
@@ -274,26 +285,30 @@ export const bestBicycleHornAndLightCombos: BestArticle = {
   "faq": [
     {
       "q": "Are horn and light combos legal on bikes?",
-      "a": "Rules vary by state and city. A bell is the common minimum requirement, so check local rules before relying on a loud electric horn."
+      "a": "Rules vary by state and city. A bell is the common minimum requirement, so check local rules before relying on a loud electric horn, especially on shared paths."
     },
     {
       "q": "Do these need to be charged often?",
-      "a": "All three use USB charging. Charge before longer rides and use auto-off where offered."
+      "a": "All three use USB charging. Charge before longer rides and use auto-off where offered. The WSDCAM remote needs its own charge in addition to the tail light."
     },
     {
       "q": "Can I use the WSDCAM remote with gloves?",
-      "a": "The remote clamps to the grip and has left and right buttons. Test them with your gloves before riding."
+      "a": "The remote clamps to the grip and has left and right buttons. Test them with your gloves before riding, since thick winter gloves can make small buttons hard to press."
     },
     {
       "q": "Will the alarm drain the battery?",
-      "a": "A vibration alarm uses a small standby draw. Check the battery before leaving a trike parked for days."
+      "a": "A vibration alarm uses a small standby draw. The G Keni has 800 mAh and turns on and off automatically, but check the battery before leaving a trike parked for days."
     },
     {
       "q": "Does a loud horn replace a bell?",
-      "a": "Not for paths where a soft ring is polite. Keep a bell and use the horn for traffic."
+      "a": "Not for paths where a soft ring is polite. Keep a bell for passing walkers and use the horn for traffic, where a 140 dB claim from the Silanit might matter."
+    },
+    {
+      "q": "Which is best for riding at dusk?",
+      "a": "The Silanit has both front and rear lights and an IPX6 rating. The WSDCAM adds turn signals and an automatic brake light but only covers the rear."
     }
   ],
-  "bottomLine": "The WSDCAM is the most complete pick for crowded trike bars. Choose the Silanit if you want lights at both ends and the G Keni if parking alarm and brake sensing matter most.",
+  "bottomLine": "The WSDCAM 5-in-1 is the most complete pick for crowded trike bars, with signals, brake light and horn on a single remote. Choose the Silanit if you want lights at both ends and tool-free mounting, and the G Keni if parking alarm and brake sensing matter most.",
   "amazonSearch": "bike horn and light combos",
   "relatedPaths": [
     "/accessories/best-bicycle-horns-for-adult-tricycles/",

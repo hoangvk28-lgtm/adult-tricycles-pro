@@ -224,48 +224,55 @@ export const bestReflectiveVestsForCycling: BestArticle = {
   "howWeChose": [
     {
       "title": "360 degree visibility",
-      "body": "We looked for reflective strips or lights on the chest, back and sides, not just the front."
+      "body": "We looked for reflective strips or lights on the chest, back and sides, because a driver who approaches from a corner sees only the side of a wide trike."
     },
     {
       "title": "Fit over layers",
-      "body": "Adjustable waist and shoulder ranges mattered for riders layering over jackets."
+      "body": "We weighed adjustable waist and shoulder ranges, because trike riders layer jackets in cold months and a fixed hem will not close."
     },
     {
       "title": "Active versus passive",
-      "body": "We separated battery-free reflective vests from LED vests and judged each for its job."
+      "body": "We separated battery-free reflective vests from LED vests and judged each for its own job rather than comparing them directly."
     },
     {
       "title": "Comfort and pockets",
-      "body": "Mesh panels and a zip pocket are useful on a trike with no frame bag."
+      "body": "We noted mesh panels and zip pockets, since a trike has no frame bag and a rider often needs somewhere to keep a key."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Reflective versus LED",
       "paragraphs": [
-        "Reflective material needs a driver's headlights to work, while an LED vest makes its own light.",
-        "Choose reflective for lit roads, LEDs for dark roads, and check that LED runtime fits your ride length."
+        "Reflective material needs a driver's headlights to work, while an LED vest makes its own light. Reflective vests never run out of charge, but they show nothing on a dark road with no traffic.",
+        "Choose reflective for lit roads and LEDs for dark roads, and check that LED runtime fits your ride length. A passive vest asks nothing of you after you put it on."
       ]
     },
     {
       "title": "Fit over a jacket",
       "paragraphs": [
-        "A vest that fits over a t-shirt may not close over a winter coat. Adjustable waist and shoulder ranges avoid that.",
-        "Check the waist and shoulder measurements against your thickest layer."
+        "A vest that fits over a t-shirt may not close over a winter coat. Adjustable waist and shoulder ranges avoid that, as do elastic straps rather than a fixed hem.",
+        "Measure over your thickest layer. The Samlior reaches a 49 inch waist and 27 inch shoulders, and the Salzmann comes in four sizes."
       ]
     },
     {
       "title": "Placement and coverage",
       "paragraphs": [
-        "On an upright trike, the torso is highly visible. Strips that wrap the sides help when a driver approaches from a corner.",
-        "Look for strips on front, back and shoulders, plus moving points like arm bands."
+        "On an upright trike the torso is highly visible, and strips that wrap the sides help when a driver approaches from a corner. A moving arm band adds a signal to the turn.",
+        "Look for strips on front, back and shoulders, plus extra points such as the arm bands that come with the GoxRunx."
+      ]
+    },
+    {
+      "title": "Material quality",
+      "paragraphs": [
+        "Genuine 3M Scotchlite is a named, recognized reflective material, while an unbranded material may fade or reflect less. The Salzmann uses Scotchlite, and the GoxRunx material is not branded.",
+        "Check the label for a brand name and washing instructions. A named material gives you something you can verify, while an unnamed one asks you to trust the look of the strips."
       ]
     },
     {
       "title": "Charging and weight",
       "paragraphs": [
-        "LED vests add weight and a charging step. Light vests under 7 oz are easy to wear all day.",
-        "If you forget to charge, a passive vest is the safer pick."
+        "LED vests add weight and a charging step, and a forgotten charge turns the vest into a plain one. Light vests under 7 oz, such as the 6.5 oz Ni-SHEN, are easy to wear all day.",
+        "If you forget to charge, a passive vest is the safer pick. Keep a cable beside your trike keys so charging becomes part of parking."
       ]
     }
   ],
@@ -281,28 +288,28 @@ export const bestReflectiveVestsForCycling: BestArticle = {
         "rows": [
           [
             "Lit roads, daily use",
-            "Salzmann Reflective Running Vest",
-            "3M Scotchlite, no battery"
+            "Salzmann Reflective Running Vest with 3M Scotchlite",
+            "3M Scotchlite and no battery to charge"
           ],
           [
             "Dark roads, own light",
             "Topward LED Reflective Vest",
-            "LEDs front and back"
+            "LEDs front and back, 5 to 9 hours"
           ],
           [
             "Dark paths needing a beam",
-            "Samlior LED Vest",
-            "800 lumen chest light"
+            "Samlior LED Vest with Adjustable Chest Beam",
+            "800 lumen chest light with a 90 degree beam"
           ],
           [
             "Attention-grabbing color",
-            "Ni-SHEN LED Vest",
-            "Six colors, three flash modes"
+            "Ni-SHEN LED Reflective Running Vest",
+            "Six colors and three flashing modes"
           ],
           [
             "Budget with extras",
-            "GoxRunx Reflective Vest",
-            "Two bands included"
+            "GoxRunx Reflective Vest with Arm Bands",
+            "Two reflective bands included, five sizes"
           ]
         ]
       }
@@ -312,11 +319,11 @@ export const bestReflectiveVestsForCycling: BestArticle = {
       "cards": [
         {
           "label": "Reflective",
-          "text": "The Salzmann and GoxRunx need no charging and weigh little. They rely on headlights to be seen."
+          "text": "The Salzmann and GoxRunx need no charging and weigh little. They rely on headlights to be seen, so they do little on an unlit road."
         },
         {
           "label": "LED",
-          "text": "The Topward, Samlior and Ni-SHEN make their own light but need charging."
+          "text": "The Topward, Samlior and Ni-SHEN make their own light but need charging. The Topward claims a 1400 ft light range."
         }
       ],
       "note": "Default to reflective, and choose LED only if you ride unlit roads."
@@ -326,11 +333,11 @@ export const bestReflectiveVestsForCycling: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Wide adjustment ranges on the waist and shoulders and an elastic strap rather than a fixed hem."
+          "text": "Wide adjustment ranges on the waist and shoulders and an elastic strap rather than a fixed hem, so the vest closes over bulk."
         },
         {
           "label": "In this comparison",
-          "text": "The Samlior adjusts to a 49 inch waist and 27 inch shoulders, and the Topward waist expands for jackets."
+          "text": "The Samlior adjusts to a 49 inch waist and 27 inch shoulders, and the Topward waist expands for jackets. The GoxRunx has a velcro waist."
         }
       ]
     },
@@ -339,11 +346,11 @@ export const bestReflectiveVestsForCycling: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride at night. The Samlior or Topward provide light that a passive vest cannot."
+          "text": "You ride at night. The Samlior or Topward provide light that a passive vest cannot, and the Samlior's beam helps you see the path."
         },
         {
           "label": "Save if",
-          "text": "You ride in daylight and dusk. The GoxRunx adds reflective points at low cost."
+          "text": "You ride in daylight and dusk. The GoxRunx adds reflective points with two bands at low cost, with a large zipper pocket for a key."
         }
       ]
     }
@@ -351,26 +358,26 @@ export const bestReflectiveVestsForCycling: BestArticle = {
   "faq": [
     {
       "q": "Is a reflective vest worth it on a trike?",
-      "a": "Yes. An upright rider's torso is the highest visible part of the machine, and a vest adds reflection at driver eye level."
+      "a": "Yes. An upright rider's torso is the highest visible part of the machine, and a vest adds reflection at driver eye level. It works with trike lights rather than instead of them."
     },
     {
       "q": "Do these vests meet ANSI standards?",
-      "a": "None of these state an ANSI class, so if you need that for work, check the label before buying."
+      "a": "None of these name an ANSI class, so if you need one for work, check the label before buying. For recreational riding, the question is mostly about fit and visibility."
     },
     {
       "q": "Will a vest fit over a winter jacket?",
-      "a": "Adjustable waist ranges help. The Samlior stretches to a 49 inch waist, and the Topward is described as fitting over jackets."
+      "a": "Adjustable waist ranges help. The Samlior stretches to a 49 inch waist, and the Topward is made to fit over jackets. Try the vest over your thickest coat before the first ride."
     },
     {
       "q": "How do I wash a vest with LEDs?",
-      "a": "Follow the maker's care instructions, remove batteries or modules if possible, and hand wash. The GoxRunx suggests hand washing in cold water."
+      "a": "Follow the maker's care instructions, remove batteries or modules if possible, and hand wash. The GoxRunx suggests hand washing in cold water, and never soak the electronics. Let the vest dry fully before putting the battery back in."
     },
     {
       "q": "Should I wear a vest during the day?",
-      "a": "Bright reflective vests help in daylight too, particularly with fluorescent colors, though the benefit is smaller than at night."
+      "a": "Bright reflective vests help in daylight too, particularly with fluorescent colors, though the benefit is smaller than at night. It is cheap insurance on cloudy days and at dusk."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Breathable Reflective Cycling Jackets",
       "text": "None of these picks is a jacket. The Salzmann vest has mesh panels, which comes closest for warm weather. If you want a jacket, check the fabric is breathable and the reflective area is large."
@@ -405,7 +412,7 @@ export const bestReflectiveVestsForCycling: BestArticle = {
       "text": "None of these is a winter jacket, so no pick fits. Look for an insulated, windproof jacket with reflective panels, and check you can wear the LED vest over it."
     }
   ],
-  "bottomLine": "The Salzmann is the best all-round vest for most trike riders, while the Topward or Samlior suits dark roads. Pair any vest with lights and tape for full coverage.",
+  "bottomLine": "The Salzmann is the best all-round vest for most trike riders, with genuine 3M Scotchlite, mesh panels and no battery. The Topward or Samlior suits dark roads, the Ni-SHEN suits riders who like color modes, and the GoxRunx is a budget set with two bands. Pair any vest with lights and tape.",
   "amazonSearch": "reflective cycling vests",
   "relatedPaths": [
     "/accessories/best-bike-headlights-for-adult-tricycles/",

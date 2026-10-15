@@ -185,48 +185,55 @@ export const bestFrameMountedBicycleMultitools: BestArticle = {
   "howWeChose": [
     {
       "title": "Tool range",
-      "body": "Hex sizes 2 to 8 mm and basic screwdrivers were the baseline."
+      "body": "We compared which hex sizes, wrenches and Torx bits each multitool includes. A wide range means one tool can handle a loose seat, handlebar or derailleur adjustment on the road."
     },
     {
       "title": "Trike-specific tools",
-      "body": "A 15 mm wrench or axle-capable tool scored higher."
+      "body": "We looked for a 15 mm wrench and a chain tool, since trike axle nuts and long chains are common places for trouble. A tool without them leaves you stuck on a rear wheel problem."
     },
     {
       "title": "Carry method",
-      "body": "Cases and bags that suit a basket pouch were rewarded."
+      "body": "We considered how each tool rides on a trike. A pocket, basket pouch or saddle bag works well, because most trikes have no spare frame space for a mount."
     },
     {
-      "title": "Weight",
-      "body": "Lighter tools suit a small saddle bag."
+      "title": "Weight and build",
+      "body": "We compared weight and the steel used. A light tool is easier to carry every ride, while a galvanized or Cr-V steel tool resists rust after a wet day."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Match your bolts",
       "paragraphs": [
-        "Trikes use hex bolts and axle nuts.",
-        "Check your sizes, especially the axle nut."
+        "Every bolt on a trike takes a certain size of hex key, Torx bit or wrench. A multitool that lacks one of those sizes is useless the day that bolt works loose.",
+        "Before buying, check your seat clamp, handlebar bolts and brake bolts, and compare them with the tool sizes. Pay attention to 8 mm and 10 mm wrenches and 2 to 8 mm hex."
       ]
     },
     {
-      "title": "Carry options",
+      "title": "Axle nut wrench",
       "paragraphs": [
-        "Trikes rarely have bottle bosses.",
-        "Use a basket pouch, saddle bag or pocket."
+        "Many trikes have rear axle nuts that need a 15 mm wrench. Most multitools cover only 8 and 10 mm wrenches, so a loose rear wheel can leave you stuck by the road.",
+        "The ROCKBROS 16-in-1 includes 8, 10 and 15 mm wrenches. Check your own axle nut size with a wrench at home, and note that the Crankbrothers and Vibrelli have no 15 mm wrench."
       ]
     },
     {
       "title": "Chain tool",
       "paragraphs": [
-        "A chain tool lets you fix a broken chain.",
-        "Check speed compatibility."
+        "A chain tool pushes a pin out of a link so you can remove a damaged section. Trike chains are long and see more flex, so a broken link is a real possibility on a long ride.",
+        "Look for a chain tool or chain breaker on the tool. The Crankbrothers Multi-19 and Vibrelli V19 include one, while the Topeak Mini 9 does not."
       ]
     },
     {
-      "title": "Rattle and rust",
+      "title": "Carry options",
       "paragraphs": [
-        "Loose metal rattles in a basket.",
-        "A case or bag fixes that, and rust-resistant steel helps."
+        "A trike has no diamond frame, so the usual saddle bag or frame mount is less obvious. The multitool must survive in a basket pouch or a pocket without rattling or rusting.",
+        "Choose a tool with a case or bag if it will sit in a basket. The Vibrelli V19 comes with a case and the Topeak Mini 9 has a neoprene bag, which quiets rattle."
+      ]
+    },
+    {
+      "title": "Rust and wear",
+      "paragraphs": [
+        "Steel tools rust when damp, and a rusted hex bit can round off a bolt head. Galvanized or coated steel resists this, and a lifetime warranty covers a bit that breaks.",
+        "Wipe the tool dry after every wet ride and check the warranty before you buy. A thicker, heavier tool survives better than a thin one, but costs weight."
       ]
     }
   ],
@@ -241,24 +248,29 @@ export const bestFrameMountedBicycleMultitools: BestArticle = {
         ],
         "rows": [
           [
-            "Broken chain",
+            "Broken chain on a long ride",
             "Crankbrothers Multi-19",
-            "Chain tool included"
+            "Includes a chain tool and wide hex range"
           ],
           [
             "Loose rear axle nut",
-            "ROCKBROS 16-in-1",
-            "15 mm wrench"
+            "ROCKBROS 16-in-1 Multitool",
+            "15 mm wrench included for axle nuts"
           ],
           [
-            "Spoke tightening",
-            "Vibrelli V19",
-            "Spoke wrenches"
+            "Spokes need tightening",
+            "Vibrelli V19 Multitool",
+            "Includes spoke wrenches in a carry case"
           ],
           [
-            "Basic adjustments",
+            "Basic adjustments, lightest carry",
             "Topeak Mini 9",
-            "Hex 2 to 8 mm, 3.24 oz"
+            "3.24 oz with hex 2 to 8 mm"
+          ],
+          [
+            "Stiff or gloved hands",
+            "Crankbrothers Multi-19",
+            "Side grips make the tool easier to hold"
           ]
         ]
       }
@@ -268,25 +280,25 @@ export const bestFrameMountedBicycleMultitools: BestArticle = {
       "cards": [
         {
           "label": "Full",
-          "text": "Crankbrothers, ROCKBROS and Vibrelli cover more repairs."
+          "text": "The Crankbrothers Multi-19, Vibrelli V19 Multitool and ROCKBROS 16-in-1 Multitool carry chain tools, wrenches or both. They cover bigger repairs, though they add weight and bulk to your basket."
         },
         {
           "label": "Minimal",
-          "text": "The Topeak Mini 9 covers adjustments only."
+          "text": "The Topeak Mini 9 is a 9 function, 3.24 oz tool with hex 2 to 8 mm, Torx T25 and a Phillips bit. It is easy to carry, but it cannot break a chain or hold an axle nut."
         }
       ],
-      "note": "Default to a fuller tool unless you carry a separate kit."
+      "note": "Default to a fuller tool unless you already carry a separate kit."
     },
     {
       "heading": "For Basket Carry Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A case or pouch to stop rattling."
+          "text": "Look for a case or pouch so the tool does not rattle among your other gear, and a size you can fit with the pump and lights. Wipe it dry after rain."
         },
         {
           "label": "In this comparison",
-          "text": "The Vibrelli and Topeak include a case or neoprene bag."
+          "text": "The Vibrelli V19 Multitool comes with a case, and the Topeak Mini 9 has a neoprene bag. The Crankbrothers Multi-19 is 89 mm long and fits a basket pouch easily."
         }
       ]
     },
@@ -295,11 +307,11 @@ export const bestFrameMountedBicycleMultitools: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride far from home."
+          "text": "Spend more if you want a wide range with a lifetime warranty and side grips. The Crankbrothers Multi-19 gives the broadest tool set, while the Vibrelli adds a carry case and spoke wrenches."
         },
         {
           "label": "Save if",
-          "text": "You ride locally, where the Topeak suffices."
+          "text": "Save if you only need basic adjustments or already own a chain tool. The Topeak Mini 9 is light and cheap to carry, and the ROCKBROS 16-in-1 adds a 15 mm wrench for axle nuts."
         }
       ]
     }
@@ -307,26 +319,30 @@ export const bestFrameMountedBicycleMultitools: BestArticle = {
   "faq": [
     {
       "q": "Can I mount a multitool on a trike frame?",
-      "a": "Most trikes lack bottle bosses, so use a basket pouch or saddle bag instead."
+      "a": "Most multitools are not made to mount on a trike frame. Carry yours in a basket pouch, a saddle bag or a pocket, and keep it in the same place each ride so you can find it quickly when you need it."
     },
     {
       "q": "Do I need a 15 mm wrench?",
-      "a": "Many trike axle nuts use it. Check your own nut."
+      "a": "If your trike has a rear axle nut that size, yes. The ROCKBROS 16-in-1 Multitool includes 8, 10 and 15 mm wrenches, while the Crankbrothers Multi-19 has only 8 and 10 mm. Check your axle nut at home before choosing."
     },
     {
       "q": "Is a chain tool necessary?",
-      "a": "It helps if the chain breaks far from home."
+      "a": "It is worth having on a long ride. A broken link can end your ride, and a chain tool lets you remove it and rejoin the chain. The Crankbrothers and Vibrelli include one, while the Topeak does not."
     },
     {
-      "q": "Do multitools replace a pump?",
-      "a": "No. Carry a pump and a spare tube too."
+      "q": "Do multitools replace a pump or tire levers?",
+      "a": "No. A multitool adjusts bolts and bits, and it will not inflate a tire. The ROCKBROS has no tire levers, so carry a pump, a patch kit and levers separately if you ride far from home."
     },
     {
-      "q": "What about tire levers?",
-      "a": "None of these includes them, so carry separate levers."
+      "q": "How do I keep my multitool from rusting?",
+      "a": "Wipe it dry after wet rides and keep it in a case or pouch. The ROCKBROS uses galvanized steel and the Vibrelli uses Cr-V steel, which both resist rust better than plain steel."
+    },
+    {
+      "q": "Which multitool suits an older rider best?",
+      "a": "The Crankbrothers Multi-19 has side grips for gloved or stiff hands, and its tools are easy to hold. Test any tool at home on your own bolts so you know it works before you are stranded."
     }
   ],
-  "bottomLine": "The Crankbrothers is the best all-rounder, the ROCKBROS suits axle nuts and the Topeak is the lightest. Carry it in a basket pouch or saddle bag.",
+  "bottomLine": "The Crankbrothers Multi-19 is the best all-rounder because it has a wide hex range, a chain tool and side grips. The ROCKBROS 16-in-1 is the pick if your trike has 15 mm axle nuts, and the Topeak Mini 9 is the lightest. Carry any of them in a basket pouch or saddle bag.",
   "amazonSearch": "bike multitools",
   "relatedPaths": [
     "/accessories/best-bicycle-multitools-for-tricycle-riders/",

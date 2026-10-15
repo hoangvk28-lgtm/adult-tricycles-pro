@@ -177,48 +177,48 @@ export const bestDryBicycleChainLubricants: BestArticle = {
   "howWeChose": [
     {
       "title": "Formula type",
-      "body": "We kept dry, wax and ceramic lubes and dropped all-condition or wet lubes for this guide."
+      "body": "We kept dry, wax and ceramic lubes and dropped all condition and wet lubes, because this guide is about a thin film that sheds dust on fair weather rides."
     },
     {
       "title": "Coverage checks",
-      "body": "A UV dye helps confirm that a long trike chain is evenly coated."
+      "body": "We noted UV tracer dye, because it helps confirm that a long trike chain is evenly coated and that no stretch of links was missed along the way."
     },
     {
       "title": "Bottle size",
-      "body": "A trike chain is long, so we noted bottle size."
+      "body": "A trike chain is long, so we compared bottle sizes, since a small bottle runs out after only a few applications on a chain of that length."
     },
     {
       "title": "Honest limits",
-      "body": "All are unverified, and none is a proven long-life lube."
+      "body": "All of these are unverified, and none carries a verified long life claim, so we judged each on formula, coverage help and how easy it is to apply."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Dry versus wet formula",
       "paragraphs": [
-        "A dry lube leaves a thin film that sheds dust but washes off in rain. A wet lube clings longer but collects grit.",
-        "Pick dry for dusty, fair-weather riding and reapply after rain."
+        "A dry lube leaves a thin, light film that sheds dust and stays cleaner on the chain, but it washes off in rain. A wet lube clings longer in the wet but collects grit and needs regular wiping.",
+        "Pick dry for dusty, fair weather riding and expect to reapply after rain. If your trike lives outside in wet climates, a dry lube will need more frequent attention."
       ]
     },
     {
       "title": "Chain length and bottle size",
       "paragraphs": [
-        "A trike chain can be much longer than a bike chain, so a 50ml bottle goes quickly.",
-        "Count the number of applications you want and pick a bottle to match."
+        "A trike chain can be much longer than a bike chain, so a small bottle goes quickly and each application uses more. That makes bottle size a real running cost, not a footnote.",
+        "Count how many applications you want per bottle and pick a size to match. The Muc-Off C3 has 120ml, the BTAS 4 oz and the Bio Dry only 50ml."
       ]
     },
     {
       "title": "Coverage check",
       "paragraphs": [
-        "A UV dye shows missed spots on a long chain.",
-        "Use a small UV torch after applying and rotate the crank slowly."
+        "A UV tracer dye glows under a UV light, which shows any stretch of links you missed on a long chain. Without it, you are guessing whether the far end of the chain was reached.",
+        "Use a small UV torch after applying and rotate the crank slowly while you look. The Muc-Off C3 and BTAS both include dye, while the Finish Line does not."
       ]
     },
     {
       "title": "Clean chain first",
       "paragraphs": [
-        "Lube over dirt traps grit. Degrease first.",
-        "Wipe the chain dry and apply a drop per link."
+        "Lube applied over dirt traps grit inside the links and turns into a grinding paste. A clean chain lets the film reach the pins and rollers where friction actually happens.",
+        "Degrease the chain first, wipe it dry, and then apply a drop per link. Let it settle before riding, and wipe off the excess so dust does not stick."
       ]
     }
   ],
@@ -233,24 +233,24 @@ export const bestDryBicycleChainLubricants: BestArticle = {
         ],
         "rows": [
           [
-            "Dusty paths, long chain",
+            "Dusty paths and a long chain",
             "Muc-Off C3 Dry Ceramic Lube 120ml",
-            "Large bottle, UV dye."
+            "Large bottle with UV dye for coverage"
           ],
           [
-            "Garage-kept, light use",
+            "Garage kept, light use",
             "Muc-Off Bio Dry Chain Lube 50ml",
-            "Clean wax film."
+            "Clean wax film that is biodegradable"
           ],
           [
             "Short rides, quick application",
             "Finish Line Dry Bike Lubricant with Teflon",
-            "Dries fast."
+            "Quick drying film from a squeeze bottle"
           ],
           [
-            "Coverage check on a budget",
+            "Coverage check on a tighter budget",
             "BTAS Ceramic Dry Chain Lube 4 oz",
-            "UV dye, bigger bottle."
+            "UV dye and a 4 oz bottle"
           ]
         ]
       }
@@ -260,25 +260,25 @@ export const bestDryBicycleChainLubricants: BestArticle = {
       "cards": [
         {
           "label": "Wax",
-          "text": "The Muc-Off Bio Dry uses wax for a clean film."
+          "text": "The Muc-Off Bio Dry is wax based and biodegradable, giving a clean film, but its 50ml bottle is small for a long trike chain."
         },
         {
           "label": "Ceramic",
-          "text": "The C3, Finish Line and BTAS use ceramic for friction and distance."
+          "text": "The C3, Finish Line and BTAS use ceramic to reduce friction, and the C3 and BTAS add UV dye, so they suit riders who want to check coverage."
         }
       ],
-      "note": "Most trike owners should pick a ceramic dry lube unless they want a biodegradable wax."
+      "note": "Most trike owners should pick a ceramic dry lube unless they specifically want a biodegradable wax."
     },
     {
-      "heading": "For Long Recumbent Chains Specifically",
+      "heading": "For Long Trike Chains Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A large bottle and a coverage dye, since a long chain is easy to miss."
+          "text": "A large bottle and a coverage dye, since a long chain is easy to miss and a small bottle runs dry before the whole length is treated."
         },
         {
           "label": "In this comparison",
-          "text": "The Muc-Off C3 has 120ml and tracer dye, and the BTAS has 4 oz with dye."
+          "text": "The Muc-Off C3 has 120ml and tracer dye, and the BTAS has 4 oz with dye, while the Bio Dry's 50ml is best kept for a short chain or touch ups."
         }
       ]
     },
@@ -287,11 +287,11 @@ export const bestDryBicycleChainLubricants: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride a long chain often; buy the larger C3 and see /accessories/best-bicycle-chain-lubricants/ for wet options."
+          "text": "You ride a long chain often. The larger Muc-Off C3 means fewer refills, and its UV dye saves guesswork, which suits regular riders on dusty paths."
         },
         {
           "label": "Save if",
-          "text": "You ride occasionally, where the Finish Line is plenty."
+          "text": "You ride occasionally on dry days. The Finish Line with Teflon dries quickly and repels grit, which is plenty for a trike that sees light use."
         }
       ]
     }
@@ -299,26 +299,30 @@ export const bestDryBicycleChainLubricants: BestArticle = {
   "faq": [
     {
       "q": "Can I use dry lube in the rain?",
-      "a": "It washes off quickly. Use a wet or all-condition lube, and see /accessories/best-bicycle-chain-lubricants/."
+      "a": "It washes off quickly, so a dry lube is a poor match for wet rides. If you get caught in rain, wipe the chain and reapply once it dries, or switch to a wet lube for wet seasons."
     },
     {
       "q": "How often should I reapply?",
-      "a": "After wet rides, after cleaning, and when the chain sounds dry. Dry lubes need more frequent application."
+      "a": "After wet rides, after cleaning, and when the chain sounds dry. Dry lubes leave a thin film, so they need more frequent application than a wet formula, especially on a long trike chain, where missed links wear first."
     },
     {
       "q": "How much should I use?",
-      "a": "A drop per link, then wipe the excess. Too much attracts dust."
+      "a": "A single drop per link, then wipe off the excess with a clean rag. Too much attracts dust and defeats the point of a dry formula, which is to keep the chain cleaner between rides."
     },
     {
       "q": "Is a UV dye necessary?",
-      "a": "No, but it helps you confirm coverage on a long chain."
+      "a": "No, but it helps you confirm coverage on a long chain. The Muc-Off C3 and BTAS include it, and you need a small UV torch to see it. Without dye, rotate the crank and watch each link."
     },
     {
       "q": "Does a longer chain need more lube?",
-      "a": "Yes. Check the chain pillar at /accessories/best-bicycle-chains-for-adult-tricycles/ for chain choices."
+      "a": "Yes. A longer chain has more links to treat, so a bottle empties faster. The 120ml Muc-Off C3 gives more applications than the 50ml Bio Dry, which is better for short chains or occasional touch ups."
+    },
+    {
+      "q": "Is ceramic better than wax?",
+      "a": "Ceramic lubes reduce friction and suit riders who want distance between applications, while wax gives a clean film. The Bio Dry is wax and biodegradable, but none of these has a verified long life claim."
     }
   ],
-  "bottomLine": "Choose the Muc-Off C3 for its bottle size and UV dye, or the Bio Dry if you want a wax film. Clean the chain first and reapply often.",
+  "bottomLine": "Choose the Muc-Off C3 for its 120ml bottle and UV dye, which suits a long trike chain, or the Bio Dry if you prefer a biodegradable wax film. Clean the chain before every application and reapply often, especially after wet rides.",
   "amazonSearch": "dry chain lubes",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-lubricants/",

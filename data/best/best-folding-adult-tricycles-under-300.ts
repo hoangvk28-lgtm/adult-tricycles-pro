@@ -116,48 +116,55 @@ export const bestFoldingAdultTricyclesUnder300: BestArticle = {
   "howWeChose": [
     {
       "title": "Fold design",
-      "body": "We separated true folding from pin-lock assembly."
+      "body": "We checked whether each trike truly folds or only comes apart for assembly. A real fold changes how you store it in an apartment closet or car trunk, so we weighed it first."
     },
     {
       "title": "Gearing",
-      "body": "We compared 7-speed with single speed."
+      "body": "We compared the Shimano 7-speed against single speed. Gears let you ease a hill on a small wheel, while single speed removes parts that can slip or need adjusting."
     },
     {
-      "title": "Fit",
-      "body": "We checked stated height ranges."
+      "title": "Rider fit",
+      "body": "We looked at stated height ranges and wheel size. A trike that is too small or too big forces an awkward posture, which defeats the upright comfort an adult trike is for."
     },
     {
-      "title": "Cargo",
-      "body": "We kept basket limits separate from rider limits."
+      "title": "Cargo and capacity",
+      "body": "We compared the basket rating and whether it is a limit for cargo or a combined total. Groceries and a purse add up faster than most people expect."
     }
   ],
   "whatToLookFor": [
     {
       "title": "True folding",
       "paragraphs": [
-        "A folding frame hinges so the trike packs smaller. A pin-lock design usually just eases assembly.",
-        "Ask for folded dimensions."
+        "Some budget trikes call themselves foldable but only fold the handlebar or break down for shipping. A real folding frame hinges in the middle and reduces the trike to a smaller package.",
+        "Look for folding frame in the title or bullet points, then check the folded size if given. Measure your closet or trunk, since a folded trike is still wide and bulky."
       ]
     },
     {
-      "title": "Gears",
+      "title": "Gears for hills",
       "paragraphs": [
-        "Seven speeds help on slopes.",
-        "Check your route."
+        "A seven-speed rear hub or derailleur lets you pick a lighter gear for hills, so your knees do less work. A single-speed trike has one fixed gear, which suits flat routes and gives you fewer parts to adjust.",
+        "Walk your usual route and look for slopes, then decide. If you stop before every hill today, gears will help, and a Shimano 7-speed is a good number to look for."
       ]
     },
     {
       "title": "Height range",
       "paragraphs": [
-        "Wheel size sets fit.",
-        "Measure your height."
+        "Trike frames have a range of rider heights they fit. A 20-inch wheel model suits shorter riders, while a larger wheel gives a taller rider room for the legs.",
+        "Measure your height and compare it with the stated range, such as 4 feet 8 inches to 5 feet 6 inches for the VEVOR 20-inch. If you are near the edge, choose the larger size."
       ]
     },
     {
       "title": "Basket rating",
       "paragraphs": [
-        "Basket limits are lower than total capacity.",
-        "Weigh your loads."
+        "A basket rating tells you how much weight the rack and frame can carry before the structure bends or the trike tips. Some figures are the basket alone, and others may include rider and cargo.",
+        "The VEVOR 24-inch shows 44 lbs for its basket. Think about a full grocery bag plus bottles, and ask the maker whether the number is basket only or total."
+      ]
+    },
+    {
+      "title": "Frame and brakes",
+      "paragraphs": [
+        "Budget frames are usually steel, which is strong but heavier and can rust where paint chips. Dual brakes give you a second stopping option if one cable stretches or slips.",
+        "Look for front and rear brakes, mudguards and a protective frame coating on the trike. Check brake feel after assembly, and tighten cables before the first ride."
       ]
     }
   ],
@@ -172,19 +179,29 @@ export const bestFoldingAdultTricyclesUnder300: BestArticle = {
         ],
         "rows": [
           [
-            "Needs to fold",
-            "VEVOR 20-Inch 7-Speed",
-            "Described as foldable."
+            "Closet or trunk storage needed",
+            "VEVOR 20-Inch 7-Speed Folding Tricycle",
+            "Foldable frame and a 20 inch wheel"
           ],
           [
-            "Hills",
-            "VEVOR 20-Inch 7-Speed",
-            "Seven speeds."
+            "Hills on the route",
+            "VEVOR 20-Inch 7-Speed Folding Tricycle",
+            "Shimano 7-speed gearing eases every climb"
           ],
           [
-            "Flat errands, taller rider",
-            "VEVOR 24-Inch",
-            "Larger wheels."
+            "Flat errands and a taller rider",
+            "VEVOR 24-Inch Single-Speed Tricycle",
+            "24 inch wheels with a simple single speed"
+          ],
+          [
+            "Small rider, 4 feet 8 inches to 5 feet 6 inches",
+            "VEVOR 20-Inch 7-Speed Folding Tricycle",
+            "Stated height range for the 20 inch size"
+          ],
+          [
+            "Simple build, few parts to adjust",
+            "VEVOR 24-Inch Single-Speed Tricycle",
+            "Single speed, front and rear brakes, tools included"
           ]
         ]
       }
@@ -194,25 +211,25 @@ export const bestFoldingAdultTricyclesUnder300: BestArticle = {
       "cards": [
         {
           "label": "Folding",
-          "text": "The 20-inch model folds and has gears."
+          "text": "The VEVOR 20-Inch 7-Speed Folding Tricycle folds, has Shimano gearing and fits riders from 4 feet 8 inches to 5 feet 6 inches. It is the better choice when space or hills are a concern."
         },
         {
           "label": "Simple",
-          "text": "The 24-inch model is a single speed with a basket."
+          "text": "The VEVOR 24-Inch Single-Speed Tricycle is a simple cruiser with a pin-lock design for assembly and a 44 lb basket. It suits flat routes and taller riders who do not need to fold it."
         }
       ],
-      "note": "Choose the 20-inch unless you are taller."
+      "note": "Choose the 20-inch unless you are taller or never need to fold."
     },
     {
       "heading": "For Small Apartments Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A real fold and known folded size."
+          "text": "Look for a real folding frame, a short folded length and gears. Measure your closet floor and door width first, since a folded trike is still wide."
         },
         {
           "label": "In this comparison",
-          "text": "The VEVOR 20-inch."
+          "text": "The VEVOR 20-Inch 7-Speed Folding Tricycle is the one that folds and shifts. Check the height range and confirm the folded size with the maker if your space is very small."
         }
       ]
     },
@@ -221,38 +238,42 @@ export const bestFoldingAdultTricyclesUnder300: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you need a verified weight rating or taller fit."
+          "text": "Spend more if you want more than this tier offers, since both VEVOR models are basic. The 20-inch adds gears and a fold, but neither states a clear rider weight limit."
         },
         {
           "label": "Save if",
-          "text": "you only need a basic trike for short rides."
+          "text": "Save if you only need a flat errand trike. The VEVOR 24-Inch Single-Speed Tricycle keeps parts simple, includes tools and has front and rear brakes, but the basket is limited to 44 lbs."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Does the 24-inch fold?",
-      "a": "It has a pin-lock design for assembly."
+      "q": "Does the 24-inch trike fold?",
+      "a": "No, not in the sense of a space-saving fold. The VEVOR 24-Inch Single-Speed Tricycle has a pin-lock folding design for assembly, but it is meant to stay open. If you need real storage savings, choose the 20-inch model."
     },
     {
-      "q": "Which fits taller riders?",
-      "a": "The 24-inch, but no height range is given."
+      "q": "Which model fits a taller rider?",
+      "a": "The VEVOR 24-Inch Single-Speed Tricycle has the larger wheels, so it gives taller riders more leg room. The 20-inch is sized for riders from 4 feet 8 inches to 5 feet 6 inches, so stay near the middle of that range."
     },
     {
-      "q": "Is a basket enough for groceries?",
-      "a": "44 lbs is modest."
+      "q": "Is the basket big enough for groceries?",
+      "a": "It depends on the load. The 24-inch shows a 44 lb basket figure, so a few bags work, but heavy bottles add up quickly. Spread the weight, keep it low, and ask whether the number is basket only or combined."
     },
     {
-      "q": "Do I need tools?",
-      "a": "Tools are included."
+      "q": "Do I need tools to assemble these?",
+      "a": "Yes, expect some real assembly work. The 24-inch model includes tools, and both trikes arrive partly built. Check every bolt and cable after assembly, and test the brakes before riding, since shipping can loosen fasteners."
     },
     {
-      "q": "Are they stable?",
-      "a": "Three wheels help, but check on slopes."
+      "q": "Are folding trikes stable?",
+      "a": "A folding frame adds hinges, which can add flex if the latch is loose. Lock the fold fully before every ride and check it often. Three wheels are stable at rest, but still tip if you corner fast with a load."
+    },
+    {
+      "q": "Do either of these have a rider weight limit?",
+      "a": "Neither shows a clear rider weight limit you can rely on. Ask the maker before buying, especially if you are a heavier rider, and never load the basket to its limit or the trike will handle poorly."
     }
   ],
-  "bottomLine": "Choose the 20-inch VEVOR if you need a true folder, or the 24-inch if you want a larger wheel on flat routes. Confirm size and capacity before ordering.",
+  "bottomLine": "The VEVOR 20-Inch 7-Speed Folding Tricycle is the best pick for most buyers because it folds, shifts and fits shorter riders. Choose the VEVOR 24-Inch Single-Speed Tricycle if you are taller and ride flat routes. Confirm size, folded dimensions and capacity before ordering, since neither states a clear rider limit.",
   "amazonSearch": "folding adult tricycles under $300",
   "relatedPaths": [
     "/folding-tricycles/best-folding-adult-tricycles-under-400/",

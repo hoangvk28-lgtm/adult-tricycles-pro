@@ -186,48 +186,59 @@ export const bestBikeAlarmsWithGpsTrackers: BestArticle = {
   "howWeChose": [
     {
       "title": "How it finds the trike",
-      "body": "We separated cellular GPS from Find My network trackers, since coverage and cost differ."
+      "body": "We separated cellular GPS from Find My network trackers, since a 4G unit reports from anywhere with signal while Find My needs a passing Apple device."
     },
     {
       "title": "Battery and upkeep",
-      "body": "Months or years between charges matter for a trike parked for weeks."
+      "body": "Months or years between charges matter for a trike parked for weeks, so the PAJ's roughly 20 days ranked differently from the Orbit Velo's up to 3 years."
     },
     {
       "title": "Hiding on a wide frame",
-      "body": "Trikes have more tubing and a rear rack, so we rated how well each tracker hides."
+      "body": "Trikes have more tubing and a rear rack, so we rated how well each tracker hides, from a rear light disguise to a spot under a bottle cage."
+    },
+    {
+      "title": "Running cost",
+      "body": "A monthly plan can cost more than the tracker, so we noted the PAJ's 3 months of premium service against the no-fee Find My options."
     },
     {
       "title": "Honest limits",
-      "body": "All are unverified, and none is called proven or a substitute for a lock."
+      "body": "All are unverified, and none is a substitute for a lock; a tracker helps after a theft rather than preventing one."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Cellular GPS or Find My",
       "paragraphs": [
-        "Cellular GPS reports from anywhere with signal but needs a plan. Find My trackers have no fee but rely on passing Apple devices.",
-        "In a busy city a Find My tracker works well; in a rural lot a cellular tracker is safer."
+        "Cellular GPS has its own SIM and reports from anywhere with signal but needs a plan. Find My trackers have no fee but rely on passing Apple devices to relay a location.",
+        "In a busy city a Find My tracker works well. If your trike sleeps in a rural lot or a quiet driveway, the PAJ 4G tracker is the safer choice, since it does not need anyone nearby."
       ]
     },
     {
       "title": "Subscription cost",
       "paragraphs": [
-        "A tracker with a monthly plan can cost more over time than the device itself.",
-        "Check how long the included service lasts and what the plan costs afterward."
+        "A tracker with a monthly plan can cost more over time than the device itself. The PAJ includes a SIM and 3 months of premium, after which the plan continues as a recurring charge.",
+        "Check how long the included service lasts and what the plan costs afterward. If you only want a backup for a garage-kept trike, a no-fee Find My tag is cheaper to own."
       ]
     },
     {
       "title": "Hiding place",
       "paragraphs": [
-        "A thief who spots the tracker removes it. Under a bottle cage or inside a rear light is harder to notice.",
-        "Pick a spot that looks like standard hardware and use tamper screws if provided."
+        "A thief who spots the tracker removes it. The PAJ looks like a rear light, while the Ravemen and Orbit Velo sit under the bottle cage where few people look.",
+        "Pick a spot that looks like standard hardware and use tamper screws if provided. Check that your trike frame has bottle cage bosses before choosing a cage-mounted tag."
       ]
     },
     {
       "title": "Battery type",
       "paragraphs": [
-        "A replaceable cell lasts for years, while a rechargeable one needs regular top-ups.",
-        "Set a calendar reminder to check the battery."
+        "A replaceable cell lasts for years, as with the Orbit Velo and the Bikebac's CR2032 cell, while a rechargeable one like the Ravemen or PAJ needs regular top-ups.",
+        "Set a calendar reminder to check the battery. The PAJ's about 20 days is short for a trike that sits unused, so plan a charge every few weeks."
+      ]
+    },
+    {
+      "title": "Alerts that matter",
+      "paragraphs": [
+        "The PAJ sends movement and power-off alerts, and the Ravemen adds Lost Mode alerts. Without an alert you only find out about a theft when you walk to the trike.",
+        "Check which alerts you get before buying, and turn on notifications on your phone. An alert that never reaches you is no better than none."
       ]
     }
   ],
@@ -244,22 +255,22 @@ export const bestBikeAlarmsWithGpsTrackers: BestArticle = {
           [
             "Remote or rural parking",
             "PAJ LED Bike 4G GPS Tracker",
-            "Cellular, no phones needed."
+            "Cellular, so no passing phones needed."
           ],
           [
             "iPhone, city parking",
             "Ravemen Bike Tracker for Apple Find My",
-            "Rechargeable, no fee."
+            "Rechargeable, no fee, about 8 months per charge."
           ],
           [
             "Install once and forget",
             "Orbit Velo Bike Tracker with Apple Find My",
-            "Up to 3 years."
+            "Replaceable battery lasting up to 3 years."
           ],
           [
             "No bottle cage mount",
             "Bikebac Bike Tracker with Apple Find My",
-            "Seat mounts included."
+            "Seat mounts included and a replaceable CR2032 battery."
           ]
         ]
       }
@@ -269,11 +280,11 @@ export const bestBikeAlarmsWithGpsTrackers: BestArticle = {
       "cards": [
         {
           "label": "Subscription",
-          "text": "The PAJ needs a plan after 3 months but reports from anywhere with signal."
+          "text": "The PAJ needs a plan after the first 3 months, but it reports from anywhere with cellular signal and warns you when the trike moves or the power is cut."
         },
         {
           "label": "No fee",
-          "text": "The Ravemen, Orbit Velo and Bikebac use Find My and have no monthly cost."
+          "text": "The Ravemen, Orbit Velo and Bikebac use Find My and carry no monthly cost. In return they need an Apple device nearby, so quiet locations may give stale positions."
         }
       ],
       "note": "Most riders in busy areas should pick a Find My tracker unless the trike is parked in a quiet place."
@@ -283,11 +294,11 @@ export const bestBikeAlarmsWithGpsTrackers: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A hidden mount, tamper screws and an alert if the tracker is moved or disconnected."
+          "text": "A hidden mount, tamper screws and an alert if the tracker is moved or disconnected, since overnight is when nobody is near to notice a theft."
         },
         {
           "label": "In this comparison",
-          "text": "The Ravemen has tamper screws and disconnect alerts; the PAJ alerts on movement and power-off."
+          "text": "The Ravemen has tamper screws and Lost Mode alerts, and the PAJ alerts on movement and power-off. The PAJ is the stronger overnight choice if you park far from other people."
         }
       ]
     },
@@ -296,11 +307,11 @@ export const bestBikeAlarmsWithGpsTrackers: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "Your trike is costly or you park it in public; pair the PAJ with a chain lock from /accessories/best-chain-locks-for-adult-tricycles/."
+          "text": "Your trike is costly or you park it in public. Pair the PAJ with a chain lock from /accessories/best-chain-locks-for-adult-tricycles/, since a tracker only helps after a theft."
         },
         {
           "label": "Save if",
-          "text": "You have an iPhone and park in town, where the Bikebac or Orbit is enough."
+          "text": "You have an iPhone and park in town, where the Bikebac or Orbit Velo is enough and carries no recurring fee."
         }
       ]
     }
@@ -308,26 +319,30 @@ export const bestBikeAlarmsWithGpsTrackers: BestArticle = {
   "faq": [
     {
       "q": "Will a tracker stop a theft?",
-      "a": "No. It helps you find the trike afterward and may deter a thief who spots it. A solid lock is still the first defense."
+      "a": "No. It helps you find the trike afterward and may deter a thief who spots it. A solid lock is still the first defense, so use the tracker as a second layer behind it. The PAJ also alerts you when the trike moves."
     },
     {
       "q": "Does Find My work everywhere?",
-      "a": "It depends on nearby Apple devices, so it works best in populated areas and can be slow in remote ones."
+      "a": "It depends on nearby Apple devices, so it works best in populated areas and can be slow in remote ones. If you park somewhere empty, a cellular tracker like the PAJ is the more dependable option."
     },
     {
       "q": "What if the thief removes it?",
-      "a": "Hide it well and use tamper screws. A tracker built into a rear light is harder to spot."
+      "a": "Hide it well and use tamper screws where provided. A tracker built into a rear light, like the PAJ, is harder to spot than a plain case, and a cage-mounted tag is out of sight under the frame."
     },
     {
       "q": "Can I use an Android phone?",
-      "a": "The Ravemen, Orbit and Bikebac are for Apple. The PAJ uses a cellular app and works with other phones."
+      "a": "The Ravemen, Orbit Velo and Bikebac are for Apple. The PAJ uses a cellular app and works with other phones, so Android households should look there first. The PAJ also needs no nearby phones to report its position."
+    },
+    {
+      "q": "How often will I need to charge it?",
+      "a": "The PAJ lasts about 20 days, the Ravemen about 8 months, and the Orbit Velo up to 3 years on a replaceable cell. The Bikebac runs 12 or more months on a CR2032. Set a reminder that matches the unit you choose."
     },
     {
       "q": "Is there a bell with a tracker?",
-      "a": "Yes, see /accessories/best-bike-alarms-compatible-with-apple-find-my/ for bells and mounts that hide a tag."
+      "a": "Yes, and it is a good way to hide a tag in plain sight. See /accessories/best-bike-alarms-compatible-with-apple-find-my/ for bells and mounts that hold an Apple Find My tag, including options that also work with Google Find Hub, one network at a time."
     }
   ],
-  "bottomLine": "Choose the PAJ if you need real cellular tracking, or a Find My tracker like the Ravemen if you have an iPhone and park in busy areas. Always lock the trike first.",
+  "bottomLine": "Choose the PAJ if you need real cellular tracking away from busy streets, or a Find My tracker like the Ravemen if you have an iPhone and park in populated areas. Pick the Orbit Velo for years of battery and the Bikebac if your frame has no cage mount. Always lock the trike first.",
   "amazonSearch": "bike alarms with gps",
   "relatedPaths": [
     "/accessories/best-bike-alarms-for-adult-tricycles/",

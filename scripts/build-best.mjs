@@ -3,6 +3,7 @@
 // The writer only produces prose JSON; ids, paths, images, ASINs and selection notes come from facts.
 import fs from "node:fs";
 import path from "node:path";
+import { depthProblems } from "./depth-check.mjs";
 
 const [factsDir, proseDir, date = new Date().toISOString().slice(0, 10)] = process.argv.slice(2).filter((a) => !a.startsWith("--"));
 const register = process.argv.includes("--register");
@@ -37,6 +38,7 @@ for (const f of fs.readdirSync(proseDir).filter((x) => x.endsWith(".json"))) {
   if ((prose.metaTitle || "").length > 38) problems.push(`metaTitle ${prose.metaTitle.length}`);
   const dl = (prose.description || "").length;
   if (dl < 120 || dl > 160) problems.push(`description ${dl}`);
+  problems.push(...depthProblems(prose));
   if (problems.length) { console.log(`FAIL ${prose.slug}: ${problems.join("; ")}`); continue; }
   const article = {
     type: "best", slug: prose.slug, path: `/${facts.section}/${prose.slug}/`, sections: [facts.section], noun: facts.noun,

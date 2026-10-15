@@ -156,48 +156,48 @@ export const bestFatTireElectricTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Tire width",
-      "body": "Wider tires carry more cushion and grip, so width ranked first."
+      "body": "Wider tires carry more cushion and grip on loose ground, so stated width ranked first, and we flagged the pick that does not give a tire size at all."
     },
     {
       "title": "Suspension",
-      "body": "A suspension system adds to the cushion beyond what the tires offer."
+      "body": "A suspension system adds cushion beyond what the tires offer, so we weighed it for riders on cracked pavement and gravel, where tires alone leave the frame jarring."
     },
     {
       "title": "Motor torque",
-      "body": "Fat tires add drag, so torque matters on hills."
+      "body": "Fat tires add drag, so torque matters on hills, and we favored a stated Nm figure over a headline watt number that tells you little about climbing."
     },
     {
       "title": "Weight tradeoff",
-      "body": "We noted where size and battery add weight."
+      "body": "We noted where size and battery add weight, because a big pack and wide tires make a trike harder to lift, store and move by hand."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Tire width and pressure",
       "paragraphs": [
-        "A 3 inch tire is a compromise, while a 4 inch tire floats better on sand and snow but weighs more.",
-        "Check the stated tire size and run it at the low end of its pressure range for comfort."
+        "A 3 inch tire is a compromise, while a 4 inch tire floats better on sand and snow but weighs more. Wider tires also run at lower pressure and smooth more of the road.",
+        "Check the stated tire size, and run it at the low end of its pressure range for comfort when you ride on rough ground."
       ]
     },
     {
       "title": "Rolling resistance",
       "paragraphs": [
-        "Wide tires drag more on smooth pavement, which shortens range.",
-        "Expect less range than the rated maximum if you ride mostly on pavement with low pressure."
+        "Wide tires drag more on smooth pavement, which shortens range and makes a small motor feel sluggish. The effect is largest when the pressure is set low.",
+        "Expect less range than the rated maximum if you ride mostly on pavement, and size the battery for the shorter number."
       ]
     },
     {
       "title": "Torque for hills",
       "paragraphs": [
-        "Torque in Nm tells you more about hills than peak watts.",
-        "Look for a stated Nm figure, such as the 80Nm on the T300 MAX."
+        "Torque, measured in Nm, tells you more about hills than peak watts because it is the force that gets a loaded trike moving up a slope.",
+        "Look for a stated Nm figure, such as the 80Nm on the T300 MAX, and treat a missing figure as something to ask about."
       ]
     },
     {
       "title": "Weight and folding",
       "paragraphs": [
-        "Wide tires and big batteries make folding trikes heavy to lift.",
-        "Plan how you will move and store the trike before ordering."
+        "Wide tires and big batteries make fat tire trikes heavy to lift, and a folding frame helps with transport but adds a joint that needs checking over time.",
+        "Plan how you will move and store the trike before ordering, and measure the stairs, car trunk or shed that must hold it."
       ]
     }
   ],
@@ -213,18 +213,18 @@ export const bestFatTireElectricTricycles: BestArticle = {
         "rows": [
           [
             "Gravel and cracked pavement",
-            "ESKUTE T300 MAX",
-            "5-layer suspension and 80Nm"
+            "ESKUTE T300 MAX E-Trike",
+            "5-layer suspension and 80Nm of torque"
           ],
           [
             "Pavement and light gravel",
-            "ESKUTE 48V 13Ah",
-            "18 x 3.0 inch tires, simple setup"
+            "ESKUTE 48V 13Ah E-Trike",
+            "18 x 3.0 inch tires on a simple, low step-thru frame"
           ],
           [
-            "Flat paths",
-            "NARRAK 350W Fat Tire",
-            "Shimano 7-speed and gentle power"
+            "Flat paths with gears",
+            "NARRAK 350W Fat Tire E-Trike",
+            "Shimano 7-speed and gentle power for easy cruising"
           ]
         ]
       }
@@ -234,11 +234,11 @@ export const bestFatTireElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "3 inch",
-          "text": "Lighter and easier to handle. The ESKUTE 48V 13Ah uses 18 x 3.0 inch."
+          "text": "Lighter and easier to handle, with less drag on pavement. The ESKUTE 48V 13Ah uses 18 x 3.0 inch tires and a low step-thru frame."
         },
         {
           "label": "Larger",
-          "text": "More float and cushion, with more weight. The T300 MAX chassis is 20 inch."
+          "text": "More float and cushion, with more weight and a wider body. The T300 MAX chassis is 20 inch, but its tire width is not given, so confirm it."
         }
       ],
       "note": "Most riders should default to 3 inch unless sand or snow is on the route."
@@ -248,11 +248,11 @@ export const bestFatTireElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Tires of 3 inches or wider and some suspension."
+          "text": "Tires of 3 inches or wider and some suspension, so repaired asphalt, cracks and tree-root heave do not jar the rider or upset steering."
         },
         {
           "label": "In this comparison",
-          "text": "The ESKUTE T300 MAX adds 5-layer suspension to its fat tires."
+          "text": "The ESKUTE T300 MAX adds 5-layer suspension to its fat tires, while the ESKUTE 48V 13Ah has no suspension system."
         }
       ]
     },
@@ -261,11 +261,11 @@ export const bestFatTireElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride hills or gravel, where the ESKUTE T300 MAX torque and suspension pay off."
+          "text": "You ride hills or gravel, where the ESKUTE T300 MAX's 80Nm torque, 20.8Ah battery and suspension pay off."
         },
         {
           "label": "Save if",
-          "text": "You ride flat, where the NARRAK 350W Fat Tire is enough."
+          "text": "You ride flat, where the NARRAK 350W Fat Tire is enough, with Shimano 7-speed gears and cruiser handlebars."
         }
       ]
     }
@@ -273,26 +273,30 @@ export const bestFatTireElectricTricycles: BestArticle = {
   "faq": [
     {
       "q": "Do fat tires reduce range?",
-      "a": "They can, because wide tires add rolling resistance. Expect less than the rated maximum on smooth pavement."
+      "a": "They can, because wide tires add rolling resistance, especially on smooth pavement at low pressure. Expect less than the rated maximum, and size your battery for the shorter number."
     },
     {
       "q": "Are fat tires needed on a trike?",
-      "a": "Not required, but they soften the ride and add grip on loose surfaces."
+      "a": "Not required, but they soften the ride and add grip on loose surfaces. On a trike they also spread the weight, which helps on gravel, grass and packed dirt where narrow tires dig in."
     },
     {
       "q": "What tire pressure should I run?",
-      "a": "Follow the tire sidewall range, using the lower end for comfort and the higher end for pavement efficiency."
+      "a": "Follow the range printed on the tire sidewall, using the lower end for comfort on rough ground and the higher end for pavement efficiency. Keep all three tires at the same pressure."
     },
     {
       "q": "Can these trikes ride on sand?",
-      "a": "Wider tires help, but 3 inch tires are limited on deep sand. Check width and pick a bigger tire for that use."
+      "a": "Wider tires help, but 3 inch tires are limited on deep sand. Check the tire width and pick a bigger tire if sand is a regular route, and expect to need motor help."
     },
     {
       "q": "Are fat-tire trikes heavy?",
-      "a": "Yes, the tires, batteries and frames add weight, so plan storage and lifting."
+      "a": "Yes, the tires, batteries and frames add weight, so plan storage and lifting before ordering. Check the stated weight if one is given, and ask about it when it is missing."
+    },
+    {
+      "q": "Is the NARRAK a real fat tire trike?",
+      "a": "It is sold as one, but the tire width needs checking before you buy. Confirm it matches the size you expect, since the gentle 350W motor rewards smooth, flat routes."
     }
   ],
-  "bottomLine": "The ESKUTE T300 MAX is the best choice for rough ground, and the ESKUTE 48V 13Ah is the comfortable everyday option. Pick the NARRAK for flat paths and gears.",
+  "bottomLine": "The ESKUTE T300 MAX is the best choice for rough ground, with 5-layer suspension, 80Nm of torque and up to 80 miles from its 48V 20.8Ah battery. The ESKUTE 48V 13Ah is the comfortable everyday option on 18 x 3.0 inch tires. Pick the NARRAK for flat paths and gears.",
   "amazonSearch": "fat-tire electric tricycles",
   "relatedPaths": [
     "/fat-tire-vs-standard-tire-adult-tricycles/",

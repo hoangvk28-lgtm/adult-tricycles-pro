@@ -181,49 +181,56 @@ export const bestPortableFloorBikePumps: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Stability",
-      "body": "A steel base or foot pedal keeps the pump upright while you work on a wide tire."
+      "title": "Stability under force",
+      "body": "We favored a steel base or foot pedal that keeps the pump upright, because pushing hard on a narrow base tips the pump and twists the valve on a wide trike tire."
     },
     {
       "title": "Gauge readability",
-      "body": "We favored large, clear dials over tiny ones at trike pressures."
+      "body": "We preferred large, clear dials over tiny ones, since trike tires run at modest pressures and the useful part of a gauge is the low end."
     },
     {
       "title": "Carry size",
-      "body": "We included compact pumps because basket carry changes what is practical."
+      "body": "We included compact floor-style pumps because basket carry changes what is practical for a rider who wants a pump on every ride."
     },
     {
       "title": "Effort per tire",
-      "body": "Barrel length and pedal design decided how hard three tires are to fill."
+      "body": "We weighed barrel length and pedal design, because three wide tires add up to a lot of strokes for hands that already ache."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Barrel length",
       "paragraphs": [
-        "A longer barrel moves more air per stroke, which matters for the wide rear tires.",
-        "Look for about 20 inches or more for home use, and expect more strokes from compact pumps."
+        "A longer barrel pushes more air with each stroke, so a wide rear tire fills in fewer pushes. A short barrel can still do the job, but it multiplies the work by the number of tires.",
+        "For home use, look for roughly 20 inches or more, like the Schwinn's 21 inch barrel. Expect many more strokes from compact pumps and plan to use them for top-ups only."
       ]
     },
     {
       "title": "Base stability",
       "paragraphs": [
-        "A narrow plastic base tips when you pump with force and can twist the valve.",
-        "A steel base or footrest gives a solid platform."
+        "A narrow plastic base tips when you lean on the handle and then pulls sideways on the valve stem. That is how stems get bent and slow leaks start, especially on a trike where the rear valve sits close to the fender.",
+        "A steel base or foot platform gives a solid footing. Stand on it and rock the pump with your hands before you buy, or check that the base has a wide footprint."
       ]
     },
     {
       "title": "Gauge scale",
       "paragraphs": [
-        "A gauge that runs to 220 PSI crowds the useful low range.",
-        "Pair a high-range pump with a separate low-pressure gauge."
+        "A gauge that runs to 220 PSI crowds the useful low range into a thin arc, so the needle barely moves where a trike tire lives. A 160 psi dial with a large face is much easier to read.",
+        "Do not shop by the highest number. Look at the dial size and the markings, and pair a high-range pump with a separate low-pressure gauge if the scale is cramped."
       ]
     },
     {
       "title": "Valve head",
       "paragraphs": [
-        "A dual or smart head avoids swapping parts at the valve.",
-        "Confirm the head fits your valve and holds a seal without leaks."
+        "A dual or smart head avoids swapping parts at the valve, but only if it seals without leaking air during each stroke. A loose seal wastes effort and lets the pressure drop when you release the lever.",
+        "Confirm the head fits your valve type, then clamp it on and watch the needle for a few seconds. If it creeps down, reseat the head or look for a different pump."
+      ]
+    },
+    {
+      "title": "Hand strength",
+      "paragraphs": [
+        "Floor pumps put a lot of load through wrists and shoulders, and older hands tire quickly across three tires. Handle shape and stroke count both matter.",
+        "Check for a padded, ergonomic handle, and consider a foot pump like the MIMITOOU if grip is a concern. Fill one tire at a time and rest between them."
       ]
     }
   ],
@@ -239,23 +246,23 @@ export const bestPortableFloorBikePumps: BestArticle = {
         "rows": [
           [
             "Garage, weekly use",
-            "Schwinn Air Center",
-            "21 in barrel and steel base"
+            "Schwinn Air Center Floor Bike Pump",
+            "21 inch barrel and steel base keep fills quick and stable"
           ],
           [
             "Garage, needs a readable gauge",
-            "BV Ergonomic Floor Pump",
-            "Extra-large gauge"
+            "BV Ergonomic Bike Floor Pump with Smart Valve Head",
+            "Extra-large gauge and a smart head for either valve"
           ],
           [
-            "Rear basket with a gauge",
-            "Tiakia Mini Floor Pump",
-            "7.1 in tall, mechanical gauge"
+            "Rear basket, with a gauge",
+            "Tiakia Mini Bike Floor Pump with Gauge",
+            "7.1 inches tall with a mechanical gauge"
           ],
           [
             "Rear basket, foot-powered",
-            "MIMITOOU Foot Pump",
-            "Pedal works with your leg"
+            "MIMITOOU Foot-Pedal Mini Bike Pump",
+            "Pedal works with your leg instead of your hands"
           ]
         ]
       }
@@ -265,25 +272,25 @@ export const bestPortableFloorBikePumps: BestArticle = {
       "cards": [
         {
           "label": "Full-size",
-          "text": "The Schwinn and BV move more air with fewer strokes and are stable on any surface. They stay at home."
+          "text": "The Schwinn and BV move more air with fewer strokes and stay stable on any surface. They are the better pumps, but they live in the garage and do not fit a basket."
         },
         {
           "label": "Compact",
-          "text": "The Tiakia and MIMITOOU fit in a basket, but a wide tire takes many more strokes."
+          "text": "The Tiakia and MIMITOOU fit in a basket and give a fill on the road. A wide trike tire takes many more strokes with them, so they suit top-ups rather than full inflation."
         }
       ],
-      "note": "Most riders should own a full-size pump and carry a compact one only on long rides."
+      "note": "Most riders should own a full-size pump for home and carry a compact one only on long rides."
     },
     {
       "heading": "For Sore Hands Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A foot pedal or a long barrel that cuts the stroke count, plus a padded handle."
+          "text": "A foot pedal, or a long barrel that cuts the stroke count, plus a padded handle so the load spreads across the palm instead of a few fingers."
         },
         {
           "label": "In this comparison",
-          "text": "The MIMITOOU foot pump uses a leg, and the Schwinn's long 21 in barrel keeps strokes down."
+          "text": "The MIMITOOU foot pump moves the work to a leg, and the Schwinn's 21 inch barrel keeps strokes down. The BV adds an ergonomic handle to its steel barrel."
         }
       ]
     },
@@ -292,11 +299,11 @@ export const bestPortableFloorBikePumps: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You fill the trike often. The Schwinn and BV have the sturdier builds."
+          "text": "You fill the trike often and want a pump that lasts. The Schwinn's steel base and the BV's steel barrel have the sturdier builds of the four."
         },
         {
           "label": "Save if",
-          "text": "Pumping is occasional. A compact Tiakia is enough for top-offs."
+          "text": "Pumping is occasional. A compact Tiakia is enough for top-offs, weighs 180 g and fits the rear basket without a second thought."
         }
       ]
     }
@@ -304,26 +311,26 @@ export const bestPortableFloorBikePumps: BestArticle = {
   "faq": [
     {
       "q": "Can I carry a floor pump on a trike?",
-      "a": "Not a full-size one. The Tiakia and MIMITOOU are the compact floor-style pumps that fit a basket."
+      "a": "Not a full-size one, because the barrel and base are too bulky for most baskets. The Tiakia and MIMITOOU are the compact floor-style pumps that fit, and both can make a roadside top-up."
     },
     {
       "q": "Do I need a 160 psi pump?",
-      "a": "No. Trike tires run well below 60 psi. Choose by stroke volume and stability, not the maximum rating."
+      "a": "No. Trike tires run well below that, so pick by stroke volume, base stability and gauge readability rather than the maximum rating. A high rating on a cramped dial can actually make the low range harder to read."
     },
     {
-      "q": "Which pump suits wide tires?",
-      "a": "The Schwinn's 21 inch barrel moves more air per stroke than the compact options, so it fills a wide tire fastest."
+      "q": "Which pump suits wide tires best?",
+      "a": "The Schwinn's 21 inch barrel moves more air per stroke than the compact options, so it fills a wide tire in the fewest pushes. The BV is close behind with its steel barrel and ergonomic handle."
     },
     {
-      "q": "Is a foot pump easier?",
-      "a": "For many riders with weak grip, yes. The MIMITOOU lets you use a leg, though it is slow on large tires."
+      "q": "Is a foot pump easier on the body?",
+      "a": "For many riders with weak grip, yes, because it shifts the effort to a leg. The MIMITOOU works this way, though it is slow on large tires and has no gauge to speak of, so check pressure separately."
     },
     {
-      "q": "Do these fit Presta and Schrader?",
-      "a": "All four fit both valve types, through a dual or smart head."
+      "q": "Do these fit Presta and Schrader valves?",
+      "a": "All four fit both valve types through a dual or smart head. Seat the head firmly, watch the needle for a few seconds and reseat if the reading drifts down."
     }
   ],
-  "bottomLine": "The Schwinn Air Center is the best floor pump for a trike at home, the BV is the pick for a readable gauge, and the MIMITOOU suits riders who would rather use a leg than a hand.",
+  "bottomLine": "The Schwinn Air Center is the best floor pump for a trike kept at home, thanks to its 21 inch barrel, steel base and dual head. The BV is the pick for a readable gauge, the Tiakia is the compact basket option, and the MIMITOOU suits riders who would rather use a leg than a hand. Own one full-size pump first.",
   "amazonSearch": "portable floor pumps",
   "relatedPaths": [
     "/accessories/best-portable-bike-pumps-for-tricycle-riders/",

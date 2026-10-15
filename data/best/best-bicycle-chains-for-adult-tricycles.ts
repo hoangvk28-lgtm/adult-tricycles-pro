@@ -247,48 +247,55 @@ export const bestBicycleChainsForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Width match",
-      "body": "We separated 3/32 geared chains from 1/8 single speed chains."
+      "body": "We checked chain width, such as 3/32 inch for multi-speed and 1/8 inch for single speed. A chain of the wrong width will not mesh with the sprockets, however many links it has."
     },
     {
       "title": "Link count",
-      "body": "Trike runs are long, so stated link counts helped."
+      "body": "We compared link counts such as 112, 114 and 116. A trike drivetrain often needs a longer chain than a bike, so the link count decides whether you must splice two chains."
     },
     {
-      "title": "Tools",
-      "body": "Kits with breakers and pliers help DIY owners."
+      "title": "Included tools",
+      "body": "We looked at which products include a chain breaker, link pliers or a wear checker. A first-time swap is much easier with the right tools in the box."
     },
     {
       "title": "Wear checking",
-      "body": "A way to check wear ranked higher."
+      "body": "We considered how easily you can measure chain stretch, since a worn chain damages the sprockets. A wear checker with 0.75 and 1.0 marks tells you when to replace."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Chain width",
       "paragraphs": [
-        "Single speed chains are 1/8 inch wide. Multi speed chains are 3/32 inch wide.",
-        "Check the old chain and the sprocket width before ordering."
+        "Chain width has to match the sprocket teeth. Multi-speed chains are narrow at 3/32 inch, while single-speed and coaster chains are wider at 1/8 inch.",
+        "Read the old chain or the sprocket label, and match it exactly. Never mix widths, because a wrong chain skips or wears the gears quickly."
       ]
     },
     {
       "title": "Link count",
       "paragraphs": [
-        "A trike run is longer than a bike run.",
-        "Count the old links, and buy a chain with at least that many."
+        "A chain is made of many links, and a trike with a long wheelbase and rear axle needs more of them. The Schwinn shows 112 links, the FGBNM 116 and the single-speed FGBNM 114.",
+        "Count the links on your old chain or measure it against the new one. A chain is cut to fit, but too few links leaves you short."
       ]
     },
     {
       "title": "Speed rating",
       "paragraphs": [
-        "A 6/7/8 chain is wider than a 10 or 11 speed chain.",
-        "Match the chain to the cassette."
+        "A chain made for 6, 7 or 8 speeds has a certain width and pin design. Using a chain for fewer speeds than your cassette can cause skipping.",
+        "Check your cassette or shifter label for the number of speeds. The FGBNM and RUBY.Q chains suit 6, 7 and 8 speed setups, and single-speed chains are different."
       ]
     },
     {
-      "title": "Master link",
+      "title": "Master link and tools",
       "paragraphs": [
-        "A joining link makes later removal simpler.",
-        "Look for buckles or pliers in the kit."
+        "A master link or pin lets you open and close a chain without special pliers. A chain breaker pushes pins out so you can cut the chain to length.",
+        "If you do not own tools, a kit like the RUBY.Q includes a breaker, pliers and spare buckles. Check that the pins fit the chain width."
+      ]
+    },
+    {
+      "title": "Wear and replacement",
+      "paragraphs": [
+        "A chain stretches as it wears, and a stretched chain eats sprocket teeth. The Oumers tool includes a wear checker with 0.75 and 1.0 marks.",
+        "Check wear every season with a gauge, and replace a stretched chain promptly. A fresh chain costs far less than a new set of gears."
       ]
     }
   ],
@@ -303,29 +310,29 @@ export const bestBicycleChainsForAdultTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "Derailleur, standard run",
+            "Derailleur trike, standard run",
             "Schwinn 112 Link 1/2 x 3/32 Derailleur Chain",
-            "Familiar fit"
+            "112 links, fits most multi-speed drivetrains"
           ],
           [
-            "Derailleur, long run",
+            "Derailleur trike with a long run",
             "FGBNM 6/7/8 Speed Chain 116 Link",
-            "Four more links"
+            "116 links for longer geared runs"
           ],
           [
-            "Single speed or coaster",
+            "Single speed or coaster trike",
             "FGBNM Single Speed Chain 114 Link",
-            "Wide 1/8 inch"
+            "Wide 1/8 inch chain with 114 links"
           ],
           [
-            "Geared, no tools",
+            "Geared trike, no tools at home",
             "RUBY.Q 6/7/8 Speed Chain Kit",
-            "Chain, breaker, pliers"
+            "Chain breaker, pliers and spare buckles included"
           ],
           [
-            "Single speed, no tools",
+            "Single speed trike, no tools at home",
             "RUBY.Q Single Speed Chain Kit",
-            "Chain, breaker, pliers"
+            "Tools and spare buckles in the kit"
           ]
         ]
       }
@@ -335,25 +342,25 @@ export const bestBicycleChainsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "3/32 inch",
-          "text": "Schwinn, FGBNM 6/7/8 and RUBY.Q 6/7/8 suit geared trikes."
+          "text": "The 3/32 inch chains, such as the Schwinn 112 Link and the FGBNM 116, are narrow chains for multi-speed trikes. They shift smoothly across gears and fit most derailleur setups."
         },
         {
           "label": "1/8 inch",
-          "text": "FGBNM single speed and RUBY.Q single speed suit single speed drives."
+          "text": "The 1/8 inch chain, such as the FGBNM Single Speed 114 Link, is wider and stronger. It suits single speed and coaster brake drives, but it will not fit a geared cassette."
         }
       ],
-      "note": "Match the old chain. Do not mix widths."
+      "note": "Match the old chain, and do not mix widths."
     },
     {
       "heading": "For Long Trike Runs Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A high link count and a joining link."
+          "text": "Look for a chain with enough links for a long trike drive, and confirm it can be cut and joined. A 116 link chain gives more room than a 112 link chain."
         },
         {
           "label": "In this comparison",
-          "text": "FGBNM 116 links is longest, and Oumers helps you join."
+          "text": "The FGBNM 6/7/8 Speed Chain 116 Link is built for longer geared runs. The FGBNM Single Speed Chain 114 Link suits single speed drives with wide sprockets."
         }
       ]
     },
@@ -362,11 +369,11 @@ export const bestBicycleChainsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You will swap chains yearly, so the Oumers set pays back."
+          "text": "Spend more if you replace your own chain and want tools. The Oumers Chain Repair Tool Set adds a chain tool, link pliers and a wear checker, and the RUBY.Q kits bundle a chain with basic tools."
         },
         {
           "label": "Save if",
-          "text": "You swap once, so Schwinn or a RUBY.Q kit covers it."
+          "text": "Save if you already own tools. The Schwinn 112 Link and the FGBNM chains are chains only, and you can cut them to fit with a breaker you already have."
         }
       ]
     }
@@ -374,26 +381,30 @@ export const bestBicycleChainsForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "How do I know which chain width I need?",
-      "a": "Single speed uses 1/8 inch, multi speed uses 3/32 inch. Check your old chain."
+      "a": "Check the sprocket or the old chain. Multi-speed trikes use 1/2 x 3/32 inch chains, and single-speed or coaster setups use 1/2 x 1/8 inch. Do not mix widths, since a wrong chain skips or wears the gears."
     },
     {
       "q": "Why do trikes need longer chains?",
-      "a": "The rear axle sits far behind the pedals, so the chain run is longer."
+      "a": "A trike has a long frame and a rear axle that sits behind the rider, so the chain runs farther than on a bike. A standard bike chain may be too short, and two chains may need to be joined."
     },
     {
       "q": "Can I use a bike chain on a trike?",
-      "a": "Often yes if width and length match. Count links first."
+      "a": "Often yes, if the width and speed rating match. The difference is length, so check the link count before ordering. Chains are cut to fit, but a chain with too few links cannot be extended."
     },
     {
       "q": "How do I know the chain is worn?",
-      "a": "Use a wear checker like the one in the Oumers set. See /adult-tricycle-maintenance-checklist/."
+      "a": "Use a wear checker, such as the one in the Oumers set, with 0.75 and 1.0 marks. If the 0.75 end drops in, the chain is stretched and should be replaced to protect the sprockets."
+    },
+    {
+      "q": "Do I need special tools to change a chain?",
+      "a": "Yes, at least a chain breaker, and link pliers help with master links. The RUBY.Q kits include both, and the Oumers set adds a wear checker and fits 7 to 12 speed chains, so it covers the whole job."
     },
     {
       "q": "When should I use a bike shop?",
-      "a": "If the sprockets are worn or the chain run is complex, a shop can fit it. See /adult-tricycle-chain-cleaning-and-lubrication/."
+      "a": "If the drivetrain skips, the sprockets look hooked, or you are unsure of the chain width, a shop can measure it for you. Shops also help when the trike has an unusual, long chain run."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best 10 Speed Bicycle Chains",
       "text": "None of these chains is sold for 10 speed; the geared picks are 6/7/8 speed at 1/2 x 3/32 inch. A 10 speed drivetrain needs a narrower chain, so match your cassette before buying. The [Oumers tool set](#oumers-chain-repair-tool-set) fits 7 to 12 speed chains for sizing and wear checks."
@@ -413,7 +424,7 @@ export const bestBicycleChainsForAdultTricycles: BestArticle = {
       "productId": "ruby-q-6-7-8-speed-chain-kit"
     }
   ],
-  "bottomLine": "Pick Schwinn or FGBNM 116 for geared trikes, FGBNM single speed for single speed drives, and a RUBY.Q kit if you need tools. Then lube with /accessories/best-bicycle-chain-lubricants/.",
+  "bottomLine": "Pick the Schwinn 112 Link or FGBNM 116 for geared trikes, the FGBNM Single Speed 114 Link for single speed drives, and a RUBY.Q kit if you need tools. The Oumers set helps you cut chains and check wear. Then lube the chain with a suitable product.",
   "amazonSearch": "bike chains for trikes",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-lubricants/",

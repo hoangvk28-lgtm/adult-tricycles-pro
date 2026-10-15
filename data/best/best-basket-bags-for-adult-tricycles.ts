@@ -189,48 +189,55 @@ export const bestBasketBagsForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Capacity",
-      "body": "We compared stated volumes and which sizes suit a wide trike rack or basket."
+      "body": "We compared published volumes and which sizes suit a wide trike rack or basket, because a bag that is too small leaves loose items behind."
     },
     {
       "title": "Weather protection",
-      "body": "Shell material, rain covers and coatings decide how well contents stay dry."
+      "body": "Shell material, rain covers and coatings decide how well contents stay dry, so we noted each bag's protection against rain and spray."
     },
     {
       "title": "Fastening",
-      "body": "Buckles and velcro behave differently on a trike rack, so we noted each attachment style."
+      "body": "Buckles and velcro behave differently on a trike rack, so we noted each attachment style and how well it resists sliding on bumps."
     },
     {
       "title": "Visibility and extras",
-      "body": "Reflective trims and carry straps add real use beyond storage."
+      "body": "Reflective trims and carry straps add real use beyond storage, especially at dusk and when you leave the trike parked."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Fit to a wide basket",
       "paragraphs": [
-        "Most bike bags are made for a narrow rack. A trike basket or rack is wider, so a small bag can slide side to side.",
+        "Most bike bags are made for a narrow rack. A trike basket or rack is wider, so a small bag can slide side to side and upset the load.",
         "Measure the width and depth of your basket and compare it with the bag dimensions, adding a cargo net if the fit is loose."
       ]
     },
     {
       "title": "Waterproof vs water resistant",
       "paragraphs": [
-        "A coated or hard shell sheds rain, but seams and zippers can still leak in a downpour. A rain cover adds a second layer.",
-        "Look for a rain cover or taped seams if you ride in wet weather."
+        "A coated or hard shell sheds rain, but seams and zippers can still leak in a downpour. A rain cover adds a second layer over the whole bag.",
+        "Look for a rain cover or taped seams if you ride in wet weather, and keep electronics in a small inner pouch."
       ]
     },
     {
       "title": "Strap fastening",
       "paragraphs": [
-        "Velcro alone can loosen on bumps, while buckles stay secure. A bag that slides on the rack changes the trike's handling.",
-        "Look for at least two straps and a buckle, then test the bag by pulling it sideways."
+        "Velcro alone can loosen on bumps, while buckles stay secure. A bag that slides on the rack changes the trike's handling and may drop off.",
+        "Look for at least two straps and a buckle, then test the bag by pulling it sideways before riding."
       ]
     },
     {
       "title": "Carry-away use",
       "paragraphs": [
-        "A bag that converts to a handbag or crossbody bag keeps valuables with you when parked.",
+        "A bag that converts to a handbag or crossbody bag keeps valuables with you when parked. A fixed bag stays on the trike and invites theft.",
         "Check that handles or a shoulder strap are included if you leave the trike often."
+      ]
+    },
+    {
+      "title": "Shape and rigidity",
+      "paragraphs": [
+        "A hard shell keeps its form, protecting fragile items from crushing. A soft bag flexes to fit odd loads but offers less protection.",
+        "Think about what you carry. Choose a hard shell for electronics or glass, and a soft bag for groceries and clothes."
       ]
     }
   ],
@@ -252,17 +259,17 @@ export const bestBasketBagsForAdultTricycles: BestArticle = {
           [
             "Weekly shopping",
             "Kinetrail Expandable Bike Panniers",
-            "25 to 35L"
+            "25 to 35L expandable capacity"
           ],
           [
             "Daily essentials in rain",
             "JXFUKAL Rear Rack Bag with Rain Cover",
-            "Rain cover included"
+            "Rain cover included with foam lining"
           ],
           [
             "Short errands on foot",
             "KEMIMOTO 8L Rear Rack Bag",
-            "Crossbody and hand straps"
+            "Crossbody and hand straps for carrying"
           ]
         ]
       }
@@ -272,11 +279,11 @@ export const bestBasketBagsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Hard shell",
-          "text": "The JXFUKAL hard shell keeps its shape and protects contents, but it fits only the sizes it comes in."
+          "text": "The JXFUKAL hard shell keeps its shape and protects contents with an EVA shell, but it comes in set sizes of 9.5L, 17L and 40L."
         },
         {
           "label": "Soft bag",
-          "text": "The Kinetrail, the other JXFUKAL and the KEMIMOTO pack flexibly and expand or shrink with the load."
+          "text": "The Kinetrail, the other JXFUKAL and the KEMIMOTO pack flexibly and can expand or shrink with the load, though protection is softer."
         }
       ],
       "note": "Choose hard shell for fragile gear and soft for varied loads."
@@ -286,11 +293,11 @@ export const bestBasketBagsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A coated shell, a rain cover and reflective trims for gloomy light."
+          "text": "A coated shell, a rain cover and reflective trims for gloomy light, so contents stay dry and drivers see you."
         },
         {
           "label": "In this comparison",
-          "text": "The JXFUKAL with Rain Cover includes one, and the hard shell JXFUKAL has a PU-coated EVA shell."
+          "text": "The JXFUKAL with Rain Cover includes a cover, and the Kinetrail uses PU-coated waterproof fabric with reflective trim."
         }
       ]
     },
@@ -299,11 +306,11 @@ export const bestBasketBagsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You shop weekly and need volume, which points to the Kinetrail panniers."
+          "text": "You shop weekly and need volume, which points to the Kinetrail panniers with 25 to 35L of expandable space and quick-release buckles."
         },
         {
           "label": "Save if",
-          "text": "You only need to protect a wallet and phone, where the KEMIMOTO 8L is enough."
+          "text": "You only need to protect a wallet and phone, where the KEMIMOTO 8L is enough and doubles as a crossbody bag."
         }
       ]
     }
@@ -311,26 +318,30 @@ export const bestBasketBagsForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Will a bike rack bag fit a trike basket?",
-      "a": "Often, if the basket is wide enough and the bag has straps to secure it. Measure the basket and use a cargo net if the bag moves."
+      "a": "Often, if the basket is wide enough and the bag has straps to secure it. Measure the basket and use a cargo net if the bag moves around."
     },
     {
       "q": "Are these bags waterproof?",
-      "a": "The hard shell JXFUKAL and the Kinetrail use waterproof coatings, while the JXFUKAL 7L adds a rain cover. Seams can still leak in heavy rain."
+      "a": "The JXFUKAL hard shell and the Kinetrail use waterproof materials, while the other JXFUKAL adds a rain cover. The KEMIMOTO PVC is only water resistant, and seams can leak in heavy rain."
     },
     {
       "q": "How much can they carry?",
-      "a": "Sizes range from 7L up to 40L on the hard shell and 25 to 35L on the Kinetrail. Check weight on the trike's basket rating too."
+      "a": "Sizes range from 7L up to 40L on the hard shell line and 25 to 35L on the Kinetrail. Check weight against the trike's basket rating too."
     },
     {
       "q": "Why did you leave out hitch carriers?",
-      "a": "Hitch cargo carriers mount to a car receiver, not a trike, so they do not belong in this comparison."
+      "a": "Hitch cargo carriers mount to a car receiver, not a trike, so they do not belong in this comparison of bags for baskets and racks."
     },
     {
       "q": "Can the bag stay on when parked?",
-      "a": "It can, but a bag with a carry strap like the KEMIMOTO lets you take valuables with you."
+      "a": "It can, but a bag with a carry strap like the KEMIMOTO lets you take valuables with you. Leaving a bag on a rack invites theft."
+    },
+    {
+      "q": "What size should I buy?",
+      "a": "Match volume to your usual load. A 7L to 12L bag handles daily essentials, while 25L or more suits weekly shopping. Measure your basket first."
     }
   ],
-  "bottomLine": "The JXFUKAL hard shell is the best bag for protecting valuables, and the Kinetrail panniers are the pick for volume. Choose the rain-cover JXFUKAL for wet weather or the KEMIMOTO for short errands.",
+  "bottomLine": "The JXFUKAL Hard Shell Rear Rack Bag is the best bag for protecting valuables, and the Kinetrail panniers are the pick for volume. Choose the rain-cover JXFUKAL for changeable weather or the KEMIMOTO 8L for short errands where you carry the bag with you.",
   "amazonSearch": "tricycle basket bags",
   "relatedPaths": [
     "/adult-tricycle-basket-bags-and-liners/",

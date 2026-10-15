@@ -232,48 +232,59 @@ export const bestAdultTricyclesUnder350: BestArticle = {
   "howWeChose": [
     {
       "title": "Frame and capacity",
-      "body": "We compared stated frame material and the 350 lb total ratings, and kept cargo limits separate from rider weight."
+      "body": "We compared frame material and the 350 lb total ratings, and kept cargo limits separate from rider weight so a basket is never mistaken for body capacity."
     },
     {
       "title": "Gearing and brakes",
-      "body": "We judged whether seven speeds and rear drum or disc brakes are present, since these are what this band adds."
+      "body": "We judged whether seven speeds and rear drum or disc brakes are present, since these are what this price band adds over a basic single speed trike."
     },
     {
       "title": "Fit range",
-      "body": "We compared wheel sizes and stated height ranges, because the wrong size ruins an otherwise good trike."
+      "body": "We compared wheel sizes and published height ranges, because the wrong size ruins an otherwise good trike with cramped knees or overstretched arms."
     },
     {
       "title": "Storage",
-      "body": "We separated folding models from fixed frames and noted where folded size is unknown."
+      "body": "We separated folding models from fixed frames and noted where the folded size is unknown, since that decides whether a trunk or closet works."
+    },
+    {
+      "title": "Ride surface",
+      "body": "We looked at forks, tires and brake types to see which picks suit smooth sidewalks and which can handle rough pavement."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Gearing and hills",
       "paragraphs": [
-        "A single-speed trike has one pedaling effort, so any slope forces you to push harder or walk. Seven speeds let you spin easily uphill.",
-        "Check the route you actually ride. If a hill is steeper than a driveway, pick a geared model."
+        "A single speed trike has one pedaling effort, so any slope forces you to push harder or walk. Seven speeds let you drop to an easy gear and spin steadily uphill.",
+        "Think about the route you actually ride. If a hill is steeper than a driveway, pick a geared model, and shift down before you stop climbing."
       ]
     },
     {
       "title": "Brake type",
       "paragraphs": [
-        "Rear drum and front disc brakes stay consistent in wet weather and need less adjusting than basic linear pull brakes on both ends.",
-        "Look for the brake names in the title or bullets and ask the maker if they are not given."
+        "Rear drum and front disc brakes stay consistent in wet weather and need less adjusting than basic linear pull brakes on both ends. Weak brakes matter more on a trike carrying a full basket.",
+        "Look for the brake names in the title or bullets and ask the maker if they are missing. Squeeze both levers after assembly and confirm firm, even stopping."
       ]
     },
     {
       "title": "Wheel size and rider height",
       "paragraphs": [
-        "Wheel size sets seat height and reach. A rider at the edge of a stated range often feels cramped or stretched.",
-        "Measure your height and inseam and choose the size where you sit in the middle of the range."
+        "Wheel size sets seat height and reach to the pedals. A rider at the edge of a published range often feels cramped or stretched, which tires knees and shoulders.",
+        "Measure your height and inseam, then choose the size where you sit in the middle of the range. Smaller wheels mount easily, larger ones roll over cracks better."
       ]
     },
     {
       "title": "Basket versus total rating",
       "paragraphs": [
-        "A 350 lb total includes the rider, so the basket limit is the number that matters for groceries. Fifty pounds is typical here.",
-        "Weigh your usual load, and remember the basket sits behind the rear axle, so heavy loads change balance."
+        "A 350 lb total includes the rider, so the basket limit is the number that matters for groceries. Fifty pounds is typical here, and the basket sits behind the rear axle.",
+        "Weigh your usual load before buying. Heavy items change balance, so keep them low and centered in the basket."
+      ]
+    },
+    {
+      "title": "Folding hinge and storage",
+      "paragraphs": [
+        "A folding frame trades a stiffer structure for a hinge that can loosen with use. That hinge is the part that carries your weight, so it deserves attention.",
+        "Check that the folded size fits your trunk or closet, since some models do not give it. Test for hinge play every few rides."
       ]
     }
   ],
@@ -289,28 +300,28 @@ export const bestAdultTricyclesUnder350: BestArticle = {
         "rows": [
           [
             "Hills and a comfortable seat",
-            "MOONCOOL 7-Speed",
-            "Seven gears and a backrest ease slopes and long rides."
+            "MOONCOOL 7-Speed Adult Trike",
+            "Seven gears and a backrest ease slopes and long rides"
           ],
           [
             "Must fold for storage",
-            "VEVOR 20-Inch Folding",
-            "Folds and still has Shimano 7-speed."
+            "VEVOR 20-Inch Folding Adult Tricycle",
+            "Folds and still has Shimano 7-speed gearing"
           ],
           [
             "Tall rider who wants folding",
-            "MOPHOTO Folding",
-            "Stated heights reach about 6'2\"."
+            "MOPHOTO Adult Folding Tricycle",
+            "Published heights reach about 6 feet 2 inches"
           ],
           [
             "Rough sidewalks and park paths",
-            "MOPHOTO Mountain",
-            "Suspension fork and disc brake."
+            "MOPHOTO 7-Speed Mountain Tricycle",
+            "Suspension fork plus front disc and rear drum brakes"
           ],
           [
             "Flat errands, simple setup",
-            "Crownland 24-Inch",
-            "Mostly assembled single speed."
+            "Crownland 24-Inch Cruiser Trike",
+            "Mostly pre-assembled single speed with a large basket"
           ]
         ]
       }
@@ -320,25 +331,25 @@ export const bestAdultTricyclesUnder350: BestArticle = {
       "cards": [
         {
           "label": "Folding",
-          "text": "The VEVOR and MOPHOTO folding trikes fit a car trunk or apartment closet, but a hinge adds a part that needs checking for play."
+          "text": "The VEVOR and MOPHOTO folding trikes fit a car trunk or apartment closet, but a hinge adds a part that needs regular checking for play and loose bolts."
         },
         {
           "label": "Fixed",
-          "text": "The MOONCOOL, Crownland and MOPHOTO mountain have no hinge and a stiffer frame, but need floor space."
+          "text": "The MOONCOOL, Crownland and MOPHOTO mountain trike have no hinge and a stiffer frame, but they need floor space in a garage, shed or hallway."
         }
       ],
-      "note": "Choose fixed unless you truly have no room."
+      "note": "Choose a fixed frame unless you truly have no room, since fewer moving parts means fewer checks."
     },
     {
       "heading": "For Older Riders Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A low step-through, a seat with support, and brakes that need little hand force."
+          "text": "A low step-through frame, a seat with support, and brakes that need little hand force so stiff fingers can hold the lever at a stop."
         },
         {
           "label": "In this comparison",
-          "text": "The MOONCOOL has a backrest and low step-through, and the Crownland keeps things simple."
+          "text": "The MOONCOOL has a backrest and low step-through design, and the Crownland keeps things simple with one speed and a mostly assembled frame."
         }
       ]
     },
@@ -347,38 +358,42 @@ export const bestAdultTricyclesUnder350: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you need a motor, a lower step-through or a verified-rating brand beyond this group."
+          "text": "You need a motor, a lower step-through or hydraulic braking. None of the five here offers those, so the electric trike guides are the next step."
         },
         {
           "label": "Save if",
-          "text": "you ride flat streets, in which case the Crownland covers basic needs."
+          "text": "You ride flat streets for short errands, where the Crownland Cruiser Trike covers basic needs without gears to adjust."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Is a $350 trike enough for daily use?",
-      "a": "For short errands and neighborhood rides, yes. Check that the frame rating covers you plus cargo, and expect to tighten bolts after the first few rides."
+      "q": "Is a trike at this price enough for daily use?",
+      "a": "For short errands and neighborhood rides, yes. Check that the frame rating covers you plus cargo, and expect to tighten bolts and re-check brakes after the first few rides."
     },
     {
       "q": "Do these trikes fold?",
-      "a": "Only the VEVOR and the MOPHOTO folding model are described as folding. The others have fixed frames."
+      "a": "Only the VEVOR and the MOPHOTO folding model are described as folding. The MOONCOOL, MOPHOTO mountain and Crownland have fixed frames, so measure your storage space first."
     },
     {
       "q": "What wheel size should I pick?",
-      "a": "Match your height to the stated range and sit near the middle. Smaller wheels are easier to mount, larger ones roll more smoothly."
+      "a": "Match your height to the published range and sit near the middle. Smaller wheels are easier to mount, while larger ones roll more smoothly over cracks and curbs."
     },
     {
-      "q": "Is a 350 lb rating the basket limit?",
-      "a": "No. It is the total for rider and cargo. The baskets are rated lower, around 50 lbs where given."
+      "q": "Is the 350 lb rating the basket limit?",
+      "a": "No. It is the total for rider and cargo together. The baskets are rated lower, around 50 lbs where a figure is given, so weigh your shopping before loading it."
     },
     {
       "q": "Do I need assembly skills?",
-      "a": "Most arrive partly assembled with tools. Plan an hour, and tighten everything again after a week."
+      "a": "Most arrive partly assembled with basic tools. Plan about an hour, and tighten everything again after a week, because new bolts and cables settle during the first rides."
+    },
+    {
+      "q": "Which pick handles rough pavement best?",
+      "a": "The MOPHOTO mountain trike has a suspension fork and a front disc brake, which suits uneven paths. Its higher frame is harder to mount, so test the step-over height first."
     }
   ],
-  "bottomLine": "The MOONCOOL is the best all-round buy in this band, with the VEVOR for folding and the MOPHOTO mountain for taller riders on rough ground. Measure before you buy, and treat unverified ratings as a reason to check bolts and brakes yourself.",
+  "bottomLine": "The MOONCOOL 7-Speed Adult Trike is the best all-round buy in this band for its gears, backrest and low frame. Choose the VEVOR for folding, the MOPHOTO mountain for taller riders on rough ground, and the Crownland for flat errands. Measure before you buy, and check bolts and brakes yourself.",
   "amazonSearch": "adult tricycles under $350",
   "relatedPaths": [
     "/adult-tricycles/best-adult-tricycles-under-300/",

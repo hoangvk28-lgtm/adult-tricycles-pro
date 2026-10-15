@@ -147,48 +147,55 @@ export const bestPortableBikePumpsForTubelessTires: BestArticle = {
   "howWeChose": [
     {
       "title": "Air volume",
-      "body": "Booster tanks ranked above mini pumps for bead seating."
+      "body": "We compared how much air each pump can deliver at once. Seating a tubeless bead needs a quick burst of air, and a booster tank stores that burst for a single push."
     },
     {
       "title": "Gauge accuracy",
-      "body": "Low-pressure resolution matters on wide tires."
+      "body": "We looked at gauge type and resolution, since fat trike tires run at low pressure. A gauge that reads in half PSI steps helps you set tire pressure for comfort and grip."
     },
     {
       "title": "Valve compatibility",
-      "body": "Presta and Schrader support was required."
+      "body": "We checked for Presta and Schrader support. A trike may use either valve, and a pump that handles both saves you from owning two tools or an adapter."
     },
     {
       "title": "Portability",
-      "body": "A pump that travels on the trike is a separate need."
+      "body": "We weighed how easy each pump is to carry on or alongside a trike. A floor pump stays home, while a booster is bulky but may still fit in a rear basket."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Booster chamber",
       "paragraphs": [
-        "A tank stores air and releases it at once.",
-        "Check capacity and pressure rating."
+        "A tubeless tire seals against the rim only when a burst of air pushes the bead into place. A booster chamber stores air at high pressure and releases it at once, which a normal pump cannot do.",
+        "If you ride tubeless, look for a booster tank, such as the 1.3L on the CYCLAMI or the tank on the Hycline. A regular floor pump may work on easy rims, but not stubborn ones."
       ]
     },
     {
       "title": "Low-pressure gauge",
       "paragraphs": [
-        "Fat tires run at low pressure.",
-        "Look for fine resolution below 30 PSI."
+        "Fat tires on a trike run at low pressure, and a few PSI changes grip and comfort. A gauge that reads small steps makes it easier to set the right pressure.",
+        "The SILCA Terra shows 0.5 PSI resolution up to 30 PSI, which suits low-pressure setups. Check the scale of any gauge you consider, since many only read well at high pressure."
       ]
     },
     {
       "title": "Valve fit",
       "paragraphs": [
-        "Trike tires use Presta or Schrader.",
-        "Check the chuck type."
+        "Presta valves are thin and common on bike tires, while Schrader valves are wider like a car valve. A pump head that does not match the valve either leaks or will not attach.",
+        "The CYCLAMI handles Presta and Schrader. Check the valve on your tires before you buy, and test the pump head on the valve once it arrives."
       ]
     },
     {
       "title": "Tubeless support",
       "paragraphs": [
-        "Not every pump suits tubeless.",
-        "Read the maker's statement."
+        "Tubeless tires and rims are made for sealant, tape and sealed beads, but not every trike rim is. A tubeless setup on a rim that is not tubeless ready can leak and fail.",
+        "Check that your rims and tires are labeled tubeless ready. If they are not, a tube setup with a basic pump will serve you better than a booster."
+      ]
+    },
+    {
+      "title": "Carrying a pump",
+      "paragraphs": [
+        "A booster or floor pump is bigger than a mini pump, and a trike has little frame space for one. A rear basket is the natural spot, but it adds weight and rattle.",
+        "Decide whether you need a pump on the road or only at home. For tubeless seating, a home booster is enough, and a mini pump handles small top-offs."
       ]
     }
   ],
@@ -203,19 +210,29 @@ export const bestPortableBikePumpsForTubelessTires: BestArticle = {
         ],
         "rows": [
           [
-            "Seat a stubborn bead",
-            "CYCLAMI 1.3L Inflator",
-            "1.3L tank"
+            "Seat a stubborn tubeless bead",
+            "CYCLAMI 1.3L Tubeless Inflator",
+            "1.3L tank releases a burst of air at 200 PSI"
           ],
           [
-            "One tool for both",
-            "Hycline Booster Floor Pump",
-            "Pump plus tank"
+            "One tool for floor pumping and seating",
+            "Hycline Tubeless Booster Floor Pump",
+            "Booster tank and digital gauge in one pump"
           ],
           [
-            "Fine low pressure",
-            "SILCA Terra",
-            "0.5 PSI gauge"
+            "Fine low-pressure setting",
+            "SILCA Terra Floor Pump",
+            "0.5 PSI resolution, two-stage gauge up to 30"
+          ],
+          [
+            "Already own a floor pump",
+            "CYCLAMI 1.3L Tubeless Inflator",
+            "Adds a booster without replacing your pump"
+          ],
+          [
+            "Digital gauge convenience",
+            "Hycline Tubeless Booster Floor Pump",
+            "Digital gauge reads clearly in dim light"
           ]
         ]
       }
@@ -225,11 +242,11 @@ export const bestPortableBikePumpsForTubelessTires: BestArticle = {
       "cards": [
         {
           "label": "Booster",
-          "text": "The CYCLAMI and Hycline release stored air to seat beads."
+          "text": "The Hycline Tubeless Booster Floor Pump and CYCLAMI 1.3L Tubeless Inflator both use a booster tank that stores air at up to 200 PSI. That burst of air can seat a tubeless bead where a normal pump fails."
         },
         {
           "label": "Floor pump",
-          "text": "The SILCA Terra inflates steadily with a precise gauge."
+          "text": "The SILCA Terra Floor Pump has no booster tank, but it has a precise gauge and metal construction. It tops up tires well, but it may struggle to seat a bead from flat."
         }
       ],
       "note": "Default to a booster if you ride tubeless."
@@ -239,11 +256,11 @@ export const bestPortableBikePumpsForTubelessTires: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "High volume and low-pressure accuracy."
+          "text": "Look for a pump that handles Presta and Schrader, reads low pressure accurately and can fill a tire with a large air volume. Fat trike tires hold much more air than road tires."
         },
         {
           "label": "In this comparison",
-          "text": "The Hycline offers a tank; the SILCA offers the gauge."
+          "text": "The CYCLAMI 1.3L Tubeless Inflator supports Presta and Schrader with a 1.3L tank. The SILCA Terra reads fine low pressure, which suits big tires at soft settings."
         }
       ]
     },
@@ -252,11 +269,11 @@ export const bestPortableBikePumpsForTubelessTires: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You change tubeless tires often."
+          "text": "Spend more if you ride tubeless and want one pump for everything. The Hycline Tubeless Booster Floor Pump combines the booster, a floor pump and a digital gauge, so you buy and store just one tool."
         },
         {
           "label": "Save if",
-          "text": "You rarely do, and a shop can seat them."
+          "text": "Save if you already own a floor pump. The CYCLAMI 1.3L Tubeless Inflator adds a booster to your setup, while the SILCA Terra suits owners who only top up tubed tires."
         }
       ]
     }
@@ -264,26 +281,30 @@ export const bestPortableBikePumpsForTubelessTires: BestArticle = {
   "faq": [
     {
       "q": "Can a mini pump seat a tubeless tire?",
-      "a": "Rarely. It lacks the air volume."
+      "a": "Rarely. A mini pump moves a small volume of air with each stroke, and seating a bead needs a quick burst. A booster pump such as the CYCLAMI stores air and releases it at once."
     },
     {
       "q": "What is a booster pump?",
-      "a": "A tank that releases stored air in a burst."
+      "a": "It is a pump with a chamber that stores air at high pressure and releases it in one burst. The Hycline has a booster tank, and the CYCLAMI is a standalone 1.3L booster that you fill with a separate pump."
     },
     {
       "q": "Do tubeless setups suit trikes?",
-      "a": "They can, but check your rims are tubeless-ready."
+      "a": "They can, if your rims and tires are labeled tubeless ready. Sealant helps with punctures and fat tires. If your rims are not tubeless ready, a tube is safer and a booster has no use."
     },
     {
       "q": "What pressure do fat tires need?",
-      "a": "Usually low. Follow the tire sidewall."
+      "a": "Fat tires run at low pressure, often a small fraction of a road tire. Check the tire sidewall for the maker's range and use a gauge that reads small steps, such as the SILCA Terra, so you can adjust by a few PSI for comfort and grip."
     },
     {
       "q": "Can I carry a booster on the trike?",
-      "a": "The CYCLAMI is the more practical one, but it is bulky."
+      "a": "Yes, in a rear basket, but it is bulky. The CYCLAMI is a separate tank and needs a pump, so carry both or keep the booster for home use and carry a mini pump on the road."
+    },
+    {
+      "q": "Do I need Presta and Schrader support?",
+      "a": "You need whichever valve your tires use, and some trikes use either. The CYCLAMI supports both, so check your valve at home, look at how the pump head attaches, and confirm that it matches before you order a booster."
     }
   ],
-  "bottomLine": "Pick the Hycline if you want one tool, the CYCLAMI if you already own a pump, and the SILCA for precise pressure.",
+  "bottomLine": "The Hycline Tubeless Booster Floor Pump is the best choice if you want one tool that seats beads and fills tires, thanks to its booster tank and digital gauge. The CYCLAMI suits owners who already have a pump. The SILCA Terra is for precise low-pressure setting.",
   "amazonSearch": "portable bike pumps for tubeless tires",
   "relatedPaths": [
     "/accessories/best-electric-bike-pumps-for-tubeless-tires/",

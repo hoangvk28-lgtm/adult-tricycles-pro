@@ -225,48 +225,55 @@ export const bestBikePanniersUnder80: BestArticle = {
   "howWeChose": [
     {
       "title": "Waterproofing",
-      "body": "We compared fabric and seams."
+      "body": "We compared fabric type, welded seams and roll-top or flap closures, because groceries and spare clothes must arrive dry after a wet ride on a trike."
     },
     {
       "title": "Mounting",
-      "body": "We checked clip range."
+      "body": "We checked the stated hook or clip range and how the bag attaches, since a clip that does not match your rack tube will rattle or fall off."
     },
     {
-      "title": "Capacity",
-      "body": "We compared liters and weight."
+      "title": "Capacity and weight",
+      "body": "We compared liters and per-bag weight limits, because trike riders often carry heavy shopping and a bag with a small limit can sag or tear."
     },
     {
       "title": "Rack fit",
-      "body": "We noted width limits."
+      "body": "We noted width and height limits, since wide trike racks, baskets and rear platforms change what clears the wheels and the rider's heels."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Rack width",
+      "title": "Rack width and shape",
       "paragraphs": [
-        "Trike racks are wide.",
-        "Measure before ordering."
+        "Trike racks are wider and flatter than bicycle racks, and many sit above two rear wheels rather than one. A pannier made for a narrow tube rack may not hang straight or clear the wheel.",
+        "Measure the rack width, tube diameter and clearance above each wheel before ordering. The Favoto states an 8 to 16mm clip range, so compare that with your rack tubing and confirm there is room for your heels."
       ]
     },
     {
       "title": "Weight limits",
       "paragraphs": [
-        "Bags have small limits.",
-        "Weigh loads."
+        "Every pannier has a weight a seam, strap and hook can safely hold, and overloading is the main way bags fail. A heavy load on one side also pulls a trike off balance.",
+        "Look for a stated limit in pounds, such as the Favoto's 22 lb, KEMIMOTO's 11 lb per side or Bushwhacker's 15 lb each. Weigh a loaded grocery bag at home so you know whether a bag is large enough."
       ]
     },
     {
       "title": "Waterproofing",
       "paragraphs": [
-        "Welded seams and roll-tops resist better.",
-        "Check the closure."
+        "Waterproof panniers use welded PVC fabric or a rolled-down closure, which blocks water at seams. Zippered or flap bags shed light rain but let water in at the opening during a downpour.",
+        "Look for welded seams and a roll-top, as on the Hycline, or an included rain cover, as on the KEMIMOTO. A flap closure like the MOSISO is fine for light errands, but keep valuables in a plastic bag."
       ]
     },
     {
-      "title": "Clip range",
+      "title": "Clip range and mount type",
       "paragraphs": [
-        "Clips must match tube diameter.",
-        "Measure the tube."
+        "Panniers hang from hooks, clips or straps, and each has a range of tube diameters it grips. Too small, and it cannot close. Too large, and it slips, rattles or lifts on bumps.",
+        "Measure your rack tube diameter in millimeters and compare it with the stated range. The Favoto and Hycline use a three-point quick release, while the KEMIMOTO uses six top straps and two side hooks."
+      ]
+    },
+    {
+      "title": "Bag shape and balance",
+      "paragraphs": [
+        "A bag that holds its shape stays upright and keeps weight low, but a floppy bag collapses against the wheel as it empties. Pairs also spread load evenly across a trike's width.",
+        "Look for a rigid back panel, as on the Hycline, or a pair like the Favoto and KEMIMOTO that balance both sides. Check that the bag bottoms sit above the wheels with the bags fully loaded."
       ]
     }
   ],
@@ -281,29 +288,29 @@ export const bestBikePanniersUnder80: BestArticle = {
         ],
         "rows": [
           [
-            "Wet commuting",
-            "Favoto 48L",
-            "IPX6."
+            "Wet commuting and touring",
+            "Favoto 48L Waterproof Panniers",
+            "IPX6 welded tarp, 24L each, quick-release clips"
           ],
           [
-            "Shape holding",
-            "Hycline 28L",
-            "Rigid panel."
+            "A bag that holds its shape",
+            "Hycline 28L Waterproof Pannier",
+            "Rigid panel, roll-top and reflective strips"
           ],
           [
-            "Rain cover",
-            "KEMIMOTO 40L",
-            "Includes one."
+            "Picnics and rain cover",
+            "KEMIMOTO 40L Flip-Top Panniers",
+            "40L total with an included rain cover"
           ],
           [
-            "Groceries",
-            "Bushwhacker Omaha",
-            "Fits grocery bags."
+            "Weekly grocery runs",
+            "Bushwhacker Omaha Grocery Panniers",
+            "Fits a full grocery bag per side, 15 lb each"
           ],
           [
-            "Light errands",
-            "MOSISO 20L",
-            "Basic."
+            "Light errands on a budget",
+            "MOSISO 20L Panniers 2 Pack",
+            "20L flap bags with hooks and a buckle"
           ]
         ]
       }
@@ -313,25 +320,25 @@ export const bestBikePanniersUnder80: BestArticle = {
       "cards": [
         {
           "label": "Pair",
-          "text": "Favoto and KEMIMOTO balance load."
+          "text": "The Favoto 48L Waterproof Panniers and KEMIMOTO 40L Flip-Top Panniers come as pairs, which spreads weight evenly across a trike's width. That balance helps at slow speeds and on turns with a full load."
         },
         {
           "label": "Single",
-          "text": "Hycline is one bag."
+          "text": "The Hycline 28L Waterproof Pannier is one bag, so it fits where only one side of the rack is free. A single bag leans the trike toward one side, so keep it light."
         }
       ],
-      "note": "Choose a pair for balance."
+      "note": "Choose a pair for balance, and a single bag only when space or budget forces it."
     },
     {
       "heading": "For Wide Trike Racks Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A stated hook range."
+          "text": "Look for a clearly stated hook or clip range that matches your rack tubing, so you can confirm fit by measuring rather than guessing."
         },
         {
           "label": "In this comparison",
-          "text": "The Favoto, 8 to 16mm."
+          "text": "The Favoto 48L Waterproof Panniers state an 8 to 16mm clip range with three-point quick release. The KEMIMOTO needs a rack narrower than 6 inches, so it suits narrow racks."
         }
       ]
     },
@@ -340,38 +347,38 @@ export const bestBikePanniersUnder80: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you carry heavy loads."
+          "text": "You carry heavy loads or ride in rain often, where the Favoto 48L Waterproof Panniers offer welded IPX6 fabric and a 22 lb limit."
         },
         {
           "label": "Save if",
-          "text": "you only haul light items."
+          "text": "You only carry light items on dry days, where the MOSISO 20L Panniers 2 Pack or Bushwhacker Omaha Grocery Panniers handle errands for less."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "What are panniers?",
-      "a": "Bags that hang on a rack."
+      "q": "What are panniers and how do they differ from baskets?",
+      "a": "Panniers are bags that hang from a rear rack, usually in pairs. Baskets sit on top and hold bulky items, while panniers keep weight low and to the sides, which is better for balance on a trike. Many riders use both, a basket for light bulky items and bags for heavy ones."
     },
     {
-      "q": "Are they waterproof?",
-      "a": "Some are."
+      "q": "Are these panniers waterproof?",
+      "a": "Some are. The Favoto is IPX6 with welded PVC fabric, and the Hycline has a roll-top with 500D PVC. The KEMIMOTO includes a rain cover. The MOSISO is a flap bag and the Bushwhacker is not described as waterproof, so keep valuables in plastic."
     },
     {
-      "q": "Will they fit my rack?",
-      "a": "Check the width."
+      "q": "Will they fit my trike rack?",
+      "a": "That depends on your rack's width, tube diameter and clearance. Measure the tube and compare it with the Favoto's 8 to 16mm range. The KEMIMOTO needs a rack under 6 inches, so wide platforms may need a different choice."
     },
     {
-      "q": "How much can I carry?",
-      "a": "Check limits."
+      "q": "How much can I carry in them?",
+      "a": "Respect each bag's stated limit: 22 lb for the Favoto pair, 11 lb per side for the KEMIMOTO and 15 lb each for the Bushwhacker. The Hycline and MOSISO give no weight limit, so keep loads light and weigh a grocery bag before relying on them."
     },
     {
       "q": "Can I use a basket instead?",
-      "a": "Yes, for light loads a rear basket is simpler. Panniers keep weight lower and balanced on both sides."
+      "a": "Yes, a rear basket is simpler for light loads, and many trikes already have one. Panniers keep weight lower and balanced on both sides, which matters with heavy shopping. Use a basket for bulky light items and panniers for heavier loads."
     }
   ],
-  "bottomLine": "The Favoto 48L pair is the best all-round pick. Use the Bushwhacker for groceries and the KEMIMOTO if your rack is narrow.",
+  "bottomLine": "The Favoto 48L Waterproof Panniers are the best all-round pair, with IPX6 fabric and a stated clip range. Choose the Hycline for a rigid, roll-top single bag, the KEMIMOTO if your rack is narrow, the Bushwhacker Omaha for groceries, and the MOSISO for light errands.",
   "amazonSearch": "bike panniers under $80",
   "relatedPaths": [
     "/accessories/best-bike-panniers-under-40/",

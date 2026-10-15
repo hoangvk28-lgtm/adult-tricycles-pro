@@ -219,48 +219,55 @@ export const bestBicycleMultitoolsWithChainBreakers: BestArticle = {
   "howWeChose": [
     {
       "title": "Chain tool included",
-      "body": "Every pick has a chain breaker or rivet extractor."
+      "body": "Every pick has a chain breaker or rivet extractor, since a broken trike chain strands you far from help and cannot be fixed by hand."
     },
     {
       "title": "Chain speed range",
-      "body": "We noted stated chain speeds because narrow tools do not fit wide chains."
+      "body": "We noted published chain speeds because narrow tools do not fit wide chains, and a tool that cannot grip your chain is dead weight."
     },
     {
       "title": "Carry versus bench",
-      "body": "We separated seat bag tools from workshop sets."
+      "body": "We separated seat bag tools from workshop sets, because the best tool is the one that is actually with you when a chain breaks."
     },
     {
       "title": "Build and warranty",
-      "body": "Hardened steel and a stated warranty ranked higher."
+      "body": "Hardened steel and a published warranty ranked higher, as small tools take heavy leverage and cheap steel rounds off."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Chain width match",
       "paragraphs": [
-        "A chain breaker pushes a pin through a plate, and the tool must match the chain width.",
-        "Check your chain type before relying on a compact multitool."
+        "A chain breaker pushes a pin through a plate, and the tool must match the chain width to seat properly. A tool that sits loose can bend the pin or crack a plate.",
+        "Check your chain type before relying on a compact multitool. Read the speed range, such as 8 to 12 speed, against your drivetrain."
       ]
     },
     {
       "title": "Spare link",
       "paragraphs": [
-        "A chain tool alone cannot always rejoin a chain. Carry a quick link in the seat bag.",
-        "Make sure the link matches the chain speed."
+        "A chain tool alone cannot always rejoin a chain after removing a damaged link. A quick link closes the gap without pressing a fresh pin.",
+        "Carry a quick link in the seat bag and make sure it matches your chain speed."
       ]
     },
     {
       "title": "Leverage",
       "paragraphs": [
-        "A small tool gives less leverage than a shop tool. On a stiff pin, use the side grips.",
-        "Practice once at home."
+        "A small tool gives less leverage than a shop tool, and a stiff pin takes steady pressure. Slipping off the pin is how knuckles get hurt.",
+        "On a stiff pin, use the side grips and brace the tool. Practice once at home before you need it on the road."
       ]
     },
     {
       "title": "Other tools in the set",
       "paragraphs": [
-        "A trike needs hex keys for baskets and racks.",
-        "Check that the set has the sizes your trike uses."
+        "A trike needs hex keys for baskets and racks as well as chain work. A multitool with the wrong sizes only covers half the roadside problems you face.",
+        "Check that the set has the hex sizes your trike uses, such as 2 to 8 mm, plus a screwdriver."
+      ]
+    },
+    {
+      "title": "Weight and carry",
+      "paragraphs": [
+        "A 175 g tool disappears in a seat bag, while a 23-piece kit needs a bench. Carry decides whether you actually have the tool at the moment you need it.",
+        "Decide whether this is a tool for the road or the garage, and buy one of each if both matter."
       ]
     }
   ],
@@ -277,26 +284,26 @@ export const bestBicycleMultitoolsWithChainBreakers: BestArticle = {
           [
             "Seat bag, one tool",
             "Crankbrothers Multi-19",
-            "Chain tool and warranty"
+            "Chain tool for 8 to 12 speed and lifetime warranty"
           ],
           [
             "Seat bag with case",
-            "Vibrelli V19",
+            "Vibrelli V19 Multitool",
             "Carry case and Cr-V steel"
           ],
           [
             "Second toolbox tool",
-            "WIWUE GUO",
+            "WIWUE GUO Bike Chain Tool Kit",
             "Same layout, low commitment"
           ],
           [
             "Garage chain service",
-            "Oumers Chain Repair Set",
-            "Pliers and wear checker"
+            "Oumers Chain Repair Tool Set",
+            "Link pliers and wear checker"
           ],
           [
             "Full home workshop",
-            "Cyclists 23-Piece Kit",
+            "Cyclists 23-Piece Bike Tool Kit",
             "Crank puller and pedal wrench"
           ]
         ]
@@ -307,11 +314,11 @@ export const bestBicycleMultitoolsWithChainBreakers: BestArticle = {
       "cards": [
         {
           "label": "Multitool",
-          "text": "The Crankbrothers, Vibrelli and WIWUE GUO fit in a seat bag and cover bolts as well."
+          "text": "The Crankbrothers, Vibrelli and WIWUE GUO fit in a seat bag and cover bolts as well as the chain, which suits a rider far from home."
         },
         {
           "label": "Dedicated set",
-          "text": "The Oumers and Cyclists kits give better leverage and wear checks but stay at home."
+          "text": "The Oumers and Cyclists kits give better leverage and wear checks but stay at home, so they suit a garage owner who services his own chain."
         }
       ],
       "note": "Carry a multitool and keep a dedicated set in the garage."
@@ -321,11 +328,11 @@ export const bestBicycleMultitoolsWithChainBreakers: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A chain tool that states the chain speeds it supports and a way to check wear."
+          "text": "A chain tool that gives the chain speeds it supports and a way to check wear, since a long chain stretches before it breaks."
         },
         {
           "label": "In this comparison",
-          "text": "The Crankbrothers states 8 to 12 speed and the Oumers includes a wear checker."
+          "text": "The Crankbrothers covers 8 to 12 speed chains and the Oumers includes a wear checker with 0.75 and 1.0 gauges."
         }
       ]
     },
@@ -334,11 +341,11 @@ export const bestBicycleMultitoolsWithChainBreakers: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride far from help, where the Crankbrothers warranty matters."
+          "text": "You ride far from help, where the Crankbrothers lifetime warranty and slim 175 g build matter more than the saving."
         },
         {
           "label": "Save if",
-          "text": "You ride near home, where the WIWUE GUO is enough."
+          "text": "You ride near home, where the WIWUE GUO is enough as a spare tool with a universal chain breaker."
         }
       ]
     }
@@ -346,26 +353,30 @@ export const bestBicycleMultitoolsWithChainBreakers: BestArticle = {
   "faq": [
     {
       "q": "Do I need a quick link too?",
-      "a": "Usually yes. After removing a damaged link, a quick link rejoins the chain. Match it to your chain speed."
+      "a": "Usually yes. After removing a damaged link, a quick link rejoins the chain without a fresh pin. Match it to your chain speed, and carry one in the seat bag."
     },
     {
       "q": "Will a multitool chain breaker fit a trike chain?",
-      "a": "It depends on chain width. Check your chain type against the tool before you rely on it."
+      "a": "It depends on chain width. Check your chain type against the tool before you rely on it. The Crankbrothers publishes 8 to 12 speed, while the Vibrelli and WIWUE GUO call theirs universal."
     },
     {
       "q": "How do I check chain wear?",
-      "a": "Use a wear checker, such as the one in the Oumers set. Replace a worn chain before it damages gears."
+      "a": "Use a wear checker, such as the one in the Oumers set. Replace a worn chain before it damages the gears, since a stretched chain wears sprockets faster."
     },
     {
       "q": "Is the 23-piece kit worth it?",
-      "a": "Only if you do your own maintenance at home. It does not travel."
+      "a": "Only if you do your own maintenance at home. It has a crank puller and pedal wrench but does not travel, so pair it with a small multitool for rides."
     },
     {
       "q": "Which multitool is best for baskets and racks?",
-      "a": "Any with hex keys from 2 to 8 mm, such as the Crankbrothers or Vibrelli."
+      "a": "Any with hex keys from 2 to 8 mm, such as the Crankbrothers or Vibrelli. Check the sizes against the bolts on your own trike before you buy."
+    },
+    {
+      "q": "Can a chain breaker handle a stiff pin?",
+      "a": "Small tools give less leverage than a shop tool. Use the side grips, brace the tool and press steadily, and practice once at home so the first time is not on the road."
     }
   ],
-  "bottomLine": "Carry the Crankbrothers Multi-19 for real repair range, add a quick link, and keep an Oumers set in the garage for chain service. The Vibrelli and WIWUE GUO are good alternatives.",
+  "bottomLine": "Carry the Crankbrothers Multi-19 for real repair range, add a quick link, and keep an Oumers set in the garage for chain service. The Vibrelli and WIWUE GUO are good alternatives when you want a case or a low-cost spare, and the Cyclists kit suits a full home workshop.",
   "amazonSearch": "multitools with chain breakers",
   "relatedPaths": [
     "/accessories/best-bicycle-multitools-for-tricycle-riders/",

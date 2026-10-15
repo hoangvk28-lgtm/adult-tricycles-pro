@@ -146,48 +146,55 @@ export const bestBikeTailLightsWithAlarms: BestArticle = {
   "howWeChose": [
     {
       "title": "Alarm volume",
-      "body": "We looked at stated decibel levels and whether they were adjustable."
+      "body": "We compared the stated decibel levels and whether the volume can be changed. A louder alarm carries farther, but only helps if you can tune it to the place you park."
     },
     {
       "title": "Sensitivity control",
-      "body": "Adjustable sensitivity reduces false alarms."
+      "body": "We checked whether the motion sensor can be turned down. A trike on a windy porch or a busy sidewalk will set off a fixed, touchy sensor until you stop arming it."
     },
     {
-      "title": "Riding features",
-      "body": "Brake light and signals add value while riding."
+      "title": "On-road extras",
+      "body": "We weighed what each unit does while you ride, such as brake sensing and turn signals. A light that earns its place on the road is one you will leave mounted."
     },
     {
-      "title": "Battery",
-      "body": "Runtime matters since the alarm uses standby power."
+      "title": "Battery and charging",
+      "body": "We looked at the charging port and stated runtime, because an armed alarm sips power even while the trike sits. Longer runtime means fewer evenings spent charging a light you forgot."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Sensitivity",
       "paragraphs": [
-        "Wind or a passing walker can trip a sensitive alarm.",
-        "Test at home and lower the level if it sounds often."
+        "The alarm works by sensing movement, so a touchy setting reacts to wind, a bumped fender or a passing walker. A lower setting waits for a real shove or lift before it sounds.",
+        "On a wide trike, people brush the basket often. Mount the light, arm it at home and nudge the trike by hand, then lower the level until normal contact stays quiet."
       ]
     },
     {
       "title": "Standby battery",
       "paragraphs": [
-        "An armed alarm draws small power. Charge weekly if you park often.",
-        "Check the stated runtime."
+        "An armed alarm keeps a sensor awake around the clock, so it draws a small current even when nothing happens. Over days of parking, that adds up and can leave a flat light.",
+        "If you park outside most days, plan a regular charging habit and look for a clear runtime figure. USB-C charging is handy because the cable usually matches your phone."
       ]
     },
     {
       "title": "Alarm placement",
       "paragraphs": [
-        "A rear light under a basket muffles sound.",
-        "Mount above the basket."
+        "Sound leaves a small speaker in one direction, and a trike gives you many places to block it. A light tucked under a rear basket or behind a cargo bag muffles the alarm.",
+        "Mount it on the seat post or rear frame above the basket line, facing back. Arm it, then listen from the sidewalk to confirm the sound is not muffled."
+      ]
+    },
+    {
+      "title": "Remote and extras",
+      "paragraphs": [
+        "Several units add a handlebar remote for signals or arming. That is one more battery to charge, and one more thing to lose in a pocket or basket.",
+        "Check how much bar space the remote needs next to your brake levers and any bell. If your hands are stiff, test that the button is big enough to press with gloves."
       ]
     },
     {
       "title": "What an alarm cannot do",
       "paragraphs": [
-        "An alarm deters but does not stop a determined thief.",
-        "Use a quality lock."
+        "A siren is a deterrent. It startles a casual thief and alerts neighbors, but it does not hold a trike in place or stop someone who simply rides or carries it away.",
+        "Treat the alarm as a second layer behind a quality lock and a chain through the frame. Park near people and lights when you can, and arm the alarm every time."
       ]
     }
   ],
@@ -202,29 +209,29 @@ export const bestBikeTailLightsWithAlarms: BestArticle = {
         ],
         "rows": [
           [
-            "Windy parking spot",
-            "PADONOW",
-            "Three sensitivity levels"
+            "Windy parking spot or busy sidewalk",
+            "PADONOW Smart Tail Light with Alarm",
+            "Three sensitivity levels keep gusts from setting it off"
           ],
           [
-            "Want signals too",
-            "WSDCAM 5-in-1",
-            "Remote with turn signals"
+            "Want turn signals and a horn too",
+            "WSDCAM 5-in-1 Smart Tail Light",
+            "Handlebar remote adds turn signals and a horn"
           ],
           [
-            "Simple alarm and brake light",
-            "G Keni",
-            "105 to 115 dB and warranty"
+            "Plain loud alarm with brake light",
+            "G Keni Anti-Theft Tail Light",
+            "105 to 115 dB alarm, auto on and off"
           ],
           [
-            "Long battery",
-            "PADONOW",
-            "Up to 40 hours"
+            "Park outside and charge rarely",
+            "PADONOW Smart Tail Light with Alarm",
+            "Up to 40 hours from an 800 mAh battery"
           ],
           [
-            "Wide rear basket",
-            "WSDCAM 5-in-1",
-            "Signals replace hand signals"
+            "Wide rear basket, hands off the bars to signal",
+            "WSDCAM 5-in-1 Smart Tail Light",
+            "Signals replace awkward arm signals on a wide trike"
           ]
         ]
       }
@@ -234,25 +241,25 @@ export const bestBikeTailLightsWithAlarms: BestArticle = {
       "cards": [
         {
           "label": "Adjustable",
-          "text": "The PADONOW has three volume and sensitivity levels."
+          "text": "The PADONOW Smart Tail Light with Alarm gives you three volume levels and three sensitivity levels. You can quiet it for a shared hallway or raise it for an open lot, which suits changing parking spots."
         },
         {
           "label": "Fixed",
-          "text": "The G Keni and WSDCAM use fixed alarm settings."
+          "text": "The G Keni Anti-Theft Tail Light and the WSDCAM 5-in-1 Smart Tail Light run on fixed alarm settings. That is simpler to live with, but a spot with foot traffic may trigger it more often than you want."
         }
       ],
-      "note": "Adjustable is better for busy parking spots."
+      "note": "Adjustable is the better default for most owners, since parking spots change. Pick fixed only if your trike lives in one quiet place."
     },
     {
       "heading": "For Apartment Parking Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Adjustable sensitivity so neighbors passing do not trigger the alarm."
+          "text": "Look for adjustable sensitivity, so neighbors walking past with bags or strollers do not trigger the siren. Also look for a charging port you can reach, since you may charge it indoors."
         },
         {
           "label": "In this comparison",
-          "text": "The PADONOW has three levels."
+          "text": "The PADONOW Smart Tail Light with Alarm has three sensitivity levels and USB-C charging. Start on the lowest level, check it for a few days, and raise it only if you want."
         }
       ]
     },
@@ -261,11 +268,11 @@ export const bestBikeTailLightsWithAlarms: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want signals and an alarm, which points to the WSDCAM."
+          "text": "Spend more if you want signals, a horn and an alarm from one unit. The WSDCAM 5-in-1 Smart Tail Light replaces separate add-ons, which suits a trike with a wide basket that hides hand signals."
         },
         {
           "label": "Save if",
-          "text": "You want only a loud alarm, which the G Keni covers."
+          "text": "Save if you only want a loud alarm and a brake light. The G Keni Anti-Theft Tail Light covers that with a one-year warranty and IPX5 sealing, and it turns on and off by itself."
         }
       ]
     }
@@ -273,26 +280,30 @@ export const bestBikeTailLightsWithAlarms: BestArticle = {
   "faq": [
     {
       "q": "Will the alarm drain the battery?",
-      "a": "An armed alarm draws a small standby current. Charge it regularly."
+      "a": "Yes, slowly. An armed alarm keeps its motion sensor awake, so it draws a small standby current even when you are not riding. The PADONOW claims up to 40 hours, so plan a regular charge if the trike sits outside daily."
     },
     {
-      "q": "Can wind trigger it?",
-      "a": "A sensitive setting can trip in wind. Lower the level."
+      "q": "Can wind or a passing walker set it off?",
+      "a": "They can on a high sensitivity setting. Wind pushes a basket, a passerby brushes a fender, and the sensor reads either as movement. Lower the level, test by nudging the trike, and avoid arming it on the highest setting in a crowded spot."
     },
     {
-      "q": "Is a 115 dB alarm loud?",
-      "a": "It is loud enough to draw attention nearby."
+      "q": "Is a 115 dB alarm loud enough?",
+      "a": "It is loud enough to turn heads nearby and startle someone close to the trike. Distance, walls and a muffled mounting spot all reduce what you hear. Treat it as a way to draw attention, then check the sound from the sidewalk."
     },
     {
-      "q": "Does it replace a lock?",
-      "a": "No. It is a deterrent only."
+      "q": "Does an alarm replace a lock?",
+      "a": "No. A siren is a deterrent and does not stop anyone from rolling or lifting the trike. Keep a solid lock through the frame, and use the alarm as a second layer so a thief has a reason to leave."
     },
     {
-      "q": "Where should I mount it?",
-      "a": "Above any basket so the sound is not muffled."
+      "q": "Where should I mount it on a trike?",
+      "a": "Mount it on the seat post or rear frame above any basket, facing backward. A light tucked under a basket or behind a cargo bag muffles the siren and may block the rear view for drivers behind you."
+    },
+    {
+      "q": "Is the handlebar remote worth having?",
+      "a": "It helps when you want signals or quick arming without bending to the light. It is another battery to charge and needs a little bar space, so check clearance beside your levers and bell before you rely on it."
     }
   ],
-  "bottomLine": "The PADONOW is the best alarm tail light for parked trikes thanks to adjustable levels. Choose the WSDCAM for signals and the G Keni for a simple alarm.",
+  "bottomLine": "The PADONOW Smart Tail Light with Alarm is the pick for most parked trikes because its three sensitivity levels keep the siren useful instead of annoying. Choose the WSDCAM 5-in-1 if you want turn signals on a wide basket. The G Keni suits anyone who just wants a plain, loud alarm.",
   "amazonSearch": "tail lights with alarms",
   "relatedPaths": [
     "/accessories/best-bike-tail-lights-for-adult-tricycles/",

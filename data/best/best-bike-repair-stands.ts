@@ -224,48 +224,59 @@ export const bestBikeRepairStands: BestArticle = {
   "howWeChose": [
     {
       "title": "Weight rating",
-      "body": "We compared stated bike weight limits, since a loaded trike far exceeds 44 to 88 lb."
+      "body": "We compared stated bike weight limits of 20 kg to 88 lb, since a loaded trike far exceeds 44 to 88 lb and the rating decides what the stand can really hold."
     },
     {
       "title": "Clamp range",
-      "body": "Tube diameter range was compared because trike frames can be thick or oddly shaped."
+      "body": "Tube diameter ranges such as 25 to 45 mm and 30 to 75 mm were compared because trike frames can be thick or oddly shaped."
     },
     {
       "title": "Mounting style",
-      "body": "We separated floor stands from wall and bench mounts."
+      "body": "We separated floor stands from wall and bench mounts, since a fold-away wall clamp suits a crowded garage and a floor stand suits a mover."
     },
     {
       "title": "Honest fit",
-      "body": "We say plainly that these hold two-wheel bikes, not whole trikes."
+      "body": "We say plainly that these hold two-wheel bikes, not whole trikes, and we rate them for the household's other bikes and for wheel work."
+    },
+    {
+      "title": "Storage and extras",
+      "body": "Folding, a magnetic tool tray and silicone pads were compared, since the extras decide how easy a stand is to live with."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Weight rating vs real weight",
       "paragraphs": [
-        "A stand rated for 44 lb will bend or fail under a trike. The frame alone often weighs more.",
-        "Weigh your machine and add accessories, then compare."
+        "A stand rated for 44 lb will bend or fail under a trike. The frame alone often weighs more than the rating, and the stands here run from 20 kg up to 88 lb at most.",
+        "Weigh your machine and add accessories, then compare. If the total is near or above the rating, choose a different tool, not a stronger clamp."
       ]
     },
     {
       "title": "Clamp opening",
       "paragraphs": [
-        "A clamp grips a single tube. Trike frames often have wide or curved tubes.",
-        "Check the stated tube range against your frame."
+        "A clamp grips a single tube. Trike frames often have wide or curved tubes, and the clamps here open from 25 mm to 75 mm.",
+        "Check the stated tube range against your frame. Measure the tube at the point you would clamp, and remember that a tube with welded brackets nearby leaves less room."
       ]
     },
     {
       "title": "Floor vs wall",
       "paragraphs": [
-        "Floor stands move around, wall mounts save space but need solid anchors.",
-        "Check studs or a bench top before choosing."
+        "Floor stands move around the garage easily, while wall mounts save space but need solid anchors. The ROCKBROS, Urban Deco and COTOUXKER bolt to a wall or bench, and the Urban Deco uses four screws.",
+        "Check studs or a bench top before choosing. A wall mount screwed into a hollow drywall panel can pull out under load."
       ]
     },
     {
       "title": "Use with a trike",
       "paragraphs": [
-        "A stand can hold a removed wheel or support a two-wheel bike nearby.",
-        "For whole-trike lifts, a wheel chock and a frame jack are better tools."
+        "A stand can hold a removed wheel or support a two-wheel bike nearby. It cannot lift a whole trike, which is wider and heavier than any clamp here expects to carry.",
+        "For whole-trike lifts, a wheel chock and a frame jack are better tools. Use the stand for the household's other bikes and for holding removed wheels."
+      ]
+    },
+    {
+      "title": "Storage and floor space",
+      "paragraphs": [
+        "The CXWXC 88 lb stand folds down for storage, and the wall mounts fold away from the floor. Where space is fixed, that decides how often you reach for the tool.",
+        "Measure the spot you would store it in, then compare with the folded size. A stand that stays set up in the middle of the garage is a hazard."
       ]
     }
   ],
@@ -282,22 +293,27 @@ export const bestBikeRepairStands: BestArticle = {
           [
             "Two-wheel bike at home",
             "CXWXC Bike Repair Stand",
-            "60 lb with a tool tray"
+            "60 lb rating with a magnetic tool tray."
           ],
           [
             "Heavier e-bike",
             "CXWXC Bike Repair Stand 88 lb",
-            "88 lb rating"
+            "88 lb rating and folds for storage."
           ],
           [
             "Wall in a small garage",
             "ROCKBROS Wall/Bench Mount Stand",
-            "30 to 75 mm clamp"
+            "30 to 75 mm clamp and silicone pads."
+          ],
+          [
+            "Very tight space",
+            "Urban Deco Wall Bike Stand",
+            "360 degree swivel, folds compactly, 20 kg limit."
           ],
           [
             "Low budget",
             "COTOUXKER Wall Repair Stand",
-            "Lowest cost"
+            "Lowest cost with a silicone clamp."
           ]
         ]
       }
@@ -307,11 +323,11 @@ export const bestBikeRepairStands: BestArticle = {
       "cards": [
         {
           "label": "Floor stand",
-          "text": "The CXWXC models stand alone and can be moved, but they take floor space."
+          "text": "The CXWXC models stand alone and can be moved, but they take floor space. The 88 lb model folds down, and both have a tool tray."
         },
         {
           "label": "Wall mount",
-          "text": "The ROCKBROS, Urban Deco and COTOUXKER stands bolt in place and fold away, but need a solid anchor."
+          "text": "The ROCKBROS, Urban Deco and COTOUXKER stands bolt in place and fold away, but need a solid anchor and carry lower ratings of 44 lb or 20 kg."
         }
       ],
       "note": "Choose a floor stand if you move around, a wall mount if the space is fixed."
@@ -321,7 +337,7 @@ export const bestBikeRepairStands: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A stand rated well above your machine weight and a frame that offers a clamp point."
+          "text": "A stand rated well above your machine weight and a frame that offers a clamp point, since a single tube clamp cannot cradle a wide trike."
         },
         {
           "label": "In this comparison",
@@ -334,11 +350,11 @@ export const bestBikeRepairStands: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You service a heavy e-bike. The CXWXC 88 lb stand is the strongest."
+          "text": "You service a heavy e-bike. The CXWXC 88 lb stand has the highest rating and a 25 to 45 mm tube range."
         },
         {
           "label": "Save if",
-          "text": "You only hold light bikes. The COTOUXKER wall mount costs least."
+          "text": "You only hold light bikes. The COTOUXKER wall mount costs least and covers 1.2 to 2.5 inch tubes."
         }
       ]
     }
@@ -346,26 +362,30 @@ export const bestBikeRepairStands: BestArticle = {
   "faq": [
     {
       "q": "Can a repair stand lift an adult tricycle?",
-      "a": "No. These stands clamp a single tube and are rated 20 kg to 88 lb. A trike is wider and heavier, so use a chock and jack instead."
+      "a": "No. These stands clamp a single tube and are rated from 20 kg to 88 lb. A trike is wider and heavier, so use a wheel chock and a jack instead of trusting a clamp."
     },
     {
       "q": "What can I do with one on a trike?",
-      "a": "Hold a removed front wheel assembly or service a two-wheel bike in the household."
+      "a": "Hold a removed front wheel assembly or service a two-wheel bike in the household. It is a bench aid, not a way to lift the trike off the ground, so do not clamp a trike frame in it for any reason."
     },
     {
       "q": "Floor stand or wall mount?",
-      "a": "A floor stand like the CXWXC moves; a wall mount like the ROCKBROS saves space but needs solid anchors."
+      "a": "A floor stand like the CXWXC moves; a wall mount like the ROCKBROS saves space but needs solid anchors. Choose by whether your garage has a fixed corner or you work wherever you can."
     },
     {
       "q": "What weight should I choose?",
-      "a": "Weigh your bike and add accessories. The CXWXC 88 lb is the highest rating here."
+      "a": "Weigh your bike and add accessories. The CXWXC 88 lb is the highest rating here, so it gives the most margin for an e-bike. Pick the rating that leaves headroom above the heaviest bike you will clamp."
     },
     {
       "q": "Do wall stands work on drywall?",
-      "a": "Only into studs or a solid bench. Check the screw length before mounting."
+      "a": "Only into studs or a solid bench. Check the screw length before mounting, and load the mount gently with a light bike first. A wall mount that pulls out under load can drop the bike and damage the wall."
+    },
+    {
+      "q": "Is the Urban Deco strong enough?",
+      "a": "It carries bikes up to 20 kg with a 360 degree clamp and iron construction, so it suits light bikes but not an e-bike or a trike. Check the wall behind it before mounting, because four screws must hold the load."
     }
   ],
-  "bottomLine": "Choose the CXWXC for a two-wheel household, the 88 lb model for e-bikes, or the ROCKBROS for a wall. None lifts a whole trike, so confirm your needs first.",
+  "bottomLine": "Choose the CXWXC for a two-wheel household, the 88 lb model for heavier e-bikes, or the ROCKBROS for a wall in a small garage. None lifts a whole trike, so confirm your needs first and use a wheel chock and a frame jack for trike work.",
   "amazonSearch": "bike repair stands",
   "relatedPaths": [
     "/how-to-store-and-transport-an-adult-tricycle/",

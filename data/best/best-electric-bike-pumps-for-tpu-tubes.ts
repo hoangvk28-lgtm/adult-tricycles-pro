@@ -225,48 +225,48 @@ export const bestElectricBikePumpsForTpuTubes: BestArticle = {
   "howWeChose": [
     {
       "title": "Auto stop and accuracy",
-      "body": "A pump that stops at the set number protects TPU tubes from overfilling."
+      "body": "We looked for a pump that stops at the set number, because a thin TPU tube reacts quickly to overfilling and a pump that overshoots can leave it stressed at the seams."
     },
     {
       "title": "Valve fit",
-      "body": "TPU tubes are usually Presta, so we looked for clean Presta connections."
+      "body": "TPU tubes are usually fitted with Presta valves, so we looked for clean, secure Presta connections that grip the thin stem without wiggling or bending it."
     },
     {
       "title": "Airflow and battery",
-      "body": "Trike tires hold more air than road tires, so airflow and battery capacity matter."
+      "body": "Trike tires hold more air than road tires, so we compared airflow in liters per minute and battery capacity to see which pumps can fill them without stalling."
     },
     {
       "title": "Size and heat",
-      "body": "Pocket weight counts, as does how the motor handles continuous running."
+      "body": "We weighed pocket weight against how the motor copes with continuous running, because the lightest pumps are also the ones with the least room to shed heat."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Presta valve fit",
       "paragraphs": [
-        "Most TPU tubes have a Presta valve, a thin stem that bends if the pump head is forced. A secure fit avoids air loss.",
-        "Check that the pump has a Presta connection and that it grips without wiggling."
+        "Most TPU tubes have a Presta valve, a thin stem that can bend or leak if a pump head is pushed on with force. A secure, straight fit avoids air loss and protects the stem.",
+        "Check that the pump has a clean Presta connection and that it grips without wiggling. The anoutway uses a 2 in 1 nozzle, while the GPUTEK relies on a hose and adapters."
       ]
     },
     {
       "title": "Accurate auto stop",
       "paragraphs": [
-        "Small tubes jump in pressure fast, and a pump that overshoots by 10 PSI can stress a TPU tube.",
-        "Look for a stated accuracy, such as the Fanttik 1 PSI, and confirm with a separate gauge the first time."
+        "Small tubes jump in pressure quickly, and a pump that overshoots the target by 10 PSI can strain a light TPU tube. Accuracy matters more here than raw speed.",
+        "Look for a stated accuracy, such as the Fanttik's plus or minus 1 PSI, and confirm the first fill with a separate gauge. Then set the target from your tire sidewall."
       ]
     },
     {
       "title": "Airflow versus tire size",
       "paragraphs": [
-        "Airflow in liters per minute decides how long a 24 or 26 inch tire takes to fill. Lower numbers mean longer runs and more heat.",
-        "Compare airflow and battery, and match them to your wheel size."
+        "Airflow in liters per minute decides how long a 24 or 26 inch tire takes to fill. Lower numbers mean longer runs, more heat and more battery drain, which is hard on small pumps.",
+        "Compare airflow and battery against your wheel size. The Lamicall moves 32 L/min, while the TOPUMP moves 15 L/min, so the same tire takes far longer."
       ]
     },
     {
       "title": "Heat during long fills",
       "paragraphs": [
-        "A motor that runs a long time warms up, and heat is not kind to any tube. Cooling design helps.",
-        "For larger tires, fill in two steps with a pause rather than one long run."
+        "A motor that runs for a long time warms up, and heat is not kind to any tube or to the pump itself. Cooling design and a brushless motor help, but they do not remove the limit.",
+        "For larger tires, fill in two steps with a pause rather than one long run. The Fanttik has a cooling fan design and the GPUTEK a brushless motor."
       ]
     }
   ],
@@ -283,22 +283,27 @@ export const bestElectricBikePumpsForTpuTubes: BestArticle = {
           [
             "24 or 26 inch trike tires",
             "Lamicall Ultra Mini Electric Pump",
-            "32 L/min airflow"
+            "32 L/min airflow fills big tires faster"
           ],
           [
             "20 inch wheels, small volume",
             "Fanttik X10 Ace",
-            "Accurate stop"
+            "Plus or minus 1 PSI accurate stop"
           ],
           [
-            "Several tires per charge",
+            "Several tires on one charge",
             "anoutway AT1 PRO",
-            "450 mAh battery"
+            "450 mAh battery and a 30 minute charge"
           ],
           [
-            "Emergency carry only",
+            "Emergency carry in a saddle bag",
             "TOPUMP TB2PRO",
-            "130 g weight"
+            "Only 130 g with a digital gauge"
+          ],
+          [
+            "Valve sits close to the rim",
+            "GPUTEK Mini Electric Pump",
+            "Included hose reaches valves near the rim"
           ]
         ]
       }
@@ -308,11 +313,11 @@ export const bestElectricBikePumpsForTpuTubes: BestArticle = {
       "cards": [
         {
           "label": "Hose",
-          "text": "The GPUTEK includes a hose that keeps the pump body away from a tight rim."
+          "text": "The GPUTEK includes a hose that keeps the pump body away from a tight rim, which helps when a valve sits close to a fender or a spoke."
         },
         {
           "label": "Direct head",
-          "text": "The Fanttik, Lamicall, anoutway and TOPUMP thread straight on, which is lighter but less flexible."
+          "text": "The Fanttik, Lamicall, anoutway and TOPUMP thread straight onto the valve, which is lighter and quicker but less forgiving on awkward valve positions."
         }
       ],
       "note": "Choose the GPUTEK if your valve sits close to the rim."
@@ -322,11 +327,11 @@ export const bestElectricBikePumpsForTpuTubes: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Presta fit, stated accuracy and cooling."
+          "text": "A secure Presta fit, a stated accuracy figure and a cooling design, because TPU tubes are light and punish overfilling and long, hot runs."
         },
         {
           "label": "In this comparison",
-          "text": "The Fanttik X10 Ace matches all three."
+          "text": "The Fanttik X10 Ace matches all three, with plus or minus 1 PSI accuracy, Presta and Schrader valves, auto stop and a cooling fan design in a 0.26 lb body."
         }
       ]
     },
@@ -335,11 +340,11 @@ export const bestElectricBikePumpsForTpuTubes: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You fill 24 or 26 inch tires often, where the Lamicall airflow saves time."
+          "text": "You fill 24 or 26 inch tires often. The Lamicall's 32 L/min airflow and fast Type-C charge save time on every fill, and its auto stop remembers your target."
         },
         {
           "label": "Save if",
-          "text": "You only top up small tires, where the TOPUMP is enough."
+          "text": "You only top up small tires on the road. The TOPUMP at 130 g is enough, as long as you accept the slower 15 L/min fill."
         }
       ]
     }
@@ -347,26 +352,30 @@ export const bestElectricBikePumpsForTpuTubes: BestArticle = {
   "faq": [
     {
       "q": "Do TPU tubes need a special pump?",
-      "a": "No, but they benefit from accurate stops and Presta fit. Overfilling is the main risk."
+      "a": "No, but they benefit from an accurate stop and a good Presta fit. Overfilling is the main risk, since a thin tube has less margin for error, so pick auto stop and verify the first fill with a gauge."
     },
     {
       "q": "Can these pumps fill 24 or 26 inch trike tires?",
-      "a": "Yes, but wider tires take longer and drain the battery faster. The Lamicall has the most airflow."
+      "a": "Yes, but wider tires take longer and drain the battery faster. The Lamicall has the most airflow here at 32 L/min, so it is the best match for large volume tires too, and plan a recharge afterward."
     },
     {
       "q": "What pressure should I set?",
-      "a": "Use the range printed on your tire sidewall, which is often lower than the 120 PSI maximum of the pumps."
+      "a": "Use the range printed on your tire sidewall, which is often lower than the 120 PSI maximum of these pumps. Setting a number inside that range protects the tube and gives a more comfortable ride on rough paths."
     },
     {
       "q": "Do I need a separate gauge?",
-      "a": "Check the pump against a known gauge once. Differences of a few PSI are common."
+      "a": "Check the pump against a known gauge once. Differences of a few PSI are common, and with a TPU tube you want to know your pump's offset before you rely on its auto stop to protect the tube."
     },
     {
       "q": "Does heat damage TPU tubes?",
-      "a": "Excess heat can be hard on any tube. Fill in steps and use a pump with cooling for long runs."
+      "a": "Excess heat can be hard on any tube. Fill in steps with a pause between them, and choose a pump with a cooling design if you plan long fills on big tires or several tires in a row."
+    },
+    {
+      "q": "Why choose an electric pump over a hand pump?",
+      "a": "An electric pump takes the effort out of filling a wide trike tire and stops at a precise number. That suits riders with weak hands or wrists, though a pocket pump is still worth carrying as a backup."
     }
   ],
-  "bottomLine": "The Fanttik X10 Ace is the best all round for careful TPU inflation, and the Lamicall is better for bigger trike tires. Check your valve type and sidewall pressure first.",
+  "bottomLine": "The Fanttik X10 Ace is the best all round pick for careful TPU inflation because of its tight pressure control and cooling design. The Lamicall is better for bigger trike tires thanks to its airflow. Check your valve type and sidewall pressure before the first fill.",
   "amazonSearch": "electric bike pumps for tpu tubes",
   "relatedPaths": [
     "/accessories/best-electric-bike-pumps-for-tricycle-riders/",

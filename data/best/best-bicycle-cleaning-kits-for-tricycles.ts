@@ -245,49 +245,56 @@ export const bestBicycleCleaningKitsForTricycles: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Coverage",
-      "body": "We favoured kits that clean frame, wheels and chain."
+      "title": "Job coverage",
+      "body": "We compared what each set cleans, from whole trike kits with cleaner and mitts to chain only tools, because a trike has a long frame, big wheels and a long chain."
     },
     {
-      "title": "Material safety",
-      "body": "Kits that state safe materials ranked higher."
+      "title": "Chemicals or brushes",
+      "body": "We noted whether the set includes cleaner and degreaser or only brushes, since owners who already have fluids do not need to pay for them again."
+    },
+    {
+      "title": "Coaster brake notes",
+      "body": "We flagged tools that need the cranks to turn freely, because a coaster brake trike locks when pedaled backward and needs the rear wheels lifted."
     },
     {
       "title": "Storage",
-      "body": "A small garage limits what is practical."
-    },
-    {
-      "title": "Trike fit",
-      "body": "Coaster brake and long chain notes counted."
+      "body": "We favored sets that stay tidy, with a toolbox or compact brushes, since trike owners often store gear in a small garage, shed or apartment closet."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Chemicals or not",
       "paragraphs": [
-        "Some kits include cleaner, others are brushes only.",
-        "Check the contents before buying."
+        "Some kits include a cleaner and a degreaser, while others are brush sets only. A kit with fluids saves a separate purchase but may carry bottles that are too small for a big trike.",
+        "Look at the volume. The focopot 13 Piece kit has 25 oz cleaner and 10 oz degreaser, while the Park Tool BCB-4 and Finish Line Grunge Brush include no cleaner, so you must supply your own."
       ]
     },
     {
       "title": "Brush range",
       "paragraphs": [
-        "A trike has more surfaces than a bike.",
-        "Look for a frame brush, a wheel brush and a gear brush."
+        "Different brushes suit different jobs. A gear brush cleans sprockets, a detail brush reaches small gaps, a frame brush handles large surfaces and a soap brush moves cleaner without scratching.",
+        "The Park Tool BCB-4 has four brushes: gear, tapered detail, frame and soaping. The focopot 9 Piece kit adds a tire brush and wheel brush, which suit trike wheels that gather mud."
       ]
     },
     {
-      "title": "Coaster brake",
+      "title": "Coaster brake note",
       "paragraphs": [
-        "Coaster brakes block backward pedalling.",
-        "You must lift the rear wheels to spin the cranks."
+        "A chain scrubber needs the chain to run through its brushes, which means turning the cranks. On a coaster brake trike, pedaling backward locks the rear wheel, so the chain will not move freely.",
+        "Lift the drive wheels on a stand before using any scrubber, including the focopot 9 Piece and Ultrafashs kits. Without lifting the wheels, you can only clean the chain by hand in short sections."
       ]
     },
     {
-      "title": "Storage",
+      "title": "Storage space",
       "paragraphs": [
-        "Big kits need shelf space.",
-        "A toolbox helps."
+        "A kit with many pieces can end up scattered across a garage, and a missing brush or bottle makes cleaning harder. A toolbox or tidy set keeps parts together.",
+        "The focopot 13 Piece kit comes with a toolbox, which suits garage shelves. The Ultrafashs 7 Piece kit is more compact. Check dimensions and choose a set you can store where you actually clean."
+      ]
+    },
+    {
+      "title": "Motorcycle products",
+      "paragraphs": [
+        "Some chain cleaners and lubes are made for motorcycles, where chains are heavier and exposed to more heat and road spray. The mix may not suit a light trike chain or its smaller sprockets.",
+        "The Motul C1 and C2 kit is made for motorcycles. If you use it, read the label for bicycle suitability, test a small area and keep the lube off brake surfaces."
       ]
     }
   ],
@@ -302,34 +309,34 @@ export const bestBicycleCleaningKitsForTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "Whole trike",
+            "Cleaning the whole trike",
             "focopot 13 Piece Bike Cleaning Kit",
-            "Cleaner, brushes, mitt and toolbox"
+            "Cleaner, degreaser, scrubber, mitt, towel and toolbox"
           ],
           [
-            "Chain only",
+            "Chain and sprocket focus",
             "Ultrafashs 7 Piece Chain Cleaner Kit",
-            "Scrubber and degreaser"
+            "Scrubber, degreaser, wet lube and gloves"
           ],
           [
-            "Frame and gears, own cleaner",
+            "Frame and gears with your own cleaner",
             "Park Tool BCB-4 Bike Cleaning Brush Set",
-            "Four brushes"
+            "Four brushes for frame and gears, no cleaner"
           ],
           [
-            "Coaster brake notes",
+            "Brushes plus scrubber for a coaster brake trike",
             "focopot 9 Piece Cleaning Brush Kit with Chain Scrubber",
-            "Clear coaster instructions"
+            "Needs the rear wheels lifted before scrubbing"
           ],
           [
-            "Quick chain scrub",
+            "A quick chain scrub",
             "Finish Line Grunge Brush",
-            "Single brush"
+            "Dual sided stiff nylon brush for tight spots"
           ],
           [
-            "Chain cleaner and lube",
+            "Chain cleaner and lube pair",
             "Motul C1 Chain Clean and C2 Lube Kit",
-            "Brand paired fluids"
+            "Chain brush, gloves, cleaner and lube"
           ]
         ]
       }
@@ -339,25 +346,25 @@ export const bestBicycleCleaningKitsForTricycles: BestArticle = {
       "cards": [
         {
           "label": "Kit",
-          "text": "focopot 13 Piece and Ultrafashs include fluids."
+          "text": "The focopot 13 Piece and Ultrafashs 7 Piece kits include cleaner or degreaser, so you can start cleaning on day one. They cost more and the fluid bottles may be small for a big trike."
         },
         {
           "label": "Brush set",
-          "text": "Park Tool BCB-4, focopot 9 Piece and Finish Line are tools only."
+          "text": "The Park Tool BCB-4, focopot 9 Piece and Finish Line Grunge Brush are tools only. They suit owners who already own cleaner, and the tools tend to last longer than the fluids do."
         }
       ],
-      "note": "Most owners should buy one kit with fluids."
+      "note": "Buy a kit if you own nothing, and a brush set if you already have cleaner."
     },
     {
       "heading": "For Small Garages Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A compact set."
+          "text": "Look for a compact set with a toolbox or tidy case, so brushes and bottles stay in one place in a small garage or shed."
         },
         {
           "label": "In this comparison",
-          "text": "Finish Line is smallest, and Ultrafashs is leaner than focopot 13."
+          "text": "The focopot 13 Piece Bike Cleaning Kit includes a toolbox. The Ultrafashs 7 Piece Chain Cleaner Kit is smaller, and the Finish Line Grunge Brush is the most compact single tool."
         }
       ]
     },
@@ -366,11 +373,11 @@ export const bestBicycleCleaningKitsForTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You clean the whole trike often, so focopot 13 is the best fit."
+          "text": "You clean the whole trike often, where the focopot 13 Piece Bike Cleaning Kit gives cleaner, degreaser and mitts in one box."
         },
         {
           "label": "Save if",
-          "text": "You only clean the chain, so Finish Line or Ultrafashs will do."
+          "text": "You only clean the chain now and then, where the Finish Line Grunge Brush or Ultrafashs 7 Piece Chain Cleaner Kit does the job for less."
         }
       ]
     }
@@ -378,26 +385,26 @@ export const bestBicycleCleaningKitsForTricycles: BestArticle = {
   "faq": [
     {
       "q": "How often should I clean a trike?",
-      "a": "After dusty or wet rides, and a full clean each season. See /adult-tricycle-maintenance-checklist/."
+      "a": "Clean the chain every few weeks of regular riding, and the whole trike when it is visibly dirty or after riding in mud or salt. Wipe the frame between rides to prevent grime from drying onto surfaces."
     },
     {
-      "q": "Can I use a hose?",
-      "a": "Gentle water is fine, but avoid spraying bearings and brakes directly."
+      "q": "Can I use a hose on my trike?",
+      "a": "Gently, yes, but you should avoid blasting bearings, hubs and the drivetrain with high pressure. Water forced into sealed parts washes out grease. Use a bucket, soft brush and mitt, and rinse with a low flow."
     },
     {
       "q": "Do coaster brake trikes need anything special?",
-      "a": "You must lift the drive wheels to spin the cranks."
+      "a": "Yes. Lift the rear wheels before using a chain scrubber, since pedaling backward locks a coaster brake. The focopot 9 Piece kit notes this, and the same applies to the Ultrafashs scrubber. Use a stand or blocks."
     },
     {
       "q": "Are these kits safe on paint?",
-      "a": "Check the fluid. focopot says its degreaser is safe on alloy, plastic, rubber and carbon fibre."
+      "a": "Most are safe on common materials, but test any cleaner on a small hidden area first. Keep degreaser off paint and plastic, and avoid stiff brushes on finishes. The focopot 13 Piece kit is described as safe on common materials."
     },
     {
       "q": "When should I use a shop?",
-      "a": "For brake issues or heavy corrosion, a shop is safer. See /adult-tricycle-brakes-and-parking-brakes/."
+      "a": "If bearings feel rough, the chain is stretched or brakes need adjustment, a shop can inspect and service them. A good clean is a chance to look for problems, so note anything loose before you go."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Bicycle Cleaning Brush Kits",
       "text": "The [Park Tool BCB-4](#park-tool-bcb-4-bike-cleaning-brush-set) is a brush only set with gear, detail, frame and soap brushes. Bring your own cleaner and keep the brushes away from disc rotors. Its tapered brush reaches between trike spokes.",
@@ -409,7 +416,7 @@ export const bestBicycleCleaningKitsForTricycles: BestArticle = {
       "productId": "focopot-13-piece-bike-cleaning-kit"
     }
   ],
-  "bottomLine": "focopot 13 Piece covers the most ground, with Ultrafashs for chain only work. For fluids see /accessories/best-bicycle-chain-degreasers/ and /accessories/best-bicycle-chain-lubricants/.",
+  "bottomLine": "The focopot 13 Piece Bike Cleaning Kit is the best overall pick for cleaning a whole trike. Choose the Ultrafashs 7 Piece kit for chain focus, the Park Tool BCB-4 if you own cleaner, the focopot 9 Piece for brushes and a scrubber, and the Motul pair for chain cleaning and lube.",
   "amazonSearch": "bike cleaning kits",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-cleaners/",

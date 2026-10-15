@@ -231,48 +231,66 @@ export const bestAdultTricyclesForSeniors: BestArticle = {
   "howWeChose": [
     {
       "title": "Mounting access",
-      "body": "We favored low step-through frames and compared stated rider height ranges."
+      "body": "We favored low step-through frames and compared rider height ranges, because lifting a leg over a high bar is where many older riders lose balance."
     },
     {
       "title": "Seat support",
-      "body": "Backrests, padding and seat adjustment decide comfort for stiff backs and hips."
+      "body": "Backrests, wide padding and seat adjustment decide comfort for stiff backs and hips, so we weighed each seat design against how long a ride lasts."
     },
     {
       "title": "Brakes and control",
-      "body": "We looked at brake types and how easy each trike is to hold at a stop."
+      "body": "We compared drum, V and linear pull brakes and how easy each trike is to hold at a stop, since weak hands tire quickly on a stiff lever."
     },
     {
       "title": "Load handling",
-      "body": "Basket ratings and frame capacity show how much each trike can carry safely."
+      "body": "Basket ratings and frame capacity show how much each trike can carry safely, which matters when groceries sit high over a rear axle."
+    },
+    {
+      "title": "Gearing and transport",
+      "body": "Single speed, 7-speed and folding designs suit different routes and storage, so we matched each to hills, flat paths and trunk space."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Step-through height",
       "paragraphs": [
-        "A step-through frame lets you lift your leg only a few inches instead of swinging it over a bar. A taller gap can cause the same balance loss you wanted to avoid.",
-        "Check the frame style in the specs and sit on a similar trike if you can, so you know how it feels at the curb."
+        "A step-through frame lets you lift your leg only a few inches instead of swinging it over a bar. A taller gap forces the same one-legged balance moment that makes a standard bike risky.",
+        "Look at the frame style in the specs and sit on a similar trike if you can. Measure your comfortable leg lift at the curb and compare it with the frame's lowest point."
       ]
     },
     {
       "title": "Seat support and adjustment",
       "paragraphs": [
-        "A wide padded seat spreads weight, and a backrest takes strain off the lower back. A sliding rail or height adjustment sets the reach to the pedals.",
-        "Make sure your knees stay slightly bent at the bottom of the stroke, which prevents joint strain."
+        "A wide padded seat spreads body weight over more area, and a backrest takes strain off the lower back. A sliding rail or height adjustment sets the reach to the pedals.",
+        "Check that your knee stays slightly bent at the bottom of the pedal stroke. A fully locked knee or a cramped one both strain the joints over a longer ride."
       ]
     },
     {
       "title": "Brake feel",
       "paragraphs": [
-        "Drum brakes work in rain and need little adjustment, while V brakes need tuning but give strong braking. Hand strength matters because a stiff lever is hard to hold.",
-        "Test lever reach and effort right after assembly and adjust or ask a shop to adjust before riding."
+        "Drum brakes work in rain and need little adjustment, while V brakes need tuning but give strong stopping power. Either way, the lever has to be held, so grip strength matters.",
+        "Squeeze the levers right after assembly and check reach and effort. If your hands are small or stiff, ask a shop to move the lever closer before you ride."
+      ]
+    },
+    {
+      "title": "Gearing for your route",
+      "paragraphs": [
+        "A single speed trike has nothing to shift, which is easier for stiff fingers. A 7-speed adds a low gear that turns a gentle slope from a struggle into a slow, steady climb.",
+        "Walk your usual route and note any hill. If there is one you cannot avoid, pick a geared trike, because pushing a single speed uphill can be exhausting."
+      ]
+    },
+    {
+      "title": "Basket and weight limits",
+      "paragraphs": [
+        "Rear baskets carry weight low and behind the rider, which keeps steering light. A front basket load changes steering feel because it sits over the front wheel.",
+        "Check the basket rating and the total rider plus cargo capacity before buying. Add your body weight to your usual shopping load and keep a margin."
       ]
     },
     {
       "title": "Honest limits",
       "paragraphs": [
         "A trike does not tip sideways at a stop the way a bike can, but it can still lean on a tight turn at speed. Slow down before corners and avoid steep side slopes.",
-        "Anyone with serious balance, vision or strength problems should talk to a clinician before riding on roads."
+        "Anyone with serious balance, vision or strength problems should talk to a clinician before riding on roads. Start on a quiet, flat path to learn how the trike corners."
       ]
     }
   ],
@@ -289,27 +307,27 @@ export const bestAdultTricyclesForSeniors: BestArticle = {
           [
             "Easiest mounting",
             "Schwinn Meridian Adult Tricycle",
-            "Super low step-through frame"
+            "Super low step-through frame keeps the leg lift small"
           ],
           [
             "Back fatigue",
             "MOONCOOL 7-Speed Adult Tricycle",
-            "Backrest seat"
+            "Backrest seat supports the lower back on longer rides"
           ],
           [
             "Shopping with lots of bags",
             "MOOITZ 18 Inch Adult Tricycle",
-            "Front and rear baskets"
+            "Front and rear baskets share the load"
           ],
           [
             "Heavier rider",
             "Brightpeak 1 Speed Adult Tricycle",
-            "450 lb frame rating"
+            "Steel frame rated to 450 lbs with wide rear axle"
           ],
           [
             "Needs to ride in a car",
             "Slsy Adult Folding Tricycle",
-            "Quick-fold frame"
+            "Quick-fold frame fits in a trunk"
           ]
         ]
       }
@@ -319,11 +337,11 @@ export const bestAdultTricyclesForSeniors: BestArticle = {
       "cards": [
         {
           "label": "Single speed",
-          "text": "The Schwinn Meridian and Brightpeak have nothing to shift, which suits riders with hand stiffness on flat routes."
+          "text": "The Schwinn Meridian and Brightpeak have nothing to shift, which suits riders with hand stiffness on flat routes and keeps maintenance close to zero."
         },
         {
           "label": "7-speed",
-          "text": "The MOONCOOL and folding Slsy give a low gear for gentle slopes but need a little maintenance."
+          "text": "The MOONCOOL and folding Slsy give a low gear for gentle slopes, but the shifter and derailleur need occasional adjustment and a light touch from your hands."
         }
       ],
       "note": "Choose single speed on flat ground and 7-speed if any hill is unavoidable."
@@ -333,11 +351,11 @@ export const bestAdultTricyclesForSeniors: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A very low step-through point, a seat that moves forward and back, and light brake levers."
+          "text": "A very low step-through point, a seat that moves forward and back, and brake levers that close with a light squeeze rather than a hard pull."
         },
         {
           "label": "In this comparison",
-          "text": "The Schwinn Meridian has the lowest frame, and the MOOITZ adds a sliding seat rail for a tuned reach."
+          "text": "The Schwinn Meridian has the lowest frame, and the MOOITZ adds a sliding seat rail so you can tune the reach to your hip comfort."
         }
       ]
     },
@@ -346,11 +364,11 @@ export const bestAdultTricyclesForSeniors: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You need electric assist for hills, since none of these five has a motor, and the electric trike guide covers that step."
+          "text": "You need electric assist for hills, since none of these five has a motor. The electric trike guide covers that next step for riders who tire on slopes."
         },
         {
           "label": "Save if",
-          "text": "You ride flat and short, where the Schwinn Meridian or Brightpeak is enough."
+          "text": "You ride flat and short, where the Schwinn Meridian or Brightpeak is enough and the simple single speed drivetrain asks for almost no upkeep."
         }
       ]
     }
@@ -358,26 +376,30 @@ export const bestAdultTricyclesForSeniors: BestArticle = {
   "faq": [
     {
       "q": "Are tricycles safer than bikes for seniors?",
-      "a": "A trike stays upright at a stop and does not need balance to start, which removes the most common source of falls. It can still lean or tip in fast turns and on side slopes, so ride slowly there."
+      "a": "A trike stays upright at a stop and does not need balance to start, which removes the most common source of falls. It can still lean or tip in fast turns and on side slopes, so ride slowly there and keep both hands on the bars."
     },
     {
       "q": "What step-through height is best?",
-      "a": "As low as the frame allows. The Schwinn Meridian describes a super low step-through frame, and the MOOITZ and MOONCOOL both use low step-through designs."
+      "a": "As low as the frame allows. The Schwinn Meridian has a super low step-through frame, and the MOOITZ and MOONCOOL both use low step-through designs. Measure how high you can comfortably lift your leg and compare."
     },
     {
       "q": "Do I need gears?",
-      "a": "Only if you face slopes. The MOONCOOL and folding Slsy have 7 speeds, while the Schwinn and Brightpeak are single speed."
+      "a": "Only if you face slopes. The MOONCOOL and folding Slsy have 7 speeds, while the Schwinn and Brightpeak are single speed. A low gear makes a gentle hill manageable, but adds a shifter to learn and keep adjusted."
     },
     {
       "q": "Can I carry groceries?",
-      "a": "Yes, within basket ratings: 50 lbs on the MOONCOOL and Brightpeak and up to 110 lbs on the folding Slsy. Keep heavy items low and centered."
+      "a": "Yes, within basket ratings: 50 lbs on the MOONCOOL and Brightpeak and up to 110 lbs on the folding Slsy. Keep heavy items low and centered, and avoid piling them high on the rear basket."
     },
     {
       "q": "How should I check fit?",
-      "a": "Sit with your leg slightly bent at the bottom of the pedal stroke and make sure you can reach the brake levers comfortably. Use stated height ranges, such as 5'0\" to 6'1\" for the Schwinn."
+      "a": "Sit with your leg slightly bent at the bottom of the pedal stroke and make sure you can reach the brake levers comfortably. Use the published height ranges, such as 5 feet 0 inches to 6 feet 1 inch for the Schwinn."
+    },
+    {
+      "q": "Which trike is easiest to store or move?",
+      "a": "The Slsy folds into a car trunk, which helps if you ride away from home. Check its folded weight against what you can lift, and inspect the fold joints each time you open it."
     }
   ],
-  "bottomLine": "The Schwinn Meridian is the easiest trike here for most older riders. Choose the MOONCOOL for back support, the MOOITZ for baskets and a sliding seat, and the folding Slsy only if you can lift it.",
+  "bottomLine": "The Schwinn Meridian is the easiest trike here for most older riders because of its very low step-through frame and simple single speed setup. Choose the MOONCOOL for back support, the MOOITZ for baskets and a sliding seat, the Brightpeak for a heavier rider, and the folding Slsy only if you can lift it.",
   "amazonSearch": "adult tricycles for seniors",
   "relatedPaths": [
     "/how-to-shop-for-your-first-adult-three-wheel-bike/",

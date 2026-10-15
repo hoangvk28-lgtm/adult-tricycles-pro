@@ -184,48 +184,55 @@ export const bestPetTrailersForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Dog fit",
-      "body": "We compared stated pet weights and cabin sizes."
+      "body": "We matched each trailer to dog weight and size, since a trailer that is too small cramps a dog and one that is too large wastes space and adds weight for the trike."
     },
     {
-      "title": "Hitch",
-      "body": "We noted coupler types."
+      "title": "Hitch design",
+      "body": "We looked at coupler type and how it attaches to a trike. Trikes have a wide rear axle, so a coupler made for a bike seat post may not reach or fit at all."
     },
     {
-      "title": "Folding",
-      "body": "We looked at storage and conversion."
+      "title": "Folding and storage",
+      "body": "We compared folding frames and carry sizes. A trailer that folds flat is much easier to keep in an apartment or a garage next to a wide trike."
     },
     {
       "title": "Fit to trikes",
-      "body": "We flagged the wide axle issue."
+      "body": "We weighed which trailers suit adult trike hitch points. A good fit depends on axle width, hitch location and tow strength, so we gave extra weight to clear coupler details."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Hitch location",
       "paragraphs": [
-        "Most couplers mount to a rear axle or seatpost.",
-        "A wide trike axle may need an adapter."
+        "A bike trailer normally hooks to the rear axle or a seat post, but a trike has a wide rear axle and a basket in the way. A coupler that fits a bicycle may not reach the right spot.",
+        "Look at where the trike axle sits and how wide it is. Check the coupler type, such as a universal coupler or hook, and confirm it fits before ordering."
       ]
     },
     {
-      "title": "Dog size",
+      "title": "Dog size and weight",
       "paragraphs": [
-        "Measure shoulder height and length.",
-        "Match the cabin."
+        "A trailer has a weight limit and an interior size, and your dog needs both. The Schwinn Rascal is for one pet up to 50 lb, while the DOGGYHUT Premium XL goes up to 100 lb and 25 inch shoulder height.",
+        "Weigh your dog and measure from shoulder to floor. Choose a trailer with a few extra pounds of limit, and enough room for the dog to sit or lie down."
       ]
     },
     {
-      "title": "Tow rating",
+      "title": "Tow rating of the trike",
       "paragraphs": [
-        "Trike frames have limits.",
-        "Add dog weight plus trailer weight."
+        "A trailer adds weight and pull, and a loaded dog trailer is heavy for a trike on a hill. Large trailers like the DOGGYHUT are heavy on their own and need a strong hitch.",
+        "Check the trike maker for a tow limit or a hitch recommendation. If the trike has no hitch point, add one properly rather than tying on the trailer."
       ]
     },
     {
       "title": "Stroller mode",
       "paragraphs": [
-        "A converting model helps for walks.",
-        "Check handle height."
+        "Some trailers convert into strollers by swapping a wheel and adding a handle. That makes walking the dog easier after the ride, but the frame is heavier and the hitch parts are more complex.",
+        "The VEVOR Dog Bike Trailer 66 lb converts and has an adjustable handle. Think about whether you walk your dog more often than you ride."
+      ]
+    },
+    {
+      "title": "Safety and comfort",
+      "paragraphs": [
+        "A dog in a trailer needs a leash point, ventilation and a floor that does not slide. A nervous dog may jump around, which can upset a trailer behind a trike.",
+        "Look for an interior leash, a safety belt and a washable liner. Take short practice rides before any long trip, stop often, and watch how the dog settles."
       ]
     }
   ],
@@ -240,24 +247,29 @@ export const bestPetTrailersForAdultTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "Up to 50 lb",
+            "Dog up to 50 lb",
             "Schwinn Rascal Pet Trailer",
-            "50 lb limit"
+            "Folding frame, washable liner, universal coupler"
           ],
           [
-            "Up to 66 lb",
+            "Dog up to 66 lb, walking and riding",
             "VEVOR Dog Bike Trailer 66 lb",
-            "Stroller mode"
+            "Converts to a stroller with an adjustable handle"
           ],
           [
-            "Up to 100 lb",
+            "Large dog up to 100 lb",
             "DOGGYHUT Premium XL Pet Trailer",
-            "Large cabin"
+            "Fits dogs up to 25 in shoulder height"
           ],
           [
-            "Small dogs",
+            "Small dog, easy entry",
             "Sepnine 2-in-1 Pet Trailer",
-            "Small entrances"
+            "Front and rear doors with a safety belt"
+          ],
+          [
+            "Apartment storage matters",
+            "Schwinn Rascal Pet Trailer",
+            "Folding frame stores more easily than the others"
           ]
         ]
       }
@@ -267,25 +279,25 @@ export const bestPetTrailersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Trailer-only",
-          "text": "The Schwinn Rascal folds and keeps weight low."
+          "text": "The Schwinn Rascal Pet Trailer and the DOGGYHUT Premium XL Pet Trailer are trailers only. They are simpler, with fewer moving parts, and are better when you only tow the dog behind a trike."
         },
         {
           "label": "Hybrid",
-          "text": "The VEVOR and Sepnine switch to a stroller."
+          "text": "The VEVOR Dog Bike Trailer 66 lb converts to a stroller with an adjustable handle. That suits owners who walk the dog after the ride, though it is heavier and has more parts to check."
         }
       ],
-      "note": "Choose a hybrid if you walk the dog too."
+      "note": "Choose a hybrid if you also walk the dog on the same trip."
     },
     {
       "heading": "For Wide Rear Axles Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A coupler that accepts an adapter."
+          "text": "Look for a coupler that fits a wide rear axle, and confirm hitch height and clearance behind the basket. Ask the maker how the coupler attaches before you buy."
         },
         {
           "label": "In this comparison",
-          "text": "The Schwinn has a universal coupler. Confirm it fits your axle."
+          "text": "The Schwinn Rascal Pet Trailer has a universal coupler, and the Sepnine uses a hook coupler. Check axle fit on both, since the Schwinn and VEVOR also need the axle to match."
         }
       ]
     },
@@ -294,11 +306,11 @@ export const bestPetTrailersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "Your dog is large. The DOGGYHUT fits up to 100 lb."
+          "text": "Spend more if you have a large dog or want the stroller conversion. The DOGGYHUT Premium XL Pet Trailer has a steel frame for dogs up to 100 lb, and the VEVOR adds a stroller mode."
         },
         {
           "label": "Save if",
-          "text": "Your dog is small. The Sepnine is simpler."
+          "text": "Save if you have a small or medium dog. The Sepnine 2-in-1 Pet Trailer has front and rear doors and a safety belt, and the Schwinn Rascal handles a dog up to 50 lb."
         }
       ]
     }
@@ -306,26 +318,30 @@ export const bestPetTrailersForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "How does a trailer attach to a trike?",
-      "a": "Most hitch to a rear axle or seatpost. A wide axle may need an adapter."
+      "a": "It usually hooks to the rear axle or a hitch point behind the trike. Because trikes have a wide rear axle, a bicycle coupler may not fit. Check the coupler type and measure your axle before ordering."
     },
     {
       "q": "What size dog fits?",
-      "a": "The Schwinn takes 50 lb, the VEVOR 66 lb and the DOGGYHUT 100 lb."
+      "a": "The Schwinn Rascal takes one pet up to 50 lb, the VEVOR up to 66 lb and the DOGGYHUT up to 100 lb with a 25 inch shoulder height. The Sepnine suits small and medium dogs, so weigh and measure your dog."
     },
     {
       "q": "How do I get a nervous dog used to a trailer?",
-      "a": "Set the trailer up indoors first and let the dog step in and out with treats for a few days. Then take short, slow rides on quiet paths before any trip with traffic, and keep the leash clip inside the trailer attached so the dog cannot jump out."
+      "a": "Start with the trailer parked in the house with treats inside. Next, pull it a short way with the dog aboard, then build up. Use the interior leash or belt, and never leave a dog unattended inside."
     },
     {
       "q": "Can my trike tow it?",
-      "a": "Check the tow limit and add dog and trailer weight."
+      "a": "Many adult trikes can, but check the maker for a tow limit and hitch point. A large trailer like the DOGGYHUT is heavy by itself, so a strong hitch matters, and hills will be harder on you."
     },
     {
-      "q": "Can it be a stroller?",
-      "a": "Yes, the VEVOR and Sepnine convert."
+      "q": "Can a pet trailer be used as a stroller?",
+      "a": "Some can. The VEVOR Dog Bike Trailer 66 lb converts to a stroller with an adjustable handle. The others are trailers only, so choose a hybrid if you want to walk your dog on the same trip."
+    },
+    {
+      "q": "Which trailer is easiest to store?",
+      "a": "The Schwinn Rascal Pet Trailer has a folding frame, which suits apartments and garages. Large steel trailers like the DOGGYHUT take much more space and are heavier to lift, so measure your storage spot and the path to it first."
     }
   ],
-  "bottomLine": "Choose the Schwinn Rascal for a medium dog, the DOGGYHUT for a large one. Confirm hitch fit on a wide axle first.",
+  "bottomLine": "The Schwinn Rascal Pet Trailer is the best pick for medium dogs, with a folding frame, a washable liner and a universal coupler. Choose the DOGGYHUT Premium XL for a large dog, and the VEVOR if you also want a stroller. Confirm hitch fit on a wide trike axle first.",
   "amazonSearch": "pet trailers for adult tricycles",
   "relatedPaths": [
     "/adult-tricycle-weight-capacity-and-payload/",

@@ -219,48 +219,55 @@ export const bestTorqueWrenchesForBicyclePedals: BestArticle = {
   "howWeChose": [
     {
       "title": "Jaw size",
-      "body": "We checked for 15 mm, the common pedal size, and for 9/16 inch or 16 and 17 mm options."
+      "body": "We checked for 15 mm, the common pedal size, and for 9/16 inch or 16 and 17 mm options. A wrench that does not seat fully on the flats rounds them off."
     },
     {
       "title": "Handle length",
-      "body": "Longer handles give leverage for seized pedals, which matters on a trike."
+      "body": "We compared the 320 mm handles on the Jaswill, groword and Pawfly with the shorter offset tools. Longer handles give leverage for seized pedals, which is the usual trike problem."
     },
     {
       "title": "Material and grip",
-      "body": "Thick steel and a non slip grip help avoid slipping off the flats."
+      "body": "We looked at thick steel and the PVC, rubber or plastic grips. A non slip grip and a 5 mm steel body help avoid slipping off the flats and scraping knuckles."
     },
     {
       "title": "Extra tasks",
-      "body": "Hex sockets and crank openings add value for home mechanics."
+      "body": "We counted hex sockets, a 16 mm crank puller opening and a 24 mm bottom bracket opening as extras. They matter for home mechanics who want one tool for several jobs."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Thread direction",
       "paragraphs": [
-        "The right pedal has a normal thread, and the left pedal is reverse threaded. Facing the crank, the left loosens clockwise. Turning it the wrong way tightens it.",
-        "A useful rule is to turn the wrench toward the front of the trike to tighten and toward the back to loosen, on both sides."
+        "The right pedal has a normal thread, and the left pedal is reverse threaded. Facing the crank, the left loosens clockwise, so turning it the wrong way tightens it.",
+        "A useful rule is to turn the wrench toward the front of the trike to tighten and toward the back to loosen, on both sides. Test the direction gently before you apply force."
       ]
     },
     {
       "title": "Jaw size",
       "paragraphs": [
-        "Most pedals use 15 mm flats, and some older or one piece crank pedals use 9/16 inch.",
-        "Check the flats on your pedal spindle, and pick a wrench that matches."
+        "Most pedals use 15 mm flats, and some older or one piece crank pedals use 9/16 inch. A jaw that is slightly off can round the flats and make removal harder.",
+        "Check the flats on your pedal spindle and pick a wrench that matches. The Jaswill and groword carry both sizes, while the Pawfly has no 9/16 inch jaw."
       ]
     },
     {
       "title": "Leverage",
       "paragraphs": [
-        "A longer handle multiplies force, and a stuck pedal needs it. A 320 mm tool does the work with less effort than a short one.",
-        "Penetrating oil on the threads helps, and a firm steady pull is better than a jerk."
+        "A longer handle multiplies the force you apply, and a stuck pedal needs it. A 320 mm tool does the work with less effort than a short one.",
+        "Penetrating oil on the threads helps, and a firm steady pull is better than a jerk. Check that the wrench is long enough to push with your body weight."
       ]
     },
     {
       "title": "How tight to go",
       "paragraphs": [
-        "Pedals need roughly hand-tight plus a firm pull, not a torque number. Pedaling tightens them further.",
-        "Add a light film of grease to the threads when installing so the next removal is easy."
+        "Pedals need roughly hand-tight plus a firm pull, not a torque number. Pedaling tightens them further, so there is no need to crank on the handle.",
+        "Add a light film of grease to the threads when installing so the next removal is easy. Check both pedals again after the first short ride."
+      ]
+    },
+    {
+      "title": "Carrying size",
+      "paragraphs": [
+        "A 320 mm handle does not fit a seat bag, so it lives in the garage. The 15, 16 and 17 mm offset tools are lighter and easier to carry for roadside work.",
+        "Decide whether you swap pedals at home or on the road, and choose handle length on that basis. Check the handle length against the space in your seat bag."
       ]
     }
   ],
@@ -277,27 +284,27 @@ export const bestTorqueWrenchesForBicyclePedals: BestArticle = {
           [
             "Seized pedal",
             "Jaswill 4 in 1 Pedal Wrench",
-            "320 mm leverage"
+            "320 mm handle gives the most leverage here"
           ],
           [
             "Seized pedal, softer grip",
             "groword 4 in 1 Pedal Wrench",
-            "320 mm with PVC grip"
+            "Same 320 mm leverage with a PVC coated grip"
           ],
           [
             "Tight frame clearance",
             "Nainsect Double Sided Pedal Wrench",
-            "Offset handle"
+            "Offset slanted handle keeps knuckles clear"
           ],
           [
             "Also doing cranks",
             "Pawfly 3 in 1 Pedal Wrench",
-            "Crank puller opening"
+            "Crank puller and bottom bracket openings in one tool"
           ],
           [
-            "Easy pedals, low cost",
+            "Easy pedals, occasional use",
             "Mantain Double Sided Pedal Wrench",
-            "Basic and inexpensive"
+            "Basic 15, 16 and 17 mm jaws at the lowest cost"
           ]
         ]
       }
@@ -307,11 +314,11 @@ export const bestTorqueWrenchesForBicyclePedals: BestArticle = {
       "cards": [
         {
           "label": "Long",
-          "text": "The Jaswill, groword and Pawfly are 320 mm and give strong leverage but do not fit a seat bag."
+          "text": "The Jaswill, groword and Pawfly are 320 mm and give strong leverage for stuck pedals, but they do not fit a seat bag. They are best for garage use."
         },
         {
           "label": "Short",
-          "text": "The Nainsect and Mantain are easier to carry but give less pull."
+          "text": "The Nainsect and Mantain are easier to carry and have three jaw sizes, but they give less pull. They suit pedals that already turn freely."
         }
       ],
       "note": "Default to a 320 mm tool for home use."
@@ -321,11 +328,11 @@ export const bestTorqueWrenchesForBicyclePedals: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A long handle, thick steel and a jaw that seats fully."
+          "text": "A long handle, thick steel and a jaw that seats fully on the flats, so the force goes into the pedal and not into rounding the spindle."
         },
         {
           "label": "In this comparison",
-          "text": "The Jaswill 4 in 1 matches all three."
+          "text": "The Jaswill 4 in 1 matches all three, with a 320 mm handle, 5 mm thick steel and 15 mm and 9/16 inch jaws, plus hex sockets."
         }
       ]
     },
@@ -334,11 +341,11 @@ export const bestTorqueWrenchesForBicyclePedals: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You do your own crank and bottom bracket work, where the Pawfly saves buying tools."
+          "text": "You do your own crank and bottom bracket work, where the Pawfly saves buying separate tools with its 16 mm and 24 mm openings."
         },
         {
           "label": "Save if",
-          "text": "You only swap pedals now and then, where the Mantain is enough."
+          "text": "You only swap pedals now and then, where the Mantain with 15, 16 and 17 mm jaws is enough."
         }
       ]
     }
@@ -346,26 +353,30 @@ export const bestTorqueWrenchesForBicyclePedals: BestArticle = {
   "faq": [
     {
       "q": "Do pedals need a torque wrench?",
-      "a": "Not usually. Roughly hand-tight plus a firm pull on the wrench is enough, and pedaling tightens them further."
+      "a": "Not usually. Roughly hand-tight plus a firm pull on a pedal wrench is enough, and pedaling tightens them further. Grease the threads when you install them so they come off easily next time, and recheck after a short ride."
     },
     {
       "q": "Which way does the left pedal turn?",
-      "a": "The left pedal is reverse threaded, so it loosens clockwise when facing the crank."
+      "a": "The left pedal is reverse threaded, so it loosens clockwise when facing the crank. The right pedal uses a normal thread. Remember to turn the wrench toward the back of the trike to loosen on both sides."
     },
     {
       "q": "What size is a pedal wrench?",
-      "a": "Most pedals use 15 mm flats. Some older pedals use 9/16 inch."
+      "a": "Most pedals use 15 mm flats, and some older pedals use 9/16 inch. The Jaswill and groword carry both. The Nainsect and Mantain add 16 and 17 mm jaws. Check the flats on your spindle before you buy."
     },
     {
       "q": "Why does a long handle help?",
-      "a": "It multiplies the force you apply, which helps with a seized pedal."
+      "a": "It multiplies the force you apply, which helps with a seized pedal. The 320 mm handles on the Jaswill, groword and Pawfly do the job with less effort than a short tool. A steady firm pull works better than a jerk."
     },
     {
       "q": "Should I grease the threads?",
-      "a": "Yes, a thin film of grease on the threads makes the next removal easier."
+      "a": "Yes, a thin film of grease on the threads makes the next removal easier. Apply it to clean threads when installing the pedal. This matters most on a trike that sits outside or gets washed often."
+    },
+    {
+      "q": "Can a pedal wrench do other jobs?",
+      "a": "Some can. The Pawfly adds a 16 mm crank puller opening and a 24 mm bottom bracket opening, and the Jaswill and groword include 6, 8 and 10 mm hex sockets. Check that the tool covers the sizes your trike uses."
     }
   ],
-  "bottomLine": "The Jaswill 4 in 1 is the best all round pedal wrench for trike owners, thanks to its 320 mm leverage. Check your pedal flats and thread direction before you start.",
+  "bottomLine": "The Jaswill 4 in 1 is the best all round pedal wrench for trike owners, thanks to its 320 mm leverage and both 15 mm and 9/16 inch jaws. The Pawfly suits home mechanics who also work on cranks, and the Nainsect suits tight clearance. Check your pedal flats and thread direction before you start.",
   "amazonSearch": "pedal wrenches and torque tools",
   "relatedPaths": [
     "/accessories/best-bicycle-multitools-for-tricycle-riders/",

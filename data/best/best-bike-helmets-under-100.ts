@@ -143,49 +143,56 @@ export const bestBikeHelmetsUnder100: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Rotational protection",
-      "body": "We favored MIPS."
+      "title": "Impact protection",
+      "body": "We weighed MIPS, which adds a layer to reduce rotational forces, alongside the safety standard each helmet names, since a helmet should state what it was built to meet."
     },
     {
       "title": "Visibility",
-      "body": "We compared lights."
+      "body": "We compared built-in lights, tinted lenses and reflective trim, because a slow trike is easy for drivers to miss at dusk unless it carries lights."
     },
     {
-      "title": "Standards",
-      "body": "We checked named standards."
+      "title": "Ventilation",
+      "body": "We counted vents and noted liners, since a helmet that traps heat gets left in the garage on warm days."
     },
     {
-      "title": "Fit",
-      "body": "We compared adjustment."
+      "title": "Fit adjustments",
+      "body": "We noted removable liners, visors and adjustable straps, because glasses, hair and head shape change how a helmet sits and whether it stays put."
     }
   ],
   "whatToLookFor": [
     {
       "title": "MIPS",
       "paragraphs": [
-        "MIPS is a slip layer designed to reduce certain rotational forces in angled impacts.",
-        "It is an addition, not a substitute for fit."
+        "MIPS is a low-friction layer inside the helmet that lets the shell rotate slightly in an angled impact. The aim is to reduce the rotational force that reaches the head.",
+        "Look for the MIPS name on the helmet and in the title. The P2R A20 and OutdoorMaster both include MIPS, while the ILM E3-10L does not. Pick MIPS if protection is your priority and the fit is still comfortable."
       ]
     },
     {
       "title": "Built-in lights",
       "paragraphs": [
-        "Helmet lights add visibility but are small.",
-        "Check runtime and charging."
+        "A helmet with lights adds visibility without a separate bike mount, and a head height light is easy for drivers to spot. Battery or USB charging is needed, so lights are only useful when charged.",
+        "The P2R A20 has a USB rear light, and the ILM E3-10L has front and rear USB lights. The OutdoorMaster has no light, so add your own to the trike if you ride at dusk."
       ]
     },
     {
-      "title": "Standards",
+      "title": "Safety standards",
       "paragraphs": [
-        "Look for CPSC.",
-        "Check the sticker."
+        "A helmet standard sets minimum impact performance, and in the US the CPSC rule is the legal baseline. A helmet that names its standard tells you what testing it must meet.",
+        "The P2R A20 names CPSC 16 CFR 1203, and the ILM E3-10L names four standards. The OutdoorMaster does not name one, so look for a standard sticker inside the helmet before buying."
       ]
     },
     {
-      "title": "Fit",
+      "title": "Fit and sizing",
       "paragraphs": [
-        "A helmet should sit level.",
-        "Use the liners and dial."
+        "A helmet only protects if it sits level, snug and low on the forehead. A loose helmet shifts in a crash, and a tight one causes pressure points that make riders stop wearing it.",
+        "Measure your head around the widest part above the eyebrows, then compare with the size chart. The P2R A20 gives no size numbers, so check the maker's chart or adjustment range before buying."
+      ]
+    },
+    {
+      "title": "Ventilation and liners",
+      "paragraphs": [
+        "More vents move air across the scalp, which matters in summer, while thicker liners add warmth and fill gaps. Removable liners let you adjust fit and wash sweat.",
+        "The OutdoorMaster has 25 vents and two liner thicknesses, the P2R A20 has 23, and the ILM E3-10L has 10. If you ride in heat, prefer more vents."
       ]
     }
   ],
@@ -200,19 +207,19 @@ export const bestBikeHelmetsUnder100: BestArticle = {
         ],
         "rows": [
           [
-            "MIPS and a rear light",
-            "P2R A20",
-            "Both in one."
+            "Protection and a rear light",
+            "P2R A20 MIPS Bike Helmet",
+            "MIPS, CPSC standard and a USB rear light"
           ],
           [
-            "Front and rear lights",
-            "ILM E3-10L",
-            "Lights at both ends."
+            "Front and rear lights for city streets",
+            "ILM E3-10L Helmet with LED Lights",
+            "Front and rear USB lights with a tinted lens"
           ],
           [
-            "MIPS and ventilation",
-            "OutdoorMaster",
-            "25 vents."
+            "MIPS and ventilation, adding your own lights",
+            "OutdoorMaster MIPS Cycling Helmet",
+            "MIPS, 25 vents and two liners"
           ]
         ]
       }
@@ -222,25 +229,25 @@ export const bestBikeHelmetsUnder100: BestArticle = {
       "cards": [
         {
           "label": "MIPS",
-          "text": "The P2R and OutdoorMaster add MIPS."
+          "text": "The P2R A20 MIPS Bike Helmet and OutdoorMaster MIPS Cycling Helmet add a rotational impact layer. Both have many vents, but the OutdoorMaster has no built-in light and names no standard."
         },
         {
           "label": "Lights",
-          "text": "The ILM and P2R add lights."
+          "text": "The ILM E3-10L Helmet with LED Lights has front and rear lights, a tinted lens and four named standards. It has no MIPS and only ten vents, so it is warmer."
         }
       ],
-      "note": "Choose MIPS first, then add lights."
+      "note": "Choose MIPS if protection matters most, and lights if you ride at dusk."
     },
     {
       "heading": "For Dusk Riders Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Rear light and reflective trim."
+          "text": "Look for a rear light, reflective trim and a named safety standard, since a slow trike needs to be seen as well as protected."
         },
         {
           "label": "In this comparison",
-          "text": "The P2R A20."
+          "text": "The P2R A20 MIPS Bike Helmet combines MIPS, CPSC and a USB rear light. The ILM E3-10L adds a front light and a tinted lens."
         }
       ]
     },
@@ -249,11 +256,11 @@ export const bestBikeHelmetsUnder100: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you want a better-known brand."
+          "text": "You ride at dusk or want MIPS plus lights, where the P2R A20 MIPS Bike Helmet combines both without a separate bike light."
         },
         {
           "label": "Save if",
-          "text": "your rides are short and in daylight."
+          "text": "You already have lights on the trike, where the OutdoorMaster MIPS Cycling Helmet gives MIPS and 25 vents for less fuss."
         }
       ]
     }
@@ -261,26 +268,26 @@ export const bestBikeHelmetsUnder100: BestArticle = {
   "faq": [
     {
       "q": "Does MIPS matter?",
-      "a": "It adds a layer for rotation."
+      "a": "MIPS is designed to reduce rotational forces in angled impacts, which are common in falls. It adds a layer inside the helmet and can slightly change fit. If it is within your budget and fits, it is a sensible extra."
     },
     {
-      "q": "Are helmet lights enough?",
-      "a": "No, use a bike light."
+      "q": "Are helmet lights enough on their own?",
+      "a": "They help, but they do not replace trike lights. A helmet light sits at head height and points where you look. Add bike lights and reflectors too, and charge the helmet lights before each ride."
     },
     {
-      "q": "Which fits glasses?",
-      "a": "The ILM and OutdoorMaster."
+      "q": "Which helmet fits glasses best?",
+      "a": "It depends on your frames, but the OutdoorMaster's removable visor and two liners give more fit options. Try glasses on with the chin strap adjusted, and check the temples do not press against the helmet."
     },
     {
-      "q": "Which is cooler?",
-      "a": "The OutdoorMaster."
+      "q": "Which helmet is coolest for summer?",
+      "a": "The OutdoorMaster has 25 vents and the P2R A20 has 23, so both move more air than the ILM E3-10L with 10. Ventilation helps, but also pick the lightest liner and a light helmet color."
     },
     {
-      "q": "Is CPSC required?",
-      "a": "Yes in the US."
+      "q": "Is CPSC certification required?",
+      "a": "In the US, bicycle helmets sold must meet the CPSC standard. The P2R A20 names CPSC 16 CFR 1203, and the ILM E3-10L names four standards. The OutdoorMaster names none, so look for a sticker inside before buying."
     }
   ],
-  "bottomLine": "The P2R A20 is the best all-round pick, with MIPS and a CPSC claim. Choose the ILM for lights at both ends.",
+  "bottomLine": "The P2R A20 MIPS Bike Helmet is the best overall pick, with MIPS, a named CPSC standard and a USB rear light. Choose the ILM E3-10L if you want front and rear lights, or the OutdoorMaster for MIPS and 25 vents when you add your own lights.",
   "amazonSearch": "bike helmets under $100",
   "relatedPaths": [
     "/accessories/best-bike-helmets-under-50/",

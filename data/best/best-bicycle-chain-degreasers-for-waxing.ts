@@ -176,48 +176,55 @@ export const bestBicycleChainDegreasersForWaxing: BestArticle = {
   "howWeChose": [
     {
       "title": "Degreasing role",
-      "body": "Only products that actually remove grease made the list."
+      "body": "We looked for products that strip old oil and grime completely, since wax only bonds to bare metal and any leftover lube weakens the film on a trike chain."
     },
     {
       "title": "Residue",
-      "body": "Plant based or low residue fluids ranked higher for wax prep."
+      "body": "We weighed how clean each fluid leaves the chain, because a degreaser that leaves an oily film defeats the purpose of stripping before a wax treatment."
     },
     {
-      "title": "Volume",
-      "body": "Trike chains are long, so more fluid helped."
+      "title": "Fluid volume",
+      "body": "We compared bottle size, since a long trike chain soaks up more fluid than a bicycle chain and a small bottle may need a refill before one strip is done."
     },
     {
-      "title": "Tools",
-      "body": "Scrubbers and brushes support a thorough strip."
+      "title": "Included tools",
+      "body": "We noted scrubbers, brushes and gloves, because a rider who owns none needs them to work the fluid into the links without removing the chain."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Residue free",
+      "title": "Residue free finish",
       "paragraphs": [
-        "Wax cannot bond over oil or soap film.",
-        "Rinse and dry fully after degreasing."
+        "A degreaser works by dissolving oil so it can be rinsed or wiped away. If it leaves a film behind, that film sits between the metal and the wax and stops the wax bonding.",
+        "Pick a plant based or biodegradable fluid like the Park Tool ChainBrite, then wipe and let the chain dry fully. Run a clean rag along the links and check it shows no dark oil before waxing."
       ]
     },
     {
       "title": "Fluid volume",
       "paragraphs": [
-        "A long chain needs several rinses.",
-        "A 16 fl oz bottle goes further than a 10 oz one."
+        "A long trike chain absorbs a lot of degreaser, especially if you dunk or flood it. A bottle that suits a bicycle chain can run low before the trike chain is clean.",
+        "Compare bottle size to your chain. The Park Tool CB-4 is 16 fl oz, while the Ultrafashs and focopot kits hold 10 oz each, so expect to use more of the smaller bottles on a long chain."
       ]
     },
     {
       "title": "Scrubber use",
       "paragraphs": [
-        "A scrubber speeds the strip.",
-        "Make sure the drive wheels can spin free."
+        "A chain scrubber holds fluid against the links while you turn the cranks, forcing it into the pins and rollers. Without one, you need a brush and patience to reach packed grime.",
+        "The Park Tool CG-2.4 includes a scrubber and gear brush. Remember the cranks must turn freely, so lift the drive wheels first, especially on a trike with a coaster brake."
       ]
     },
     {
       "title": "Skip the kit lube",
       "paragraphs": [
-        "Kit lubes are for wet routines.",
-        "Leave them unopened if you will wax."
+        "Some cleaning kits include a small bottle of wet lube. If you are about to wax the chain, that oil would undo the stripping you just did and contaminate the wax.",
+        "Leave the bundled lube in the box. The Ultrafashs and focopot kits both include one, but their degreaser and scrubbers are the useful parts before waxing. Use the lube only if you change your mind."
+      ]
+    },
+    {
+      "title": "Drying before wax",
+      "paragraphs": [
+        "Wax does not stick to a wet chain, because trapped solvent or water forms a barrier and creates rust under the film. A degreased chain needs time to dry completely.",
+        "Let the chain air dry for several hours or overnight, or dry it with a rag and gentle warmth. The Park Tool CB-4 notes thorough drying before wax, so plan for that gap in your routine."
       ]
     }
   ],
@@ -232,24 +239,24 @@ export const bestBicycleChainDegreasersForWaxing: BestArticle = {
         ],
         "rows": [
           [
-            "Own a scrubber already",
+            "You already own a scrubber",
             "Park Tool CB-4 Bio ChainBrite 16 fl oz",
-            "Larger bottle of plant based fluid"
+            "Large bottle of plant based degreaser"
           ],
           [
-            "No tools yet",
+            "No tools yet, want a complete set",
             "Park Tool CG-2.4 Chaingang Cleaning System",
-            "Scrubber and brush included"
+            "Scrubber, gear brush and ChainBrite fluid together"
           ],
           [
-            "Used chain with packed grit",
+            "A used chain with packed grit",
             "focopot Bike Cleaning Kit with Degreaser and Scrubber",
-            "Extra brushes and floss"
+            "Chain brush, scrubber and ten gear floss strips"
           ],
           [
-            "Starter set with gloves",
+            "A starter set with gloves",
             "Ultrafashs 7 Piece Chain Cleaner Kit",
-            "Compact tool kit"
+            "Degreaser, scrubber, gloves and five floss strips"
           ]
         ]
       }
@@ -259,25 +266,25 @@ export const bestBicycleChainDegreasersForWaxing: BestArticle = {
       "cards": [
         {
           "label": "Fluid only",
-          "text": "Park Tool CB-4 gives the most degreaser."
+          "text": "The Park Tool CB-4 Bio ChainBrite 16 fl oz is the largest bottle and suits owners who already have brushes. It gives the most fluid for a long trike chain, but no tools."
         },
         {
           "label": "Kit",
-          "text": "CG-2.4, Ultrafashs and focopot include tools."
+          "text": "The Park Tool CG-2.4, Ultrafashs and focopot kits bundle scrubbers and brushes, so you can strip the chain in place. They carry less fluid, and the Ultrafashs and focopot include a wet lube you should skip."
         }
       ],
-      "note": "Most owners should buy a kit once, then refill with CB-4."
+      "note": "Buy fluid only if you own tools, and a kit if you are starting from scratch."
     },
     {
       "heading": "For New Trike Chains Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A degreaser that removes factory grease fully."
+          "text": "Look for a degreaser that leaves no oily residue, plus a way to scrub, since wax needs a bare, dry chain from the start."
         },
         {
           "label": "In this comparison",
-          "text": "CB-4 or CG-2.4 clear factory grease well."
+          "text": "The Park Tool CB-4 Bio ChainBrite 16 fl oz is a plant based degreaser, and the Park Tool CG-2.4 Chaingang adds a scrubber and gear brush for in place stripping."
         }
       ]
     },
@@ -286,38 +293,38 @@ export const bestBicycleChainDegreasersForWaxing: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You will strip often, because CB-4 in 16 fl oz refills the most economical per use."
+          "text": "You strip chains regularly or have several trikes, where the Park Tool CB-4 Bio ChainBrite 16 fl oz gives more fluid per bottle."
         },
         {
           "label": "Save if",
-          "text": "You strip once, and a kit like Ultrafashs covers everything."
+          "text": "You will strip a chain once, where the Ultrafashs 7 Piece Chain Cleaner Kit gives fluid, scrubber and gloves together at a lower total cost."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Why strip a new chain before wax?",
-      "a": "Factory grease blocks wax from reaching the rollers, so strip it first."
+      "q": "Why strip a new chain before waxing?",
+      "a": "New chains ship with factory grease that protects them in the box. Wax cannot bond over it. Stripping with a degreaser leaves clean metal so the wax coats the pins and rollers and lasts longer between top ups."
     },
     {
-      "q": "Do I need to dry the chain?",
-      "a": "Yes. A damp chain will not take wax, so let it dry or warm it."
+      "q": "Do I need to dry the chain after degreasing?",
+      "a": "Yes. Wax does not bond to a damp chain, and trapped moisture can rust the links under the film. Wipe the chain, then let it air dry for several hours before applying wax or placing it in a melt pot."
     },
     {
-      "q": "Can I use the lube in the kit?",
-      "a": "Not before wax. Keep it for later wet use."
+      "q": "Can I use the lube that comes in the kit?",
+      "a": "Skip it if you plan to wax. The Ultrafashs and focopot kits include a wet lube, but oil on the chain prevents the wax from bonding. Use the degreaser and tools, and keep the lube for another bike."
     },
     {
       "q": "Is this realistic for older riders?",
-      "a": "It takes some hand work. Consider a bike shop for the first strip. See /adult-tricycle-maintenance-checklist/."
+      "a": "Yes, if you choose tools that avoid chain removal. A scrubber kit like the Park Tool CG-2.4 works in place, though you must lift the drive wheels. Wear gloves, work on a bench and take breaks, since turning the cranks repeatedly can tire hands."
     },
     {
-      "q": "Where does waxing fit the routine?",
-      "a": "See /adult-tricycle-chain-cleaning-and-lubrication/ for timing."
+      "q": "Where does waxing fit in the routine?",
+      "a": "Strip and dry the chain first, then apply wax by drip or melt. After that, wipe and top up as needed between full waxes. Plan the strip as an occasional job, not a monthly task, once the first wax is on."
     }
   ],
-  "bottomLine": "Park Tool CB-4 is the best fluid, CG-2.4 is the best complete system, and the kits help if you need tools. After stripping, look at /accessories/best-bicycle-chain-waxing-kits/.",
+  "bottomLine": "The Park Tool CB-4 Bio ChainBrite 16 fl oz is the best overall pick if you already own brushes, while the Park Tool CG-2.4 Chaingang suits owners starting from scratch. Choose the focopot for heavily soiled chains and the Ultrafashs for a starter set with gloves.",
   "amazonSearch": "degreasers for chain waxing",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-waxing-kits/",

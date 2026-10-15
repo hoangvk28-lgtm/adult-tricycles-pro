@@ -231,48 +231,55 @@ export const bestFatTireAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Tire width and wheel size",
-      "body": "Width from 3.0 to 4 inches and 18 to 20 inch wheels set comfort and grip on loose surfaces."
+      "body": "Width from 3.0 to 4 inches and wheels from 18 to 20 inches set the comfort and grip on loose ground, so we compared both before looking at anything else."
     },
     {
       "title": "Suspension and brakes",
-      "body": "Fat tires need good brakes and suspension to be controlled on rough ground."
+      "body": "Wide tires roll over rough ground faster, so they need good brakes and some suspension to stay controlled, and we weighed those together with the tire choice."
     },
     {
-      "title": "Weight and fold",
-      "body": "Heavier fat-tire frames are harder to lift, so we noted weight and folding."
+      "title": "Weight and folding",
+      "body": "Heavier fat-tire frames are harder to lift into a car or shed, so we noted stated weight and whether the frame folds before ranking storage-friendly picks."
     },
     {
       "title": "Stated load and range",
-      "body": "We looked at stated payload, battery and motor figures and flagged where they are missing."
+      "body": "We looked at stated payload, battery and motor figures and flagged where they are missing, so you can see which numbers you still need to confirm."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Tire width and pressure",
       "paragraphs": [
-        "A wider tire runs at lower pressure and spreads load, which smooths bumps. A 4 inch tire grips loose gravel better than a 3 inch one.",
-        "Check the tire size printed on the trike and match the pressure to the sidewall."
+        "A wider tire runs at lower pressure and spreads the load over a bigger patch, which smooths bumps and grips loose gravel. A 4 inch tire floats better than a 3 inch one but weighs more.",
+        "Check the tire size printed on the sidewall of the trike you are considering, and set pressure within the range printed there."
       ]
     },
     {
       "title": "Weight and rolling resistance",
       "paragraphs": [
-        "Wide tires add drag on smooth pavement, so a low-power motor feels slower.",
-        "If you ride mostly paved paths, a narrower fat tire is enough."
+        "Wide tires add drag on smooth pavement, so a low-power motor feels slower and range shortens. The effect is most noticeable on paved paths with the tire pressure kept low.",
+        "If you ride mostly on pavement, a narrower fat tire such as 3.0 inch is enough, and a stronger motor helps make up the difference."
       ]
     },
     {
       "title": "Suspension and brakes",
       "paragraphs": [
-        "Front suspension softens bumps but adds weight and service. Hydraulic discs give strong braking with a light lever pull.",
-        "Check that brakes include a parking function for slopes."
+        "Front suspension softens bumps but adds weight and a service point, while hydraulic discs give strong braking with a light lever pull. Fat tires roll fast on rough ground, so braking matters.",
+        "Check that the trike includes a parking function for slopes, such as the MOONCOOL 750W and TINIOVER River do."
       ]
     },
     {
       "title": "Overall width and storage",
       "paragraphs": [
-        "Wider tires make a wider trike. Measure gates, doors and your shed.",
-        "A folding frame helps with transport but adds a joint to check."
+        "Wider tires make a wider rear axle, and a wide trike will not fit every gate, door or shed. A 4 inch tire adds more width than a 3 inch one.",
+        "Measure your narrowest gate and storage space before ordering, and note that a folding frame helps with transport but adds a joint to check."
+      ]
+    },
+    {
+      "title": "Payload and rider posture",
+      "paragraphs": [
+        "A stated payload tells you how much rider and cargo the frame is rated for, and a semi-recumbent posture changes how the trike feels in turns and when mounting.",
+        "Compare the payload, such as 500 lb on the TINIOVER River, to your weight plus cargo, and try an unusual posture before committing."
       ]
     }
   ],
@@ -289,17 +296,22 @@ export const bestFatTireAdultTricycles: BestArticle = {
           [
             "Loose gravel or packed sand",
             "KAKIGO 20 x 4 Inch Two-Seater Electric Trike",
-            "Widest 20 by 4 inch tires"
+            "Widest 20 by 4 inch tires with a differential"
           ],
           [
             "Cracked pavement and park paths",
             "TINIOVER River Full Suspension Electric Trike",
-            "Full suspension smooths bumps"
+            "Full suspension smooths bumps and a torque sensor eases starts"
           ],
           [
             "Mixed pavement and grass",
             "MOONCOOL 750W Fat Tire Electric Trike",
             "20 by 3.0 inch tires and hydraulic discs"
+          ],
+          [
+            "Long rides with tight parking",
+            "ESKUTE T300 MAX Electric Tricycle",
+            "Up to 80 miles and one-touch reverse"
           ]
         ]
       }
@@ -309,11 +321,11 @@ export const bestFatTireAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Wider tires",
-          "text": "The KAKIGO 20 by 4 inch trike grips and cushions more but is wider and heavier."
+          "text": "The KAKIGO 20 by 4 inch trike grips and cushions more on loose ground, but it is wider, arrives in two packages and weighs more to move."
         },
         {
           "label": "Lighter weight",
-          "text": "The NARRAK 350W Folding Fat Tire Electric Trike weighs 74 lb with 18 by 3.0 inch tires and folds."
+          "text": "The NARRAK 350W Folding Fat Tire Electric Trike weighs 74 lb with 18 by 3.0 inch tires and folds, but its 350W motor is the weakest here."
         }
       ],
       "note": "Most riders should default to 3 inch tires unless they ride loose surfaces."
@@ -323,11 +335,11 @@ export const bestFatTireAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Suspension, a 3 inch or wider tire and hydraulic discs for control."
+          "text": "Some suspension, a 3 inch or wider tire and hydraulic discs for control, so cracks and patched asphalt do not shake the rider or upset the handling."
         },
         {
           "label": "In this comparison",
-          "text": "The ESKUTE T300 MAX has 5-layer shock absorption and triple disc brakes, and the TINIOVER River has full suspension."
+          "text": "The ESKUTE T300 MAX has 5-layer shock absorption and triple disc brakes, and the TINIOVER River has full suspension with triple hydraulic brakes."
         }
       ]
     },
@@ -336,11 +348,11 @@ export const bestFatTireAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride long distances; the ESKUTE T300 MAX offers up to 80 miles and reverse, and the TINIOVER River adds full suspension."
+          "text": "You ride long distances or carry heavy loads; the ESKUTE T300 MAX offers up to 80 miles and reverse, and the TINIOVER River adds full suspension and a 500 lb payload."
         },
         {
           "label": "Save if",
-          "text": "You ride short, flat routes; the NARRAK 350W Folding Fat Tire Electric Trike has the lowest power but the lightest frame."
+          "text": "You ride short, flat routes; the NARRAK 350W Folding Fat Tire Electric Trike has the lowest power but the lightest frame and folds for storage."
         }
       ]
     }
@@ -348,26 +360,30 @@ export const bestFatTireAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Are fat tire trikes good on sand?",
-      "a": "Wide tires help on packed sand, but deep soft sand can stop any trike. Use the widest tire and low pressure within the sidewall range."
+      "a": "Wide tires help on packed sand, but deep soft sand can stop any trike. Use the widest tire you can, run low pressure within the sidewall range and expect to need motor help for any soft patches."
     },
     {
       "q": "Do fat tires make a trike harder to pedal?",
-      "a": "They add rolling resistance on smooth pavement, which is why most are electric. A motor makes up the difference."
+      "a": "They add rolling resistance on smooth pavement, which is why most of these are electric. A motor makes up the difference, though pavement range is lower than on a narrower tire."
     },
     {
       "q": "Will a fat tire trike fit through a gate?",
-      "a": "Measure first. Wider tires mean a wider rear axle, and a 4 inch tire adds more width than a 3 inch one."
+      "a": "Measure first. Wider tires mean a wider rear axle, and a 4 inch tire adds more width than a 3 inch one. The KAKIGO is the widest pick here, so check your narrowest gate against its body."
     },
     {
       "q": "Is 18 inch enough?",
-      "a": "It works for smooth paths, but a 20 inch wheel rolls over bumps better. Check ground clearance for rough surfaces."
+      "a": "It works for smooth paths, as on the NARRAK, but a 20 inch wheel rolls over bumps better. Check ground clearance and wheel size if you expect rough surfaces."
     },
     {
       "q": "What tire pressure should I use?",
-      "a": "Use the range printed on the sidewall, and set the same number on all three tires."
+      "a": "Use the range printed on the sidewall, and set the same number on all three tires. Lower pressure within that range smooths the ride, while higher pressure rolls easier on pavement."
+    },
+    {
+      "q": "Which fat tire trike suits a beginner?",
+      "a": "The MOONCOOL 750W is the gentlest on beginners, with 3.0 inch tires, hydraulic discs, a parking brake and reverse for easy low-speed handling."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best 20 Inch Fat Tire Adult Tricycles",
       "productId": "mooncool-750w-fat-tire-electric-trike",
@@ -378,7 +394,7 @@ export const bestFatTireAdultTricycles: BestArticle = {
       "text": "None of these picks uses 26 inch wheels, so no pick fits. If you want the larger wheel for a longer stride or rolling over bumps, read the [wheel size guide](/adult-tricycle-wheel-sizes-20-24-26-inch/) and check the frame step height."
     }
   ],
-  "bottomLine": "The MOONCOOL 750W is the safest all-round fat tire pick. Choose the KAKIGO for the widest tires, the TINIOVER River for suspension and payload, or the ESKUTE for range. Measure your gates first.",
+  "bottomLine": "The MOONCOOL 750W is the safest all-round fat tire pick, with 20 by 3.0 inch tires, hydraulic discs, a parking brake and reverse. Choose the KAKIGO for the widest tires, the TINIOVER River for suspension and payload, or the ESKUTE T300 MAX for range. Measure your gates first.",
   "amazonSearch": "fat-tire adult tricycles",
   "relatedPaths": [
     "/electric-tricycles/best-fat-tire-electric-tricycles/",

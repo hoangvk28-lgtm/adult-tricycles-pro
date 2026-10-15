@@ -188,48 +188,55 @@ export const bestStorageShedsForTricyclesUnder300: BestArticle = {
   "howWeChose": [
     {
       "title": "Door and floor fit",
-      "body": "Door width and floor depth were weighed against a typical trike's rear width and basket."
+      "body": "We weighed door width and floor depth against a typical trike's rear width and basket. A shed the trike cannot roll into easily ends up unused, whatever its other strengths."
     },
     {
       "title": "Cover material",
-      "body": "Cover weight, ripstop construction and UV treatment were compared for lasting weather protection."
+      "body": "We compared cover weight, layering and UV treatment, from the 210D tent cover to the triple-layer 240g shelter cover. A thin cover fades and tears first, so it sets how many seasons you get."
     },
     {
       "title": "Frame strength",
-      "body": "Steel pole diameter and roof fasteners were assessed for wind resistance."
+      "body": "We assessed steel pole diameter and roof fasteners, including the 1-1/2 inch poles on the ADVANCE OUTDOOR shelters. A trike stored outside needs a frame that holds its shape when wind catches the fabric."
     },
     {
       "title": "Airflow",
-      "body": "Vents and roll-up doors were considered because trapped moisture rusts a trike over winter."
+      "body": "We considered vents and roll-up doors because trapped moisture and condensation are hard on chains and brakes over winter. Airflow is what separates a shelter from a sealed bag."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Door opening width",
       "paragraphs": [
-        "A trike's width at the rear axle, plus any basket, must clear the door with room to spare. Bike tents are often too narrow.",
-        "Measure the widest point of your trike, then add 6 inches of clearance."
+        "A trike is wider at the rear axle than a bike, and a basket adds more. Tents built for bikes often have a narrow opening, which makes the door the first thing to check.",
+        "Measure the widest point of your trike, then add 6 inches of clearance. Compare that number with the door width, since the 31.5 inch tent body is tight for wide trikes."
       ]
     },
     {
       "title": "Floor and anchoring",
       "paragraphs": [
-        "Fabric sheds usually have no floor, and without anchors a gust can move or lift the whole frame.",
-        "Use ground stakes or weights, and lay a pad or boards under the trike to keep tires off wet soil."
+        "Fabric shelters usually have no floor, and a gust can shift or lift the whole frame if it is not tied down. The bigger the shelter, the more wind it catches.",
+        "Plan on ground stakes or weights from day one. Lay a pad or boards under the trike so the tires stay off wet soil."
       ]
     },
     {
       "title": "Cover weight and layers",
       "paragraphs": [
-        "A heavier, multi-layer cover resists UV and tearing longer than a thin one. 240g beats 200g on durability.",
-        "Check the weight in grams and look for ripstop or reinforced seams."
+        "A heavier, multi-layer cover resists UV and tearing longer than a thin one. The 240g triple-layer cover is a step up from the 200g cover on the Aoxun.",
+        "Compare the stated weight in grams and look for ripstop construction. Press the seams where roof fasteners attach, because that is where covers wear first."
       ]
     },
     {
       "title": "Ventilation",
       "paragraphs": [
-        "A sealed tent traps humidity, which causes condensation and rust on chains and brakes.",
-        "Choose a model with vents or roll-up doors you can open on warm days."
+        "A sealed tent traps humidity, which leads to condensation on a chain, brakes and cables. Vents and roll-up doors let that moisture leave.",
+        "Choose a model with vents or doors you can open on warm days. Wipe the chain before you park the trike for the season."
+      ]
+    },
+    {
+      "title": "Height and turning room",
+      "paragraphs": [
+        "A trike cannot be lifted or leaned like a bike, so it has to be rolled in and turned around inside. Interior height and depth decide whether that is easy.",
+        "Compare the stated dimensions with your trike's length and basket height, such as the 7 ft interior of the Aoxun, and leave room to walk around it."
       ]
     }
   ],
@@ -245,23 +252,23 @@ export const bestStorageShedsForTricyclesUnder300: BestArticle = {
         "rows": [
           [
             "One trike, narrow corner",
-            "HAPPY TRAVEL Tent",
-            "86.5 x 31.5 x 73 inch footprint"
+            "HAPPY TRAVEL Bike Storage Shed Tent",
+            "Small 86.5 x 31.5 x 73 inch footprint with a full-length zip door"
           ],
           [
-            "Trike plus gear",
-            "ADVANCE OUTDOOR 6x8",
-            "Two doors and a 6x8 ft floor"
+            "Trike plus spare gear",
+            "ADVANCE OUTDOOR 6x8 Portable Storage Shelter",
+            "Doors at both ends and a 6x8 ft floor for accessories"
           ],
           [
-            "Windy or exposed yard",
-            "Aoxun 6x8x7",
-            "Roof fasteners and 7 ft height"
+            "Tall trike or basket",
+            "Aoxun 6x8x7 Portable Storage Shed Tent",
+            "The 7 ft interior leaves headroom above a rear basket"
           ],
           [
-            "Several vehicles",
-            "ADVANCE OUTDOOR 8x14",
-            "Peak roof and long floor"
+            "Several vehicles or equipment",
+            "ADVANCE OUTDOOR 8x14 Steel Peak Roof Shelter",
+            "Peak roof sheds water over the 8 x 14 ft floor"
           ]
         ]
       }
@@ -271,25 +278,25 @@ export const bestStorageShedsForTricyclesUnder300: BestArticle = {
       "cards": [
         {
           "label": "Narrow tent",
-          "text": "The HAPPY TRAVEL tent saves ground but demands that the trike fit with little margin."
+          "text": "The HAPPY TRAVEL tent saves ground and sets up with clips, but the trike must fit with little margin. It suits a narrow trike and a tight corner, and little else."
         },
         {
           "label": "Roomy shelter",
-          "text": "The ADVANCE OUTDOOR and Aoxun shelters give turning room and space for accessories."
+          "text": "The ADVANCE OUTDOOR 6x8 and Aoxun 6x8x7 give turning room and space for a pump, helmet and spare parts. The 8x14 adds more floor but catches more wind."
         }
       ],
-      "note": "Most trike owners should choose the 6x8 size unless the yard truly is tight."
+      "note": "Most trike owners should choose a 6x8 size unless the yard truly is tight."
     },
     {
       "heading": "For Damp Climates Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Vents, a waterproof cover and a way to keep tires off wet ground."
+          "text": "Vents on the doors, a waterproof multi-layer cover and a way to keep the tires off wet ground, such as boards or a pad under the trike."
         },
         {
           "label": "In this comparison",
-          "text": "The ADVANCE OUTDOOR 6x8 has double-layer vents on each door and a triple-layer cover."
+          "text": "The ADVANCE OUTDOOR 6x8 has double-layer vents on each door and a triple-layer 240g cover, so it handles condensation and rain better than the single-door HAPPY TRAVEL tent."
         }
       ]
     },
@@ -298,11 +305,11 @@ export const bestStorageShedsForTricyclesUnder300: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want a rigid, lockable shed, as in the best storage sheds for adult tricycles guide."
+          "text": "You want a rigid, lockable shed, as covered in the best storage sheds for adult tricycles guide, or you need the 8x14 shelter for a bigger household."
         },
         {
           "label": "Save if",
-          "text": "You store the trike seasonally, where the HAPPY TRAVEL tent is enough."
+          "text": "You store the trike seasonally or in a mild climate, where the HAPPY TRAVEL tent is enough and takes about 3 minutes to clip together."
         }
       ]
     }
@@ -310,26 +317,30 @@ export const bestStorageShedsForTricyclesUnder300: BestArticle = {
   "faq": [
     {
       "q": "Will my trike fit a bike storage tent?",
-      "a": "Only if the opening is wider than the trike's rear axle plus any basket. Measure first, since many bike tents are under 32 inches wide."
+      "a": "Only if the opening is wider than the trike's rear axle plus any basket. Measure the widest point first, because bike tents like the 31.5 inch HAPPY TRAVEL are narrow. Add about 6 inches of clearance so you can roll the trike in without scraping."
     },
     {
       "q": "Do fabric sheds need anchoring?",
-      "a": "Yes. Without stakes or weights, wind can shift or lift the frame, especially on larger shelters."
+      "a": "Yes. Without stakes or weights, wind can shift or lift the frame, and larger shelters like the 8x14 catch the most air. Anchor every leg and recheck after storms. Lay boards or a pad inside so the tires stay off the ground."
     },
     {
       "q": "Will a tent stop rust?",
-      "a": "It keeps rain off but can trap moisture. Choose vented models and wipe the chain before storage."
+      "a": "It keeps rain off, but a sealed cover can trap moisture and condensation. Choose vented models such as the ADVANCE OUTDOOR shelters and open the doors on dry days. Wipe the chain and brakes before storing the trike for winter."
     },
     {
       "q": "How long does the cover last?",
-      "a": "Heavier multi-layer covers last longer in sun, and any fabric will wear over several seasons."
+      "a": "Heavier multi-layer covers hold up longer in sun, and the 240g ADVANCE OUTDOOR cover outweighs the 200g Aoxun cover. Any fabric wears over several seasons, so check seams and fasteners each spring before the first long rain."
     },
     {
       "q": "Is a rigid shed better?",
-      "a": "It lasts longer and can lock, but costs more. The accessories guide covers those options."
+      "a": "It lasts longer and can lock, but it costs more and needs a firm base. The accessories guide covers those options. A fabric shelter suits seasonal storage, renters and anyone who needs to move the structure."
+    },
+    {
+      "q": "Can two people roll a trike in without scraping?",
+      "a": "Yes if the door is wide and the floor is deep enough to turn. The 6x8 shelters have doors at both ends, so you can roll through. Measure the trike with its basket first and leave room to walk around it."
     }
   ],
-  "bottomLine": "The HAPPY TRAVEL tent is right for a narrow trike in a small space, and the ADVANCE OUTDOOR 6x8 is the better all-round shelter. Measure your trike first and anchor whatever you buy.",
+  "bottomLine": "The ADVANCE OUTDOOR 6x8 is the best all-round shelter here because of its two vented doors and heavy cover. The HAPPY TRAVEL tent suits a narrow trike in a tight corner, and the 8x14 is for households with several rides. Measure your trike, then anchor whatever you buy.",
   "amazonSearch": "storage sheds under $300",
   "relatedPaths": [
     "/accessories/best-storage-sheds-for-adult-tricycles/",

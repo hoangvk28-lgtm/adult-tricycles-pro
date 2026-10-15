@@ -187,48 +187,55 @@ export const bestLongFoldingBikeLocks: BestArticle = {
   "howWeChose": [
     {
       "title": "Length first",
-      "body": "We ranked locks by the length they open to, since trike frames need reach."
+      "body": "We ranked locks by the length they open to, from the Seatylock 43.3 inch circumference to the ICOCOPRO 2.8 ft, since a wide trike frame needs reach."
     },
     {
       "title": "Plate and link build",
-      "body": "Plate thickness, rivets and any security certification were compared."
+      "body": "We compared plate thickness, rivets and security certification, such as the 6.5mm Seatylock plates against 4.99mm ROCKBROS links, because the rivets are where folding locks fail."
     },
     {
       "title": "Positioning ease",
-      "body": "Rotating links and bracket quality counted for riders with limited hand strength."
+      "body": "Rotating links and bracket quality counted for riders with limited hand strength, since a stiff lock is hard to bend around a trike frame."
     },
     {
       "title": "Carry weight",
-      "body": "Weight and folded size were weighed against how often the lock is carried."
+      "body": "Weight and folded size were weighed against how often the lock is carried, from the 0.71 kg ICOCOPRO that folds to 5.2 x 6.7 cm to the heavier Seatylock."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Open length",
       "paragraphs": [
-        "Open length is the distance the lock spans when fully extended, and it limits what you can loop.",
-        "Measure your trike's axle, wheel and post path with a tape. Pick a lock with at least 6 inches to spare."
+        "Open length is the distance the lock spans when fully extended. A folding lock is a chain of rigid plates, so it can only make a loop as large as its open length allows.",
+        "Measure your trike's axle, wheel and post path with a tape. Pick a lock with at least 6 inches to spare, such as the Seatylock at 43.3 inches or the ROCKBROS at 4.9 ft."
       ]
     },
     {
-      "title": "Plate thickness",
+      "title": "Plate thickness and rivets",
       "paragraphs": [
-        "Thicker plates resist cutting and prying. A 6.5mm plate is much tougher than a 3mm bar.",
-        "Check the plate thickness and any named security level in the product title or bullets."
+        "Thicker plates resist cutting and prying, and anti tamper rivets stop attackers from drilling the joints apart. A thin plate or exposed rivet is the weak link in any folding design.",
+        "Check plate thickness and any named security level in the product title or bullets. The Seatylock has 6.5mm plates and Sold Secure Gold, while the Master Lock uses stainless rivets."
       ]
     },
     {
       "title": "Link flexibility",
       "paragraphs": [
-        "Links that rotate easily make it simpler to lock around a trike's frame.",
-        "Try the lock on your trike when it arrives, and return it if it will not close around your usual setup."
+        "Links that rotate easily make it simpler to lock around a trike's frame and an awkward post. A stiff lock forces you to find a straight path.",
+        "Try the lock on your trike when it arrives and return it if it will not close around your usual setup. The ROCKBROS links rotate 360 degrees, which helps with angled posts."
       ]
     },
     {
       "title": "Mounting on a trike",
       "paragraphs": [
-        "A trike has few round tubes, so a bracket may not fit.",
-        "Measure the tube you plan to mount it on, or carry the lock in a basket bag instead."
+        "A trike has few round tubes, so a bracket may not fit. Straps and brackets also hold the lock rigid on the frame to stop rattling.",
+        "Measure the tube you plan to mount it on, or carry the lock in a basket bag instead. The Seatylock has a frame bracket set, and the ROCKBROS includes a bracket and straps."
+      ]
+    },
+    {
+      "title": "Folded size and carry",
+      "paragraphs": [
+        "A folded lock still occupies space on the frame or in a bag, and a long lock folds into a heavy bundle. Light locks are easy to bring but give up reach and plate thickness.",
+        "Compare folded size and weight with your carrying method. The ICOCOPRO is 0.71 kg and folds to 5.2 x 6.7 cm, while the Seatylock is noted as heavier to carry."
       ]
     }
   ],
@@ -245,17 +252,17 @@ export const bestLongFoldingBikeLocks: BestArticle = {
           [
             "Wide trike, post some distance away",
             "Seatylock Folding Bike Lock Sold Secure Gold",
-            "43.3 inch reach"
+            "Opens to a 43.3 inch circumference"
           ],
           [
             "Awkward or angled posts",
             "ROCKBROS 4.9 ft Folding Bike Lock",
-            "360 degree rotating links"
+            "360 degree rotating links reach odd angles"
           ],
           [
             "Known brand and painted frame",
             "Master Lock Hardened Steel Folding Lock",
-            "Vinyl cover and warranty"
+            "Vinyl cover and limited lifetime warranty"
           ],
           [
             "Quick stops, light carry",
@@ -270,11 +277,11 @@ export const bestLongFoldingBikeLocks: BestArticle = {
       "cards": [
         {
           "label": "Certified",
-          "text": "The Seatylock carries a Sold Secure Gold level, a clear signal of tested resistance."
+          "text": "The Seatylock carries a Sold Secure Gold level and 6.5mm hardened plates, a clear signal of tested resistance for outdoor parking."
         },
         {
           "label": "Uncertified",
-          "text": "The ROCKBROS, Master Lock and ICOCOPRO locks do not state a certification, so judge by plate thickness."
+          "text": "The ROCKBROS, Master Lock and ICOCOPRO do not name a security certification, so judge them by plate or link thickness and the quality of the rivets."
         }
       ],
       "note": "Choose the Seatylock for overnight parking unless weight is a concern."
@@ -284,11 +291,11 @@ export const bestLongFoldingBikeLocks: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "At least 4.9 feet of open length because the frame and axle are long."
+          "text": "At least 4.9 feet of open length, or a 43 inch circumference, because the frame and rear axle are long and a short lock cannot loop both."
         },
         {
           "label": "In this comparison",
-          "text": "The Seatylock at 43.3 inches and the ROCKBROS at 4.9 feet give the best reach."
+          "text": "The Seatylock at 43.3 inches and the ROCKBROS at 4.9 feet give the best reach, with the Seatylock offering heavier plates and certification."
         }
       ]
     },
@@ -297,11 +304,11 @@ export const bestLongFoldingBikeLocks: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "The trike sits outside overnight. The Seatylock's certification and thick plates justify the cost."
+          "text": "The trike sits outside overnight. The Seatylock certification, 6.5mm plates and anti tamper rivets justify the cost of a heavier lock and a key-only opening."
         },
         {
           "label": "Save if",
-          "text": "You make short stops. The ICOCOPRO lock is enough."
+          "text": "You make short daytime stops. The ICOCOPRO at 0.71 kg with three keys is enough, as long as you never leave the trike overnight."
         }
       ]
     }
@@ -309,26 +316,30 @@ export const bestLongFoldingBikeLocks: BestArticle = {
   "faq": [
     {
       "q": "How long should a folding lock be for a trike?",
-      "a": "Longer than a bike lock, ideally 43 inches or more of open circumference. Measure your parking spot first."
+      "a": "Longer than a bike lock, ideally a 43 inch circumference or more. Measure from your parking spot to the post with the trike in place, then add a few inches so the lock does not strain."
     },
     {
       "q": "Are folding locks as strong as U-locks?",
-      "a": "Thick plate models can be strong, but the rivets are the weak point. Look for anti tamper rivets and a named security level."
+      "a": "Thick plate models can be strong, but the rivets are the weak point. Look for anti tamper rivets and a named security level, as the Seatylock offers, and treat thin links as a deterrent for short stops."
     },
     {
       "q": "Can I mount a folding lock on a trike?",
-      "a": "If you have a round tube of suitable size. Otherwise carry it in a basket bag."
+      "a": "If you have a round tube of suitable size, yes. The Seatylock and ROCKBROS include brackets, but a trike has few round tubes, so otherwise carry the lock in a basket bag."
     },
     {
       "q": "Should I add a chain?",
-      "a": "For long reach, yes. See /accessories/best-long-bike-chain-locks-for-tricycles/ for chain options."
+      "a": "For long reach, yes. A folding lock plus a chain covers frame and wheel. See /accessories/best-long-bike-chain-locks-for-tricycles/ for chain options that add several feet of reach."
     },
     {
       "q": "Which lock for a first time owner?",
-      "a": "The Seatylock for outdoor parking, or the Master Lock if you want a familiar brand. Read /adult-tricycle-locking-and-theft-prevention/ first."
+      "a": "The Seatylock for outdoor parking, or the Master Lock if you want a familiar brand. Read /adult-tricycle-locking-and-theft-prevention/ first and check the open length against your frame."
+    },
+    {
+      "q": "Will a folding lock scratch my frame?",
+      "a": "It can. The Master Lock has a vinyl cover that protects paint, but plates and rivets on others can rub where they touch. Fold the lock away from the frame when you ride."
     }
   ],
-  "bottomLine": "The Seatylock Folding Bike Lock with its 43.3 inch reach is the best long folding lock for trikes. The ROCKBROS 4.9 ft is a good mid length option, and the ICOCOPRO is for quick stops. Always test the loop on your trike when it arrives.",
+  "bottomLine": "The Seatylock Folding Bike Lock with its 43.3 inch reach is the best long folding lock for trikes. The ROCKBROS 4.9 ft suits awkward posts, the Master Lock suits a known brand, and the ICOCOPRO suits quick stops. Test the loop on your trike when it arrives.",
   "amazonSearch": "long folding locks",
   "relatedPaths": [
     "/accessories/best-folding-bike-locks-for-tricycles/",

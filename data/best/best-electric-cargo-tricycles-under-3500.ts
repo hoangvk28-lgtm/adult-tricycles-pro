@@ -159,48 +159,55 @@ export const bestElectricCargoTricyclesUnder3500: BestArticle = {
   "howWeChose": [
     {
       "title": "Torque and climbing",
-      "body": "Torque in Nm and a stated motor spec were weighted over watts alone."
+      "body": "We weighed torque in Nm and the stated motor rating over raw watts, because a loaded cargo trike lives or dies by how it pulls from a stop on a slope."
     },
     {
       "title": "Battery and safety",
-      "body": "Removable batteries with UL 2849 certification ranked ahead of uncertified packs."
+      "body": "Removable batteries carrying UL 2849 certification ranked ahead of uncertified packs, since a heavy pack charged indoors should meet a recognized electrical safety standard."
     },
     {
       "title": "Cargo flexibility",
-      "body": "Baskets, modular kits and reverse each add real hauling convenience."
+      "body": "Baskets at both ends, modular kits and powered reverse each earn credit because they change what a rider can actually haul and how easily the trike parks."
     },
     {
-      "title": "Honest evidence",
-      "body": "Newer products are labeled as unproven rather than endorsed on specifications alone."
+      "title": "Evidence behind the brand",
+      "body": "These makers are newer with short records, so we flagged that plainly and judged each pick on stated hardware rather than reputation we cannot confirm."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Torque for loaded starts",
       "paragraphs": [
-        "A cargo trike has a heavy starting load, and torque in Nm is what gets it rolling on a slope.",
-        "Look for a torque figure of 80Nm or more if you face daily hills with a full basket."
+        "Torque, measured in Newton meters, is the twisting force the motor applies at the wheel. Watts describe sustained output, but torque is what moves a heavy trike from a standstill on a slope.",
+        "A rider hauling groceries or a pet up a daily hill should look for a torque figure near 80Nm or higher, and read the motor line carefully because some titles quote only watts."
       ]
     },
     {
       "title": "Reverse on a three-wheeler",
       "paragraphs": [
-        "A trike cannot pivot in place, so a powered reverse takes strain out of garages and parking spots.",
-        "Check the product title or specs for a reverse function, not just assume it is present."
+        "A trike cannot pivot in place the way a walking rider can, so backing out of a garage or a tight parking spot means pushing a heavy machine by hand. A powered reverse does that work for you.",
+        "Confirm the reverse function in the product title or spec lines before buying, and ask whether it only works below a low speed, as some do."
       ]
     },
     {
       "title": "Passenger seats and limits",
       "paragraphs": [
-        "An optional passenger seat changes handling and brake demands, so only use one the maker approves for that exact model.",
-        "Never carry young children without a clearly approved seat and restraint, and check local rules."
+        "An added passenger seat moves weight toward the rear, changes braking distance and raises the load on the frame. That is why the seat must be approved by the maker for that exact trike.",
+        "Never carry a young child without a clearly approved seat and restraint, check the stated weight limit, and look up your local rules before riding with a passenger."
       ]
     },
     {
       "title": "Battery size and real range",
       "paragraphs": [
-        "Watt hours come from volts times amp hours, and cargo and hills shorten the quoted range.",
-        "Plan around about half the quoted miles for heavy or hilly use."
+        "Watt hours come from volts multiplied by amp hours, so a 48V 20Ah pack holds about 960Wh. Quoted mileage assumes light loads and gentle assist, and cargo plus hills pull the real number down fast.",
+        "Plan around roughly half the quoted miles for heavy or hilly routes, and measure your longest round trip before deciding how big a pack you need."
+      ]
+    },
+    {
+      "title": "Separate packages and assembly",
+      "paragraphs": [
+        "Modular kits and accessories often arrive in separate boxes from the frame. That matters because the safety parts, such as mirrors or seat hardware, may not be on the trike when it first shows up.",
+        "Allow extra assembly time, keep every box until the build is finished, and do not ride until each piece has arrived and been fitted."
       ]
     }
   ],
@@ -217,22 +224,22 @@ export const bestElectricCargoTricyclesUnder3500: BestArticle = {
           [
             "Steep hills and heavy loads",
             "ESKUTE T300 MAX",
-            "80Nm torque and a 20.8Ah battery"
+            "80Nm torque and a large 20.8Ah battery to keep going"
           ],
           [
             "Daily groceries and pets",
-            "MOONCOOL 750W",
-            "Front and rear baskets with reverse"
+            "MOONCOOL 750W Folding Electric Trike",
+            "Front and rear baskets with a reverse function"
           ],
           [
             "Adding kits or a seat later",
-            "TINIOVER Creek Pro",
-            "Modular system with 90 N·m torque"
+            "TINIOVER Creek Pro Folding Electric Tricycle",
+            "Modular system with 90 N·m torque and seat option"
           ],
           [
             "Tight garage parking",
             "ESKUTE T300 MAX",
-            "One-touch reverse"
+            "One-touch reverse takes the strain out of backing up"
           ]
         ]
       }
@@ -242,11 +249,11 @@ export const bestElectricCargoTricyclesUnder3500: BestArticle = {
       "cards": [
         {
           "label": "Ready to ride",
-          "text": "The ESKUTE and MOONCOOL 750W are complete setups with baskets or ready hardware, so assembly is simpler."
+          "text": "The ESKUTE T300 MAX and MOONCOOL 750W arrive as complete setups, the ESKUTE with triple disc brakes and the MOONCOOL with baskets, so assembly is simpler and the hauling gear is already there."
         },
         {
           "label": "Modular",
-          "text": "The TINIOVER Creek Pro lets you add kits over time but needs extra assembly and planning."
+          "text": "The TINIOVER Creek Pro lets you add cargo or seating kits over time, but the kits ship in separate packages and ask for extra assembly and planning before the first ride."
         }
       ],
       "note": "Most buyers should choose a ready-to-ride trike unless they have a specific kit in mind."
@@ -256,11 +263,11 @@ export const bestElectricCargoTricyclesUnder3500: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A passenger seat explicitly approved for the exact model, with a stated weight limit."
+          "text": "A passenger seat that the maker approves for the exact model, with a stated weight limit and a backrest, plus brakes strong enough for the added load."
         },
         {
           "label": "In this comparison",
-          "text": "The TINIOVER Creek Pro offers an optional passenger seat and backrest kit, subject to its limits."
+          "text": "The TINIOVER Creek Pro offers an optional passenger seat and backrest kit, subject to its limits. The other two picks do not name a passenger option, so check before assuming one."
         }
       ]
     },
@@ -269,11 +276,11 @@ export const bestElectricCargoTricyclesUnder3500: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You regularly carry near the limit or need a long documented record beyond the ESKUTE and TINIOVER. See the [cargo e-trike pillar](/electric-tricycles/best-cargo-electric-tricycles/)."
+          "text": "You regularly carry near the frame limit or want a longer documented record than the ESKUTE and TINIOVER offer. See the [cargo e-trike pillar](/electric-tricycles/best-cargo-electric-tricycles/) for the wider field."
         },
         {
           "label": "Save if",
-          "text": "You mostly shop and run errands, where the MOONCOOL 750W already has what you need."
+          "text": "You mostly shop and run errands on moderate ground, where the MOONCOOL 750W already brings baskets, reverse and a removable 20Ah battery."
         }
       ]
     }
@@ -281,26 +288,30 @@ export const bestElectricCargoTricyclesUnder3500: BestArticle = {
   "faq": [
     {
       "q": "Is 80Nm of torque enough for hills?",
-      "a": "It is a strong figure for an adult trike and helps a loaded machine climb without strain. Very steep long grades will still need pedaling."
+      "a": "For an adult cargo trike it is a strong figure, and it helps a loaded machine climb without bogging down. Very steep, long grades will still call for some pedaling, so match the torque to your steepest regular hill."
     },
     {
       "q": "Can I carry a child on a passenger seat?",
-      "a": "Only use a passenger seat approved by the manufacturer for that model, and be very cautious about young children. Check weight limits and local rules first."
+      "a": "Only use a passenger seat the manufacturer approves for that model, and be very cautious with young children. Read the weight limit, confirm a proper restraint, and check your local rules before putting anyone on the back."
     },
     {
-      "q": "Which has the best range?",
-      "a": "The ESKUTE's 20.8Ah battery is the largest here, with the maker quoting up to 80 miles in pedal assist. Real range with cargo will be lower."
+      "q": "Which of these has the best range?",
+      "a": "The ESKUTE T300 MAX has the largest battery here at 48V 20.8Ah, and the maker quotes up to 80 miles in pedal assist. Real range with cargo, hills and throttle use will be noticeably lower than that."
     },
     {
-      "q": "Are these brands proven?",
-      "a": "They are newer, with short records, so we call them unproven. Check warranty terms and parts support before buying."
+      "q": "Are these brands established?",
+      "a": "All three are newer names with short records, so treat them as promising but not yet tested by time. Read the warranty terms, ask about parts support and confirm who handles repairs before you buy."
     },
     {
-      "q": "Do I need extra tools for the modular kits?",
-      "a": "The TINIOVER kits arrive in separate packages, so allow extra assembly time and follow the maker's instructions."
+      "q": "Do the modular kits need extra tools or time?",
+      "a": "The TINIOVER kits arrive in separate packages, so allow extra assembly time and follow the maker's instructions closely. Keep all the boxes and do not ride until every seat or cargo part is fitted."
+    },
+    {
+      "q": "Why does reverse matter on a cargo trike?",
+      "a": "Three wheels cannot pivot in place, and a loaded trike is heavy to push backward by hand. A powered reverse, found on the ESKUTE and MOONCOOL, makes garages and tight parking far less tiring."
     }
   ],
-  "bottomLine": "The ESKUTE T300 MAX is the strongest all-round cargo pick for hills and reverse. Choose the MOONCOOL 750W for baskets and simplicity, or the TINIOVER Creek Pro for modular flexibility. Treat each as promising but unproven.",
+  "bottomLine": "The ESKUTE T300 MAX is the strongest all-round cargo pick, with 80Nm of torque, the biggest battery and one-touch reverse for hills and tight parking. Choose the MOONCOOL 750W for everyday baskets and simpler hauling, or the TINIOVER Creek Pro if you want modular kits later. Treat each as promising rather than established.",
   "amazonSearch": "electric cargo trikes under $3,500",
   "relatedPaths": [
     "/electric-tricycles/best-cargo-electric-tricycles/",

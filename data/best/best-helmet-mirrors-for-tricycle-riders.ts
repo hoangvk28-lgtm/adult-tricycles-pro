@@ -185,48 +185,55 @@ export const bestHelmetMirrorsForTricycleRiders: BestArticle = {
   "howWeChose": [
     {
       "title": "Mount security",
-      "body": "A mirror that moves loses its value, so mounting came first."
+      "body": "A mirror that wobbles or slides is worse than none, so we ranked how each one attaches: 3M tape, O-ring base, or a clip to glasses or a visor."
     },
     {
       "title": "Adjustment range",
-      "body": "Pivot points and rotation let you aim around your helmet."
+      "body": "We counted pivot points and rotation, such as the PIDZOOM dual ball joints and 75 degree tilt, because you must aim around your own helmet and ear."
     },
     {
       "title": "Field of view",
-      "body": "We compared mirror size and convex versus flat."
+      "body": "We compared mirror size and the convex versus flat choice, since a bigger surface shows more of the lane but can also block part of your forward view."
     },
     {
       "title": "Vibration",
-      "body": "Trikes shake more than bikes, so a stable arm matters."
+      "body": "A trike rattles more than a bike on rough pavement, so we favored arms that hold position, such as the linked arm on the EVT, over loose single joints."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Convex or flat",
       "paragraphs": [
-        "Convex mirrors show more of the road but shrink distances, while flat mirrors show less with true distance.",
-        "Pick convex for crowded streets and flat if you misjudge distance."
+        "A convex mirror curves outward, so it shows a wider slice of road but makes following traffic look smaller and farther away. A flat mirror shows true distance but a narrower slice.",
+        "If you ride crowded streets, a convex surface such as the PIDZOOM 2.6 inch option helps. If you misjudge gaps easily, choose flat and check the PIDZOOM 3 inch flat version."
       ]
     },
     {
       "title": "Mount type",
       "paragraphs": [
-        "Tape and O-ring mounts suit helmets, while clips suit glasses and visors.",
-        "Check which mount fits your helmet vents or frames."
+        "Tape and O-ring bases fasten to the helmet shell or vents, while clips grip sunglass frames or a helmet visor. Each style puts the mirror at a slightly different distance from your eye.",
+        "Look at your helmet before ordering. Tape needs a clean flat patch, an O-ring needs a vent opening, and a clip needs frames thick enough to grip without slipping."
       ]
     },
     {
-      "title": "Pivots",
+      "title": "Pivot points and locking",
       "paragraphs": [
-        "More pivot points let you aim a mirror around your own ear and helmet.",
-        "Count the joints and confirm they lock firmly."
+        "Each joint lets you move the mirror one more direction, so a model with several pivots lets you aim around a bulky helmet or glasses arm. The trade-off is that every joint can also loosen on bumps.",
+        "Count the joints in the product photos, such as the three pivots on the Saillong, and tighten each one by hand. The mirror should stay put when you tap the helmet."
       ]
     },
     {
       "title": "Upright vs recumbent posture",
       "paragraphs": [
-        "Recumbent riders sit back and look forward, so the mirror angle differs from an upright rider.",
-        "Test the aim in the riding position, not just standing."
+        "An upright rider looks forward with the head level, while a recumbent rider sits back and low, so the same mirror angle shows a different part of the road. A reclined head also sits closer to the seat back.",
+        "Sit on your trike with the helmet on and adjust the mirror in the real riding position, not standing beside it. Check that no part of the arm touches a headrest."
+      ]
+    },
+    {
+      "title": "Weight and sweat on glasses",
+      "paragraphs": [
+        "Clip-on mirrors rest on your frames, so extra weight pulls the glasses down the nose and sweat makes clips creep. Light parts and a firm clamp reduce both problems on a long ride.",
+        "Choose a lightweight clip such as the aluminum rod Saillong if you wear glasses, and test it on your own frames. A clip that slides during a head turn is too loose."
       ]
     }
   ],
@@ -243,22 +250,22 @@ export const bestHelmetMirrorsForTricycleRiders: BestArticle = {
           [
             "Vented helmet",
             "PIDZOOM Helmet Mirror",
-            "O-ring base or tape"
+            "O-ring base or tape fits shells and vents"
           ],
           [
             "Glasses or visor",
             "Take A Look Compact Mirror",
-            "Clips on, no batteries"
+            "Clips on and needs no batteries"
           ],
           [
-            "Spare or two bikes",
+            "Spare or two trikes",
             "Saillong Eyeglass Mirror Set",
-            "Two mirrors"
+            "Two clip-on mirrors in one pack"
           ],
           [
-            "Largest view",
+            "Largest mirror surface",
             "EVT Safe Zone Helmet Mirror",
-            "2.25 inch mirror"
+            "2.25 inch mirror on a linked arm"
           ]
         ]
       }
@@ -268,25 +275,25 @@ export const bestHelmetMirrorsForTricycleRiders: BestArticle = {
       "cards": [
         {
           "label": "Helmet",
-          "text": "The PIDZOOM and EVT attach to the shell and stay put."
+          "text": "The PIDZOOM and EVT attach to the helmet shell, so they stay in one place and do not depend on frame shape. They also stay clear of your glasses."
         },
         {
           "label": "Glasses",
-          "text": "The Take A Look and Saillong clip to frames and move with your eye."
+          "text": "The Take A Look and Saillong clip to frames or a visor and sit close to your eye. They move with your head, but clip fit depends on frames."
         }
       ],
-      "note": "Most riders should default to a helmet mount unless they wear glasses all the time."
+      "note": "Most riders should default to a helmet mount unless they wear glasses or a visor all the time."
     },
     {
       "heading": "For Recumbent Riders Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A mirror with enough pivots to aim from a reclined position."
+          "text": "Enough pivot points to aim the mirror from a reclined position, plus a tilt range wide enough to clear a headrest and still see behind you."
         },
         {
           "label": "In this comparison",
-          "text": "The PIDZOOM offers dual ball joints and a 75 degree tilt."
+          "text": "The PIDZOOM offers dual ball joints, 360 degree rotation and a 75 degree tilt, which gives a reclined rider the most room to find a usable angle."
         }
       ]
     },
@@ -295,11 +302,11 @@ export const bestHelmetMirrorsForTricycleRiders: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride busy roads, where the PIDZOOM stable mount and convex option pay off."
+          "text": "You ride busy roads, where the PIDZOOM secure mount, dual joints and convex option keep the view steady and wide. A moving mirror on traffic is a real risk."
         },
         {
           "label": "Save if",
-          "text": "You ride quiet paths, where the Saillong pair is enough."
+          "text": "You ride quiet paths, where the Saillong two-pack covers a spare or a second trike, or the Take A Look clips on with no batteries."
         }
       ]
     }
@@ -307,26 +314,30 @@ export const bestHelmetMirrorsForTricycleRiders: BestArticle = {
   "faq": [
     {
       "q": "Does a helmet mirror work on a recumbent trike?",
-      "a": "Yes, but aim it from your riding position, since a reclined view differs from standing."
+      "a": "Yes, but set it from your real riding position. A reclined head sees a different angle than a standing one, so adjust it while seated and check that the arm clears the headrest."
     },
     {
       "q": "Will tape damage my helmet?",
-      "a": "Tape can leave residue, so clean it and test fit first. An O-ring base avoids adhesive."
+      "a": "Tape can leave residue on the shell, so clean the spot first and test the fit before pressing it down. An O-ring base such as the PIDZOOM option avoids adhesive entirely if you have a vent to use."
     },
     {
       "q": "Convex or flat mirror?",
-      "a": "Convex shows more but shrinks distance. Flat is true to size but narrower."
+      "a": "Convex shows more of the road but shrinks distances, so cars look farther than they are. Flat is true to size but narrower. Most trike riders on busy streets prefer convex and learn to allow extra gap."
     },
     {
       "q": "Can I wear glasses with a helmet mirror?",
-      "a": "Yes, a helmet mirror stays clear of the frames. A glasses mirror clips onto them."
+      "a": "Yes. A helmet mirror such as the PIDZOOM or EVT stays clear of the frames, and a glasses mirror like the Take A Look or Saillong clips onto them. Choose by which part you wear all the time."
     },
     {
       "q": "How do I stop the mirror from shaking?",
-      "a": "Tighten the thumb nuts, and use a model with a stable arm."
+      "a": "Tighten the thumb nuts or joints by hand, and choose a model with a firm linked arm or dual joints. Trikes vibrate over rough pavement, so recheck the aim after the first few minutes of a ride."
+    },
+    {
+      "q": "Are wraparound sunglasses a problem for clip mirrors?",
+      "a": "They can be. The Take A Look is noted as too short for wraparound sunglasses, so a clip needs a straight frame arm. Try the clip on your own glasses before relying on it."
     }
   ],
-  "bottomLine": "The PIDZOOM is the best all-round helmet mirror. The EVT suits a large view, and the Take A Look suits glasses wearers.",
+  "bottomLine": "The PIDZOOM Helmet Mirror is the best all-round pick for its tape or O-ring mounting and dual ball joints. Choose the EVT Safe Zone for the largest mirror surface, the Take A Look for glasses or visors, and the Saillong set for a spare.",
   "amazonSearch": "helmet mirrors",
   "relatedPaths": [
     "/accessories/best-mirrors-for-adult-tricycles/",

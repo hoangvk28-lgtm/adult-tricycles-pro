@@ -220,48 +220,59 @@ export const bestBicycleBellsWithAirtagHolders: BestArticle = {
   "howWeChose": [
     {
       "title": "Tag security",
-      "body": "We favored bells where the tag compartment closes firmly and looks like a normal bell cap."
+      "body": "We favored bells where the tag compartment closes firmly and looks like a normal bell cap, so a thief does not spot a tracker on the handlebar."
     },
     {
       "title": "Weather sealing",
-      "body": "A rubber ring or waterproof claim ranked higher, since a trike lives outside."
+      "body": "A rubber ring or waterproof claim ranked higher, since a trike lives outside and a tracker that gets wet stops reporting its position."
     },
     {
       "title": "Bar fit",
-      "body": "Wider stated bar ranges ranked higher because trike bars vary in size."
+      "body": "Wider published bar ranges ranked higher because trike bars vary in size, and a clamp that does not fit makes the bell useless."
     },
     {
       "title": "Sound",
-      "body": "A clear ring that a distracted walker can hear mattered, balanced against shared-path manners."
+      "body": "A clear ring that a distracted walker can hear mattered, balanced against shared-path manners where a very loud bell startles people."
+    },
+    {
+      "title": "Materials",
+      "body": "Brass, copper, aluminum and plastic bodies differ in tone, weight and durability, so we noted each one and how it suits a trike."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Compartment and seal",
       "paragraphs": [
-        "An AirTag is not waterproof on its own, so the bell needs a rubber ring around the compartment.",
-        "After fitting the tag, look at the seam and press the cap to confirm it seats flat."
+        "An AirTag is not waterproof on its own, so the bell needs a rubber ring around the compartment. Without it, rain can reach the tag and its battery.",
+        "After fitting the tag, look at the seam and press the cap to confirm it seats flat. Recheck the seal each time you open it."
       ]
     },
     {
       "title": "How the cap opens",
       "paragraphs": [
-        "Some bells twist open, others unscrew from the top. A cap that is hard to open means you will skip battery changes.",
-        "Practice opening it once at home before fitting it to the bar."
+        "Some bells twist open, others unscrew from the top. A cap that is hard to open means you will skip battery changes and the tracker goes dead.",
+        "Practice opening it once at home before fitting it to the bar, and hold the metal part as the maker advises."
       ]
     },
     {
       "title": "Bar diameter",
       "paragraphs": [
-        "Many tracker bells fit only 22.2 mm bars, while trike bars may be thicker.",
-        "Measure the bar and read the stated range before ordering."
+        "Many tracker bells fit only 22.2 mm bars, while trike bars may be thicker. A bell that does not close around the bar will slip or never mount.",
+        "Measure the bar with calipers or a tape and read the published range before ordering."
       ]
     },
     {
       "title": "What a tracker cannot do",
       "paragraphs": [
-        "An AirTag helps you find a trike that left its spot, but it does not stop a thief.",
-        "Pair it with a lock and register the serial number."
+        "An AirTag helps you find a trike that left its spot, but it does not stop a thief. It only reports location when other phones are near.",
+        "Pair it with a lock and register the serial number, so recovery has a record behind it."
+      ]
+    },
+    {
+      "title": "Bell tone",
+      "paragraphs": [
+        "Metal bells ring sharp and carry far, while plastic bells give a gentler tone. Decibel numbers vary from 85 to over 100 on these picks.",
+        "Choose a louder metal bell for busy roads, and a quieter one for shared paths where you pass walkers closely."
       ]
     }
   ],
@@ -277,28 +288,28 @@ export const bestBicycleBellsWithAirtagHolders: BestArticle = {
         "rows": [
           [
             "Thick comfort bar, up to 31.8 mm",
-            "CITYWAY AirTag Bell",
+            "CITYWAY AirTag Bike Bell",
             "Soft and hard pads fit 22.2 to 31.8 mm"
           ],
           [
             "Standard 0.87 to 1.25 in bar",
-            "ROCKBROS AirTag Bell",
+            "ROCKBROS AirTag Bike Bell",
             "Wide range and sealed ring"
           ],
           [
             "Slim 20 to 22.2 mm bar",
             "RHEOLITH AirTag Bell",
-            "Built for slim bars at 43 g"
+            "Built for slim bars and weighs 43 g"
           ],
           [
             "22.2 mm bar, quiet use",
-            "AIRBELL",
-            "Gentle 85 dB ring"
+            "AIRBELL Bicycle Bell for AirTag",
+            "Gentle 85 dB ring on a light body"
           ],
           [
             "Brass look wanted",
-            "LESOVI Classic",
-            "Brass alloy body"
+            "LESOVI Classic Brass AirTag Bell",
+            "Brass alloy body with a sealed ring"
           ]
         ]
       }
@@ -308,11 +319,11 @@ export const bestBicycleBellsWithAirtagHolders: BestArticle = {
       "cards": [
         {
           "label": "Metal body",
-          "text": "The ROCKBROS, CITYWAY, LESOVI and RHEOLITH use copper, brass or aluminum for a sharper, louder ring."
+          "text": "The ROCKBROS, CITYWAY, LESOVI and RHEOLITH use copper, brass or aluminum for a sharper, louder ring that carries on busy roads."
         },
         {
           "label": "Plastic body",
-          "text": "The AIRBELL uses fiber-reinforced plastic for a lighter, quieter bell."
+          "text": "The AIRBELL uses fiber-reinforced plastic for a lighter, quieter bell that suits quiet neighborhoods and shared paths."
         }
       ],
       "note": "Metal suits most trike riders; plastic suits quiet shared paths."
@@ -322,11 +333,11 @@ export const bestBicycleBellsWithAirtagHolders: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A sealed rubber ring around the tag compartment and a cap that looks like a normal bell."
+          "text": "A sealed rubber ring around the tag compartment and a cap that looks like a normal bell, so the tracker stays dry and hidden."
         },
         {
           "label": "In this comparison",
-          "text": "The ROCKBROS and LESOVI both use a sealed rubber ring and a hidden top compartment."
+          "text": "The ROCKBROS and LESOVI both use a sealed rubber ring and a hidden top compartment, and the CITYWAY adds a waterproof, rust resistant body."
         }
       ]
     },
@@ -335,11 +346,11 @@ export const bestBicycleBellsWithAirtagHolders: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "Your bar is thick and you want pad options, which points to the CITYWAY."
+          "text": "Your bar is thick and you want pad options for a snug fit, which points to the CITYWAY with its 22.2 to 31.8 mm range."
         },
         {
           "label": "Save if",
-          "text": "Your bar is standard and you want a classic look, which the ROCKBROS covers."
+          "text": "Your bar is standard and you want a classic look, which the ROCKBROS covers with a copper alloy body and an included Allen wrench."
         }
       ]
     }
@@ -347,26 +358,30 @@ export const bestBicycleBellsWithAirtagHolders: BestArticle = {
   "faq": [
     {
       "q": "Do these bells include an AirTag?",
-      "a": "No. The bells hold a tag, but you buy the tag separately."
+      "a": "No. The bells hold a tag, but you buy the tag separately. Fit a fresh battery before you close the compartment, since you will not want to reopen it soon."
     },
     {
       "q": "Will rain damage the tag?",
-      "a": "A sealed rubber ring helps keep water out. Check the seal each time you open the cap."
+      "a": "A sealed rubber ring helps keep water out of the compartment. Check the seal each time you open the cap, and wipe the ring clean of grit before closing."
     },
     {
       "q": "Does an AirTag bell stop theft?",
-      "a": "No, it helps you locate a missing trike. Use a lock as well."
+      "a": "No, it helps you locate a missing trike. Use a lock as well, and note your trike's serial number for the police."
     },
     {
       "q": "How do I open the compartment?",
-      "a": "Most twist or unscrew the top of the bell. Follow the maker's warning about holding the metal part."
+      "a": "Most twist or unscrew the top of the bell. Follow the maker's warning about holding the metal part, and open it over a table so the tag does not drop."
     },
     {
       "q": "Which bell fits thick bars?",
-      "a": "The CITYWAY and ROCKBROS reach 31.8 mm. Measure your bar first."
+      "a": "The CITYWAY reaches 31.8 mm and the ROCKBROS reaches 1.25 inches. Measure your bar first, because the RHEOLITH and AIRBELL suit only slim 20 to 22.2 mm bars."
+    },
+    {
+      "q": "Which bell is the lightest?",
+      "a": "The RHEOLITH weighs 43 g and the AIRBELL has a light plastic body. Both suit slim bars, so check your diameter before you choose weight over fit."
     }
   ],
-  "bottomLine": "Choose the ROCKBROS for a sealed, classic-looking bell that fits most trike bars. Pick the CITYWAY for between-size bars, and the RHEOLITH or AIRBELL only if your bar is slim. Add a good lock either way.",
+  "bottomLine": "Choose the ROCKBROS for a sealed, classic-looking bell that fits most trike bars. Pick the CITYWAY for between-size bars, and the RHEOLITH or AIRBELL only if your bar is slim. Add a good lock either way, since a tracker finds a trike but does not stop its theft.",
   "amazonSearch": "bike bells with airtag holders",
   "relatedPaths": [
     "/accessories/best-bicycle-bells-for-tricycle-riders/",

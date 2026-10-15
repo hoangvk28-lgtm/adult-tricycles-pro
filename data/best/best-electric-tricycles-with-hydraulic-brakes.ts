@@ -155,49 +155,56 @@ export const bestElectricTricyclesWithHydraulicBrakes: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Hydraulic stated",
-      "body": "Each trike names hydraulic brakes in its features text, not merely disc brakes."
+      "title": "Hydraulic confirmed",
+      "body": "Each trike names hydraulic brakes in its specs, not merely disc brakes, because disc alone can mean a cable-pulled mechanical system with a firmer lever and more upkeep."
     },
     {
       "title": "Rotors and parking brake",
-      "body": "We compared rotor count, parking brake and motor cutoff, since stopping a heavy loaded trike depends on all three."
+      "body": "We compared rotor count, parking brake and motor cutoff, since stopping a heavy loaded trike on a slope depends on all three working together."
     },
     {
       "title": "Battery and range",
-      "body": "A 960Wh pack and a 13Ah pack were weighed against stopping features."
+      "body": "A 960Wh pack and a 13Ah pack were weighed against the stopping hardware, so a long range did not outrank safe braking where the two trade off."
     },
     {
       "title": "Daily use",
-      "body": "Reverse, baskets and tire width were weighed for real riding."
+      "body": "Reverse, baskets and tire width were weighed for real riding, because a trike that stops well but is awkward to park or load will still frustrate its owner."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Hydraulic vs mechanical",
       "paragraphs": [
-        "Mechanical discs use a cable; hydraulic discs use fluid. Hydraulic levers take less hand force and self-adjust as pads wear.",
-        "Look for the word hydraulic in the brake spec, since disc alone can mean either."
+        "Mechanical discs use a cable, while hydraulic discs use fluid. Hydraulic levers take less hand force and self-adjust as pads wear, which matters on a heavy electric trike.",
+        "Look for the word hydraulic in the brake spec, since disc alone can mean either, and ask if the spec is silent."
       ]
     },
     {
       "title": "Rotor count",
       "paragraphs": [
-        "More rotors means more braking surface. The NARRAK uses three rotors, and the others do not state a count.",
-        "On a heavy trike, extra rotors help on long descents."
+        "More rotors means more braking surface and more even stopping across the wheels. The NARRAK uses three rotors, and the other two picks do not state a count.",
+        "On a heavy trike, extra rotors help on long descents, so ask the maker how many wheels brake if the count is missing."
       ]
     },
     {
       "title": "Motor cutoff",
       "paragraphs": [
-        "Motor cutoff kills motor power when you pull a lever, so the brakes never fight the motor.",
-        "The MOONCOOL models state this; check any other model."
+        "Motor cutoff kills motor power when you pull a brake lever, so the brakes never have to fight the motor. Without it, a throttle-happy start can combine with braking.",
+        "The MOONCOOL TK2 Pro states this feature; check any other model before you rely on it."
       ]
     },
     {
       "title": "Parking brake",
       "paragraphs": [
-        "A parking brake holds the trike on a slope while you load or get on.",
-        "The NARRAK uses a hydraulic parking brake, and the MOONCOOL models include one."
+        "A parking brake holds the trike on a slope while you load a basket or climb on, which a hand-held lever cannot do for long. It is a real convenience for older riders.",
+        "The NARRAK uses a hydraulic parking brake, and both MOONCOOL models include one, so confirm how it is applied and released."
+      ]
+    },
+    {
+      "title": "Tire width and braking grip",
+      "paragraphs": [
+        "Wider tires put more rubber on the ground, which helps hydraulic brakes grip on loose surfaces. A 4 inch tire stops differently from a 3.0 inch tire on gravel.",
+        "Compare the tire sizes, 20 x 4 inch on the NARRAK against 20 x 3.0 inch on the MOONCOOL 750W, and match them to your surfaces."
       ]
     }
   ],
@@ -213,18 +220,18 @@ export const bestElectricTricyclesWithHydraulicBrakes: BestArticle = {
         "rows": [
           [
             "Steep slopes, heavy baskets",
-            "NARRAK 750W",
-            "Three rotors and hydraulic parking brake"
+            "NARRAK 750W Aluminum Folding Trike",
+            "Three rotors and a hydraulic parking brake"
           ],
           [
             "Mixed riding, long range",
-            "MOONCOOL TK2 Pro",
-            "Motor cutoff, parking brake, 960Wh"
+            "MOONCOOL TK2 Pro Electric Trike",
+            "Motor cutoff, parking brake and a 960Wh battery"
           ],
           [
             "Flat daily errands",
-            "MOONCOOL 750W",
-            "Hydraulic discs and reverse, simple"
+            "MOONCOOL 750W Folding Fat Tire Trike",
+            "Hydraulic discs and reverse in a simple package"
           ]
         ]
       }
@@ -234,11 +241,11 @@ export const bestElectricTricyclesWithHydraulicBrakes: BestArticle = {
       "cards": [
         {
           "label": "Hydraulic",
-          "text": "Light lever pull and self-adjusting as pads wear, but repairs need bleeding."
+          "text": "Light lever pull and self-adjusting as pads wear, which suits every trike here, but repairs need bleeding and a leak should go to a shop."
         },
         {
           "label": "Mechanical",
-          "text": "Easy cable adjustment at home but heavier lever effort, harder on weak hands."
+          "text": "Easy cable adjustment at home but heavier lever effort and more frequent tuning, which is harder on weak hands and not what any of these three uses."
         }
       ],
       "note": "Default to hydraulic on a heavy electric trike unless you do all your own repairs."
@@ -252,7 +259,7 @@ export const bestElectricTricyclesWithHydraulicBrakes: BestArticle = {
         },
         {
           "label": "In this comparison",
-          "text": "Every trike here is hydraulic, and the NARRAK and MOONCOOL models all include a parking brake."
+          "text": "Every trike here is hydraulic, and the NARRAK and MOONCOOL models all include a parking brake, so any of them cuts lever effort."
         }
       ]
     },
@@ -261,11 +268,11 @@ export const bestElectricTricyclesWithHydraulicBrakes: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride hills with a loaded basket, where the TK2 Pro motor cutoff and the NARRAK three rotors matter."
+          "text": "You ride hills with a loaded basket, where the TK2 Pro's motor cutoff and 960Wh battery or the NARRAK's three rotors earn their keep."
         },
         {
           "label": "Save if",
-          "text": "You ride flat. The MOONCOOL 750W already has hydraulic discs and a parking brake."
+          "text": "You ride flat. The MOONCOOL 750W already has hydraulic discs, a parking brake, reverse and a 20Ah removable battery."
         }
       ]
     }
@@ -273,26 +280,30 @@ export const bestElectricTricyclesWithHydraulicBrakes: BestArticle = {
   "faq": [
     {
       "q": "Are hydraulic brakes better on an electric trike?",
-      "a": "Usually, because they need less lever force and self-adjust. That is a real benefit with a heavy trike or weak hands."
+      "a": "Usually, because they need less lever force and self-adjust as pads wear. That is a real benefit with a heavy trike or weak hands, and it keeps stopping consistent over a long ride."
     },
     {
       "q": "Do hydraulic brakes need maintenance?",
-      "a": "Pads still wear and the fluid needs occasional service. A leak or air in the line should be fixed at a shop."
+      "a": "Pads still wear and the fluid needs occasional service. A leak or air in the line should be fixed at a shop, since riding with a soft lever on a loaded trike is unsafe."
     },
     {
       "q": "What is motor cutoff?",
-      "a": "It cuts motor power when you pull a brake lever, so you are not braking against the motor."
+      "a": "It cuts motor power when you pull a brake lever, so you are not braking against the motor. The MOONCOOL TK2 Pro states it, and it is worth checking on any other trike you consider."
     },
     {
       "q": "Is a hydraulic parking brake different?",
-      "a": "The NARRAK describes a hydraulic parking brake, which holds the trike on slopes. Confirm how the MOONCOOL parking brake is operated."
+      "a": "The NARRAK describes a hydraulic parking brake, which holds the trike on slopes. The MOONCOOL models also include a parking brake, so confirm how it is operated before you buy."
     },
     {
       "q": "Can I add hydraulic brakes later?",
-      "a": "Swapping brake types after purchase is complex and frame dependent, so choose it at purchase."
+      "a": "Swapping brake types after purchase is complex and depends on the frame and wheels, so choose it at purchase. All three picks here already come with hydraulic discs."
+    },
+    {
+      "q": "Which has the biggest battery?",
+      "a": "The MOONCOOL TK2 Pro carries a 48V 20Ah pack at 960Wh, and the MOONCOOL 750W also has a 20Ah removable battery. The NARRAK has the smaller 13Ah unit."
     }
   ],
-  "bottomLine": "For stopping a heavy electric trike with a light hand, the MOONCOOL TK2 Pro is the best all-round hydraulic choice and the NARRAK trikes win on rotor count and slope holding. The MOONCOOL 750W is the simple option.",
+  "bottomLine": "For stopping a heavy electric trike with a light hand, the MOONCOOL TK2 Pro is the best all-round hydraulic choice, adding motor cutoff, a parking brake and a 960Wh battery. The NARRAK wins on rotor count and slope holding, and the MOONCOOL 750W is the simple option.",
   "amazonSearch": "electric tricycles with hydraulic brakes",
   "relatedPaths": [
     "/electric-tricycles/best-electric-tricycles-with-rear-differential/",

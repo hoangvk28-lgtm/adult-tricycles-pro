@@ -226,48 +226,55 @@ export const bestRearRacksForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Mounting honesty",
-      "body": "Racks with clear fit rules and exclusions ranked ahead of those that only say universal."
+      "body": "We ranked racks with clear fit rules and exclusions ahead of those that only say universal, because a trike frame differs from a bicycle frame."
     },
     {
       "title": "Load clarity",
-      "body": "A stated load limit in pounds mattered, and missing figures are flagged."
+      "body": "We looked for a load limit in pounds and flagged the missing ones, since a rack with no figure leaves the rider guessing about groceries and gear."
     },
     {
       "title": "Wheel size",
-      "body": "Most racks target 26 to 29 inch wheels, so we noted 20 inch trike gaps."
+      "body": "We noted that most racks target 26 to 29 inch wheels, which leaves a gap for trikes with 20 inch rear wheels."
     },
     {
       "title": "Pannier support",
-      "body": "Side rails, wings and bag mounts were compared."
+      "body": "We compared side rails, wings and bag mounts, because bags that swing into spokes or heels ruin a ride."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Mounting method",
       "paragraphs": [
-        "A seat tube clamp needs a round tube of the right size, while an eyelet rack needs threaded holes on the frame.",
-        "Look at the rear of the frame before choosing."
+        "A seat tube clamp needs a round tube of the right size, such as under 1.26 inch for the ROCKBROS. An eyelet rack needs threaded holes at the rear hub and seat stay.",
+        "Look at the rear of the frame before choosing. Measure the seat tube and find the eyelets by eye or with a bolt."
       ]
     },
     {
       "title": "Trike frame limits",
       "paragraphs": [
-        "A trike's rear cargo frame is built for its own basket. Bolting on a bicycle rack may exceed the frame's rating.",
-        "Check the trike's own payload."
+        "A trike's rear cargo frame is built for its own basket, and bolting on a bicycle rack may exceed what the frame is rated to carry. The rack's number does not override the frame's.",
+        "Check the trike's own payload. If the frame has a rating, stay under it with the rack, the bags and the load together."
       ]
     },
     {
       "title": "Wheel size",
       "paragraphs": [
-        "Racks for 26 to 29 inch wheels sit too high on 20 inch wheels.",
-        "Match the stated range."
+        "Racks for 26 to 29 inch wheels sit too high on 20 inch wheels, which changes the clearance and the tilt of the platform. The CXWXC and Ibera name 26 to 29 inch and 700c.",
+        "Match the stated range to your rear wheel size. If your trike has 20 inch rear wheels, ask the maker before ordering, because the platform may sit high and tilt."
       ]
     },
     {
       "title": "Pannier clearance",
       "paragraphs": [
-        "Side rails keep bags out of spokes, and heel clearance matters for pedals.",
-        "Measure the distance."
+        "Side rails keep bags out of the spokes, and heel clearance matters for pedals that sit close to the rack. The ROCKBROS has W-shaped side rails.",
+        "Measure the distance from the axle to the heel strike. Add the width of a loaded bag, then confirm it still clears the spokes."
+      ]
+    },
+    {
+      "title": "Fender and reflector",
+      "paragraphs": [
+        "A fender keeps mud off the load, and a reflector helps traffic see the trike from behind. The YONTUO has a fender and a large reflector, while the ROCKBROS has a reflector.",
+        "Check that neither blocks your tail light mount or your rear brake. Sit on the trike and reach back with your hand to confirm the cables still move freely."
       ]
     }
   ],
@@ -282,24 +289,29 @@ export const bestRearRacksForAdultTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "Round seat tube",
-            "ROCKBROS",
-            "Quick-release clamps, 55 lb"
+            "Round seat tube under 1.26 inch",
+            "ROCKBROS Quick-Release Rear Rack",
+            "Quick-release clamps with clear fit rules"
           ],
           [
             "Heavy load, seat tube space",
-            "YONTUO",
-            "115 lb stated"
+            "YONTUO Rear Rack with Fender",
+            "Stated 115 lb capacity with a fender"
           ],
           [
-            "Rack eyelets present",
-            "CXWXC",
-            "6061-T6, narrow"
+            "Eyelets by the rear hub",
+            "CXWXC 6061 Rear Rack (26 to 29 inch)",
+            "6061-T6 aluminum, narrow, with hardware"
           ],
           [
-            "Touring panniers",
-            "Ibera Carrier Plus",
-            "Frame-mounted, bag mounting"
+            "Touring panniers on disc frame",
+            "Ibera Touring Carrier Plus",
+            "Frame-mounted, 760 g, quick-release bag mount"
+          ],
+          [
+            "Eyelet frame needing a basket",
+            "CXWXC Rear Rack with Basket",
+            "Same eyelet rack with a basket on top"
           ]
         ]
       }
@@ -309,11 +321,11 @@ export const bestRearRacksForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Bicycle rack",
-          "text": "Suits panniers and loads of a modest size, but fit needs to be confirmed."
+          "text": "Suits panniers and modest loads, but fit needs to be confirmed against the trike's frame and wheel size. Several of these racks need eyelets or a seat tube clamp."
         },
         {
           "label": "Factory basket",
-          "text": "Already fits the frame and may carry more, so you may not need a rack."
+          "text": "Already fits the frame and may carry more, so you may not need a rack at all. A rack adds side mounting for panniers."
         }
       ],
       "note": "Most trike owners should use the factory basket and add a rack only to a trike without one."
@@ -323,11 +335,11 @@ export const bestRearRacksForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Side rails, heel clearance, a quick-release bag system and a load rating above your gear weight."
+          "text": "Side rails, heel clearance, a quick-release bag system and a load rating above your gear weight, so the bags swing clear of the wheel."
         },
         {
           "label": "In this comparison",
-          "text": "The Ibera Carrier Plus and YONTUO fit this best."
+          "text": "The Ibera Carrier Plus has a quick-release bag mount and disc brake mounts. The YONTUO adds a stated 115 lb capacity, so it fits heavier loads."
         }
       ]
     },
@@ -336,11 +348,11 @@ export const bestRearRacksForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You haul groceries or touring gear daily, where YONTUO capacity or the Ibera system matters."
+          "text": "You haul groceries or touring gear daily, where the YONTUO capacity or the Ibera quick-release bag system makes a real difference to how the trike carries."
         },
         {
           "label": "Save if",
-          "text": "You carry light bags occasionally, where the ROCKBROS is enough."
+          "text": "You carry light bags occasionally. The ROCKBROS at 55 lb is enough, and its quick-release clamps make it easy to remove."
         }
       ]
     }
@@ -348,26 +360,26 @@ export const bestRearRacksForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Will a bike rack fit my trike?",
-      "a": "Only if the trike has a seat tube clamp area or rack eyelets. Many trikes use a cargo frame instead."
+      "a": "Only if the trike has a seat tube clamp area or rack eyelets. Many trikes use a cargo frame instead, so confirm before ordering. Measure the seat tube and find the eyelets first."
     },
     {
       "q": "How much can a rack carry?",
-      "a": "The YONTUO states 115 lb and the ROCKBROS 55 lb. The trike's own frame limit still applies."
+      "a": "The YONTUO states 115 lb and the ROCKBROS states 55 lb. The CXWXC and Ibera give no figure. The trike's own frame limit still applies, so stay under both."
     },
     {
-      "q": "What should I measure?",
-      "a": "Seat tube diameter, eyelet positions, wheel size and heel clearance."
+      "q": "What should I measure before buying?",
+      "a": "Measure the seat tube diameter, the eyelet positions, the wheel size and the heel clearance. Note the distance from the axle to the pedal, and keep the numbers beside the rack's fit rules."
     },
     {
       "q": "Do I need a rack if I have a basket?",
-      "a": "Probably not. A rack helps panniers but the basket may already carry your load."
+      "a": "Probably not. A rack helps panniers, but the basket may already carry your load. Use the rack only if you want bags at the sides or if the trike has no basket."
     },
     {
       "q": "Can racks fit folding trikes?",
-      "a": "The ROCKBROS excludes folding bikes. Check each rack's exclusions."
+      "a": "The ROCKBROS excludes folding bikes, so read each rack's exclusions before ordering. A folding frame often has no suitable clamp area or eyelets, so measure the frame and ask the maker if the fit is unclear."
     }
   ],
-  "bottomLine": "These are bicycle racks, so mounting is the deciding factor. The ROCKBROS has the clearest fit rules, the YONTUO leads on load, and the CXWXC and Ibera need eyelets or a bicycle-style frame. Measure before ordering.",
+  "bottomLine": "These are bicycle racks, so the mounting method is the deciding factor on a trike. The ROCKBROS has the clearest fit rules, the YONTUO leads on stated load at 115 lb, and the CXWXC and Ibera need eyelets or a bicycle-style frame. Measure your frame, wheel and load before ordering.",
   "amazonSearch": "rear racks for adult tricycles",
   "relatedPaths": [
     "/accessories/best-panniers-for-adult-tricycles/",

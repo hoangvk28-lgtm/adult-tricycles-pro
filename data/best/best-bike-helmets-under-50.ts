@@ -222,48 +222,59 @@ export const bestBikeHelmetsUnder50: BestArticle = {
   "howWeChose": [
     {
       "title": "Certification first",
-      "body": "Helmets naming CPSC, ASTM or CE standards ranked above those that only describe safety in general terms."
+      "body": "Helmets naming CPSC, ASTM or CE standards ranked above those that only describe safety in general terms, because a named standard is something you can check against the label."
     },
     {
       "title": "Fit system",
-      "body": "Dial adjustment and clear size ranges were weighed, since a loose helmet protects poorly."
+      "body": "Dial adjustment and clear size ranges were weighed, since a loose helmet protects poorly; the DKONI gives 56 to 61 cm for large and 52 to 58 cm for medium."
     },
     {
       "title": "Ventilation",
-      "body": "Vent count and airflow were compared for slow, upright riding in warm weather."
+      "body": "Vent count and airflow were compared for slow, upright riding in warm weather, from the Retrospec's 15 vents to the EXCLUSKY's 12, because trikes move slower than bikes."
     },
     {
       "title": "Visibility",
-      "body": "Built-in lights and their charging needs were weighed for trike riders who ride at dawn and dusk."
+      "body": "Built-in lights and their charging needs were weighed for trike riders who ride at dawn and dusk, when a low rider is easiest for drivers to miss."
+    },
+    {
+      "title": "Weight and buckle",
+      "body": "We noted the Favoto's 335g weight and its one-hand magnetic buckle, since weight and ease of fastening matter more to older or gloved riders."
     }
   ],
   "whatToLookFor": [
     {
       "title": "CPSC certification",
       "paragraphs": [
-        "CPSC is the United States standard every bicycle helmet sold here must meet, so it applies equally to cheap and expensive models.",
-        "Look for the sticker inside the shell, and do not rely on marketing wording alone."
+        "CPSC is the United States standard every bicycle helmet sold here must meet, so it applies equally to cheap and expensive models. It covers impact protection and strap strength.",
+        "Look for the sticker inside the shell, and do not rely on marketing wording alone. The EXCLUSKY and DKONI name CPSC, ASTM and CE, while the Favoto mountain helmet does not name a standard clearly."
       ]
     },
     {
       "title": "Fit dial and sizing",
       "paragraphs": [
-        "A rear dial lets you cinch the helmet snug, and a helmet that rocks side to side will not protect properly.",
-        "Measure your head in centimetres and match the size chart before ordering."
+        "A rear dial lets you cinch the helmet snug, and a helmet that rocks side to side will not protect properly. Sizes are given as head circumference ranges.",
+        "Measure your head in centimeters just above the eyebrows and match the size chart before ordering. The DKONI, for example, gives 52 to 58 cm for medium and 56 to 61 cm for large."
       ]
     },
     {
-      "title": "Vents",
+      "title": "Vents and airflow",
       "paragraphs": [
-        "More vents move more air, but a trike rider at slow speed gets less natural airflow than a cyclist does.",
-        "Choose 12 or more vents for warm climates and check that the pads are washable."
+        "More vents move more air, but a trike rider at slow speed gets less natural airflow than a cyclist does. Channels inside the shell help move the air across the scalp.",
+        "Choose 12 or more vents for warm climates, as on the 15-vent Retrospec or the 12-vent EXCLUSKY, and check that the pads are washable so sweat does not build up."
       ]
     },
     {
       "title": "Built-in lights",
       "paragraphs": [
-        "A rear light increases how far away drivers notice you, but it is only useful if the battery is charged.",
-        "Charge before each evening ride, and add a front light if your helmet lacks one."
+        "A rear light increases how far away drivers notice you, and a front light helps you see ahead. Both only help if the battery has charge.",
+        "Charge before each evening ride, and add a front light if your helmet lacks one. The DKONI charges by USB and warns against fast chargers, so use a 5V 1A source."
+      ]
+    },
+    {
+      "title": "Buckle and extras",
+      "paragraphs": [
+        "A magnetic buckle lets a gloved rider fasten the helmet with one hand, and a glasses cord keeps sunglasses from falling. These are conveniences, not extra protection.",
+        "If you have stiff hands, the Favoto's magnetic buckle is the one to consider first. Confirm the certification on any helmet, because the Favoto's is not clearly named on its own."
       ]
     }
   ],
@@ -279,28 +290,28 @@ export const bestBikeHelmetsUnder50: BestArticle = {
         "rows": [
           [
             "Hot, humid rides",
-            "Retrospec Lennon",
-            "15 vents with internal air channels"
+            "Retrospec Lennon Commuter Helmet",
+            "15 vents plus a twist-dial fit system."
           ],
           [
             "Evening riding",
-            "EXCLUSKY Rear LED",
-            "14 rear LEDs and stated certification"
+            "EXCLUSKY Adult Helmet with Rear LED Light",
+            "14 rear LEDs and CPSC, ASTM and CE claims."
           ],
           [
             "See ahead as well as be seen",
-            "DKONI",
-            "5 front and 13 rear LEDs"
+            "DKONI Helmet with Front and Rear LED Lights",
+            "5 front and 13 rear LEDs, USB rechargeable."
           ],
           [
             "Retro-style cruiser",
-            "EXCLUSKY Retro Visor",
-            "Same certified build in a visor design"
+            "EXCLUSKY Retro Visor Helmet with Rear LED",
+            "Same certified build in a visor design."
           ],
           [
             "Gloves and sunglasses",
-            "Favoto",
-            "Magnetic buckle and glasses cord"
+            "Favoto Mountain Bike Helmet",
+            "Magnetic buckle and a glasses cord at 335g."
           ]
         ]
       }
@@ -310,11 +321,11 @@ export const bestBikeHelmetsUnder50: BestArticle = {
       "cards": [
         {
           "label": "Lights",
-          "text": "The DKONI and EXCLUSKY helmets include LEDs, helpful at dusk but dependent on charging."
+          "text": "The DKONI and both EXCLUSKY helmets include LEDs, helpful at dusk but dependent on charging. The DKONI is the only one of the three with front lights too."
         },
         {
           "label": "No lights",
-          "text": "The Favoto and Retrospec focus on fit and weight, and pair better with separate bike lights."
+          "text": "The Favoto focuses on fit and weight at 335g and has no built-in light. It pairs better with separate bike lights mounted on the trike."
         }
       ],
       "note": "Most trike riders should choose built-in lights unless they already run bike lights."
@@ -324,11 +335,11 @@ export const bestBikeHelmetsUnder50: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A rear light with multiple modes, a front light if possible, and named safety certification."
+          "text": "A rear light with multiple modes, a front light if possible, and named safety certification so the helmet is more than just a light show."
         },
         {
           "label": "In this comparison",
-          "text": "The DKONI has both lights, while the EXCLUSKY models add a 14-LED rear light with three modes."
+          "text": "The DKONI has both lights, while the EXCLUSKY models add a 14-LED rear light with three modes. The EXCLUSKY names CPSC, ASTM and CE."
         }
       ]
     },
@@ -337,11 +348,11 @@ export const bestBikeHelmetsUnder50: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want MIPS-style rotational protection or the best fit refinement, which usually appears in the accessories helmet guide for adult trike riders."
+          "text": "You want rotational protection or the best fit refinement, which usually appears in our accessories helmet guide for adult trike riders."
         },
         {
           "label": "Save if",
-          "text": "You ride short, slow routes, where a certified helmet like the EXCLUSKY is already sufficient."
+          "text": "You ride short, slow routes, where a certified helmet like the EXCLUSKY, with its named standards and 12 vents, is already sufficient."
         }
       ]
     }
@@ -349,26 +360,30 @@ export const bestBikeHelmetsUnder50: BestArticle = {
   "faq": [
     {
       "q": "Is a cheap helmet safe?",
-      "a": "If it carries CPSC certification and fits properly, yes. Price mostly changes weight, vents and fit refinement."
+      "a": "If it carries CPSC certification and fits properly, yes. Price mostly changes weight, vents and fit refinement, so confirm the sticker and fit before worrying about extras. The EXCLUSKY and DKONI both name CPSC, ASTM and CE."
     },
     {
       "q": "How do I size a helmet?",
-      "a": "Measure around your head above the eyebrows in centimetres and compare it to the size chart. The DKONI, for example, fits 56 to 61 cm in large."
+      "a": "Measure around your head above the eyebrows in centimeters and compare it to the size chart. The DKONI, for example, fits 56 to 61 cm in large and 52 to 58 cm in medium. If you fall between sizes, choose the one with a good dial."
     },
     {
       "q": "When should I replace a helmet?",
-      "a": "After any significant impact, and generally after several years as foam and straps age. Replace it even if damage is not visible."
+      "a": "After any significant impact, and generally after several years as foam and straps age. Replace it even if damage is not visible, because the foam crushes once and does not recover, and a stiff or frayed strap is a warning too."
     },
     {
       "q": "Do built-in lights replace bike lights?",
-      "a": "They add visibility but are small. Many riders still add a bright front light on the trike for unlit paths."
+      "a": "They add visibility but are small and sit high. Many riders still add a bright front light on the trike for unlit paths, especially with the EXCLUSKY models that have rear lights only. Think of the helmet light as a bonus layer."
     },
     {
       "q": "Do I need a special helmet for a trike?",
-      "a": "No, a standard certified bike helmet works. The riding position is upright, so prioritise fit and ventilation."
+      "a": "No, a standard certified bike helmet works. The riding position is upright, so prioritize fit and ventilation over aerodynamic shapes. Slow speed means less natural airflow, which is why vent count and washable pads matter here."
+    },
+    {
+      "q": "How do I charge the DKONI?",
+      "a": "Use a 5V 1A USB charger and avoid fast chargers. Charge before an evening ride and check the lights after a few weeks of use. It has 5 front white and 13 rear red LEDs, so confirm both work."
     }
   ],
-  "bottomLine": "A certified, well-fitted helmet beats an expensive one that sits loose. The Retrospec Lennon, EXCLUSKY and DKONI each solve a different need, so start from how and when you ride.",
+  "bottomLine": "A certified, well-fitted helmet beats an expensive one that sits loose. The Retrospec Lennon suits warm weather, the EXCLUSKY adds a certified rear light, and the DKONI adds front and rear lights with clear size ranges. Start from how and when you ride, and treat the Favoto as the light, easy-buckle option.",
   "amazonSearch": "bike helmets under $50",
   "relatedPaths": [
     "/accessories/best-helmets-for-adult-tricycle-riders/",

@@ -196,48 +196,55 @@ export const bestElectricTricyclesUnder1500: BestArticle = {
   "howWeChose": [
     {
       "title": "Brake strength",
-      "body": "Hydraulic discs and rotor count were weighed above all, because stopping a loaded trike is the hardest job a brake does."
+      "body": "Hydraulic discs and rotor count were weighed above all, because stopping a loaded three-wheeler on a downhill is the hardest job any brake on the trike does."
     },
     {
       "title": "Battery size and standard",
-      "body": "Watt-hours and certification were compared together, since a big uncertified battery is not a bargain."
+      "body": "Watt hours and certification were compared together, since a large battery with no safety standard behind it is not a bargain when you charge it at home."
     },
     {
       "title": "Frame and drivetrain",
-      "body": "Aluminum frames, differentials and tire width were judged for stability on mixed paths."
+      "body": "Aluminum frames, rear differentials and tire width were judged for stability and smooth cornering on mixed paths, where a stiff, narrow-tired trike gets tiring."
     },
     {
       "title": "Carrying and comfort",
-      "body": "Baskets, racks and handlebar posture were weighed for everyday use rather than showroom appeal."
+      "body": "Baskets, racks and handlebar posture were weighed for everyday use rather than showroom appeal, because daily comfort decides whether the trike actually gets ridden."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Hydraulic vs mechanical brakes",
       "paragraphs": [
-        "Hydraulic brakes use fluid to transmit lever force, giving stronger, more even stopping with a lighter touch. Mechanical brakes use cables that stretch and need frequent adjustment.",
-        "Look for the word hydraulic in the specs, and count the rotors to see how many wheels brake."
+        "Hydraulic brakes use fluid to carry lever force, giving stronger, more even stopping with a lighter touch. Mechanical brakes use cables that stretch and need regular adjustment.",
+        "Look for the word hydraulic in the specs, and count the rotors to see how many wheels brake. If the spec is silent, ask before ordering."
       ]
     },
     {
-      "title": "Battery watt-hours",
+      "title": "Battery watt hours",
       "paragraphs": [
-        "A 48V 13Ah pack stores 624Wh, while a 48V 20.8Ah pack stores 998.4Wh, so the larger one carries about 60 percent more energy.",
-        "Calculate volts times amps, and remember the heavier pack is slower to charge."
+        "A 48V 13Ah pack stores 624Wh, while a 48V 20.8Ah pack stores 998.4Wh, so the larger one carries about 60 percent more energy. Bigger packs also weigh more and charge more slowly.",
+        "Multiply volts by amp hours yourself, and decide whether your longest ride justifies carrying the extra pack weight every day."
       ]
     },
     {
       "title": "Tire width",
       "paragraphs": [
-        "A 4.0 inch tire cushions bumps and resists sinking in soft ground better than a 3.0 inch tire, but it also adds rolling resistance.",
-        "Choose wide tires for gravel and loose paths and 3.0 inch for smooth pavement."
+        "A 4.0 inch tire cushions bumps and resists sinking into soft ground better than a 3.0 inch tire, but it adds rolling resistance and a little weight at the wheel.",
+        "Choose wide tires for gravel, grass and loose paths, and the narrower 3.0 inch size if you ride mostly on smooth pavement."
       ]
     },
     {
-      "title": "Frame rating",
+      "title": "Frame payload rating",
       "paragraphs": [
-        "A stated payload rating covers rider plus cargo, so a 450 lb frame leaves room for a heavier rider and groceries.",
-        "Add your weight, your usual cargo and any accessories, and keep the total below the rating."
+        "A stated payload rating covers rider plus cargo, so a 450 lb frame leaves room for a heavier rider and a load of groceries. Exceeding it strains the frame, brakes and rear axle.",
+        "Add your weight, your usual cargo and any accessories, and keep the total comfortably below the rating."
+      ]
+    },
+    {
+      "title": "Step-through height",
+      "paragraphs": [
+        "A low step-through frame lets you mount without swinging a leg high, which matters for stiff hips and for loaded trikes that cannot be tilted. Frame height varies a lot between models.",
+        "Check whether the maker names a low step-through, and if possible sit on a similar trike before ordering."
       ]
     }
   ],
@@ -253,23 +260,23 @@ export const bestElectricTricyclesUnder1500: BestArticle = {
         "rows": [
           [
             "Steep hills and heavy braking",
-            "NARRAK 750W",
-            "Hydraulic discs with three rotors"
+            "NARRAK 750W Folding Fat Tire Electric Trike",
+            "Hydraulic discs with three rotors and a 750W motor"
           ],
           [
             "Longest outings",
-            "ESKUTE T300 Pro",
-            "998.4Wh battery, up to 80 miles"
+            "ESKUTE T300 Pro Electric Trike",
+            "998.4Wh battery with a quoted range up to 80 miles"
           ],
           [
-            "Easy mounting with certified battery",
-            "MOONCOOL 500W 20 Inch",
-            "Low step-through and tested battery"
+            "Easy mounting with a certified battery",
+            "MOONCOOL 500W 20 Inch Folding Electric Trike",
+            "Low step-through and a battery tested to UL 2849"
           ],
           [
             "Realistic range expectations",
-            "MOONCOOL 500W 48V",
-            "Quotes 35 to 70 miles by conditions"
+            "MOONCOOL 500W 48V Folding Electric Tricycle",
+            "Quotes 35 to 70 miles depending on conditions"
           ]
         ]
       }
@@ -279,11 +286,11 @@ export const bestElectricTricyclesUnder1500: BestArticle = {
       "cards": [
         {
           "label": "Big battery",
-          "text": "The ESKUTE T300 Pro puts weight and money into distance, ideal if you ride far from home."
+          "text": "The ESKUTE T300 Pro puts weight and money into distance with a 998.4Wh pack, ideal if you ride far from home and want baskets and rack bags for gear."
         },
         {
           "label": "Strong brakes",
-          "text": "The NARRAK puts the investment into hydraulic stopping and motor power, ideal on hills."
+          "text": "The NARRAK 750W puts the investment into hydraulic stopping and motor power, ideal on hills, though its 13Ah battery gives the shortest claimed range of the four."
         }
       ],
       "note": "Most buyers should default to brakes unless they genuinely ride long distances."
@@ -293,11 +300,11 @@ export const bestElectricTricyclesUnder1500: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "At least 750W rated power, hydraulic brakes and a differential."
+          "text": "At least 750W of rated power, hydraulic brakes with more than one rotor, and a rear differential so the trike turns without dragging on a slope."
         },
         {
           "label": "In this comparison",
-          "text": "The NARRAK 750W is the only model with the motor and braking combination, so hills point straight to it."
+          "text": "The NARRAK 750W Folding Fat Tire Electric Trike is the only model that combines that motor and braking package, so hills point straight to it."
         }
       ]
     },
@@ -306,11 +313,11 @@ export const bestElectricTricyclesUnder1500: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want torque sensing and a battery above 20Ah, as on the MOONCOOL TKPRO in the under 2000 guide."
+          "text": "You want torque sensing and a battery above 20Ah, as on the MOONCOOL TKPRO in the under 2000 guide, where assist follows your pedaling more naturally."
         },
         {
           "label": "Save if",
-          "text": "Your routes are flat, where either MOONCOOL 500W gives certified power at lower cost."
+          "text": "Your routes are flat, where either MOONCOOL 500W trike gives a certified battery and a 450 lb frame without paying for the NARRAK's braking."
         }
       ]
     }
@@ -318,26 +325,30 @@ export const bestElectricTricyclesUnder1500: BestArticle = {
   "faq": [
     {
       "q": "What does this tier add over entry e-trikes?",
-      "a": "Larger batteries, wider tires, aluminum frames and, on some models, hydraulic brakes. All four also include a rear differential."
+      "a": "Larger batteries, wider tires, aluminum frames and, on some models, hydraulic brakes. All four picks also include a rear differential, which makes cornering smoother than on the cheapest trikes."
     },
     {
       "q": "Are the two MOONCOOL trikes different?",
-      "a": "They are very close. One stresses a low step-through frame and a 70 mile claim, while the other quotes 35 to 70 miles depending on conditions."
+      "a": "They are very close. One stresses a low step-through frame and a 70 mile claim, while the other quotes 35 to 70 miles depending on conditions. Both share a 500W motor, 15Ah battery and 450 lb rating."
     },
     {
       "q": "Is hydraulic braking worth it?",
-      "a": "On hills or with a loaded trike, yes. It stops harder with less hand effort and needs less frequent cable adjustment."
+      "a": "On hills or with a loaded trike, yes. It stops harder with less hand effort, which matters if your grip is weak, and it needs less frequent adjustment than cables that stretch with use."
     },
     {
       "q": "How far will I really ride per charge?",
-      "a": "Claimed mileage assumes pedal assist and gentle conditions. Throttle use, hills and cargo cut it, sometimes by half."
+      "a": "Claimed mileage assumes pedal assist and gentle conditions. Throttle use, hills, wind and cargo cut it, sometimes by half, so treat a quoted figure of 50 to 80 miles as a best case."
     },
     {
       "q": "Should I jump to the next tier?",
-      "a": "Only if you want torque sensing or larger batteries. See the under 2000 guide for those upgrades."
+      "a": "Only if you want torque sensing or a battery above 20Ah. See the under 2000 guide for those upgrades, and stay here if certified power and a decent frame are enough."
+    },
+    {
+      "q": "Does a wider tire matter on pavement?",
+      "a": "A 4.0 inch tire cushions cracks and loose gravel, but on smooth pavement it adds drag. The ESKUTE and NARRAK use 4.0 inch tires, while the MOONCOOL 500W 20 Inch uses a narrower 3.0 inch."
     }
   ],
-  "bottomLine": "The NARRAK is the pick when brakes and power matter, the ESKUTE T300 Pro wins on range, and the MOONCOOL models offer certified value. Decide by terrain first and distance second.",
+  "bottomLine": "The NARRAK 750W is the pick when brakes and power matter most, thanks to hydraulic discs, three rotors and a 750W motor. The ESKUTE T300 Pro wins on range with its 998.4Wh pack, and the two MOONCOOL models offer certified value. Decide by terrain first and distance second.",
   "amazonSearch": "electric tricycles under $1,500",
   "relatedPaths": [
     "/electric-tricycles/best-electric-tricycles-under-2000/",

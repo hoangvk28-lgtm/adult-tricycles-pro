@@ -179,48 +179,48 @@ export const bestChainLocksForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Reach on a wide frame",
-      "body": "We compared length, since a trike often needs a chain that wraps frame and a distant post."
+      "body": "We compared chain length, since a trike is wider than a bike and often needs a chain that wraps the frame, a wheel and a distant fixed post in one pass."
     },
     {
       "title": "Link strength",
-      "body": "Link thickness and hardened steel were weighed against weight."
+      "body": "We weighed link thickness and hardened steel against carrying weight, because thicker links resist cutters better but a heavy chain is awkward to carry on a trike."
     },
     {
       "title": "Key or combination",
-      "body": "Keys can be lost; combinations can be watched. We noted the trade-off for each pick."
+      "body": "Keys can be lost and combinations can be watched, so we noted the trade-off for each pick and what a rider gives up by choosing one over the other."
     },
     {
       "title": "Honest limits",
-      "body": "None is claimed proven, and every chain can be cut with tools, so a lock only slows a thief."
+      "body": "Every chain can be cut with the right tools, so none of these stops a determined thief. We judged how much delay each lock adds and how easy it is to use daily."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Link thickness",
       "paragraphs": [
-        "Thicker links resist cutters better, but they add weight. A 7mm link is much harder to cut than a thin cable.",
-        "Check the stated thickness and avoid chains with no figure."
+        "Thicker links need bigger, heavier cutters and more time to defeat, but they add weight that you carry on every ride. A 7mm hardened link, like the Kryptonite Keeper 785 uses, is far harder to cut than a thin cable.",
+        "Look for a stated link thickness and treat a chain with no figure with caution. Then weigh the lock in your hand, because a chain you leave at home protects nothing."
       ]
     },
     {
       "title": "Length for a wide trike",
       "paragraphs": [
-        "A trike frame is wide, so you may need to loop a frame tube and a wheel. A chain shorter than three feet may not reach.",
-        "Measure from the frame to the post you use most and add some slack."
+        "A trike frame is wide, so you may need to loop a frame tube, a wheel and a fixed post together. A chain shorter than about three feet can run out of reach before it closes around everything you want locked.",
+        "Measure from the frame to the post or rack you use most and add slack. The Kryptonite reaches 33.5 inches, the APECYC and Weogine 4 feet, and the NDakter 120cm."
       ]
     },
     {
       "title": "Key or combination",
       "paragraphs": [
-        "A key cylinder is hard to pick, while a combination avoids lost keys. A short combination can be guessed.",
-        "Choose keys for high-risk spots and combinations for low-risk ones."
+        "A key cylinder is harder to pick than a short code, but keys can be lost, and a spare is easy to forget. A combination avoids keys but can be watched or guessed if it is short.",
+        "Choose a key cylinder for high-risk spots such as public racks, and a resettable code for low-risk spots such as a garage. Store spare keys away from the trike."
       ]
     },
     {
       "title": "Frame protection",
       "paragraphs": [
-        "A bare chain scratches paint and wears cables. A sleeve prevents this.",
-        "Check that a cover or sleeve is included."
+        "A bare steel chain scratches paint, wears cables and rubs the finish off a basket frame over time. A sleeve or fabric cover keeps the chain from chewing the metal it wraps around.",
+        "Check that a nylon sleeve or fabric cover is included, and slide it so it sits over the part that touches the frame each time you lock up."
       ]
     }
   ],
@@ -237,22 +237,22 @@ export const bestChainLocksForAdultTricycles: BestArticle = {
           [
             "Strongest links, post nearby",
             "Kryptonite Keeper 785 Chain Lock",
-            "7mm links."
+            "7mm hardened links with a disc style cylinder"
           ],
           [
             "Posts far from the trike",
             "NDakter U-Lock and 120cm Chain Set",
-            "120cm reach."
+            "120cm chain reaches distant posts and racks"
           ],
           [
-            "Two-point locking",
+            "Two-point locking in public",
             "Weogine U-Lock with 4ft Chain",
-            "U-lock plus chain."
+            "U-lock plus a 4ft chain, usable separately"
           ],
           [
-            "No keys to carry",
+            "No keys to carry or lose",
             "APECYC 4FT Combination Chain Lock",
-            "5-digit code."
+            "Resettable 5-digit code on a 4ft chain"
           ]
         ]
       }
@@ -262,25 +262,25 @@ export const bestChainLocksForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Strength",
-          "text": "The Kryptonite Keeper 785 has the thickest links here, at 7mm."
+          "text": "The Kryptonite Keeper 785 has the thickest links here, at 7mm, plus a disc style cylinder, but its 33.5 inch reach is short for a wide trike."
         },
         {
           "label": "Reach",
-          "text": "The NDakter set has a 120cm chain, which wraps a wide frame more easily."
+          "text": "The NDakter set has a 120cm chain and an 18mm U-lock, so it wraps a wide frame easily, though its 6mm chain is thinner and the set weighs 4.4 lb."
         }
       ],
-      "note": "Most trike owners should favor reach, since a lock you cannot wrap around anything solid does nothing."
+      "note": "Most trike owners should favor reach, since a lock that cannot wrap around anything solid does nothing."
     },
     {
       "heading": "For Overnight Parking Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A chain that wraps a frame tube and a fixed post, with a key cylinder rather than a short code."
+          "text": "A chain that wraps a frame tube and a fixed post with some slack, a key cylinder rather than a short code, and a sleeve that protects the paint."
         },
         {
           "label": "In this comparison",
-          "text": "The Kryptonite Keeper 785 uses a disc-style cylinder, and the NDakter adds a U-lock."
+          "text": "The Kryptonite Keeper 785 pairs 7mm links with a disc style cylinder and a nylon sleeve, and the NDakter adds an 18mm U-lock to a 120cm chain with three keys."
         }
       ]
     },
@@ -289,11 +289,11 @@ export const bestChainLocksForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You park in public; add a tracker from /accessories/best-bike-alarms-with-gps-trackers/ and use two locks."
+          "text": "You park in public places. The Kryptonite's 7mm links or the NDakter's U-lock plus chain give a thief two different tools to defeat instead of one."
         },
         {
           "label": "Save if",
-          "text": "You lock inside a garage, where the APECYC is plenty."
+          "text": "You lock inside a garage or shed, where the APECYC's 4ft hardened steel chain and resettable code are enough for a casual deterrent."
         }
       ]
     }
@@ -301,26 +301,30 @@ export const bestChainLocksForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Is a chain better than a U-lock?",
-      "a": "It gives more reach on a wide trike, but a short U-lock with thick shackle is harder to cut. Use both when you can."
+      "a": "A chain gives more reach on a wide trike, while a U-lock with a thick shackle is harder to cut in a small space. The NDakter and Weogine sets combine both, so you can use whichever fits the post."
     },
     {
       "q": "What length do I need?",
-      "a": "Enough to loop a frame tube and a fixed post with slack. For a wide trike, aim for more than three feet."
+      "a": "Enough to loop a frame tube and a fixed post with some slack. For a wide trike, aim for about four feet, as the APECYC and Weogine offer, or the 120cm NDakter, rather than the Kryptonite's 33.5 inches."
     },
     {
       "q": "Do locks stop theft?",
-      "a": "No. They slow it. Combine a lock with an alarm, and read /adult-tricycle-locking-and-theft-prevention/."
+      "a": "No, they slow it down. Every chain can be cut with the right tools, so use the lock to make your trike a harder target than the next one, and park in a lit, busy spot when you can."
     },
     {
       "q": "Where should the lock sit?",
-      "a": "Keep it off the ground so it cannot be hit against the pavement, and keep the keyway pointing down."
+      "a": "Keep it off the ground so it cannot be hit against the pavement, and keep the keyway pointing down so rain and grit drain out. Pull the chain tight so there is little slack to leverage."
     },
     {
       "q": "Are cable locks acceptable?",
-      "a": "Thin cables are cut quickly, so we left them out of this guide in favor of chains."
+      "a": "Thin cables are cut quickly, so we left them out of this guide in favor of hardened steel chains. Even a short, thin chain is a better delay than a cable of the same weight."
+    },
+    {
+      "q": "What if I lose the key?",
+      "a": "The Kryptonite Keeper 785 comes with a key replacement program, and the NDakter and Weogine each include three keys. The APECYC avoids the problem with a resettable 5-digit code, though anyone who watches you enter it can learn it."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Bike Chain Locks with Protective Covers",
       "text": "The [Kryptonite Keeper 785](#kryptonite-keeper-785-chain-lock) wears a nylon sleeve over 7mm hardened links, which stops the chain scratching your frame. Check the sleeve covers the full length you wrap around the trike. The [APECYC](#apecyc-4ft-combination-chain-lock) also has a fabric cover if you prefer a combination.",
@@ -346,7 +350,7 @@ export const bestChainLocksForAdultTricycles: BestArticle = {
       "text": "None of these chain locks is sold as lightweight, and the NDakter set is the heaviest at 4.4 lb. If weight matters, check the weight of the Kryptonite and APECYC before ordering. A lighter lock is a trade for reach and link thickness, so keep it for short stops."
     }
   ],
-  "bottomLine": "Choose the Kryptonite for link strength, the NDakter if you need reach, and always lock to something fixed. Add an alarm for extra deterrence.",
+  "bottomLine": "Choose the Kryptonite Keeper 785 for link strength, the NDakter U-Lock and chain set if you need reach on a wide trike, and the APECYC if you would rather not carry keys. Always lock to something fixed, and treat any chain as a delay, not a guarantee.",
   "amazonSearch": "chain locks for trikes",
   "relatedPaths": [
     "/accessories/best-bike-alarms-for-adult-tricycles/",

@@ -196,48 +196,48 @@ export const bestCargoElectricTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Payload",
-      "body": "We looked for stated frame capacity and basket arrangements."
+      "body": "We looked for a stated frame capacity and the basket layout, because cargo plus rider weight is what a trike frame, axle and tires actually have to carry every day."
     },
     {
       "title": "Braking",
-      "body": "We compared brake types, since cargo adds momentum."
+      "body": "We compared brake types, since cargo adds momentum and a loaded trike that builds speed downhill needs stronger, smoother stopping than an empty one."
     },
     {
       "title": "Low-speed control",
-      "body": "Reverse, differential and throttle behavior shape loaded maneuvering."
+      "body": "We weighed reverse, differential and throttle behavior, because most cargo trouble happens while maneuvering a loaded trike in a driveway, shed or store entrance."
     },
     {
       "title": "Battery and range",
-      "body": "Battery size and certification show how far a loaded trike can go."
+      "body": "We compared battery size and certification, because a loaded trike draws more power on hills and the stated range is the best case, not the daily one."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Payload vs frame rating",
       "paragraphs": [
-        "Total payload covers rider plus cargo. A rider of 200 lbs on a frame rated to 450 lbs leaves about 250 lbs for cargo and accessories.",
-        "Subtract your own weight from the stated rating and compare it with your heaviest load."
+        "Total payload covers the rider plus everything carried, including baskets and accessories. A 200 lb rider on a frame rated to 450 lbs, like the MOONCOOL, leaves about 250 lbs for cargo.",
+        "Subtract your own weight from the stated rating and compare the remainder with your heaviest regular load. Where no rating is given, ask before relying on it."
       ]
     },
     {
       "title": "Brake type",
       "paragraphs": [
-        "Hydraulic disc brakes give stronger, smoother braking than mechanical ones, which helps when a heavy load builds speed downhill.",
-        "Look for a stated brake type and test braking with a loaded basket in a safe area."
+        "Hydraulic disc brakes use fluid to deliver strong, smooth stopping force with a light lever pull, while other types need more hand effort. That matters when a heavy load builds speed on a downhill street.",
+        "Look for a named brake type and the number of rotors, as on the NARRAK 750W with three. Then test with a loaded basket in a safe area before real errands."
       ]
     },
     {
       "title": "Low-speed control",
       "paragraphs": [
-        "Throttle, walk mode and reverse help when moving a loaded trike in tight spaces. Smooth torque beats raw wattage.",
-        "Check which modes the trike offers, such as the ESKUTE T300 MAX's reverse."
+        "Throttle, walk mode and reverse help when moving a loaded trike in tight spaces, and smooth torque matters more than raw wattage. A differential also keeps the rear wheels turning evenly in corners.",
+        "Check which modes the trike offers, such as the ESKUTE T300 MAX's one-touch reverse, and test them in your own garage or shed entrance before you rely on them for real loads."
       ]
     },
     {
       "title": "Parking brake and loading",
       "paragraphs": [
-        "A loaded trike can roll on a slope when you step off. A parking brake or wheel lock holds it while you load.",
-        "Confirm the spec sheet mentions a parking function or carry a wheel chock."
+        "A loaded trike can roll on a slope the moment you step off to load another bag. A parking brake or wheel lock holds it still, and without one the load can shift while you lift.",
+        "Look for a parking function in the specs, or plan to carry a wheel chock. Then check that your storage spot is flat enough for the trike to stay put."
       ]
     }
   ],
@@ -252,24 +252,24 @@ export const bestCargoElectricTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "Heavy loads, steep stops",
+            "Heavy loads and steep stops",
             "NARRAK 750W Fat Tire Electric Tricycle",
-            "Hydraulic brakes on three rotors"
+            "Hydraulic brakes on three disc rotors"
           ],
           [
             "Heavier rider plus cargo",
             "MOONCOOL 500W Folding Fat Tire Electric Tricycle",
-            "450 lb frame rating"
+            "450 lb frame rating with front and rear baskets"
           ],
           [
             "Backing out of tight spaces",
             "ESKUTE T300 MAX Electric Tricycle",
-            "One-touch reverse"
+            "One-touch reverse and 80 mile battery"
           ],
           [
             "Shorter rider, lighter loads",
             "ESKUTE 48V13Ah Folding Electric Tricycle",
-            "Fits from 4'8\""
+            "Low step-through fits riders from 4'8\""
           ]
         ]
       }
@@ -279,25 +279,25 @@ export const bestCargoElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Hydraulic brakes",
-          "text": "The NARRAK 750W gives the strongest stopping control, which matters most with a heavy load."
+          "text": "The NARRAK 750W gives the strongest stopping control here, with hydraulic brakes on three rotors, which matters most when a heavy load is pushing the trike downhill."
         },
         {
           "label": "Larger battery",
-          "text": "The ESKUTE T300 MAX offers up to 80 miles, which matters for long errands."
+          "text": "The ESKUTE T300 MAX carries a 48V 20.8Ah battery rated up to 80 miles, which suits long errands, though stated range falls with cargo and hills."
         }
       ],
-      "note": "Choose brakes first when you carry heavy loads, range second."
+      "note": "Choose brakes first when you carry heavy loads, and range second."
     },
     {
       "heading": "For Grocery Runs Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Front and rear baskets, strong brakes and a low step-through frame."
+          "text": "Front and rear baskets, strong brakes and a frame low enough to step through with a bag in each hand, plus a parking hold while you load the car."
         },
         {
           "label": "In this comparison",
-          "text": "The NARRAK 750W adds extra-large baskets and the MOONCOOL 500W has front and rear baskets with a 450 lb frame."
+          "text": "The NARRAK 750W pairs front and rear baskets with hydraulic brakes, the MOONCOOL 500W adds a 450 lb frame rating, and the ESKUTE 48V13Ah offers the lowest step-through."
         }
       ]
     },
@@ -306,11 +306,11 @@ export const bestCargoElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You need reverse and range, which points to the ESKUTE T300 MAX."
+          "text": "You need reverse for tight spaces and long range, which points to the ESKUTE T300 MAX with its 80Nm torque, 48V 20.8Ah battery and one-touch reverse."
         },
         {
           "label": "Save if",
-          "text": "Your loads are light, where the ESKUTE 48V13Ah is enough."
+          "text": "Your loads are light and your errands short. The ESKUTE 48V13Ah has a 624Wh removable battery and a step-through frame, which covers most small shopping trips."
         }
       ]
     }
@@ -318,33 +318,37 @@ export const bestCargoElectricTricycles: BestArticle = {
   "faq": [
     {
       "q": "How much can an electric cargo trike carry?",
-      "a": "The MOONCOOL frame is rated to 450 lbs total. Other brands do not give a clear figure, so check before loading."
+      "a": "The MOONCOOL frame is rated to 450 lbs total, and that figure covers the rider as well as cargo. The other three do not give a clear total here, so confirm the capacity with the maker before loading."
     },
     {
       "q": "Do cargo loads reduce range?",
-      "a": "Yes. Stated ranges come from pedal-assist mode, so a loaded trike on hills or throttle will go less far."
+      "a": "Yes. A stated range assumes gentle pedal assist, so a loaded trike on hills or running on throttle will go noticeably less far. Treat the figure as a ceiling and plan errands with a reserve."
     },
     {
       "q": "Are hydraulic brakes necessary?",
-      "a": "They are helpful for heavy loads. The NARRAK 750W uses them, while others use other brake types."
+      "a": "They are helpful for heavy loads because they deliver strong stopping with a light lever pull. The NARRAK 750W has them on three rotors, while the MOONCOOL does not detail its brake type, so check before buying."
     },
     {
       "q": "Can I back up a loaded trike?",
-      "a": "The ESKUTE T300 MAX has one-touch reverse. On others you must push the trike backward."
+      "a": "The ESKUTE T300 MAX has one-touch reverse, which saves pushing a heavy load backward out of a shed. On the others you must push the trike by hand, so check your storage path before you decide."
     },
     {
       "q": "How do I keep a load stable?",
-      "a": "Place heavy items low and centered over the rear axle and use a cargo net."
+      "a": "Place heavy items low and centered over the rear axle, and fasten them with a cargo net or straps. A load that shifts sideways in a corner is the common cause of a trike tipping."
+    },
+    {
+      "q": "Will a folding model suit apartment storage?",
+      "a": "The MOONCOOL 500W and the ESKUTE 48V13Ah both fold, which helps in a small space. A folded unit is still heavy, so measure the doorway, the stairs and the storage spot, and plan how you will lift or roll it."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Electric Cargo Tricycles for Groceries",
       "productId": "narrak-750w-fat-tire-electric-tricycle",
       "text": "The NARRAK 750W has front and rear baskets and hydraulic brakes on three disc rotors, which keeps a loaded shopping run controlled. Check basket size against your usual bags, and read the [grocery cargo guide](/adult-tricycle-weight-capacity-and-payload/) for load limits."
     }
   ],
-  "bottomLine": "The NARRAK 750W is the best cargo e-trike here for its brakes and baskets. Choose the MOONCOOL for a 450 lb frame rating, the ESKUTE T300 MAX for reverse and range, and the ESKUTE 48V13Ah for shorter riders with lighter loads.",
+  "bottomLine": "The NARRAK 750W is the best cargo e-trike here for its hydraulic brakes and large baskets. Choose the MOONCOOL for its 450 lb frame rating, the ESKUTE T300 MAX for reverse and long range, and the ESKUTE 48V13Ah for shorter riders carrying lighter loads.",
   "amazonSearch": "cargo electric tricycles",
   "relatedPaths": [
     "/electric-tricycle-for-adults/",

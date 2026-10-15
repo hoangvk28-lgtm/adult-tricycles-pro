@@ -186,48 +186,59 @@ export const bestBikeSeatsUnder25: BestArticle = {
   "howWeChose": [
     {
       "title": "Width and padding",
-      "body": "We compared width, foam and springs, since upright trike riding puts weight on the sit bones."
+      "body": "We compared width, foam and springs, since upright trike riding puts weight on the sit bones and a narrow saddle concentrates it there."
     },
     {
       "title": "Clamp and rail fit",
-      "body": "Clamp type, included tools and adapters were checked for fit on a typical seat post."
+      "body": "Clamp type, included tools and adapters were checked for fit on a typical seat post, because a saddle that does not attach is a wasted order."
     },
     {
       "title": "Weight rating",
-      "body": "Stated rider limits were noted where given, since some saddles are light-duty."
+      "body": "Stated rider limits were noted where given, such as the ROCKBROS's 220 lb, since some saddles are light-duty and others give no limit."
+    },
+    {
+      "title": "Weather and cover",
+      "body": "Waterproof covers and airflow channels were compared, since a trike seat sits outdoors and holds heat and rain."
     },
     {
       "title": "Right product only",
-      "body": "Saddle bags were dropped because they are not seats."
+      "body": "Saddle bags were dropped because they are not seats, so every pick here is a full saddle with a clamp or adapter."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Seat post and clamp fit",
       "paragraphs": [
-        "A trike seat post may differ in diameter or have a bracket instead of a standard post, so a universal clamp may not fit.",
-        "Measure your post diameter and check how the current saddle attaches before ordering."
+        "A trike seat post may differ in diameter or have a bracket instead of a standard post, so a universal clamp may not fit. The Xmifer and Topcrown include tools, and the LCYMD includes an adapter.",
+        "Measure your post diameter and check how the current saddle attaches before ordering. If the old saddle bolts to a plate, a rail clamp saddle will not replace it directly."
       ]
     },
     {
       "title": "Width versus sit-bone support",
       "paragraphs": [
-        "A wider saddle spreads weight but can chafe the thighs. A narrower one is lighter but less forgiving.",
-        "Choose width by how upright you sit; wide for upright, narrower for leaning forward."
+        "A wider saddle spreads weight over more area but can chafe the thighs. A narrower one is lighter but less forgiving under an upright rider.",
+        "Choose width by how upright you sit; wide for upright, narrower for leaning forward. The Xmifer is the widest, while the ROCKBROS has a tapered shape."
       ]
     },
     {
       "title": "Springs versus foam",
       "paragraphs": [
-        "Springs soften bumps and suit slow riding, but add weight and can feel bouncy.",
-        "Choose springs for rough paths and plain foam for smooth ones."
+        "Springs soften bumps and suit slow riding, but add weight and can feel bouncy at pace. Foam and gel are lighter and quieter on a smooth path.",
+        "Choose springs for rough paths and plain foam for smooth ones. The Xmifer has dual springs, while the LCYMD, ROCKBROS and Topcrown rely on foam or gel and do not."
       ]
     },
     {
       "title": "Weight limit",
       "paragraphs": [
-        "Some budget saddles state a limit, such as 220 lb, others give none.",
-        "If a limit is not shown, treat it as light-duty and favor a saddle with a clear rating."
+        "Some budget saddles state a limit, such as 220 lb on the ROCKBROS, others give none. A saddle with no rating may still hold you, but you cannot be sure.",
+        "If a limit is not shown, treat it as light-duty and favor a saddle with a clear rating. Add your weight to any load you carry on the seat."
+      ]
+    },
+    {
+      "title": "Airflow and cover",
+      "paragraphs": [
+        "A center vent or channel lets air and pressure escape, while a waterproof cover keeps the seat from soaking in the rain. The Topcrown, ROCKBROS and LCYMD all carry a vent or channel along the top.",
+        "Look for a channel along the center of the saddle if you ride in warm weather, and wipe the cover dry after rain so it does not stay damp overnight."
       ]
     }
   ],
@@ -244,22 +255,22 @@ export const bestBikeSeatsUnder25: BestArticle = {
           [
             "Upright, slow riding",
             "Xmifer Oversized Comfort Saddle",
-            "Widest platform with springs"
+            "Widest platform, softened by dual springs."
           ],
           [
             "Lighter rider, short rides",
-            "ROCKBROS Ergonomic Saddle",
-            "Light with a 220 lb rating"
+            "ROCKBROS Ergonomic Waterproof Saddle",
+            "Light at 0.58 lb with a 220 lb limit."
           ],
           [
             "Pressure relief",
             "Topcrown Touring Gel Saddle",
-            "Gel layer and zoned support"
+            "Gel layer, zoned support and ventilation channel."
           ],
           [
             "Basic swap on a budget",
-            "LCYMD Replacement Saddle",
-            "Wide foam, adapter included"
+            "LCYMD Replacement Comfort Saddle",
+            "Wide foam with an adapter included."
           ]
         ]
       }
@@ -269,11 +280,11 @@ export const bestBikeSeatsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Springs",
-          "text": "The Xmifer uses dual springs and rubber balls to absorb bumps, which suits cracked paths."
+          "text": "The Xmifer uses dual springs to absorb bumps, which suits cracked paths and slow upright riding. It adds weight and is bulky on a small frame, so check the space behind the seat."
         },
         {
           "label": "Foam",
-          "text": "The LCYMD, ROCKBROS and Topcrown rely on foam or gel, which is lighter and quieter."
+          "text": "The LCYMD, ROCKBROS and Topcrown rely on foam or gel, which is lighter and quieter than springs. Gel on the Topcrown can compress with use, so expect it to soften."
         }
       ],
       "note": "Most trike riders should choose springs on rough paths and foam on smooth ones."
@@ -283,11 +294,11 @@ export const bestBikeSeatsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A wide seat with some give, as a backrest is not included in these budget saddles."
+          "text": "A wide seat with some give, since none of these budget saddles includes a backrest. Width and padding matter more here than any single extra."
         },
         {
           "label": "In this comparison",
-          "text": "The Xmifer's springs soften bumps that reach the spine. See the trike seat pillar guide for backrest seats."
+          "text": "The Xmifer's dual springs soften bumps that would otherwise travel up to the lower back. See the trike seat pillar guide if you want a backrest seat instead."
         }
       ]
     },
@@ -296,11 +307,11 @@ export const bestBikeSeatsUnder25: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want a backrest, bucket seat or long-ride comfort. See the full trike seat guide."
+          "text": "You want a backrest, a bucket seat or long-ride comfort, which a budget saddle cannot give. See the full trike seat guide for those options."
         },
         {
           "label": "Save if",
-          "text": "You ride short distances on smooth paths. The LCYMD or ROCKBROS is enough."
+          "text": "You ride short distances on smooth paths. The LCYMD or ROCKBROS is enough, and the ROCKBROS adds a stated 220 lb limit at a light weight."
         }
       ]
     }
@@ -308,26 +319,30 @@ export const bestBikeSeatsUnder25: BestArticle = {
   "faq": [
     {
       "q": "Will a standard saddle fit my trike?",
-      "a": "If your trike uses a standard seat post and a rail clamp, yes. Many trikes use a different bracket, so measure and check before buying."
+      "a": "If your trike uses a standard seat post and a rail clamp, yes. Many trikes use a different bracket, so measure and check the current attachment before buying. The Xmifer and Topcrown include tools, and the LCYMD includes an adapter."
     },
     {
       "q": "Are wide saddles better for trikes?",
-      "a": "For upright, slow riding they usually are, as they spread weight under the sit bones. If you lean forward, a narrower shape chafes less."
+      "a": "For upright, slow riding they usually are, as they spread weight under the sit bones. If you lean forward, a narrower shape such as the ROCKBROS chafes less. Match the width to how upright you sit."
     },
     {
       "q": "Do springs help?",
-      "a": "They soften bumps for casual riding but add weight and can feel bouncy. Foam-only saddles are lighter."
+      "a": "They soften bumps for casual riding but add weight and can feel bouncy. Foam-only saddles are lighter, and the Xmifer's dual springs are best on rough paths. Try the saddle on your usual route before deciding."
     },
     {
       "q": "How do I know the weight limit?",
-      "a": "Check the title and details for a stated limit. The ROCKBROS gives 220 lb, while others give none, so treat them as light-duty."
+      "a": "Check the title and details for a stated limit. The ROCKBROS gives 220 lb, while others give none, so treat them as light-duty until you confirm. Add any load you carry on the seat to your own weight."
     },
     {
       "q": "How long will padding last?",
-      "a": "Foam and gel compress over a season or two. Replace the saddle when the padding bottoms out."
+      "a": "Foam and gel compress over a season or two. Replace the saddle when the padding bottoms out, since a worn saddle loses the pressure relief you bought it for. A visible dent in the middle is the sign."
+    },
+    {
+      "q": "Is the LCYMD a full seat or a cover?",
+      "a": "It is a full saddle with a seat post adapter, not a cover, so it replaces the old seat entirely. Check that the adapter fits your post diameter, and keep the original saddle until the new one is fitted."
     }
   ],
-  "bottomLine": "A cheap saddle can make a trike much more comfortable. The Xmifer is the best fit for most upright riders, and the ROCKBROS is the lighter choice. If you need back support, see our full trike seat guide.",
+  "bottomLine": "A cheap saddle can make a trike much more comfortable. The Xmifer is the best fit for most upright riders, and the ROCKBROS is the lighter choice. Pick the Topcrown for pressure relief or the LCYMD for a simple swap. If you need back support, see our full trike seat guide.",
   "amazonSearch": "bike seats under $25",
   "relatedPaths": [
     "/accessories/best-seats-for-adult-tricycles/",

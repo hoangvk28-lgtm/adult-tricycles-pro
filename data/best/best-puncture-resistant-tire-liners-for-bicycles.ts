@@ -224,48 +224,55 @@ export const bestPunctureResistantTireLinersForBicycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Size coverage",
-      "body": "We checked which wheel sizes and tire widths each liner states it fits."
+      "body": "We checked which wheel sizes and tire widths each liner claims to fit, since a liner has to match the tire's width as well as the wheel's diameter."
     },
     {
-      "title": "Material",
-      "body": "Polyurethane and TPU strips were compared for weight and wear resistance."
+      "title": "Material and thickness",
+      "body": "We compared polyurethane and TPU strips for weight and wear, and noted the thickness in millimetres where it is given, from 1 mm to 1.2 mm."
     },
     {
       "title": "Installation",
-      "body": "Self adhesive and trim to fit designs were compared for ease of fitting."
+      "body": "We compared self adhesive and trim to fit designs, because a liner that shifts inside the tire can rub the tube or leave a gap."
     },
     {
       "title": "Complete protection",
-      "body": "We added rim tape since spoke holes cause a different type of flat."
+      "body": "We added rim tape, because spoke holes cause a different kind of flat from thorns, and a trike with spokes can suffer from both."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Width versus tire",
       "paragraphs": [
-        "Liner width should match the tire's width, not the wheel's diameter. A fat tire needs a wide liner.",
-        "Read your tire sidewall, for example 4.0 inch, and choose a liner of similar width."
+        "A liner's width should match the tire's width, not the wheel's diameter. A fat tire needs a wide liner, and a narrow strip leaves the shoulders of the tread unprotected.",
+        "Read the sidewall on your tire, such as 4.0 inch, then choose a liner of similar width. The JULAI standard strip is 38 mm, while the fat liners cover 3 to 4 inch tires."
       ]
     },
     {
       "title": "Material and thickness",
       "paragraphs": [
-        "Polyurethane and TPU are both flexible and light. A thicker strip resists more but adds weight.",
-        "Look for thickness in millimetres. 1mm to 1.2mm is typical."
+        "Polyurethane and TPU are both flexible and light, but a thicker strip resists more and adds weight. A trike's rolling effort is already higher than a bike's, so thickness is a trade.",
+        "Look for thickness in millimetres. The JULAI is 1 mm and the CNCLOL is 1.2 mm. Pick the thicker strip if you ride thorn-heavy routes."
       ]
     },
     {
       "title": "Adhesive or trim",
       "paragraphs": [
-        "Self adhesive liners stay put during fitting, while plain strips need care.",
-        "If you are new to this, pick the adhesive type and fit it slowly."
+        "Self adhesive liners stay put during fitting, while plain strips need careful placement by hand. An adhesive strip is harder to reposition once it contacts the tire.",
+        "If you are new to this, pick an adhesive type and fit it slowly, working around the tire a hand at a time. Cut the ends cleanly so they do not overlap."
       ]
     },
     {
       "title": "Three tires, not two",
       "paragraphs": [
-        "A pair covers two tires, and a trike has three.",
-        "Buy two pairs, or cut one liner to fit the front wheel."
+        "A pair covers two tires, and a trike has three. A pair in the pack leaves one wheel unprotected unless you buy twice or cut a liner shorter for the front.",
+        "Count your tires before ordering. Buy two pairs, or fit the rear wheels first and plan the front for a second purchase."
+      ]
+    },
+    {
+      "title": "Rim tape and spoke holes",
+      "paragraphs": [
+        "Spoke holes inside the rim can press into a tube and cause a flat that a liner never reaches. Rim tape covers the holes and keeps the tube from wearing through.",
+        "Inspect the rim tape whenever the tire comes off. The Darlingao tape is 18 mm wide and made for 26 inch rims, so check your rim's inner width."
       ]
     }
   ],
@@ -282,27 +289,27 @@ export const bestPunctureResistantTireLinersForBicycles: BestArticle = {
           [
             "Standard cruiser tires",
             "JULAI Polyurethane Tire Liners",
-            "38mm width fits 20 to 26 inch"
+            "38 mm width fits 20, 24 and 26 inch tires"
           ],
           [
-            "Fat 3 to 4 inch tires",
+            "Fat tires, 3 to 4 inch",
             "JULAI Fat Bike Tire Liners",
-            "Wider strip"
+            "Wider strip matches large-volume tires"
           ],
           [
             "4.0 inch e-trike tires",
             "VOYISA Fat Bike Tire Liner",
-            "Self adhesive TPU"
+            "Self adhesive TPU in 3.15 or 4.3 inch widths"
           ],
           [
             "Unusual tire width",
             "CNCLOL Self Adhesive TPU Liners",
-            "Seven width choices"
+            "Seven widths from 23 to 110 mm"
           ],
           [
             "Spoke hole flats on 26 inch",
             "Darlingao 26 inch Rim Tape 2 Pack",
-            "Covers spoke holes"
+            "Covers spoke holes, 18 mm elastic PVC"
           ]
         ]
       }
@@ -312,11 +319,11 @@ export const bestPunctureResistantTireLinersForBicycles: BestArticle = {
       "cards": [
         {
           "label": "Adhesive",
-          "text": "The VOYISA and CNCLOL liners stick on, making fitting easier but repositioning hard."
+          "text": "The VOYISA and CNCLOL liners stick on, which makes fitting easier. The price is that repositioning is hard once the tape has gripped the tire."
         },
         {
           "label": "Plain strip",
-          "text": "The JULAI liners are trimmed and placed by hand, giving room to adjust."
+          "text": "The JULAI liners are trimmed and placed by hand, giving room to adjust. They can shift if the fit is loose, so check the position after the first ride."
         }
       ],
       "note": "First time fitters should default to an adhesive liner."
@@ -326,11 +333,11 @@ export const bestPunctureResistantTireLinersForBicycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A liner at least 1mm thick and wide enough to cover the tread area."
+          "text": "A liner at least 1 mm thick and wide enough to cover the tread area, so thorns have to pass a layer of material before reaching the tube."
         },
         {
           "label": "In this comparison",
-          "text": "The CNCLOL liner at 1.2mm is the thickest, and the JULAI liners cover standard tires."
+          "text": "The CNCLOL liner at 1.2 mm is the thickest here, and the JULAI liners cover standard tires at 1 mm. Neither stops a pinch flat."
         }
       ]
     },
@@ -339,11 +346,11 @@ export const bestPunctureResistantTireLinersForBicycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You fix flats often. Add the Darlingao rim tape to the JULAI liners."
+          "text": "You fix flats often. Add the Darlingao rim tape to the JULAI liners so both thorns and spoke holes are covered on a 26 inch wheel."
         },
         {
           "label": "Save if",
-          "text": "You ride smooth paths. One JULAI pair may be enough."
+          "text": "You ride smooth paths. One JULAI pair may be enough for the two rear wheels, with the front left bare until it needs it."
         }
       ]
     }
@@ -351,26 +358,26 @@ export const bestPunctureResistantTireLinersForBicycles: BestArticle = {
   "faq": [
     {
       "q": "Do tire liners really stop flats?",
-      "a": "They block thorns and glass from reaching the tube, but they do not stop pinch flats or valve leaks. Read /adult-tricycle-tires-pressure-and-punctures/ for more."
+      "a": "They block thorns and glass from reaching the tube, but they do not stop pinch flats or valve leaks. Our guide to tire pressure and punctures at /adult-tricycle-tires-pressure-and-punctures/ explains the full set of causes."
     },
     {
       "q": "How many liners does a trike need?",
-      "a": "Three, one per tire. A pair covers two, so buy two pairs."
+      "a": "Three, one per tire. A pair covers two, so buy two pairs, or cut one liner to fit the front. Check that the widths are the same on all three tires before ordering."
     },
     {
       "q": "Can I fit a liner to a tube I already have?",
-      "a": "Yes. Take the tire off, place the liner between tube and tire, and refit it."
+      "a": "Yes. Take the tire off, place the liner between the tube and the tire, and refit it. Check that the ends do not overlap and that the valve hole is clear."
     },
     {
       "q": "Do liners add rolling resistance?",
-      "a": "A little, because of added weight. A thin strip adds the least."
+      "a": "A little, because of added weight. A thin strip adds the least. On a trike that carries heavy loads and is slow to repair, the small extra effort is usually a fair trade for fewer rear flats. Choose the thinner strip if you ride mostly on smooth paths."
     },
     {
-      "q": "What about tubes?",
-      "a": "See /accessories/best-inner-tubes-for-adult-tricycles/ for matching tubes, and /adult-tricycle-wheel-sizes-20-24-26-inch/ for sizes."
+      "q": "What about tubes and wheel sizes?",
+      "a": "Our guide at /accessories/best-inner-tubes-for-adult-tricycles/ covers matching tubes, and /adult-tricycle-wheel-sizes-20-24-26-inch/ explains sizes. The tube has to match the wheel before the liner matters, so settle the wheel size first, then the tube, then the liner width."
     }
   ],
-  "bottomLine": "The JULAI liner pair suits most trikes, and the VOYISA or JULAI fat liner suits fat tires. Add the Darlingao rim tape for 26 inch wheels. Remember a trike has three tires, so buy enough liners.",
+  "bottomLine": "The JULAI Polyurethane Tire Liners suit most trikes, with a 38 mm strip that trims to fit 20, 24 and 26 inch tires. The VOYISA or JULAI fat liner suits fat tires, and the Darlingao rim tape handles spoke holes on 26 inch wheels. A trike has three tires, so buy enough liners.",
   "amazonSearch": "tire liners",
   "relatedPaths": [
     "/accessories/best-inner-tubes-for-adult-tricycles/",

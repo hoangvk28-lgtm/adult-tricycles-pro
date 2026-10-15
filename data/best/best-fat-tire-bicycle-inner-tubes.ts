@@ -179,48 +179,55 @@ export const bestFatTireBicycleInnerTubes: BestArticle = {
   "howWeChose": [
     {
       "title": "Exact size",
-      "body": "We kept only tubes for 20 x 4.0 and 26 x 4.0 fat tires and dropped skinny road sizes."
+      "body": "We kept only tubes made for 20 x 4.0 and 26 x 4.0 fat tires and dropped skinny road sizes, because a tube that is not matched to the tire fails early."
     },
     {
       "title": "Valve and rim",
-      "body": "Schrader valve length matters on deep rims."
+      "body": "Schrader valve length matters on deep rims, so we noted each stem length and whether a valve cover is included before ranking convenience."
     },
     {
       "title": "Included tools",
-      "body": "Tire levers help with stiff fat tires."
+      "body": "Fat tires are stiff and tight on the rim, so tire levers count, and we favored packs that include two or four rather than leaving you to buy them separately."
     },
     {
       "title": "Honest limits",
-      "body": "All are unverified, and none is a proven puncture-proof product."
+      "body": "All of these come from lesser-known brands, and none is promised to be puncture-proof, so we describe what each tube is and leave durability claims out."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Tube size matches tire",
       "paragraphs": [
-        "A tube too narrow stretches thin and fails, while a tube too wide folds and pinches.",
-        "Read the size on the tire sidewall and match both diameter and width."
+        "A tube that is too narrow stretches thin and fails, while one that is too wide folds and pinches inside the tire. Both end in a flat soon after fitting.",
+        "Read the size on the tire sidewall and match both diameter and width, such as 20 x 4.0 or 26 x 4.0, to the range printed on the tube."
       ]
     },
     {
       "title": "Valve type and length",
       "paragraphs": [
-        "Schrader valves are common on fat trikes. A short stem may not clear a deep rim.",
-        "Check your rim depth and choose a valve length that clears it."
+        "Schrader valves are common on fat trikes and match car-style pumps. A short stem may not clear a deep rim, leaving no room for the pump head to seal.",
+        "Check your rim depth and choose a valve length that clears it, such as the 35mm on the Senaro against 32mm on the Ultraverse."
       ]
     },
     {
       "title": "Wall thickness",
       "paragraphs": [
-        "A thicker butyl wall resists small punctures better.",
-        "A heavy-duty tube holds air longer but adds weight."
+        "A thicker butyl wall resists small punctures better and holds air longer, which helps a loaded trike where the tube runs under heavy sustained pressure.",
+        "A heavy-duty tube adds a little weight, so choose one like the PAKCHEF for cargo trikes and a standard tube for light riding."
       ]
     },
     {
       "title": "Liners as backup",
       "paragraphs": [
-        "A liner adds a barrier against thorns.",
-        "Trim it to length and avoid overlaps."
+        "A liner sits between tube and tire and adds a barrier against thorns and glass. It does not replace a tube and it does not make a tire puncture-proof.",
+        "Trim it to length so the ends do not overlap, and fit it carefully so the edges cannot rub the tube."
+      ]
+    },
+    {
+      "title": "Tire levers in the pack",
+      "paragraphs": [
+        "Fat tires sit tight on a wide rim, and removing one with a screwdriver risks pinching the new tube. Levers make the job controlled and safer for the tube.",
+        "Count the levers in the pack, two on the Ultraverse and four on the PAKCHEF, and buy a set if yours has none."
       ]
     }
   ],
@@ -237,22 +244,22 @@ export const bestFatTireBicycleInnerTubes: BestArticle = {
           [
             "26 inch fat wheels",
             "Ultraverse 26 x 4.0 Fat Tube 2-Pack",
-            "Right size with levers."
+            "Right 26 x 4.0 size and two tire levers included"
           ],
           [
             "20 inch, loaded trike",
             "PAKCHEF Heavy Duty 20 x 4.0 Tube 2-Pack",
-            "Thicker butyl, four levers."
+            "Thicker butyl and four tire levers for tight tires"
           ],
           [
             "20 inch, simple swap",
             "Senaro 20 x 4.0 Fat Tube 2-Pack",
-            "35mm valve."
+            "Plain butyl with a longer 35mm valve"
           ],
           [
             "Frequent flats",
             "JULAI Fat Tire Liners",
-            "Extra barrier."
+            "Adds a barrier between tube and tire"
           ]
         ]
       }
@@ -262,11 +269,11 @@ export const bestFatTireBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Tube",
-          "text": "The Ultraverse, PAKCHEF and Senaro hold the air."
+          "text": "The Ultraverse, PAKCHEF and Senaro hold the air and are the part you actually replace after a flat, so size and valve length are the choices that matter."
         },
         {
           "label": "Liner",
-          "text": "The JULAI sits between tube and tire as a shield."
+          "text": "The JULAI sits between tube and tire as a shield against debris, fits 20 to 29 inch wheels and trims to length, but it needs a tube to work."
         }
       ],
       "note": "Most trike owners need a tube first and a liner only if flats are common."
@@ -276,11 +283,11 @@ export const bestFatTireBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A thicker wall and enough levers for stiff tires."
+          "text": "A thicker wall and enough tire levers for stiff tires, since a loaded trike stresses tubes harder and a pinched replacement tube wastes the repair."
         },
         {
           "label": "In this comparison",
-          "text": "The PAKCHEF has heavy-duty butyl and four levers."
+          "text": "The PAKCHEF has heavy-duty butyl, a valve cover and four tire levers, and it fits 3.5 to 4.0 width tires on 20 inch wheels."
         }
       ]
     },
@@ -289,11 +296,11 @@ export const bestFatTireBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You hit glass often; pair a tube with the JULAI liner and read /adult-tricycle-tires-pressure-and-punctures/."
+          "text": "You hit glass often; pair a tube with the JULAI liner and read /adult-tricycle-tires-pressure-and-punctures/ for pressure habits that cut flats."
         },
         {
           "label": "Save if",
-          "text": "You ride smooth paths, where the Senaro is enough."
+          "text": "You ride smooth paths, where the Senaro is enough and its 35mm valve clears most rims."
         }
       ]
     }
@@ -301,26 +308,30 @@ export const bestFatTireBicycleInnerTubes: BestArticle = {
   "faq": [
     {
       "q": "What size tube do I need?",
-      "a": "Match the size on the tire sidewall, such as 26 x 4.0 or 20 x 4.0, and the width range."
+      "a": "Match the size printed on the tire sidewall, such as 26 x 4.0 or 20 x 4.0, and check the width range on the tube. A near match can fold or stretch, so confirm both numbers."
     },
     {
       "q": "Schrader or Presta?",
-      "a": "Most fat trikes use Schrader. Check your rim's valve hole."
+      "a": "Most fat trikes use Schrader, and all three tubes here do. Check your rim's valve hole before ordering, because a Presta tube may need a different hole size."
     },
     {
       "q": "What pressure should I run?",
-      "a": "Fat tires run low pressure; see /fat-tire-vs-standard-tire-adult-tricycles/ for guidance."
+      "a": "Fat tires run low pressure within the range printed on the sidewall. See /fat-tire-vs-standard-tire-adult-tricycles/ for guidance, and use the same number on all three tires."
     },
     {
       "q": "Do liners help?",
-      "a": "They add a barrier but do not make a tire puncture-proof."
+      "a": "They add a barrier against thorns and glass but do not make a tire puncture-proof. Use one if flats are frequent, and fit it carefully so the ends do not overlap or rub."
     },
     {
       "q": "Can I use a 700C tube?",
-      "a": "No. It is the wrong size, which is why the YunSCM 700C tube was left out."
+      "a": "No. It is the wrong diameter and far too narrow for a fat tire, so it will stretch and fail. Stay with 20 x 4.0 or 26 x 4.0 tubes that match your wheel."
+    },
+    {
+      "q": "Which pack is easiest for a first flat repair?",
+      "a": "The PAKCHEF includes four tire levers and a valve cover, which helps with stiff fat tires. The Ultraverse includes two levers, and the Senaro includes none."
     }
   ],
-  "bottomLine": "Buy the Ultraverse for 26-inch wheels and the PAKCHEF or Senaro for 20-inch ones. Add the JULAI liner only if flats are common.",
+  "bottomLine": "Buy the Ultraverse for 26-inch wheels and the PAKCHEF or Senaro for 20-inch ones, using the PAKCHEF's thicker butyl and four levers for loaded trikes. Add the JULAI liner only if flats are common, and check your valve length and tire size before ordering.",
   "amazonSearch": "fat-tire inner tubes",
   "relatedPaths": [
     "/fat-tire-vs-standard-tire-adult-tricycles/",

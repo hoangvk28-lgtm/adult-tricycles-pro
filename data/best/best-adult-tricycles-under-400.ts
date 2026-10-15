@@ -189,48 +189,55 @@ export const bestAdultTricyclesUnder400: BestArticle = {
   "howWeChose": [
     {
       "title": "Frame and weight",
-      "body": "We compared aluminum, carbon steel and Hi-Ten steel and the 350 lb ratings."
+      "body": "We compared aluminum, carbon steel and Hi-Ten steel and the 350 lb ratings, because the frame decides rust risk and how easy the trike is to lift."
     },
     {
       "title": "Gearing and brakes",
-      "body": "We checked for gears and for drum or band rear brakes."
+      "body": "We checked for gears and for drum or band rear brakes, since those parts decide hill ability and how steady stopping is in wet weather."
     },
     {
       "title": "Fit",
-      "body": "We compared stated wheel sizes and rider heights."
+      "body": "We compared wheel sizes and rider heights, because a trike outside your range feels cramped or stretched on every ride."
     },
     {
       "title": "Storage and fenders",
-      "body": "We noted folding frames, and whether fenders come fitted."
+      "body": "We noted folding frames and whether fenders come fitted, which decide where the trike lives and how clean you stay after rain."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Frame material",
       "paragraphs": [
-        "Aluminum does not rust and weighs less, which helps when you lift the trike onto a porch. Steel is stronger per dollar but rusts if the paint chips.",
-        "Check the frame material in the title or bullets and plan to touch up scratches on steel."
+        "Aluminum does not rust and weighs less, which helps when you lift the trike onto a porch. Steel is stronger per dollar but rusts if the paint chips and moisture reaches bare metal.",
+        "Check the frame material in the title or bullets and plan to touch up scratches on steel. Store a steel trike dry when you can."
       ]
     },
     {
       "title": "Rear brake type",
       "paragraphs": [
-        "A drum brake is sealed and works in rain, while a band brake or expander brake is simpler and can fade.",
-        "Test stopping on a slope with a full basket before relying on it."
+        "A drum brake is sealed and keeps working in rain, while a band brake is simpler and can fade under repeated use. Front V or linear pull brakes need periodic adjustment.",
+        "Test stopping on a gentle slope with a loaded basket before relying on it. Ask a shop to tune cables if the lever feels spongy."
       ]
     },
     {
       "title": "Fenders",
       "paragraphs": [
-        "Without fenders, wet roads spray the rider and the drivetrain.",
-        "Look for fenders on both wheels if you ride after rain."
+        "Without fenders, wet roads spray water and grit onto the rider and the drivetrain. That grit wears chains and cables faster than clean riding does.",
+        "Look for fenders on both wheels if you ride after rain, or budget a small add-on set if the trike has none."
       ]
     },
     {
       "title": "Height range",
       "paragraphs": [
-        "A stated range is where the trike was designed to fit, and edges feel cramped.",
-        "Choose the size where you land in the middle."
+        "A published range is where the trike was designed to fit, and the edges feel cramped or stretched. Seat height and handlebar reach both follow the frame size.",
+        "Measure your height and choose the size where you land in the middle. Check that your leg is slightly bent at the pedal bottom."
+      ]
+    },
+    {
+      "title": "Folding hinge",
+      "paragraphs": [
+        "A folding frame adds a joint that carries your weight, so it needs more attention than a welded frame. Carbon steel can also rust if the coating is scratched.",
+        "Open and close it a few times in the store or on arrival, and look for hinge play. Check bolts monthly if you fold it often."
       ]
     }
   ],
@@ -246,23 +253,23 @@ export const bestAdultTricyclesUnder400: BestArticle = {
         "rows": [
           [
             "Flat, wet-weather rides",
-            "Schwinn Meridian",
-            "Aluminum, drum brake and fenders."
+            "Schwinn Meridian 26-Inch Adult Tricycle",
+            "Aluminum frame, sealed drum brake and fenders on both wheels"
           ],
           [
             "Hills and back support",
-            "MOONCOOL 7-Speed",
-            "Gears and a backrest."
+            "MOONCOOL 7-Speed Adult Trike",
+            "Seven gears and a backrest seat"
           ],
           [
             "Needs to fold",
-            "VEVOR 24-Inch",
-            "Only folder here."
+            "VEVOR 24-Inch Folding Adult Tricycle",
+            "Only folding frame here, with Shimano 7-speed"
           ],
           [
             "Gears on a tight budget",
-            "AkiiGer",
-            "Seven speeds, dual brakes."
+            "AkiiGer 7-Speed Adult Tricycle",
+            "Seven speeds, dual brakes and bottle cage mounts"
           ]
         ]
       }
@@ -272,25 +279,25 @@ export const bestAdultTricyclesUnder400: BestArticle = {
       "cards": [
         {
           "label": "Gears",
-          "text": "The MOONCOOL, VEVOR and AkiiGer have seven speeds, which ease hills."
+          "text": "The MOONCOOL, VEVOR and AkiiGer have seven speeds, which ease hills but add a derailleur that needs tuning and clean shifting."
         },
         {
           "label": "Light frame",
-          "text": "The Schwinn has an aluminum frame and drum brake but one speed."
+          "text": "The Schwinn has an aluminum frame and sealed drum brake but only one speed, which keeps upkeep low and suits flat routes."
         }
       ],
-      "note": "Choose gears if your route climbs at all."
+      "note": "Choose gears if your route climbs at all, and the Schwinn if it does not."
     },
     {
       "heading": "For Wet Climates Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Fenders, a sealed rear brake and a non-rusting frame."
+          "text": "Fenders on both wheels, a sealed rear brake and a frame that does not rust when paint chips or water sits on it."
         },
         {
           "label": "In this comparison",
-          "text": "The Schwinn Meridian, with fenders on both wheels, a drum brake and aluminum."
+          "text": "The Schwinn Meridian has fenders on both wheels, a drum brake and an aluminum frame. The AkiiGer has no fenders, so add a set."
         }
       ]
     },
@@ -299,11 +306,11 @@ export const bestAdultTricyclesUnder400: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you want a motor or a hydraulic brake beyond this group."
+          "text": "You want a motor or a hydraulic brake, which none of these four has. The electric trike guides cover that step for steep or long routes."
         },
         {
           "label": "Save if",
-          "text": "your riding is short and flat, where the Schwinn's single speed is enough."
+          "text": "Your riding is short and flat, where the Schwinn's single speed is enough and there is nothing to shift or tune."
         }
       ]
     }
@@ -311,26 +318,30 @@ export const bestAdultTricyclesUnder400: BestArticle = {
   "faq": [
     {
       "q": "Is aluminum worth it on a trike?",
-      "a": "It resists rust and weighs less, so it suits wet climates and riders who lift the trike. Steel is fine if you store it dry."
+      "a": "It resists rust and weighs less, so it suits wet climates and riders who lift the trike. The Schwinn Meridian uses it. Steel is fine if you store the trike dry and touch up chips."
     },
     {
       "q": "Do I need seven speeds?",
-      "a": "If your route has any slope, yes. On flat paths a single speed is simpler and needs less maintenance."
+      "a": "If your route has any slope, yes. The MOONCOOL, VEVOR and AkiiGer offer them. On flat paths a single speed is simpler and needs less maintenance, which is where the Schwinn fits."
     },
     {
       "q": "Which of these folds?",
-      "a": "Only the VEVOR 24 inch is described as folding."
+      "a": "Only the VEVOR 24-Inch is described as folding. The Schwinn, MOONCOOL and AkiiGer have fixed frames, so measure garage or closet space before ordering."
     },
     {
       "q": "Why do fenders matter?",
-      "a": "They keep road spray off you and the drivetrain, which extends chain life."
+      "a": "They keep road spray off you and the drivetrain, which extends chain life and keeps clothes clean. The Schwinn includes both fenders, while the AkiiGer does not."
     },
     {
       "q": "How should I check fit?",
-      "a": "Measure your height and compare it to the stated range for each wheel size."
+      "a": "Measure your height and compare it to the published range for each wheel size. For example, the Schwinn covers about 5 feet 0 inches to 6 feet 1 inch."
+    },
+    {
+      "q": "What should I check after assembly?",
+      "a": "Tighten all bolts, confirm both brakes stop firmly, and test the gears if there are any. The AkiiGer needs self-assembly, so a quick shop check is worthwhile."
     }
   ],
-  "bottomLine": "The Schwinn Meridian is the best pick for flat, wet routes, and the MOONCOOL is better if hills matter. Choose the VEVOR when folding is a must. Check size ranges and capacity details before ordering.",
+  "bottomLine": "The Schwinn Meridian 26-Inch is the best pick for flat, wet routes thanks to its aluminum frame, drum brake and fenders. The MOONCOOL is better if hills matter, and the VEVOR is the choice when folding is a must. Check size ranges and capacity details before ordering.",
   "amazonSearch": "adult tricycles under $400",
   "relatedPaths": [
     "/adult-tricycles/best-adult-tricycles-under-350/",

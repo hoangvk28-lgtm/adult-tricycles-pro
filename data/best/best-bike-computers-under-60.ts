@@ -219,49 +219,63 @@ export const bestBikeComputersUnder60: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Screen",
-      "body": "We compared screen size."
+      "title": "Screen size",
+      "body": "We compared display size first, since a trike rider sits upright with the bars at arm's length and needs speed digits that read at a glance, from 2.0 inch up to 3 inch."
     },
     {
       "title": "Battery and water",
-      "body": "We compared runtime and IP ratings."
+      "body": "We compared stated runtime and IP ratings, because a long ride in drizzle should not end with a dead or fogged screen, and some units give no battery figure at all."
     },
     {
-      "title": "Sensors",
-      "body": "We checked ANT+ and Bluetooth."
+      "title": "Sensor support",
+      "body": "We checked whether each unit pairs with ANT+ or Bluetooth sensors, since heart rate and cadence belts only work with the protocol the computer actually supports."
     },
     {
-      "title": "Setup",
-      "body": "We considered app needs."
+      "title": "Setup and apps",
+      "body": "We weighed whether a computer works straight from the box or needs a phone app, route files or sync accounts before it becomes useful on the first ride."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Screen size",
       "paragraphs": [
-        "A bigger screen is easier to read at a glance.",
-        "Check the dimensions."
+        "Screen size sets how large the speed and distance digits can be drawn. Bigger screens such as the 3 inch iGPSPORT are easier to read than a 2.0 inch unit when your eyes are on the road ahead.",
+        "Look for the screen measurement in inches, not just the word large. Imagine the unit on your handlebar at arm's length, and pick the biggest display you can mount without crowding lights or a bell."
       ]
     },
     {
       "title": "Water rating",
       "paragraphs": [
-        "IPX6 and IPX7 tolerate rain.",
-        "Check the rating."
+        "An IPX rating describes how well a sealed case resists water. IPX7, as on the BKVTOP, handles brief immersion, while IPX6 on the CYCPLUS G1 handles strong spray, so both suit normal rain.",
+        "Find the actual IPX number in the specs, since two models here give no water rating at all. If the trike is stored outdoors, wipe the unit dry and avoid charging it while wet."
       ]
     },
     {
-      "title": "Sensors",
+      "title": "Sensor protocol",
       "paragraphs": [
-        "ANT+ and Bluetooth are different.",
-        "Match your sensor."
+        "ANT+ and Bluetooth are two different wireless languages used by heart rate straps and cadence sensors. A computer that only speaks ANT+ cannot read a Bluetooth-only strap, and the reverse is also true.",
+        "Check what your sensor says on its box before choosing. The COOSPO BC107 supports ANT+ only, while the GEOID CC600 offers WiFi and Bluetooth sync, so match the protocol before you buy."
       ]
     },
     {
-      "title": "Mount",
+      "title": "Handlebar mount",
       "paragraphs": [
-        "Trike bars vary.",
-        "Measure the diameter."
+        "Trike handlebars vary in diameter and often carry brake levers, bells and baskets, so a standard bicycle mount may not clamp cleanly. A wrong fit means a computer that rotates or rattles.",
+        "Measure your bar diameter with a tape before ordering, and leave room next to the grips. The COOSPO BC107 needs an extension that is sold separately, so plan for that extra part if your bar is crowded."
+      ]
+    },
+    {
+      "title": "Battery runtime",
+      "paragraphs": [
+        "Battery life decides whether you can leave the computer unplugged for a full week of rides. The CYCPLUS G1 gives more than 55 hours and the BKVTOP gives up to 28 hours, while other units give no figure.",
+        "Compare the runtime in hours against your longest ride, and add margin for cold weather. Where no figure is given, assume you will charge after each long day and carry a USB cable."
+      ]
+    },
+    {
+      "title": "Navigation and app setup",
+      "paragraphs": [
+        "Navigation units show turn reminders and reroute when you miss a turn, but they depend on route files and an app for setup. Simple units just show speed and distance from the first press.",
+        "Decide whether you actually follow routes. The GEOID CC600 handles GPX routes and sync, but if you ride the same loop every day, a simpler unit saves effort and reduces setup mistakes."
       ]
     }
   ],
@@ -276,29 +290,29 @@ export const bestBikeComputersUnder60: BestArticle = {
         ],
         "rows": [
           [
-            "Hills",
-            "BKVTOP",
-            "Gradient data."
+            "Hills and everyday rides",
+            "BKVTOP Wireless GPS Bike Computer",
+            "Gradient and ascent data, IPX7, up to 28 hours"
           ],
           [
-            "Long battery",
-            "CYCPLUS G1",
-            "55+ hours."
+            "Longest battery between charges",
+            "CYCPLUS G1 Wireless GPS Bike Computer",
+            "1200 mAh battery, more than 55 hours"
           ],
           [
-            "Heart rate",
-            "COOSPO BC107",
-            "ANT+."
+            "Heart rate or cadence sensors",
+            "COOSPO BC107 GPS Bike Computer",
+            "ANT+ pairing for sensors on a 2.4 inch screen"
           ],
           [
-            "Navigation",
-            "GEOID CC600",
-            "Color maps."
+            "Following routes with turn prompts",
+            "GEOID CC600 Color Bike Computer",
+            "Color screen, rerouting and GPX route upload"
           ],
           [
-            "Large screen",
-            "iGPSPORT BSC100MAX",
-            "3 inch."
+            "Easiest screen to read",
+            "iGPSPORT BSC100MAX GPS Bike Computer",
+            "3 inch anti-glare screen with Strava sync"
           ]
         ]
       }
@@ -308,25 +322,25 @@ export const bestBikeComputersUnder60: BestArticle = {
       "cards": [
         {
           "label": "Simple",
-          "text": "CYCPLUS G1 and BKVTOP."
+          "text": "The BKVTOP Wireless GPS Bike Computer and CYCPLUS G1 Wireless GPS Bike Computer show speed and distance without route files. The CYCPLUS adds automatic backlight and a long battery, and neither needs wheel size entry."
         },
         {
           "label": "Navigation",
-          "text": "GEOID CC600."
+          "text": "The GEOID CC600 Color Bike Computer gives turn reminders, rerouting and GPX upload with WiFi and Bluetooth sync. It needs an app for setup, which suits explorers more than riders on a fixed loop."
         }
       ],
-      "note": "Choose simple unless you explore."
+      "note": "Choose a simple unit unless you regularly ride new routes and want prompts at junctions."
     },
     {
       "heading": "For Weak Eyes Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A large screen."
+          "text": "Look for the largest screen you can mount, high contrast and anti-glare, since small digits are the first thing older riders complain about."
         },
         {
           "label": "In this comparison",
-          "text": "The iGPSPORT at 3 inches."
+          "text": "The iGPSPORT BSC100MAX GPS Bike Computer has a 3 inch anti-glare screen, the largest here, while the BKVTOP and COOSPO BC107 offer 2.4 inch displays."
         }
       ]
     },
@@ -335,11 +349,11 @@ export const bestBikeComputersUnder60: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you want a full map."
+          "text": "You want maps and prompts, where the GEOID CC600 Color Bike Computer gives color navigation and rerouting that the simpler units do not."
         },
         {
           "label": "Save if",
-          "text": "you only need speed."
+          "text": "You only need speed and distance, where the CYCPLUS G1 Wireless GPS Bike Computer or BKVTOP covers the basics with a long battery."
         }
       ]
     }
@@ -347,26 +361,26 @@ export const bestBikeComputersUnder60: BestArticle = {
   "faq": [
     {
       "q": "Do I need a wheel sensor?",
-      "a": "No, GPS does it."
+      "a": "No. GPS bike computers read speed and distance from satellites, so there is no magnet, sensor or wheel size entry. That makes install simple on a trike. A wired sensor model would only be needed if you wanted wheel-based counting, and none of these five require it."
     },
     {
-      "q": "What is ANT+?",
-      "a": "A sensor protocol."
+      "q": "What is ANT+ and does it matter?",
+      "a": "ANT+ is a wireless protocol used by many heart rate straps and cadence sensors. It matters only if you own such a sensor. The COOSPO BC107 pairs with ANT+ but not Bluetooth sensors, so check your strap before choosing it."
     },
     {
-      "q": "Which is best in rain?",
-      "a": "The BKVTOP is IPX7."
+      "q": "Which computer handles rain best?",
+      "a": "The BKVTOP is rated IPX7 and the CYCPLUS G1 is rated IPX6, so both handle rain well. The GEOID and iGPSPORT give no water rating, so treat them as splash resistant at best and wipe them dry after wet rides."
     },
     {
-      "q": "Can I follow routes?",
-      "a": "The GEOID does."
+      "q": "Can I follow a route on these?",
+      "a": "Yes, on the GEOID CC600, which accepts GPX route uploads and gives turn reminders and rerouting. The simpler units show speed and distance only, so if route prompts matter to you, the GEOID is the pick to consider."
     },
     {
-      "q": "Will it fit a trike?",
-      "a": "Check bar diameter."
+      "q": "Will they fit a trike handlebar?",
+      "a": "Probably, but measure your bar diameter first. Trike bars can be wider or more crowded than a bicycle's. The COOSPO BC107 needs a separate extension mount, so allow for that. Confirm there is space near grips, bells and lights before ordering."
     }
   ],
-  "bottomLine": "The BKVTOP is the best all-round pick, with the GEOID for navigation and the iGPSPORT for a large screen. Check your handlebar and sensors.",
+  "bottomLine": "The BKVTOP Wireless GPS Bike Computer is the best all-round pick, with an easy setup and IPX7 sealing. Choose the GEOID CC600 if you want navigation, the iGPSPORT BSC100MAX for the largest screen, the CYCPLUS G1 for battery life, and the COOSPO BC107 for ANT+ sensors.",
   "amazonSearch": "bike computers under $60",
   "relatedPaths": [
     "/accessories/best-bike-computers-under-30/",

@@ -225,48 +225,48 @@ export const bestBikeTailLightsUnder30: BestArticle = {
   "howWeChose": [
     {
       "title": "Visibility angle",
-      "body": "We looked at lens angle and flash patterns, because a trike must be seen from the side at junctions as well as from behind."
+      "body": "We compared lens angle and flash patterns, because a trike has to be seen from the side at junctions as well as from directly behind by following drivers."
     },
     {
       "title": "Brake and turn signals",
-      "body": "We noted brake sensing and turn signal functions, since they communicate your intent to traffic behind you."
+      "body": "We noted which lights sense braking or offer turn signals, since a trike rider cannot easily signal with a hand while steering a wide, heavy frame."
     },
     {
       "title": "Mount and basket clearance",
-      "body": "We compared mounts, because a wide rear basket or rack often blocks a standard seatpost location."
+      "body": "We compared mount types, because a wide rear basket or rack often blocks the usual seatpost position and leaves a light pointing at the ground."
     },
     {
       "title": "Power and weather",
-      "body": "We compared battery type, stated runtime and IP rating, because a tail light that dies or leaks is worse than none."
+      "body": "We compared battery type, stated runtime and water rating, because a tail light that dies mid ride or leaks in rain is worse than having none."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Side visibility",
       "paragraphs": [
-        "A narrow beam is visible directly behind but not from the sides, where drivers at junctions see you. A wide-angle lens, such as a 260 degree design, shows the light from more angles.",
-        "Look for a stated lens angle and mount the light so a basket does not block the side view."
+        "A narrow beam is easy to see directly behind you but vanishes from the side, which is where drivers pulling out of junctions actually see a trike. A wide lens, such as the 260 degree design on the Magicshine URBO TL, spreads light across more angles.",
+        "Look for a stated lens angle in the specs. Then picture the basket loaded, because cargo that covers the side of the light removes the benefit you paid for."
       ]
     },
     {
       "title": "Brake sensing",
       "paragraphs": [
-        "A brake sensor reads deceleration and flashes brightly when you slow, similar to a car, which helps following drivers. Without it, a steady light says nothing about your slowing.",
-        "Check that the sensor is built in and test it by slowing in a safe area."
+        "A brake sensor reads deceleration and flashes at full brightness when you slow, much like a car brake light. Without it, a steady or slow flashing light says nothing about the moment you stop.",
+        "Check that the sensor is built into the light rather than needing a separate part. Then slow down in a safe, empty area and watch whether the light reacts."
       ]
     },
     {
       "title": "Mount type",
       "paragraphs": [
-        "Seatpost mounts do not fit trikes without a seatpost behind the basket, while rack and clip mounts adapt to wide baskets. A light that tilts down is invisible.",
-        "Check the mounts in the box and measure the mounting tube or rack stay before buying."
+        "Many trikes have no usable seatpost behind a wide basket, so a seatpost mount may have nowhere to grip. Rack and clip mounts adapt to more frames, and a light that tilts downward is nearly invisible to drivers.",
+        "Check which mounts come in the box. Then measure the rack stay or tube you plan to use against the mount clamp range before you order, since a clamp that is too small will not close."
       ]
     },
     {
-      "title": "Battery and waterproofing",
+      "title": "Battery and weather rating",
       "paragraphs": [
-        "USB-C rechargeable lights are easy to top up, while AAA lights are simple to refresh on a trip. IPX3 handles spray, IPX4 splashes and IPX6 heavy rain.",
-        "Pick a rating that matches your weather, and note stated runtime in the mode you will use."
+        "USB-C lights are quick to top up, while AAA lights are simple to refresh on a long trip. A rating such as IPX3 handles spray, IPX4 handles splashes, and IPX6 or IP65 copes with heavy rain.",
+        "Match the rating to your weather, and read the runtime for the mode you will actually ride in. A quoted maximum is usually for the dimmest setting."
       ]
     }
   ],
@@ -281,24 +281,29 @@ export const bestBikeTailLightsUnder30: BestArticle = {
         ],
         "rows": [
           [
-            "Seatpost or saddle rail free",
+            "Seatpost or saddle rail is free",
             "Magicshine URBO TL Brake Tail Light",
-            "Quarter-turn mount"
+            "Quarter-turn mount grips post or rail"
           ],
           [
-            "Rear rack under the basket",
+            "Rear rack sits under the basket",
             "Planet Bike Grateful Red Tail Light",
-            "Rack mount included"
+            "Rack mount comes in the box"
           ],
           [
-            "Handlebar plus seat post",
+            "Handlebar plus seat post both usable",
             "Ascher 1000 Lumen Front and Rear Light Set",
-            "Strap-mounted pair"
+            "Strap mounted pair covers both ends"
           ],
           [
-            "Want to signal turns",
+            "You want to signal turns",
             "Ianminho Tail Light With Turn Signal",
-            "Remote turn signals"
+            "Wireless remote controls left and right signals"
+          ],
+          [
+            "Simple strap fit with no tools",
+            "Ascher USB Rechargeable Bike Light Set",
+            "Silicone strap fits bar or post"
           ]
         ]
       }
@@ -308,11 +313,11 @@ export const bestBikeTailLightsUnder30: BestArticle = {
       "cards": [
         {
           "label": "Rechargeable",
-          "text": "The Magicshine and both Ascher sets use USB, which saves money but needs charging discipline."
+          "text": "The Magicshine URBO TL and both Ascher sets charge over USB, so there is no cell to buy, but they only work if you remember to plug them in after rides."
         },
         {
           "label": "Battery-powered",
-          "text": "The Planet Bike uses two AAA cells that are included and easy to swap on a trip."
+          "text": "The Planet Bike Grateful uses two AAA cells that are included, so a flat light is fixed in a minute on a trip, at the cost of carrying spares and replacing them."
         }
       ],
       "note": "Most riders should choose rechargeable unless a rack mount is the priority."
@@ -322,11 +327,11 @@ export const bestBikeTailLightsUnder30: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A light that mounts above or beside the basket and keeps a clear sight line to following drivers."
+          "text": "A light that mounts above or beside the basket and keeps a clear line of sight to following drivers, ideally with a wide lens so the side stays visible."
         },
         {
           "label": "In this comparison",
-          "text": "The Planet Bike's rack mount and the Magicshine's 260 degree lens both help a basket-loaded trike."
+          "text": "The Planet Bike's rack mount puts the light below the load line, while the Magicshine's 260 degree lens keeps it seen from the side when a basket is packed."
         }
       ]
     },
@@ -335,11 +340,11 @@ export const bestBikeTailLightsUnder30: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride busy roads where the Magicshine's brake sensing and wide lens change how drivers react."
+          "text": "You ride busy roads, where the Magicshine URBO TL's brake sensing and wide lens change how drivers behind you react, or you want turn signals from the Ianminho."
         },
         {
           "label": "Save if",
-          "text": "You ride lit paths. The Planet Bike or Ascher sets give basic visibility."
+          "text": "You ride lit paths and quiet streets. The Planet Bike or the simple Ascher set gives basic rear visibility without brake logic or extra gadgets."
         }
       ]
     }
@@ -347,26 +352,30 @@ export const bestBikeTailLightsUnder30: BestArticle = {
   "faq": [
     {
       "q": "Where should I mount a tail light on a trike?",
-      "a": "Mount it above the basket or on a rack stay so it stays visible. Avoid hiding it behind cargo."
+      "a": "Mount it above the basket or on a rack stay so the lens has a clear view behind you. Avoid placing it low behind cargo, and check the angle after loading the basket, because a tilted light points at the road instead of at drivers."
     },
     {
       "q": "What does a brake-sensing tail light do?",
-      "a": "It detects deceleration and flashes brightly, like a car brake light. This tells following drivers you are slowing."
+      "a": "It detects deceleration and flashes at full brightness, like a car brake light. That tells following drivers you are slowing, which matters on a trike because you cannot easily signal with a hand while steering with both."
     },
     {
       "q": "Is IPX3 enough for rain?",
-      "a": "IPX3 resists spray, so light rain is acceptable but heavy rain is a risk. IPX6 or IP65 is a better match for wet climates."
+      "a": "IPX3 resists spray, so a short shower is acceptable but sustained rain is a risk. The Magicshine's IPX6 and the Ascher set's IP65 are a better match for wet climates, while IPX4 sits in between and handles splashes."
     },
     {
       "q": "Do I need a rear light if my trike has reflectors?",
-      "a": "Reflectors only work when headlights hit them. A powered light is visible to everyone, so use both."
+      "a": "Reflectors only glow when another vehicle's headlights hit them, and they do nothing from the side in the dark. A powered light is visible to everyone, so use both, and keep the reflector clean and uncovered by cargo."
+    },
+    {
+      "q": "Should I buy a front and rear set?",
+      "a": "A set such as the Ascher 1000 Lumen pair gives you a headlight and a tail light together. If you already have a good headlight, a single tail light like the Magicshine avoids paying for parts you do not need."
     },
     {
       "q": "How long do the lights run?",
-      "a": "The Magicshine runs up to 82 hours in Eco Flash, the Planet Bike up to 150 hours in Superflash, and the Ianminho about 300 minutes."
+      "a": "The Magicshine runs up to 82 hours in Eco Flash and the Planet Bike up to 150 hours in Superflash. The Ianminho lasts about 300 minutes, so it needs charging far more often than the others."
     }
   ],
-  "bottomLine": "The Magicshine URBO TL is the strongest tail light because it senses braking and shows from wide angles. The Planet Bike suits rack mounts, the Ascher sets add a headlight and the Ianminho adds turn signals. Choose by where it will mount on your trike.",
+  "bottomLine": "The Magicshine URBO TL is the strongest tail light here because it senses braking and shows from wide angles. The Planet Bike suits riders who need a rack mount, the Ascher sets add a headlight, and the Ianminho adds turn signals. Choose by where the light will mount on your trike.",
   "amazonSearch": "bike tail lights under $30",
   "relatedPaths": [
     "/accessories/best-bike-tail-lights-under-15/",

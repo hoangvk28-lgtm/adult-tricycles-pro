@@ -115,48 +115,55 @@ export const bestFoldingAdultTricyclesUnder400: BestArticle = {
   "howWeChose": [
     {
       "title": "Fold design",
-      "body": "We looked at how each trike folds and what that costs in extra joints and bulk."
+      "body": "We looked at how each trike folds and what that costs in extra joints and bulk, because every hinge on a budget folder is a place where play can develop."
     },
     {
       "title": "Stated capacity",
-      "body": "Clear rider and basket figures counted more than large vague ones."
+      "body": "Clear rider and basket figures counted more than large vague ones, since at this budget an unclear number is a real risk when you load the rack."
     },
     {
       "title": "Size range",
-      "body": "Wheel options and height ranges decide whether a trike fits you at all."
+      "body": "Wheel options and rider height ranges decide whether a trike fits you at all, so we favored the pick that spells out which size suits which rider."
     },
     {
       "title": "Gearing",
-      "body": "A 7-speed matters on a folder that may be ridden on hills."
+      "body": "A 7-speed drivetrain matters on a folder that may be ridden on hills with a loaded basket, because a single gear leaves you walking the steeper parts."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Folded size and weight",
       "paragraphs": [
-        "A folded trike is often still wider than a bicycle and heavy to lift. Folding mainly saves floor space, not effort.",
-        "Measure your trunk or closet and confirm the folded dimensions before ordering."
+        "A folded trike is often still wider than a bicycle and heavy to lift, so folding mainly saves floor space rather than effort. A fold that stays bulky may not fit the space you imagined.",
+        "Measure your trunk, closet or RV bay and confirm the folded dimensions before ordering, since neither maker here gives them."
       ]
     },
     {
       "title": "Fold joint quality",
       "paragraphs": [
-        "Each hinge is a point where play can develop and rattle.",
-        "Check that clamps lock firmly, tighten bolts after the first ride, and avoid models with loose-fitting hinges."
+        "Each hinge is a point where play can develop and rattle, and play at the frame joint changes how the steering feels. Budget folders need more attention here than a rigid trike.",
+        "Check that clamps lock firmly, tighten the bolts after the first ride, and avoid any trike with loose-fitting hinges."
       ]
     },
     {
       "title": "Wheel size and height",
       "paragraphs": [
-        "A 20 inch wheel suits shorter riders, while 26 inch suits taller ones. A wrong size makes pedaling and mounting awkward.",
-        "Match your height to the maker's range, as with VEVOR's 20 inch for 4'8\" to 5'6\"."
+        "A 20 inch wheel suits shorter riders, while 26 inch suits taller ones, and a wrong size makes pedaling and mounting awkward. The right size keeps the knees from hitting the bars.",
+        "Match your height to the maker's range, as with the VEVOR 20 inch for 4'8\" to 5'6\", and the Slsy's 20, 24 and 26 inch choices."
       ]
     },
     {
       "title": "Load figures",
       "paragraphs": [
-        "Frame ratings, basket ratings and total weight are different numbers.",
-        "Add your weight and cargo, and ask the maker if a figure is unclear."
+        "Frame ratings, basket ratings and total weight are different numbers, and the lowest one governs how you load. Mixing them up leads to an overloaded rack.",
+        "Add your weight and your cargo, and ask the maker if a figure is unclear, as with the VEVOR's 265 lb basket claim."
+      ]
+    },
+    {
+      "title": "Brakes and frame coating",
+      "paragraphs": [
+        "A dual brake system gives a backup if one cable stretches, and a rust-resistant coating matters for a trike stored in a garage, trunk or RV bay where damp collects.",
+        "Check the brake setup on delivery and wipe the frame down after wet rides, since both help a budget folder last."
       ]
     }
   ],
@@ -173,22 +180,22 @@ export const bestFoldingAdultTricyclesUnder400: BestArticle = {
           [
             "Rider 5'6\" or shorter",
             "VEVOR 20 Inch Folding Trike",
-            "20 inch fits 4'8\" to 5'6\""
+            "20 inch size fits 4'8\" to 5'6\""
           ],
           [
             "Rider over 5'10\"",
             "Slsy Folding Adult Tricycle",
-            "Adjusts for riders up to 6'2\""
+            "Offers a 26 inch size for taller riders"
           ],
           [
-            "Wide range in one household",
+            "Wide range of heights in one household",
             "Slsy Folding Adult Tricycle",
-            "20, 24 and 26 inch options"
+            "20, 24 and 26 inch options to choose from"
           ],
           [
-            "Unsure of height",
+            "Carrying heavy shopping",
             "Slsy Folding Adult Tricycle",
-            "Seat and bars adjust from 4'8\" to 6'2\""
+            "Basket holds 110 lbs and the frame supports up to 350 lbs"
           ]
         ]
       }
@@ -198,25 +205,25 @@ export const bestFoldingAdultTricyclesUnder400: BestArticle = {
       "cards": [
         {
           "label": "VEVOR carbon steel",
-          "text": "Described as resisting deformation, it is a sound basic frame but with fewer stated figures."
+          "text": "Described as resisting deformation, it is a sound basic frame, with a Shimano 7-speed and full mudguards, but it comes with fewer stated load figures."
         },
         {
           "label": "Slsy high-carbon steel",
-          "text": "Stated to carry 350 lbs with a rust-resistant coating, giving buyers more to check."
+          "text": "Stated to carry 350 lbs with a rust-resistant coating and a 110 lb basket, it gives buyers clear numbers to check against their own weight and cargo."
         }
       ],
-      "note": "Most buyers should choose the Slsy unless a short rider needs the VEVOR's price."
+      "note": "Most buyers should choose the Slsy unless a short rider needs the VEVOR's 20 inch fit."
     },
     {
       "heading": "For Car Trunk Storage Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A real fold and stated size so it fits your trunk."
+          "text": "A real fold and a stated folded size, so you know it fits your trunk before you buy rather than discovering it on delivery day."
         },
         {
           "label": "In this comparison",
-          "text": "Both fold, but neither maker gives a folded size, so measure your space and ask before ordering."
+          "text": "Both the Slsy and VEVOR fold, but neither maker gives a folded size, so measure your space and ask before ordering."
         }
       ]
     },
@@ -225,11 +232,11 @@ export const bestFoldingAdultTricyclesUnder400: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you lift the trike daily or ride a heavy load, since the Slsy and VEVOR remain bulky folded and may flex at the hinge."
+          "text": "You lift the trike daily or ride a heavy load, since the Slsy and VEVOR remain bulky folded and may flex at the hinge."
         },
         {
           "label": "Save if",
-          "text": "you fold it only a few times a year, in which case the Slsy or VEVOR handles occasional use."
+          "text": "You fold it only a few times a year, in which case the Slsy or VEVOR handles occasional use without paying for a sturdier hinge."
         }
       ]
     }
@@ -237,26 +244,30 @@ export const bestFoldingAdultTricyclesUnder400: BestArticle = {
   "faq": [
     {
       "q": "Do budget folding trikes fold small?",
-      "a": "Not very. They still need floor space and are heavy to lift."
+      "a": "Not very. They shrink the footprint but still need floor space and are heavy to lift. Measure your trunk or closet first, and plan to roll the trike instead of carrying it."
     },
     {
       "q": "What is the rider limit of the Slsy?",
-      "a": "The frame is stated to support up to 350 lbs. Confirm whether that includes cargo."
+      "a": "The frame is stated to support up to 350 lbs, and the rear basket holds 110 lbs. Confirm with the maker whether the frame figure includes cargo before you load it."
     },
     {
       "q": "Is the VEVOR 265 lb figure a rider limit?",
-      "a": "It is stated for the basket and likely describes a total load. Ask the maker before relying on it."
+      "a": "It is stated for the basket and likely describes a total load. Ask the maker before relying on it, and treat the missing rider limit as a reason to leave a safety margin."
     },
     {
       "q": "Which size do I need?",
-      "a": "VEVOR 20 inch fits 4'8\" to 5'6\", 24 inch 4'11\" to 5'10\" and 26 inch 5'3\" to 6'2\"."
+      "a": "VEVOR sizes the 20 inch for 4'8\" to 5'6\", the 24 inch for 4'11\" to 5'10\" and the 26 inch for 5'3\" to 6'2\". Pick by your height and confirm before ordering."
     },
     {
       "q": "Do folding trikes need extra maintenance?",
-      "a": "Yes. Check fold joints and clamps regularly and tighten bolts."
+      "a": "Yes. Check fold joints and clamps regularly and tighten bolts after the first ride, because hinges are where play develops and affects steering over time."
+    },
+    {
+      "q": "Is the VEVOR's mudguard useful?",
+      "a": "Yes, it gives full coverage for wet days. The Slsy states a rust-resistant coating instead, so choose by whether fender coverage or load figures matter more to you."
     }
   ],
-  "bottomLine": "The Slsy is the stronger pick for most riders because its load figures and size range are clear. The VEVOR is a workable alternate for shorter riders once you confirm its rider limit.",
+  "bottomLine": "The Slsy is the stronger pick for most riders because its load figures and size range are clear, with a 350 lb frame, a 110 lb basket and 20, 24 and 26 inch options. The VEVOR is a workable alternate for shorter riders on 20 inch wheels once you confirm its rider limit.",
   "amazonSearch": "folding adult tricycles under $400",
   "relatedPaths": [
     "/folding-tricycles/best-folding-adult-tricycles/",

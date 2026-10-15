@@ -185,49 +185,56 @@ export const bestBikeFendersUnder25: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Wheel size",
-      "body": "We favored sets with a clear wheel size range."
+      "title": "Wheel size match",
+      "body": "We checked the stated wheel size range first, since a fender sized for 26 inch wheels sticks out awkwardly on a 20 inch trike wheel and may not clear the tire."
     },
     {
       "title": "Mounting",
-      "body": "Mount type decides if it fits a trike."
+      "body": "We compared quick release, strap and screw mounts, because trike frames rarely have the eyelets and seat posts a bicycle fender assumes."
     },
     {
       "title": "Coverage",
-      "body": "Wide fenders catch more spray."
+      "body": "We weighed how much spray each design stops, from full semi-circular fenders to a small clip-on guard that only shields the face and headset."
     },
     {
-      "title": "Extras",
-      "body": "Reflective tape adds night visibility."
+      "title": "Install effort",
+      "body": "We favored sets that fit without special tools, since older owners prefer a mount they can fit and remove without a workshop or a trip to a shop."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Clip-on vs full fenders",
+      "title": "Clip-on versus full fender",
       "paragraphs": [
-        "Full fenders cover the wheel arc. A clip-on only protects a small area.",
-        "Choose full for leg protection."
+        "A full fender wraps over the wheel and stops spray from reaching your legs and the frame. A clip-on guard straps to the fork and only shields the face and headset.",
+        "Choose full fenders for wet climates and a clip-on guard for occasional light use. The Ass Savers Mudder Mini weighs 21 grams and has little coverage, so it does not protect your legs."
       ]
     },
     {
       "title": "Wheel and tire size",
       "paragraphs": [
-        "A fender must clear the tire. Too narrow rubs.",
-        "Compare tire width to the stated limit."
+        "Fenders are sized by wheel diameter and tire width. Too small, and the fender lets spray escape. Too wide a tire rubs on the fender, which adds noise and drag.",
+        "Match the stated range to your wheel. The Cooryda covers 20 to 26 inch wheels, the R2Depot covers 22 to 27.5 inch, and the Mudder Mini fits forks with 32 to 55 mm tires, so fat tires may not fit."
       ]
     },
     {
       "title": "Mounting point",
       "paragraphs": [
-        "Trike rear ends differ from bikes. A rear bracket may not align.",
-        "Check the axle area before buying."
+        "Bicycle fenders usually bolt to eyelets or clamp to a seat post. Trikes often lack those, so the rear mount may need a pole or frame tube of a certain diameter.",
+        "Look at where your rear fender will attach. The R2Depot needs a rear pole 22mm or larger, and the Cooryda rear mount may not fit a trike, so measure the rear tube and check clearance first."
       ]
     },
     {
-      "title": "Material",
+      "title": "Material and flex",
       "paragraphs": [
-        "Flexible plastic survives knocks.",
-        "Pick flexible for rough storage."
+        "Fenders made from thin plastic bend on impact and rattle on rough roads. A flexible polypropylene material survives bumps better than a rigid shell that cracks.",
+        "The R2Depot uses flexible PP, and the Free-fly uses lightweight plastic. Check the material in the product title, and press a sample if you can before buying."
+      ]
+    },
+    {
+      "title": "Adjustability and visibility",
+      "paragraphs": [
+        "A fender that adjusts in length and angle can fit odd wheel sizes and avoid rubbing. Reflective trim also helps drivers see the rear of a trike at dusk.",
+        "The R2Depot adjusts in length and height and includes 26 feet of reflective tape. The Cooryda and Free-fly adjust the angle, which helps if your tire sits off center."
       ]
     }
   ],
@@ -244,22 +251,22 @@ export const bestBikeFendersUnder25: BestArticle = {
           [
             "20 inch wheels",
             "Cooryda Bicycle Fender Set",
-            "Covers 20 to 26 inch"
+            "Fits 20 to 26 inch wheels, front and rear"
           ],
           [
-            "24 or 26 inch wheels with night riding",
+            "24 or 26 inch wheels and night riding",
             "R2Depot Bike Fender Set",
-            "Reflective tape included"
+            "Reflective tape with adjustable length and height"
           ],
           [
-            "Light occasional use",
+            "Light occasional use, tool-free fitting",
             "Free-fly Adjustable Fender Set",
-            "Tool-free setup"
+            "Lightweight set, adjustable angle, removable without tools"
           ],
           [
-            "Face and headset only",
+            "Shielding face and headset only",
             "Ass Savers Mudder Mini",
-            "Fork guard"
+            "21 grams, straps to the fork leg"
           ]
         ]
       }
@@ -269,25 +276,25 @@ export const bestBikeFendersUnder25: BestArticle = {
       "cards": [
         {
           "label": "Full set",
-          "text": "Cooryda, R2Depot and Free-fly cover the wheels."
+          "text": "The Cooryda Bicycle Fender Set and R2Depot Bike Fender Set cover front and rear wheels, with wide semi-circular coverage and adjustable fit. They give the best spray protection but need a suitable mount."
         },
         {
           "label": "Clip-on guard",
-          "text": "Mudder Mini covers only the face and headset."
+          "text": "The Ass Savers Mudder Mini straps to a fork leg and weighs 21 grams, so it fits easily. It shields the face and headset only, and its 32 to 55 mm clearance does not suit fat tires."
         }
       ],
-      "note": "Most riders should default to a full set."
+      "note": "Choose a full set for wet riding and a clip-on guard only for occasional light use."
     },
     {
       "heading": "For Wet Climates Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Wide coverage and a secure mount."
+          "text": "Look for full coverage, a wheel size match and a mount that suits your frame, so spray stays off your legs and the drive area."
         },
         {
           "label": "In this comparison",
-          "text": "The Cooryda has wide semi-circular coverage and the R2Depot adds reflective tape."
+          "text": "The Cooryda Bicycle Fender Set and R2Depot Bike Fender Set cover both wheels. The R2Depot needs a 22 mm rear pole, so check your frame before ordering."
         }
       ]
     },
@@ -296,11 +303,11 @@ export const bestBikeFendersUnder25: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you ride daily in rain and need a trike-specific mount."
+          "text": "You ride in wet climates every week, where the R2Depot Bike Fender Set gives adjustable fit and reflective tape for a small step up."
         },
         {
           "label": "Save if",
-          "text": "you ride in occasional light rain, where the Cooryda or R2Depot covers it."
+          "text": "You ride on dry days and only need protection occasionally, where the Free-fly Adjustable Fender Set or Ass Savers Mudder Mini will do."
         }
       ]
     }
@@ -308,26 +315,26 @@ export const bestBikeFendersUnder25: BestArticle = {
   "faq": [
     {
       "q": "Will bike fenders fit a trike?",
-      "a": "Front often yes. The rear depends on the axle layout."
+      "a": "Sometimes. Trikes lack the eyelets and seat posts bicycle fenders expect, and the rear can be wide. The Cooryda rear mount may not fit a trike, so measure first. Strap-on or adjustable fenders have a better chance."
     },
     {
       "q": "Do these fit 20 inch wheels?",
-      "a": "The Cooryda does. The R2Depot does not."
+      "a": "The Cooryda is stated for 20 to 26 inch wheels, so it is the one to check for a 20 inch trike. The R2Depot starts at 22 inch and does not suit 20 inch wheels. The Free-fly does not clearly state wheel size."
     },
     {
-      "q": "Do I need tools?",
-      "a": "The R2Depot includes screws, and the Free-fly is tool-free."
+      "q": "Do I need tools to install them?",
+      "a": "Mostly no. The Cooryda uses quick release and the Free-fly fits without tools. The R2Depot uses screws and a manual. The Mudder Mini straps to the fork leg. Still, keep a basic hex set in case a bracket needs trimming."
     },
     {
-      "q": "Will fenders rub fat tires?",
-      "a": "Check tire width against the stated limit."
+      "q": "Will fenders rub on fat tires?",
+      "a": "They can. The Mudder Mini states clearance for 32 to 55 mm tires, which excludes true fat tires. Check the tire width stated for any fender, and leave a few millimeters between tire and fender to avoid rubbing."
     },
     {
       "q": "Does the Mudder Mini protect my legs?",
-      "a": "No. It guards the face and headset only."
+      "a": "No. It shields the face and headset from spray thrown by the front wheel, and it is small. For leg and frame protection, use a full set like the Cooryda or R2Depot, front and rear."
     }
   ],
-  "bottomLine": "The Cooryda is the best fit for most trike wheels. Check the rear mount before ordering any set.",
+  "bottomLine": "The Cooryda Bicycle Fender Set is the best overall pick for most trike wheel sizes, with quick release and front and rear coverage. Choose the R2Depot for 24 to 27.5 inch wheels and night visibility, the Free-fly for light tool-free use, and the Mudder Mini only for face and headset protection.",
   "amazonSearch": "bike fenders under $25",
   "relatedPaths": [
     "/accessories/best-fenders-for-adult-tricycles/",

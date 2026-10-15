@@ -217,48 +217,55 @@ export const bestBicycleMultitoolsWithTorqueTools: BestArticle = {
   "howWeChose": [
     {
       "title": "Torque range",
-      "body": "A trike has small and medium bolts, so range mattered."
+      "body": "A trike has small and medium bolts on baskets, racks and stems, so the range of each wrench mattered more than its headline maximum."
     },
     {
       "title": "Accuracy statement",
-      "body": "We favored stated accuracy and calibration documentation."
+      "body": "We favored published accuracy and calibration documentation, because a torque tool is only as useful as its stated tolerance."
     },
     {
       "title": "Bits included",
-      "body": "Hex and Torx coverage ranked higher."
+      "body": "Hex and Torx coverage ranked higher, since a wrench without the right bit for your bolts does nothing for you."
     },
     {
       "title": "Size and carry",
-      "body": "We separated home kits from pocket tools."
+      "body": "We separated home kits from pocket tools, as a 46 g beam wrench and a 50-piece kit solve very different problems."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Range that matches your bolts",
       "paragraphs": [
-        "Small bolts on baskets and mirrors often call for 4 to 6 Nm.",
-        "Check the lowest setting on a wrench, since accuracy is poor near the bottom."
+        "Small bolts on baskets and mirrors often call for 4 to 6 Nm, and stems and racks ask for more. A wrench whose range starts too high cannot set small bolts accurately.",
+        "Check the lowest setting on a wrench, since accuracy is poor near the bottom, and confirm the torque value the part maker prints."
       ]
     },
     {
       "title": "Click versus beam",
       "paragraphs": [
-        "A click wrench signals the target torque by sound. A beam tool shows it on a scale.",
-        "Click is easier for beginners."
+        "A click wrench signals the target torque by sound and feel. A beam tool shows it on a scale and needs a steady eye while you pull.",
+        "Click is easier for beginners. Choose a beam tool only if you want a very light pocket tool."
       ]
     },
     {
       "title": "Calibration",
       "paragraphs": [
-        "A stated accuracy and certificate give confidence.",
-        "Store the wrench at its lowest setting."
+        "A published accuracy, such as plus or minus 4 percent, and a certificate give confidence the click happens at the number you set. Springs relax with long storage under load.",
+        "Store the wrench at its lowest setting, and treat its accuracy as a guide, not a lab figure."
       ]
     },
     {
       "title": "Bit fit",
       "paragraphs": [
-        "A loose bit rounds the bolt head.",
-        "Match bits to the bolts on your trike."
+        "A loose bit rounds the bolt head, and a rounded head is hard to remove. Hex and Torx bolts both appear on trikes.",
+        "Match bits to the bolts on your trike before buying, and seat the bit fully before you load the wrench."
+      ]
+    },
+    {
+      "title": "What these tools cannot tighten",
+      "paragraphs": [
+        "A wrench topping out at 14 to 17 Nm is too small for axle nuts and some crank bolts. Those need far higher torque.",
+        "Use a proper large wrench for axle nuts, and keep the small wrench for baskets, racks and stems."
       ]
     }
   ],
@@ -274,27 +281,27 @@ export const bestBicycleMultitoolsWithTorqueTools: BestArticle = {
         "rows": [
           [
             "Basket and mirror bolts",
-            "MARQUE 4, 5, 6 Nm",
+            "MARQUE 4, 5, 6 Nm Torque Wrench",
             "Presets for small bolts"
           ],
           [
             "Stem and rack bolts at home",
-            "PRO BIKE TOOL Set",
-            "2.2 to 16.9 Nm with certificate"
+            "PRO BIKE TOOL Torque Wrench Set",
+            "2.2 to 16.9 Nm with calibration certificate"
           ],
           [
             "Many bolt sizes",
-            "YIYEIE 50-Piece",
+            "YIYEIE 50-Piece Bike Torque Wrench Set",
             "1 to 26 Nm and many bits"
           ],
           [
             "Light home use",
-            "COTOUXKER 2-14 Nm",
-            "Lightweight click wrench"
+            "COTOUXKER 2-14 Nm Bike Torque Wrench",
+            "Lightweight click wrench with 12 bits"
           ],
           [
             "Seat bag carry",
-            "Prestacycle TorqRatchet",
+            "Prestacycle TorqRatchet GO Lite",
             "46 g pocket tool"
           ]
         ]
@@ -305,11 +312,11 @@ export const bestBicycleMultitoolsWithTorqueTools: BestArticle = {
       "cards": [
         {
           "label": "Click wrench",
-          "text": "The PRO BIKE TOOL, YIYEIE and COTOUXKER click at the set torque."
+          "text": "The PRO BIKE TOOL, YIYEIE and COTOUXKER click at the set torque, which is easier to feel and faster to use at home."
         },
         {
           "label": "Beam wrench",
-          "text": "The Prestacycle shows torque on a scale, which is lighter but slower."
+          "text": "The Prestacycle shows torque on a scale, which is lighter and fits a pocket, but is slower and needs a steady eye."
         }
       ],
       "note": "Most riders should default to a click wrench for home use."
@@ -319,11 +326,11 @@ export const bestBicycleMultitoolsWithTorqueTools: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A range that starts at 2 to 4 Nm and a hex bit set."
+          "text": "A range that starts at 2 to 4 Nm and a hex bit set that matches the bolts on your racks and baskets."
         },
         {
           "label": "In this comparison",
-          "text": "The PRO BIKE TOOL covers 2.2 Nm and up with H2 to H10 bits."
+          "text": "The PRO BIKE TOOL covers 2.2 Nm and up with hex and Torx bits, and the MARQUE sets 4, 5 or 6 Nm with 3, 4 and 5 mm hex."
         }
       ]
     },
@@ -332,11 +339,11 @@ export const bestBicycleMultitoolsWithTorqueTools: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You work on several bikes, where the YIYEIE range helps."
+          "text": "You work on several bikes, where the YIYEIE range of 1 to 26 Nm and 72-tooth ratchet helps across many bolt sizes."
         },
         {
           "label": "Save if",
-          "text": "You only tighten baskets, where the MARQUE is enough."
+          "text": "You only tighten baskets, where the MARQUE with its three presets and click-out safety is enough."
         }
       ]
     }
@@ -344,26 +351,30 @@ export const bestBicycleMultitoolsWithTorqueTools: BestArticle = {
   "faq": [
     {
       "q": "Do I need a torque wrench for a trike?",
-      "a": "It helps with aluminum parts and small bolts, where overtightening strips threads."
+      "a": "It helps with aluminum parts and small bolts, where overtightening strips threads. Baskets, racks and stems are the most common places to benefit from a measured tightening."
     },
     {
       "q": "What torque do basket bolts need?",
-      "a": "Follow the part maker's value. Many small bolts fall around 4 to 6 Nm, so confirm before tightening."
+      "a": "Follow the part maker's value. Many small bolts fall around 4 to 6 Nm, so confirm before tightening. The MARQUE has presets at 4, 5 and 6 Nm for this."
     },
     {
       "q": "Can these handle axle nuts?",
-      "a": "Not usually. Axle nuts need much higher torque, so use a proper wrench."
+      "a": "Not usually. The PRO BIKE TOOL tops out at 16.9 Nm and the COTOUXKER at 14 Nm. Axle nuts need much higher torque, so use a proper wrench."
     },
     {
       "q": "How do I store a click wrench?",
-      "a": "Set it to its lowest value after use, as the maker suggests."
+      "a": "Set it to its lowest value after use, as the maker suggests. Leaving a spring compressed can drift the setting over time."
     },
     {
       "q": "Is a beam wrench accurate?",
-      "a": "It can be, if you read the scale carefully."
+      "a": "It can be, if you read the scale carefully and pull straight. The Prestacycle covers 3 to 12 Nm, but it is slower than a click wrench."
+    },
+    {
+      "q": "Which has the widest range?",
+      "a": "The YIYEIE 50-Piece covers 1 to 26 Nm with plus or minus 3 percent accuracy. It is a bulky kit, so it suits a home toolbox rather than a seat bag."
     }
   ],
-  "bottomLine": "The PRO BIKE TOOL set is the best home choice for trike bolts. The YIYEIE suits wide-range work, and the MARQUE and Prestacycle suit small or pocket jobs.",
+  "bottomLine": "The PRO BIKE TOOL set is the best home choice for trike bolts thanks to its calibration certificate and 2.2 to 16.9 Nm range. The YIYEIE suits wide-range work, the MARQUE suits small basket checks, and the Prestacycle suits riders who want a 46 g pocket tool.",
   "amazonSearch": "bike torque tools",
   "relatedPaths": [
     "/accessories/best-bicycle-multitools-for-tricycle-riders/",

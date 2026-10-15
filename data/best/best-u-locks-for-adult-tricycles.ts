@@ -218,48 +218,55 @@ export const bestULocksForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Shackle thickness",
-      "body": "We compared the stated shackle widths from 12mm up to 18mm."
+      "body": "We compared the stated shackle widths from 12mm up to 18mm. Thickness is the main defense against cutting tools and leverage, so it carries the most weight."
     },
     {
       "title": "Interior reach",
-      "body": "We looked for a width and height that could close around a trike's wider frame tubes and a rack."
+      "body": "We looked for a width and height that could close around a trike's wider frame tubes and a rack. A lock that cannot reach the post is only luggage."
     },
     {
       "title": "Cable add-on",
-      "body": "Cable length matters because a trike's rear wheels are far apart and low."
+      "body": "We compared cable lengths from 4 ft to 6 ft, since a trike's rear wheels are far apart and low. A longer cable can reach a wheel, though it is a weaker link."
     },
     {
       "title": "Key count and covers",
-      "body": "Spare keys and dust covers help on a trike parked outdoors."
+      "body": "We counted spare keys and dust covers, such as the NDakter's three brass keys. These matter on a trike parked outdoors, where grit and a lost key are routine problems."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Shackle thickness",
       "paragraphs": [
-        "A thicker shackle resists cutting tools and leverage better. The jump from 12mm to 18mm is a big step in material.",
-        "Match thickness to risk. Use 13mm or more where theft is common."
+        "A thicker shackle resists cutting tools and leverage better. The jump from 12mm to 18mm is a big step in material, and it also adds weight you carry on every ride.",
+        "Match thickness to risk. Use 13mm or more where theft is common, and check the stated millimeters rather than a vague 'heavy duty' label."
       ]
     },
     {
       "title": "Interior size",
       "paragraphs": [
-        "A trike frame tube is often larger than a bike's, and it must sit beside a rack or post inside the shackle.",
-        "Measure your frame tube and the rack, then compare with the interior size. A tight fit is better than slack, but it must close."
+        "A trike frame tube is often larger than a bike's, and it must sit beside a rack or post inside the shackle. A lock that is too small simply will not close.",
+        "Measure your frame tube and the rack, then compare with the interior size. The Parkview is 3.25 x 6.25 inches inside. A tight fit is better than slack, but it must close."
       ]
     },
     {
       "title": "What you lock to",
       "paragraphs": [
-        "A trike has three wheels and a wide axle, so locking only a wheel does little. Lock the frame to a fixed post.",
-        "Pass the shackle through a frame tube and a solid rack. A cable can add a wheel, but it is a weaker link."
+        "A trike has three wheels and a wide axle, so locking only a wheel does little. Lock the frame to a fixed post, because a wheel can be removed.",
+        "Pass the shackle through a frame tube and a solid rack. A cable can add a wheel, but it is a weaker link than the shackle."
       ]
     },
     {
       "title": "Keys and weather",
       "paragraphs": [
-        "A spare key saves a trip home, and a dust cover keeps grit out of the cylinder.",
-        "Store a spare key at home and check the lock each season."
+        "A spare key saves a trip home, and a dust cover keeps grit out of the cylinder. Outdoor grime can jam a lock when you most need it.",
+        "Store a spare key at home and check the lock each season. The NDakter has three brass keys and a dust cover on the keyhole."
+      ]
+    },
+    {
+      "title": "Weight and mounting",
+      "paragraphs": [
+        "A lock you do not carry protects nothing. The Sportneer weighs 1.64 lb and has a frame bracket, while the NDakter weighs 3.4 lb and is meant for stays.",
+        "Decide whether you carry the lock daily and pick on weight and bracket. The Sportneer bracket clamps tubes from about 1 to 1.5 inches, so measure your tube."
       ]
     }
   ],
@@ -275,23 +282,28 @@ export const bestULocksForAdultTricycles: BestArticle = {
         "rows": [
           [
             "Wide rack or fence",
-            "VVA Long Shackle",
-            "Extra clearance"
+            "VVA Long Shackle U-Lock with 4 ft Cable",
+            "Long shackle gives extra clearance around racks and gates"
           ],
           [
-            "Overnight street parking",
-            "NDakter 18mm",
-            "Thickest shackle"
+            "Overnight parking in public",
+            "NDakter 18mm Heavy Duty U-Lock with 6 ft Cable",
+            "Thickest shackle here with the longest 6 ft cable"
           ],
           [
-            "Short errands",
-            "Sportneer 17mm",
-            "Frame bracket included"
+            "Short errands, carry it on frame",
+            "Sportneer 17mm U-Lock with 5 ft Cable and Bracket",
+            "Frame bracket included and a 17mm shackle"
           ],
           [
-            "Quick commuter stop",
-            "Kryptonite Parkview",
-            "Light and compact"
+            "Quick commuter stop at a rack",
+            "Kryptonite Parkview U-Lock with 4 ft Cable",
+            "Lightweight 12mm shackle with a bent-foot design"
+          ],
+          [
+            "Small gaps at a quiet rack",
+            "Kryptonite Evolution Mini-7 U-Lock",
+            "13mm shackle with double deadbolt in a compact size"
           ]
         ]
       }
@@ -301,11 +313,11 @@ export const bestULocksForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Compact",
-          "text": "The Kryptonite Mini-7 and Parkview are easier to carry but need small gaps."
+          "text": "The Kryptonite Mini-7 and Parkview are easier to carry but need small gaps, and the Parkview has the thinnest shackle here. They suit slim posts."
         },
         {
           "label": "Long shackle",
-          "text": "The VVA gives clearance around racks and gates."
+          "text": "The VVA gives clearance around racks, gates and a trike's wider frame. It is more flexible about what you can lock to, though it adds length and bulk."
         }
       ],
       "note": "Default to the long shackle unless you only lock to slim posts."
@@ -315,11 +327,11 @@ export const bestULocksForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A thick shackle that clears frame tube and post, plus a cable for wheels."
+          "text": "A thick shackle that clears the frame tube and post, plus a cable for wheels, a dust cover and spare keys for weather and grit."
         },
         {
           "label": "In this comparison",
-          "text": "The NDakter 18mm with a 6 ft cable fits best."
+          "text": "The NDakter 18mm with a 6 ft cable fits best, with three brass keys and a dust cover on the keyhole."
         }
       ]
     },
@@ -328,11 +340,11 @@ export const bestULocksForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You park overnight in public, where the NDakter's thicker shackle is worth the weight."
+          "text": "You park overnight in public, where the NDakter's thicker shackle and longer cable are worth the weight of 3.4 lb."
         },
         {
           "label": "Save if",
-          "text": "You lock briefly in a garage, where the Kryptonite Parkview is enough."
+          "text": "You lock briefly in a garage or at a quiet rack, where the Kryptonite Parkview is enough and easy to carry."
         }
       ]
     }
@@ -340,26 +352,30 @@ export const bestULocksForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Can a U-lock secure a trike?",
-      "a": "It can secure the frame to a fixed post. A cable can add a wheel, but the cable is the weaker element."
+      "a": "It can secure the frame to a fixed post. A cable can add a wheel, but the cable is the weaker element. Choose a shackle large enough to close around your frame tube and the post, and check it before buying."
     },
     {
       "q": "What shackle size is best for a trike?",
-      "a": "Choose the thickest you can comfortably carry, 13mm or more. The NDakter is 18mm and the Kryptonite Mini-7 is 13mm."
+      "a": "Choose the thickest you can comfortably carry, 13mm or more. The NDakter is 18mm, the Sportneer 17mm and the Kryptonite Mini-7 is 13mm. The Parkview at 12mm suits brief stops at a quiet rack."
     },
     {
       "q": "Do I need a cable?",
-      "a": "A cable helps secure a wheel. The NDakter has 6 feet, the Sportneer 5 feet, and the VVA and Kryptonite locks 4 feet."
+      "a": "A cable helps secure a wheel. The NDakter has 6 feet, the Sportneer 5 feet, and the VVA and Kryptonite locks 4 feet. Remember a cable is easier to cut than the shackle, so the frame should always be on the U."
     },
     {
       "q": "Is a U-lock enough overnight?",
-      "a": "Not alone. Add a chain lock and park in a visible spot. See our chain lock guide."
+      "a": "Not alone. Add a chain lock and park in a visible spot. See our chain lock guide. The NDakter's 18mm shackle is the strongest option here for overnight use."
     },
     {
       "q": "Where should I lock a trike frame?",
-      "a": "Lock a solid frame tube to a fixed post or rack, not a removable part. Read our theft prevention guide."
+      "a": "Lock a solid frame tube to a fixed post or rack, not a removable part. Read our theft prevention guide. Check that the shackle closes fully and that the lock sits off the ground."
+    },
+    {
+      "q": "Can I carry the lock on the trike?",
+      "a": "Yes if it has a bracket. The Sportneer includes one that clamps tubes from about 1 to 1.5 inches. Measure your tube before ordering, since a loose bracket can rattle or drop the lock."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Bike U Locks with Cables",
       "text": "The [NDakter](#ndakter-18mm-heavy-duty-u-lock-with-6-ft-cable) pairs an 18mm shackle with a 6 ft cable for the wheels. Check the cable loops through both wheels and the frame. It weighs 3.4 lb.",
@@ -389,7 +405,7 @@ export const bestULocksForAdultTricycles: BestArticle = {
       "productId": "ndakter-18mm-heavy-duty-u-lock-with-6-ft-cable"
     }
   ],
-  "bottomLine": "For most trike owners, the VVA long shackle gives the best reach. Choose the NDakter for overnight parking and the Kryptonite Parkview for brief stops.",
+  "bottomLine": "For most trike owners, the VVA long shackle gives the best reach around racks and gates. Choose the NDakter 18mm for overnight parking and the Kryptonite Parkview for brief stops at a rack. Measure your frame tube and the post first, then pick the shackle that closes.",
   "amazonSearch": "u-locks for trikes",
   "relatedPaths": [
     "/accessories/best-long-shackle-bike-u-locks/",

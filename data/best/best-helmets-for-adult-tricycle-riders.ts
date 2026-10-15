@@ -222,48 +222,55 @@ export const bestHelmetsForAdultTricycleRiders: BestArticle = {
   "howWeChose": [
     {
       "title": "Certification",
-      "body": "CPSC bicycle compliance came first, with extra standards as a bonus."
+      "body": "CPSC bicycle compliance came first, with extras like the 80SIX triple certification as a bonus, because a certified shell is the one thing you cannot judge by looking at it."
     },
     {
       "title": "Fit range",
-      "body": "Stated head circumference ranges show who each helmet really fits."
+      "body": "We compared the head circumference ranges, from the Findway 54 to 61.5 cm to the Schwinn 58 to 62 cm, because a helmet that does not fit your head size cannot protect it."
     },
     {
       "title": "Adjustment system",
-      "body": "Dials, straps and pad sets decide how well it stays put."
+      "body": "Dials, straps and pad sets decide whether the helmet stays level, so we weighed the Retrospec ErgoKnob-2 dial and the two pad sets on the Triple Eight."
     },
     {
-      "title": "Visibility",
-      "body": "Built-in lights and visor options add safety on shared roads."
+      "title": "Visibility and comfort",
+      "body": "Trike riders share roads at slow speed, so a built-in light, a visor, vents and washable pads all earned credit when we compared everyday wearability."
     }
   ],
   "whatToLookFor": [
     {
       "title": "CPSC certification",
       "paragraphs": [
-        "In the United States, bicycle helmets must meet the CPSC standard.",
-        "Look for a CPSC statement in the product description, not just a safety claim."
+        "In the United States, a bicycle helmet is expected to meet the CPSC standard, which tests impact absorption and strap strength. A shell without that certification may look similar but has no proof behind it.",
+        "Look for an explicit CPSC statement in the product details, as the Schwinn Thrasher gives, rather than a general safety claim. Extra standards such as ASTM F1447 on the 80SIX are a bonus."
       ]
     },
     {
       "title": "Head circumference",
       "paragraphs": [
-        "Helmet sizes are tied to head circumference in centimeters.",
-        "Measure above your eyebrows with a soft tape and match the helmet range."
+        "Helmet sizes follow head circumference in centimeters, and a helmet outside your range sits too loose or presses too hard. Too loose means it can shift at impact and leave the forehead exposed.",
+        "Wrap a soft tape above your eyebrows and around the widest part of the head, then match that figure to ranges such as 54 to 61.5 cm on the Findway or 57 to 60 cm on the Triple Eight L/XL."
       ]
     },
     {
       "title": "Fit system",
       "paragraphs": [
-        "A dial lets you tighten the fit with one hand, and pads fine tune it.",
-        "The helmet should not rock forward or back when you shake your head."
+        "A dial tightens the rear cradle with one hand, and extra pads fine tune the contact points. A good system keeps the shell level rather than tipping back, which is the usual cause of an exposed forehead.",
+        "Fasten the helmet and shake your head hard. It should not rock forward or back, and two fingers should fit under the strap. Older hands often find a one-hand dial easier than a buckle fiddle."
       ]
     },
     {
       "title": "Recumbent clearance",
       "paragraphs": [
-        "Recumbent riders lean back, and a long rear helmet can push forward against a headrest.",
-        "Sit on the trike with the helmet on and check for pressure."
+        "Recumbent riders lean back against a seat, and a helmet with a long rear shell can be pushed forward against the headrest. That tilts the brim down over the eyes and changes how the strap sits.",
+        "Sit on the trike with the helmet on and lean back fully. If you feel pressure behind the head or the helmet tips, choose a shorter rear profile and retest before committing."
+      ]
+    },
+    {
+      "title": "Ventilation and padding",
+      "paragraphs": [
+        "Vents move air across the scalp, and washable padding lets you clean away sweat. Slow trike rides in summer heat can feel hot, so comfort decides whether you keep wearing the helmet.",
+        "Compare vent counts, such as 20 on the Schwinn, 15 on the Retrospec or 14 on the Findway, and choose removable pads if you sweat. The Triple Eight adds a moisture-wicking liner."
       ]
     }
   ],
@@ -279,28 +286,28 @@ export const bestHelmetsForAdultTricycleRiders: BestArticle = {
         "rows": [
           [
             "58 to 62 cm",
-            "Schwinn Thrasher",
-            "Stated 58 to 62 cm fit"
+            "Schwinn Thrasher Adult Helmet",
+            "Fit range covers larger heads with 20 vents"
           ],
           [
             "54 to 61.5 cm",
-            "Findway Pro",
-            "Widest stated range"
+            "Findway Pro Adult Bike Helmet",
+            "Widest adjustable range for shared use"
           ],
           [
             "55 to 58 cm",
-            "80SIX Triple Certified",
-            "Small/Medium fit"
+            "80SIX Triple Certified Helmet",
+            "Small/Medium size at 55 to 58 cm"
           ],
           [
-            "57 to 60 cm, or between sizes",
-            "Triple Eight Sweatsaver",
-            "Pad sets let you tune fit"
+            "57 to 60 cm or between sizes",
+            "Triple Eight Certified Sweatsaver Helmet",
+            "Two pad sets let you tune fit"
           ],
           [
             "Any size in low light",
-            "Retrospec Lennon",
-            "Built-in LED light"
+            "Retrospec Lennon Commuter Helmet",
+            "Built-in 5-LED light and dial fit"
           ]
         ]
       }
@@ -310,25 +317,25 @@ export const bestHelmetsForAdultTricycleRiders: BestArticle = {
       "cards": [
         {
           "label": "Built-in light",
-          "text": "The Retrospec Lennon has a 5-LED light, so you are seen at dusk."
+          "text": "The Retrospec Lennon has a 5-LED light with 3 functions, so you are seen at dawn and dusk without mounting anything. The trade-off is battery care."
         },
         {
           "label": "No light",
-          "text": "The others rely on separate lights, which you can place where you like."
+          "text": "The Schwinn, Findway, 80SIX and Triple Eight carry no built-in light, so you add a separate one and place it where you like on the trike or helmet."
         }
       ],
-      "note": "Default to the Lennon for commuting at low light."
+      "note": "Default to the Lennon for commuting in low light, and pick another if you only ride in daylight."
     },
     {
       "heading": "For Older Riders Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A one-hand dial, washable pads and a stable chin strap."
+          "text": "A one-hand dial, washable pads and a secure chin strap that is easy to fasten. Weight and heat also matter, because a hot or heavy helmet gets left behind."
         },
         {
           "label": "In this comparison",
-          "text": "The Retrospec Lennon ErgoKnob-2 dial and the Schwinn Thrasher dial are both one-hand adjustments."
+          "text": "The Retrospec Lennon ErgoKnob-2 and the Schwinn Thrasher dial are both one-hand adjustments, and the Findway adds a washable interior for easy care."
         }
       ]
     },
@@ -337,11 +344,11 @@ export const bestHelmetsForAdultTricycleRiders: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride at dusk, where the Retrospec Lennon built-in light helps."
+          "text": "You ride at dusk or among traffic, where the Retrospec Lennon built-in light and the 80SIX multiple certifications give extra visibility and assurance."
         },
         {
           "label": "Save if",
-          "text": "You ride in daylight on quiet paths, where the Schwinn Thrasher is enough."
+          "text": "You ride in daylight on quiet paths, where the Schwinn Thrasher or Findway Pro already gives a certified, ventilated fit without the light."
         }
       ]
     }
@@ -349,26 +356,30 @@ export const bestHelmetsForAdultTricycleRiders: BestArticle = {
   "faq": [
     {
       "q": "Do trike riders need helmets?",
-      "a": "Yes. Three wheels reduce tipping but not collisions or falls from curbs."
+      "a": "Yes. Three wheels reduce tipping but not collisions, and a fall from a curb or a bump into a post can still hit your head. A trike rider sits higher than the ground, so a helmet is still worth wearing."
     },
     {
       "q": "How should a helmet fit?",
-      "a": "Level on the forehead, snug when you shake your head, with the chin strap secure."
+      "a": "Level on the forehead, about two fingers above the eyebrows, and snug when you shake your head. The chin strap should hold the shell in place without pressing on the throat when you open your mouth."
     },
     {
       "q": "When should I replace a helmet?",
-      "a": "After any impact, and when padding or straps wear out."
+      "a": "Replace it after any impact, even if it looks fine, because foam compresses and does not recover. Also replace it when padding crumbles or straps fray, since worn straps cannot hold the shell in place."
     },
     {
       "q": "Is a multisport helmet fine for biking?",
-      "a": "If it states CPSC bicycle certification, as the 80SIX does, yes."
+      "a": "If it states CPSC bicycle certification, as the 80SIX does along with ASTM F1447, yes. Check the certification statement rather than the styling, since skate and bike helmets are tested differently."
     },
     {
       "q": "Can recumbent riders use these?",
-      "a": "Check clearance behind your head, since a long rear shell can push against a headrest."
+      "a": "Check clearance behind your head first. A long rear shell can push forward against a headrest and tilt the brim, so sit on the trike with the helmet on and lean back before deciding."
+    },
+    {
+      "q": "Does a built-in light replace a trike light?",
+      "a": "No, it adds to it. The Retrospec Lennon light is useful at head height, but a rear light on the trike frame still marks the vehicle width for drivers approaching from behind."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Mountain Bike Helmets for Tricycle Riders",
       "text": "None of these five is a mountain bike helmet, and trike riders rarely need extended rear coverage. Fit and a CPSC certification label inside the shell matter more than style. The [Schwinn Thrasher](#schwinn-thrasher-adult-helmet) is the closest with its microshell and 20 vents, but check its label and size."
@@ -424,7 +435,7 @@ export const bestHelmetsForAdultTricycleRiders: BestArticle = {
       "text": "None of these five states MIPS, so we will not claim it for any of them. If you want MIPS, look for the label in the helmet's name or specs. CPSC certification and a snug fit matter first, see /adult-tricycle-helmet-fit-and-replacement/."
     }
   ],
-  "bottomLine": "The Retrospec Lennon is the best all-round helmet for trike riders thanks to its light and dial fit. Pick the Schwinn Thrasher for larger heads or the Findway for a wide adjustable range.",
+  "bottomLine": "The Retrospec Lennon is the best all-round helmet for trike riders thanks to its built-in 5-LED light and dial fit. Pick the Schwinn Thrasher for larger heads, the Findway for a wide adjustable range, the 80SIX for extra certification, or the Triple Eight for custom fit.",
   "amazonSearch": "helmets for trike riders",
   "relatedPaths": [
     "/adult-tricycle-helmet-fit-and-replacement/",

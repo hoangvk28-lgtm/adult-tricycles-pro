@@ -225,48 +225,55 @@ export const bestFendersForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Wheel size match",
-      "body": "We favored sets that state a wheel size range reaching down to 20 inch, since many trikes use small wheels."
+      "body": "We favored sets that state a wheel size range reaching down to 20 inch, since many trikes use small wheels and a fender sized for 26 inch sits too high on them."
     },
     {
       "title": "Tire width honesty",
-      "body": "Sets with a stated tire width limit ranked ahead of those that give none."
+      "body": "Sets with a stated tire width limit ranked ahead of those that give none, because a fender that rubs a fat tire is useless and the width is easy to measure."
     },
     {
       "title": "Mount type",
-      "body": "Quick release, fork hole size and post diameter were compared, since a trike rarely has a bike's seat tube."
+      "body": "Quick release, fork hole size and post diameter were compared, since a trike rarely has the seat tube that a bicycle rear fender expects to clamp onto."
     },
     {
       "title": "Material",
-      "body": "PP, TPE and PVC sets were compared for flex and durability."
+      "body": "PP, TPE and PVC sets were compared for flex and durability, because a fender that cracks in the cold or sags in the heat will not last a season of rain."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Front versus rear",
       "paragraphs": [
-        "A trike's rear has two wheels on a wide axle, and a single bicycle rear fender covers one at most. The front wheel is the natural fit.",
-        "Check where each fender clamps, and whether your frame has a matching post or eyelet."
+        "A trike's rear has two wheels on a wide axle, and a single bicycle rear fender covers one wheel at most. The front wheel is the natural fit, and the rear is where fitment problems begin.",
+        "Check where each fender clamps and whether your frame has a matching post or eyelet, before assuming a set will cover the back."
       ]
     },
     {
       "title": "Tire width",
       "paragraphs": [
-        "Fenders are sized for a tire range. A fat tire above 2.5 inch can rub or not fit under the RBRL.",
-        "Measure the tire width and add clearance."
+        "Fenders are sized for a tire range, and a tire that is too wide rubs or will not fit under the arc. A fat tire above 2.5 inch will not fit the RBRL.",
+        "Measure the tire width and add clearance of a finger or two, then compare it to the stated limit."
       ]
     },
     {
       "title": "Wheel size",
       "paragraphs": [
-        "Most trikes use 20 to 26 inch wheels. A fender for 24 to 29 inch will sit too high on a 20 inch wheel.",
-        "Match the stated range to your wheel."
+        "Most trikes use 20 to 26 inch wheels. A fender made for 24 to 29 inch wheels leaves a large gap over a 20 inch wheel, so spray escapes and the fender looks and works badly.",
+        "Match the stated wheel range to your wheel, and treat a set that gives no range, such as the BlueSunshine, as a risk."
       ]
     },
     {
       "title": "Mount point",
       "paragraphs": [
-        "Measure the fork hole, stem or rear pole diameter, and compare to the limits.",
-        "No mount point means a clamp or a different accessory."
+        "Fenders clamp to a fork hole, a stem or a rear pole, and each has size limits. If your trike lacks a matching mount, the set will not hold steady at speed.",
+        "Measure the fork hole, stem or rear pole diameter and compare it to the limits, such as 19 to 35mm for RBRL or 22mm or larger for R2Depot."
+      ]
+    },
+    {
+      "title": "Coverage and reflective extras",
+      "paragraphs": [
+        "Wide, long coverage keeps spray off shoes and the drivetrain, while reflective tape helps other road users see the trike in rain and dusk. Narrow fenders leave gaps.",
+        "Look for a wide half-circle shape, and note extras like the 26 feet of reflective tape that comes with the R2Depot."
       ]
     }
   ],
@@ -282,23 +289,28 @@ export const bestFendersForAdultTricycles: BestArticle = {
         "rows": [
           [
             "20 inch wheel",
-            "Cooryda adjustable set",
-            "States 20 to 26 inch fit"
+            "Cooryda Adjustable Fender Set (20 to 26 inch)",
+            "The only set here that states 20 inch compatibility"
           ],
           [
             "22 to 24 inch wheel",
-            "R2Depot",
-            "Covers 22, 24, 26 and 27.5 inch"
+            "R2Depot Bike Fender Set (22 to 27.5 inch)",
+            "Covers 22, 24, 26 and 27.5 inch wheels"
           ],
           [
             "26 inch standard tire",
-            "RBRL",
-            "Quick release, 1.5 to 2.5 inch tires"
+            "RBRL Quick-Release Fender Set (24 to 29 inch)",
+            "Quick release for 1.5 to 2.5 inch tires"
           ],
           [
-            "26 inch with rear mount",
-            "Cooryda PVC set",
-            "Adjustable rear angle"
+            "26 inch with a rear mount point",
+            "Cooryda PVC Mudguard Set (24 to 27.5 inch)",
+            "Adjustable rear angle and a kit included"
+          ],
+          [
+            "Light fender and a thin stem",
+            "BlueSunshine Adjustable Fender Set",
+            "Light synthetic set that needs a stem under 34mm"
           ]
         ]
       }
@@ -307,12 +319,12 @@ export const bestFendersForAdultTricycles: BestArticle = {
       "heading": "Quick Release vs Bolted",
       "cards": [
         {
-          "label": "Quick release (RBRL, Cooryda)",
-          "text": "Removes without tools for storage, but can rattle on rough ground."
+          "label": "Quick release (RBRL, Cooryda adjustable)",
+          "text": "Removes without tools for storage and cleaning, but can rattle on rough ground if the clamp is not seated firmly on the mount."
         },
         {
           "label": "Bolted (R2Depot)",
-          "text": "Steadier once set, but takes a few minutes to adjust."
+          "text": "Steadier once set, with screws and a manual, but it takes a few minutes to adjust and needs a rear pole of 22mm or larger."
         }
       ],
       "note": "Default to quick release if you fold or store the trike often."
@@ -322,11 +334,11 @@ export const bestFendersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Wide, long coverage, a front fender that clears the tire and a rear that does not rub."
+          "text": "Wide, long coverage, a front fender that clears the tire and a rear that does not rub, plus reflective tape for visibility in poor light."
         },
         {
           "label": "In this comparison",
-          "text": "The Cooryda adjustable set and R2Depot both use widened half-circle designs."
+          "text": "The Cooryda adjustable set gives wide semi-circular coverage in front and rear, and the R2Depot adds flexible PP fenders with reflective tape."
         }
       ]
     },
@@ -335,11 +347,11 @@ export const bestFendersForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride in wet weather daily, where the Cooryda 20 to 26 inch set with stated sizes helps fit."
+          "text": "You ride in wet weather daily, where the Cooryda 20 to 26 inch set with stated sizes and an adjustable angle helps the fit."
         },
         {
           "label": "Save if",
-          "text": "You ride rarely in rain, where the BlueSunshine is enough if the mount fits."
+          "text": "You ride rarely in rain, where the BlueSunshine is enough if the mount fits, since it is light and removes easily."
         }
       ]
     }
@@ -347,23 +359,27 @@ export const bestFendersForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "Will bicycle fenders fit a trike?",
-      "a": "The front often does. The rear is the issue, since a trike has two rear wheels and usually no seat tube mount. Measure first."
+      "a": "The front often does. The rear is the issue, since a trike has two rear wheels and usually no seat tube mount for a standard clamp. Measure your frame before ordering."
     },
     {
       "q": "Can I fit fenders to fat tires?",
-      "a": "Only if the set allows the width. The RBRL stops at 2.5 inch. For 3 or 4 inch tires, confirm the clearance."
+      "a": "Only if the set allows the width. The RBRL stops at 2.5 inch, and the others give no tire width. For 3 or 4 inch tires, confirm the clearance with the maker."
     },
     {
       "q": "What should I measure?",
-      "a": "Wheel diameter, tire width, fork hole size and the post diameter where the fender clamps."
+      "a": "Wheel diameter, tire width, the fork hole size and the post diameter where the fender clamps. Write the four numbers down and compare them to each set's stated limits."
     },
     {
       "q": "Do I need both fenders?",
-      "a": "Not necessarily. A front fender alone stops most spray at the shoes."
+      "a": "Not necessarily. A front fender alone stops most spray at the shoes, and a rear fender helps most if your drivetrain or cargo sits behind the wheels."
     },
     {
       "q": "Do fenders stop the tires picking up water?",
-      "a": "They reduce spray, not wetness from the road itself. Wide, long coverage helps most."
+      "a": "They reduce spray, not wetness from the road itself. Wide, long coverage helps most, and a fender that clears the tire well will keep the water off your shoes."
+    },
+    {
+      "q": "Which set is lightest to carry?",
+      "a": "The BlueSunshine is described as lightweight, with tool-free angle adjustment and easy removal. It states no wheel size or tire width, so measure carefully before you rely on it."
     }
   ],
   "bottomLine": "No fender set here is made for a trike, so fit is the whole decision. The Cooryda adjustable set is the best match for 20 to 26 inch wheels, and the R2Depot and RBRL cover larger ones. Measure wheel, tire and mount point before ordering.",

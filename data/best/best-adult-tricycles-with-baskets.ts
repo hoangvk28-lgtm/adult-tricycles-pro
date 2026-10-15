@@ -192,19 +192,19 @@ export const bestAdultTricyclesWithBaskets: BestArticle = {
   "howWeChose": [
     {
       "title": "Basket rating",
-      "body": "We favored stated weight limits and noted where none is given."
+      "body": "We favored published weight limits and noted where none is given, since an unrated basket leaves you guessing how much groceries it can carry."
     },
     {
       "title": "Basket placement",
-      "body": "Rear and front baskets affect handling differently, so we checked which each trike has."
+      "body": "Rear and front baskets affect handling differently, so we checked which each trike has and how a loaded basket changes steering."
     },
     {
       "title": "Frame capacity",
-      "body": "The total payload of the frame sets a ceiling above the basket rating."
+      "body": "The total payload of the frame sets a ceiling above the basket rating, and rider weight uses part of it before any cargo goes on."
     },
     {
       "title": "Everyday use",
-      "body": "Step-through height, gears and folding decide how practical each trike is with a load."
+      "body": "Step-through height, gears and folding decide how practical each trike is with a load, from the curb to a hill on the way home."
     }
   ],
   "whatToLookFor": [
@@ -212,28 +212,35 @@ export const bestAdultTricyclesWithBaskets: BestArticle = {
       "title": "Basket rating vs frame rating",
       "paragraphs": [
         "The frame may carry 350 lbs but the basket is often rated far lower, such as 50 lbs. Overloading the basket bends the wire and shifts handling.",
-        "Compare the basket rating to your usual load and add up the weight of your groceries before relying on it."
+        "Compare the basket rating to your usual load and weigh your groceries once. If no rating is given, ask the maker before relying on it."
       ]
     },
     {
       "title": "Front vs rear position",
       "paragraphs": [
-        "A rear basket sits over the axle and is more stable. A front basket loads the steering and can make turns feel heavy.",
-        "Use the front for light items and put weight in the rear."
+        "A rear basket sits over the axle and is more stable. A front basket loads the steering and can make turns feel heavy and slow to return.",
+        "Use the front for light items you need to reach and put weight in the rear, close to the axle."
       ]
     },
     {
       "title": "Loading low and centered",
       "paragraphs": [
-        "Weight placed high raises the center of gravity and makes a trike lean in turns. Low and centered keeps the wheels planted.",
-        "Put heavy items on the bottom, near the axle, and use a net or strap to stop shifting."
+        "Weight placed high raises the center of gravity and makes a trike lean in turns. Low and centered keeps all three wheels planted.",
+        "Put heavy items on the bottom, near the axle, and use a net or strap to stop them shifting on bumps."
       ]
     },
     {
       "title": "Basket size",
       "paragraphs": [
-        "A basket that is too small forces you to stack bags, which makes the load top-heavy. A wide, deep basket keeps items low.",
+        "A basket that is too small forces you to stack bags, which makes the load top-heavy. A wide, deep basket keeps items low and contained.",
         "Measure what you carry, such as a shopping bag or a cooler, and compare it to the basket dimensions."
+      ]
+    },
+    {
+      "title": "Gears and folding with a load",
+      "paragraphs": [
+        "A loaded trike is harder to start on a slope, so gears help. A folding frame is lighter on storage space but its joints carry the load.",
+        "Check hill steepness on your route, and inspect folding joints for play before loading the basket."
       ]
     }
   ],
@@ -250,22 +257,22 @@ export const bestAdultTricyclesWithBaskets: BestArticle = {
           [
             "Heavy weekly groceries",
             "Slsy Adult Folding Tricycle",
-            "110 lb rear basket"
+            "Rear basket rated to 110 lbs"
           ],
           [
             "Mixed small and large items",
             "MOOITZ 18 Inch Adult Tricycle",
-            "Front and rear baskets"
+            "Front and extra-large rear baskets"
           ],
           [
             "One or two bags and a picnic",
             "MOONCOOL 7-Speed Adult Tricycle",
-            "50 lb rear basket"
+            "Clear 50 lb rear basket rating"
           ],
           [
             "Camping gear on grass",
             "Slsy Adult Mountain Tricycle",
-            "All-terrain tires"
+            "All-terrain tires and large rear basket"
           ]
         ]
       }
@@ -275,25 +282,25 @@ export const bestAdultTricyclesWithBaskets: BestArticle = {
       "cards": [
         {
           "label": "Front basket",
-          "text": "The MOOITZ includes one, which keeps items in view but adds weight over the steering."
+          "text": "The MOOITZ includes one, which keeps items in view and within reach but adds weight over the steering, so keep that load light."
         },
         {
           "label": "Rear basket",
-          "text": "The Slsy folding model, the MOONCOOL and the Slsy Mountain rely on rear baskets over the axle for stability."
+          "text": "The Slsy folding model, the MOONCOOL and the Slsy Mountain rely on rear baskets over the axle, which keeps steering light and stable."
         }
       ],
       "note": "Default to rear loading unless you need to reach items while riding."
     },
     {
-      "heading": "For Pet Owners Specifically",
+      "heading": "For Hauling Outdoor Gear Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A high basket rating, a basket deep enough for sides, and a way to tether the pet."
+          "text": "A large basket, wider tires that handle grass or gravel, and gears so a loaded trike can start on a slope."
         },
         {
           "label": "In this comparison",
-          "text": "The Slsy folding model has the highest rating at 110 lbs and names pets among its intended loads."
+          "text": "The Slsy Adult Mountain Tricycle has all-terrain tires, a large rear basket and 7 speeds. Check its basket rating before loading heavy gear."
         }
       ]
     },
@@ -302,11 +309,11 @@ export const bestAdultTricyclesWithBaskets: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You regularly haul over 100 lbs, in which case an electric cargo trike is the next step."
+          "text": "You regularly haul over 100 lbs, in which case an electric cargo trike is the next step beyond the Slsy folding model's 110 lb basket."
         },
         {
           "label": "Save if",
-          "text": "You carry one or two bags, where the MOONCOOL's 50 lb basket is enough."
+          "text": "You carry one or two bags, where the MOONCOOL's 50 lb basket is enough and its backrest adds comfort on longer rides."
         }
       ]
     }
@@ -314,26 +321,30 @@ export const bestAdultTricyclesWithBaskets: BestArticle = {
   "faq": [
     {
       "q": "How much can these baskets carry?",
-      "a": "The Slsy folding model is rated up to 110 lbs and the MOONCOOL 50 lbs. The MOOITZ and Slsy Mountain do not state a clear limit, so confirm before heavy use."
+      "a": "The Slsy folding model is rated up to 110 lbs and the MOONCOOL 50 lbs. The MOOITZ and Slsy Mountain do not publish a clear limit, so confirm before heavy use."
     },
     {
       "q": "Is a front basket a good idea?",
-      "a": "It helps for light items you need to reach, but a heavy front load makes steering feel heavy. Keep heavy things in the rear."
+      "a": "It helps for light items you need to reach, but a heavy front load makes steering feel heavy. Keep heavy things in the rear, close to the axle."
     },
     {
       "q": "Does the basket count toward the frame capacity?",
-      "a": "Yes. Total payload covers rider plus cargo, such as 350 lbs on the MOONCOOL."
+      "a": "Yes. Total payload covers rider plus cargo, such as 350 lbs on the MOONCOOL, so your own weight uses part of it before any cargo goes in."
     },
     {
       "q": "Can I add a liner?",
-      "a": "Yes, liners help keep small items from falling through the wire. See our basket liner guide for sizing."
+      "a": "Yes, liners help keep small items from falling through the wire. See our basket liner guide for sizing, and measure your basket first."
     },
     {
       "q": "How do I stop items bouncing out?",
-      "a": "Use a cargo net or elastic cord over the top and keep heavy items low and centered."
+      "a": "Use a cargo net or elastic cord over the top and keep heavy items low and centered. Bumps shift loose bags quickly, especially on a rear basket."
+    },
+    {
+      "q": "Which pick is best if I need to store it small?",
+      "a": "The Slsy folding model has a quick-fold frame and the highest basket rating. Check the fold joints regularly and make sure you can lift it into your car."
     }
   ],
-  "bottomLine": "The Slsy Adult Folding Tricycle is the best basket trike here thanks to its 110 lb rating. Pick the MOOITZ for two baskets, the MOONCOOL for a simple everyday setup and the Slsy Mountain for gear off pavement.",
+  "bottomLine": "The Slsy Adult Folding Tricycle is the best basket trike here thanks to its 110 lb rating and quick-fold frame. Pick the MOOITZ for two baskets, the MOONCOOL for a simple everyday setup with a clear 50 lb rating, and the Slsy Mountain for gear off pavement.",
   "amazonSearch": "adult tricycles with baskets",
   "relatedPaths": [
     "/accessories/best-baskets-for-adult-tricycles/",

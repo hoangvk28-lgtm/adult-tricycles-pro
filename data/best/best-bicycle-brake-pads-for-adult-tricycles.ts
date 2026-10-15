@@ -254,48 +254,55 @@ export const bestBicycleBrakePadsForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Brake style clarity",
-      "body": "Each pick states V brake or disc use plainly, since mixing the two is the main trike mistake."
+      "body": "Each pick names V brake or disc use plainly, since mixing the two is the main trike mistake and a wrong pad type simply cannot be fitted."
     },
     {
       "title": "Fit information",
-      "body": "Named caliper models and stated pad lengths ranked above vague universal claims."
+      "body": "Named caliper models and pad lengths ranked above vague universal claims, because an exact match is what decides whether the pad seats."
     },
     {
       "title": "Install help",
-      "body": "Tools and instructions mattered for older owners doing their own upkeep."
+      "body": "Tools and instructions mattered for older owners doing their own upkeep, since a pad change is within reach with a hex wrench and a steady hand."
     },
     {
       "title": "Wear visibility",
-      "body": "Wear lines or limit marks help owners know when to change pads."
+      "body": "Wear lines or limit marks help owners know when to change pads, so a brake does not wear down to metal before anyone notices."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Match caliper, not trike brand",
       "paragraphs": [
-        "Pad shape follows the caliper that holds it. Two trikes from the same brand can use different calipers.",
+        "Pad shape follows the caliper that holds it. Two trikes from the same brand can use different calipers, so the trike name tells you very little.",
         "Remove an old pad and compare its outline and the retaining pin type. Do not order by trike name."
       ]
     },
     {
       "title": "Resin versus semi metallic",
       "paragraphs": [
-        "Resin pads are quieter and gentler on the rotor. Semi metallic pads bite harder and handle heat and wet better.",
+        "Resin pads are quieter and gentler on the rotor. Semi metallic pads bite harder and handle heat and wet better, at the cost of some noise.",
         "Heavy trikes and long descents suit semi metallic. Light flat riding suits resin."
       ]
     },
     {
       "title": "Wear indicators",
       "paragraphs": [
-        "V brake blocks often have grooves or marks that show remaining rubber. Disc pads need a visual check of material thickness.",
-        "Change pads when the groove is gone, and look at your rear wheels, not just the front."
+        "V brake blocks often have grooves or marks that show remaining rubber. Disc pads need a visual check of material thickness against the backing plate.",
+        "Change pads when the groove is gone, and look at the rear wheels, not just the front."
       ]
     },
     {
       "title": "Rim or rotor condition",
       "paragraphs": [
-        "Worn pads can score a rim or rotor, and glazed pads squeal.",
-        "Sand glaze lightly or replace, and wipe the rotor with brake cleaner before bedding in."
+        "Worn pads can score a rim or rotor, and glazed pads squeal and lose bite. Oil on a pad ruins its grip until replaced.",
+        "Sand glaze lightly or replace the pad, and wipe the rotor with brake cleaner before bedding in."
+      ]
+    },
+    {
+      "title": "Tools and bedding in",
+      "paragraphs": [
+        "Disc pads often need a piston press or gap tool to reseat the caliper, and a new pad needs gentle stops to settle in.",
+        "Check whether the kit includes tools, and avoid hard braking on the first ride after fitting."
       ]
     }
   ],
@@ -317,22 +324,22 @@ export const bestBicycleBrakePadsForAdultTricycles: BestArticle = {
           [
             "V brakes, need three pairs",
             "Alritz 3 Pair 70 mm V Brake Pads",
-            "Spare pair and raised wear marker"
+            "Spare pair and raised LIMIT wear marker"
           ],
           [
             "Disc, Shimano MT200 style",
             "AGPTEK 4 Pair Disc Brake Pads",
-            "Balanced compound, named fit"
+            "Semi metallic bite with named caliper fit"
           ],
           [
             "Disc, first time",
             "PACYTION 4 Pair Brake Pads with Tools",
-            "Piston press and gap tool"
+            "Piston press and gap regulator included"
           ],
           [
             "Disc, Tektro caliper",
             "Yasiby 4 Pair Disc Brake Pads with Tools",
-            "Long Tektro list plus tools"
+            "Long Tektro fit chart plus tools"
           ]
         ]
       }
@@ -342,7 +349,7 @@ export const bestBicycleBrakePadsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "V brake blocks",
-          "text": "Hapleby and Alritz press on the rim. They are simple to service but wear rims if grit builds up."
+          "text": "Hapleby and Alritz press on the rim. They are simple to service but wear rims if grit builds up, and wet rims reduce bite."
         },
         {
           "label": "Disc pads",
@@ -356,11 +363,11 @@ export const bestBicycleBrakePadsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A set with tools and instructions, and visible wear marks."
+          "text": "A set with tools and instructions, and visible wear marks, so you can see when to change pads without guesswork."
         },
         {
           "label": "In this comparison",
-          "text": "PACYTION and Yasiby bundle tools, Hapleby has three wear lines, and Alritz has a raised LIMIT mark."
+          "text": "PACYTION and Yasiby bundle tools, Hapleby has three wear lines and a hex wrench, and Alritz has a raised LIMIT mark."
         }
       ]
     },
@@ -373,7 +380,7 @@ export const bestBicycleBrakePadsForAdultTricycles: BestArticle = {
         },
         {
           "label": "Save if",
-          "text": "You ride flat paths slowly and Hapleby or Alritz blocks cover the job."
+          "text": "You ride flat paths slowly and Hapleby or Alritz blocks cover the job without any special tools."
         }
       ]
     }
@@ -381,26 +388,30 @@ export const bestBicycleBrakePadsForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "How do I know which pads fit my trike?",
-      "a": "Pull the old pad and compare shape, size and the retaining pin type. Brand of trike matters less than the caliper model."
+      "a": "Pull the old pad and compare shape, size and the retaining pin type. The caliper model matters more than the trike brand, and a named fit such as Shimano MT200 is a good sign."
     },
     {
       "q": "Can I use disc pads on a V brake?",
-      "a": "No. They are different parts and are not interchangeable."
+      "a": "No. They are different parts and are not interchangeable. Buy the pad type that matches the brake you already have."
     },
     {
       "q": "What about coaster or drum brakes?",
-      "a": "They do not use these pads. See /adult-tricycle-brakes-and-parking-brakes/ for those systems."
+      "a": "They do not use these pads, because the braking happens inside the hub rather than at a rim or rotor. See /adult-tricycle-brakes-and-parking-brakes/ for those systems."
     },
     {
       "q": "How long do pads take to bed in?",
-      "a": "Disc pads usually need a series of gentle stops to settle. Avoid hard braking on the first ride."
+      "a": "Disc pads usually need a series of gentle stops to settle. Avoid hard braking on the first ride, and expect some noise at first with mixed materials like the Yasiby."
     },
     {
       "q": "Should the parking brake be checked too?",
-      "a": "Yes. Check the parking brake and cables when you change pads, using /adult-tricycle-maintenance-checklist/."
+      "a": "Yes. Check the parking brake and cables when you change pads, since worn cables make a good pad feel weak. Use /adult-tricycle-maintenance-checklist/ as a guide."
+    },
+    {
+      "q": "Do I need extra tools?",
+      "a": "PACYTION and Yasiby include a press and gap tool, while AGPTEK and SkyStage include none. Hapleby provides a hex wrench for the V brake blocks."
     }
   ],
-  needs: [
+  "needs": [
     {
       "heading": "Best Bicycle Brake Pads for Wet Weather",
       "text": "The [Hapleby V brake pads](#hapleby-4-piece-v-brake-pad-set) have a drainage design that helps clear water from the pad face. Check that your trike uses V brakes and that your rims are clean before fitting. Wet braking also depends on rim condition, so wipe off road film regularly.",
@@ -436,7 +447,7 @@ export const bestBicycleBrakePadsForAdultTricycles: BestArticle = {
       "text": "None of these disc pads is sold as sintered; the AGPTEK and SkyStage packs are semi metallic, which is the nearest compound here. Look for the word sintered in the pad name and match your caliper model first. Heavier trikes on long hills are where a harder compound earns its keep."
     }
   ],
-  "bottomLine": "Use Hapleby for V brakes and AGPTEK or PACYTION for discs, matching the caliper first. If the brake still feels weak after new pads, have a shop check it. Pair this with /accessories/best-bicycle-brake-cable-kits-for-tricycles/ for cable work.",
+  "bottomLine": "Use Hapleby for V brakes and AGPTEK or PACYTION for discs, matching the caliper first. Choose the Alritz for a spare pair of 70 mm blocks, and Yasiby for older Tektro calipers. If the brake still feels weak after new pads, have a shop check it. Pair this with /accessories/best-bicycle-brake-cable-kits-for-tricycles/ for cable work.",
   "amazonSearch": "bike brake pads",
   "relatedPaths": [
     "/accessories/best-bicycle-disc-brake-pads/",

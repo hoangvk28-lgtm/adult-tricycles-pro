@@ -145,48 +145,55 @@ export const bestUltrasonicCleanersForBicycleChains: BestArticle = {
   "howWeChose": [
     {
       "title": "Tank volume",
-      "body": "A trike chain is long, so larger tanks scored higher."
+      "body": "We compared tank sizes from the 20oz Magnasonic to the 1.8L CREWORKS. A trike chain is long, so larger tanks scored higher because the coil must sit under the liquid."
     },
     {
       "title": "Heater and timer",
-      "body": "A heater and timer give more control over cleaning cycles."
+      "body": "We looked at the CREWORKS heater from 20 to 80 C and the timers on the CREWORKS and VEVOR. These give more control over cleaning cycles for heavy grease."
     },
     {
       "title": "Basket and material",
-      "body": "We favored stainless tanks and baskets that resist cleaning fluid."
+      "body": "We favored stainless tanks and baskets, including the 304 stainless steel tank on the CREWORKS. They resist cleaning fluid better and are easier to wipe clean."
     },
     {
       "title": "Fit for a coiled chain",
-      "body": "We checked whether the stated tank dimensions suggest a coil can sit under water."
+      "body": "We checked whether the stated tank dimensions suggest a coil can sit under water. A shallow basin like the VEVOR's 6.1 x 5.5 x 2.6 inches limits how the chain lies."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Tank dimensions",
       "paragraphs": [
-        "A chain must be covered by liquid to be cleaned, and a shallow tank limits how a coil can sit.",
-        "Coil your chain loosely and measure the width and depth of the tank."
+        "A chain must be covered by liquid to be cleaned, and a shallow tank limits how a coil can sit. A tank that is too small leaves part of the chain dry.",
+        "Coil your chain loosely and measure the width and depth of the tank. The VEVOR basin is 2.6 inches deep, which suits a shortened chain."
       ]
     },
     {
       "title": "Heater",
       "paragraphs": [
-        "Warm liquid helps loosen grease, but heat is not needed for every job.",
-        "Choose a heater if you clean heavy lube often, and keep the water within the instructions."
+        "Warm liquid helps loosen grease, but heat is not needed for every job. A heater adds cost and a larger footprint, and the Magnasonic and VEVOR lack one.",
+        "Choose a heater if you clean heavy lube often, and keep the water within the instructions. The CREWORKS heats from 20 to 80 C."
       ]
     },
     {
       "title": "Frequency and power",
       "paragraphs": [
-        "Higher watts clean faster, and 40kHz is common for parts cleaning.",
-        "Check wattage and run time before buying."
+        "Higher watts clean faster, and 40kHz is common for parts cleaning. The VEVOR is 40kHz at 60W, and the CREWORKS is also 60W, while the Magnasonic is 42,000 Hz.",
+        "Check wattage and run time before buying. The CREWORKS timer runs 1 to 30 minutes."
       ]
     },
     {
       "title": "Re-lubing afterward",
       "paragraphs": [
-        "Ultrasonic cleaning strips all lube, so the chain is dry and prone to rust.",
+        "Ultrasonic cleaning strips all lube, so the chain is dry and prone to rust. A clean dry chain left bare will squeak and wear quickly.",
         "Dry the chain promptly and lube or wax it. Our chain care guide covers the steps."
+      ]
+    },
+    {
+      "title": "Size on a shelf",
+      "paragraphs": [
+        "The cleaner sits on a bench or shelf, so footprint matters in an apartment. The CREWORKS has a larger footprint, and the Magnasonic is the smallest.",
+        "Measure your storage space and pick the smallest tank that still holds your coil."
       ]
     }
   ],
@@ -202,23 +209,23 @@ export const bestUltrasonicCleanersForBicycleChains: BestArticle = {
         "rows": [
           [
             "Full trike chain, coiled",
-            "CREWORKS 1.8L",
-            "Largest tank"
+            "CREWORKS 1.8L Ultrasonic Cleaner with Heater",
+            "Largest tank here at 1.8L"
           ],
           [
             "Shortened chain",
-            "VEVOR 1.3L",
-            "Fits a smaller coil"
+            "VEVOR 1.3L Ultrasonic Cleaner",
+            "1.3L tank fits a smaller coil under water"
           ],
           [
-            "Pins and sprockets",
-            "Magnasonic 20oz",
-            "Small parts"
+            "Pins, cogs and sprockets",
+            "Magnasonic 20oz Ultrasonic Cleaner",
+            "Five cycles and a stainless basket for small parts"
           ],
           [
             "Heavy grease",
-            "CREWORKS 1.8L",
-            "Heater helps"
+            "CREWORKS 1.8L Ultrasonic Cleaner with Heater",
+            "Heater from 20 to 80 C loosens grime"
           ]
         ]
       }
@@ -228,11 +235,11 @@ export const bestUltrasonicCleanersForBicycleChains: BestArticle = {
       "cards": [
         {
           "label": "Heater",
-          "text": "The CREWORKS warms water from 20 to 80 C."
+          "text": "The CREWORKS warms water from 20 to 80 C and has a 1 to 30 minute timer. It loosens heavy grease faster, at the cost of a larger footprint."
         },
         {
           "label": "No heater",
-          "text": "The VEVOR and Magnasonic are simpler and cheaper."
+          "text": "The VEVOR and Magnasonic are simpler and have smaller footprints. The VEVOR has a digital timer, and both rely on the ultrasonic action alone."
         }
       ],
       "note": "Default to a heater if you clean often."
@@ -242,11 +249,11 @@ export const bestUltrasonicCleanersForBicycleChains: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A small footprint that fits a shelf."
+          "text": "A small footprint that fits a shelf, plus a tank deep enough to hold a coiled chain under liquid when you use it."
         },
         {
           "label": "In this comparison",
-          "text": "The VEVOR is the smaller of the two chain-capable tanks."
+          "text": "The VEVOR is the smaller of the two chain-capable tanks, with a 6.1 x 5.5 x 2.6 inch basin. The Magnasonic is smaller still but suits small parts."
         }
       ]
     },
@@ -255,11 +262,11 @@ export const bestUltrasonicCleanersForBicycleChains: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You clean several chains a year, where the CREWORKS tank and heater save time."
+          "text": "You clean several chains a year, where the CREWORKS tank and heater save time and handle a long chain in one pass."
         },
         {
           "label": "Save if",
-          "text": "You clean once a season, where the VEVOR is enough."
+          "text": "You clean once a season, where the VEVOR is enough for a shortened chain or the Magnasonic for sprockets and pins."
         }
       ]
     }
@@ -267,26 +274,30 @@ export const bestUltrasonicCleanersForBicycleChains: BestArticle = {
   "faq": [
     {
       "q": "Can ultrasonic cleaners clean a trike chain?",
-      "a": "Yes if the tank holds the coiled chain. Bubbles clean inside the links. Choose a larger tank."
+      "a": "Yes if the tank holds the coiled chain. Bubbles clean inside the links where a brush cannot reach. Choose a larger tank such as the CREWORKS 1.8L, since a shallow basin limits how the coil sits."
     },
     {
       "q": "Do I need to remove the chain?",
-      "a": "Yes. Take it off with a connecting link and place it in the basket."
+      "a": "Yes. Take it off with a connecting link and place it in the basket. Do not run the cleaner with the chain on the trike. Coil it loosely so every link sits under the liquid."
     },
     {
       "q": "What liquid do I use?",
-      "a": "Use water with a cleaner suited to the tank, following the cleaner's instructions."
+      "a": "Use water with a cleaner suited to the tank, following the cleaner's instructions. Keep the water level above the chain. The CREWORKS heater can warm it from 20 to 80 C, but stay within the instructions."
     },
     {
       "q": "Do I need to lube after?",
-      "a": "Yes. Dry it and lube or wax it straight away. See the wax lube guide."
+      "a": "Yes. Ultrasonic cleaning strips all lube, so dry the chain and lube or wax it straight away. See the wax lube guide. A dry chain left bare will rust and wear quickly."
     },
     {
       "q": "Is a heater necessary?",
-      "a": "No, but the CREWORKS heater helps with heavy grease."
+      "a": "No, but the CREWORKS heater helps with heavy grease. The VEVOR and Magnasonic have no heater and still clean through ultrasonic action. Choose a heater if you clean thick lube often."
+    },
+    {
+      "q": "Can the Magnasonic clean a whole chain?",
+      "a": "Not easily. Its 20oz tank is better for cogs, links and small parts than a long trike chain. For a full chain, pick the CREWORKS or, for a shortened chain, the VEVOR."
     }
   ],
-  "bottomLine": "For a full trike chain, choose the CREWORKS 1.8L. The VEVOR suits shorter chains, and the Magnasonic suits small parts.",
+  "bottomLine": "For a full trike chain, choose the CREWORKS 1.8L, which has the largest tank and a heater. The VEVOR suits shorter chains and tighter shelves, and the Magnasonic suits small parts. Dry and lube the chain after every clean.",
   "amazonSearch": "ultrasonic chain cleaners",
   "relatedPaths": [
     "/accessories/best-bicycle-chain-cleaners/",

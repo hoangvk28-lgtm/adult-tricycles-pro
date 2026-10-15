@@ -218,48 +218,59 @@ export const bestBikeGripsForAdultTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Diameter fit",
-      "body": "We checked stated bar diameters, mostly 22 to 23 mm."
+      "body": "We checked the bar diameters each grip fits, mostly 22 to 23 mm, because a grip that is a hair too big or small will slip or refuse to go on the bar."
     },
     {
       "title": "Palm support",
-      "body": "Shaped and wide grips were weighted for upright posture."
+      "body": "Shaped and wide grips were weighted for upright posture, since a trike rider rests body weight through the hands and a wide platform spreads that pressure."
     },
     {
       "title": "Lock-on clamp",
-      "body": "Clamp designs were compared for slip resistance."
+      "body": "Clamp designs were compared for slip resistance, because a loaded trike steers with firm hands and a grip that twists on the bar is a real hazard."
     },
     {
-      "title": "Length",
-      "body": "Grip length was noted against twist shifter space."
+      "title": "Length and shifter room",
+      "body": "Grip length was compared against twist shifter space, since a long grip such as the 133 mm or 135 mm models can crowd out the shifter on a short bar."
+    },
+    {
+      "title": "Hand size options",
+      "body": "Thickness choices mattered for large hands, so the 30 mm and 34 mm sizes of the PNW Loam grip counted for more than a single fixed diameter."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Bar outer diameter",
       "paragraphs": [
-        "Most grips fit 22.2 mm bars. A thicker bar needs a different size.",
-        "Measure the bar end and compare."
+        "Most of these grips are made for 22.2 mm bars, with a few quoting a 22 to 23 mm range. A thicker bar will not accept them, and a thinner one lets the grip wobble.",
+        "Measure the bar end with calipers or a tape wrapped around it and divided by 3.14. Compare with the stated range before ordering, because a returned grip is a wasted week."
       ]
     },
     {
-      "title": "Grip length vs shifter",
+      "title": "Grip length against the shifter",
       "paragraphs": [
-        "A twist shifter needs bar length. A 130 mm grip can leave no room.",
-        "Measure free bar from the end to the shifter."
+        "A twist shifter sits on the bar next to the grip and needs its own length. A 130 mm grip such as the TOPCABIN can leave no room, while a shorter one leaves more free bar.",
+        "Measure free bar from the end to the inner edge of the shifter or brake lever. Subtract the grip length and make sure you still have room for the shifter to turn."
       ]
     },
     {
       "title": "Palm shape",
       "paragraphs": [
-        "A wider or winged grip spreads pressure, which helps arthritis.",
-        "Look for a shaped zone."
+        "A wider or winged grip spreads pressure across the palm instead of concentrating it at the base of the thumb, which can help aching or arthritic hands on an upright trike.",
+        "Look for a shaped support zone, like the Wittkop's three zones, and compare the shape against how you grip. Close your hand around a thick marker to see what size feels natural."
       ]
     },
     {
       "title": "Lock-on vs push-on",
       "paragraphs": [
-        "Lock-on clamps use a hex key and do not twist. Push-on grips can spin.",
-        "Choose lock-on for a loaded trike."
+        "Lock-on grips clamp to the bar with a ring and a hex key, so they cannot spin. Push-on grips rely on friction or glue and can rotate under steady steering force.",
+        "Choose lock-on for a loaded trike, and keep a hex key in the bag. All five grips here are lock-on, and the Wittkop includes the key."
+      ]
+    },
+    {
+      "title": "Thickness for large hands",
+      "paragraphs": [
+        "A thin grip forces a tight squeeze, which tires the hand. The PNW Loam comes in 30 mm and 34 mm, so a larger hand can close more loosely around it.",
+        "Make a loose fist around a wide object and see how much it overlaps. If your fingers wrap far past your thumb, go for the thicker size."
       ]
     }
   ],
@@ -276,27 +287,27 @@ export const bestBikeGripsForAdultTricycles: BestArticle = {
           [
             "Wrist pain or arthritis",
             "Wittkop 3-Zone Ergonomic Grips",
-            "Palm support zone"
+            "Dedicated palm support zone with comfort padding."
           ],
           [
             "Large hands",
             "PNW Components Loam Grips",
-            "34 mm XL size"
+            "Thicker 34 mm size reduces the tight squeeze."
           ],
           [
-            "Wide platform",
+            "Wide platform for the palm",
             "TOPCABIN Ergonomic Wide Grips",
-            "130 mm wide"
+            "130 mm wide rubber with aluminum lock rings."
           ],
           [
             "Soft feel on a budget",
             "GPMTER Lock-On Grips with Gel Layer",
-            "Gel layer"
+            "Gel layer under high friction rubber."
           ],
           [
             "Basic upgrade",
             "BUCKLOS Single Lock-On Grips",
-            "Aluminum ring"
+            "Soft rubber with a ridged anti-slip surface."
           ]
         ]
       }
@@ -306,11 +317,11 @@ export const bestBikeGripsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Shaped",
-          "text": "The Wittkop supports the palm with a dedicated zone, which helps upright posture."
+          "text": "The Wittkop supports the palm with a dedicated zone, and the TOPCABIN offers a wide holding platform. Both help with the weight an upright rider rests on the bars."
         },
         {
           "label": "Round",
-          "text": "The BUCKLOS and GPMTER are round and simple, with less relief."
+          "text": "The BUCKLOS and GPMTER are round and simple, with less relief for pressure points. They suit short rides or hands that have no pain."
         }
       ],
       "note": "Choose shaped grips for long rides or sore hands."
@@ -320,11 +331,11 @@ export const bestBikeGripsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A shorter grip that leaves room for the shifter."
+          "text": "A shorter grip that leaves room for the shifter, and a clamp at the inner end that does not collide with it."
         },
         {
           "label": "In this comparison",
-          "text": "The Loam grip and the Wittkop are the shaped options. Measure before you buy."
+          "text": "The 130 mm TOPCABIN and 133 mm BUCKLOS are long, so measure first. The Loam and Wittkop are the shaped options, but the Wittkop needs a bar length check for shifters."
         }
       ]
     },
@@ -333,11 +344,11 @@ export const bestBikeGripsForAdultTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You have hand pain. The Wittkop adds a support zone."
+          "text": "You have hand pain or ride long distances. The Wittkop adds a palm support zone that basic grips do not offer."
         },
         {
           "label": "Save if",
-          "text": "You just want a firm grip. The BUCKLOS is simple."
+          "text": "You just want a firm grip. The BUCKLOS has an aluminum ring and ridged surface, which is enough for short rides."
         }
       ]
     }
@@ -345,26 +356,30 @@ export const bestBikeGripsForAdultTricycles: BestArticle = {
   "faq": [
     {
       "q": "What size are trike handlebars?",
-      "a": "Most grips fit 22 to 23 mm bars. Measure yours."
+      "a": "Most grips here fit 22 to 23 mm bars, and the PNW Loam needs a 22.2 mm bar. Measure your handlebar end before ordering, because trike bars can differ from a standard bike and a millimeter of error can stop a grip from clamping."
     },
     {
       "q": "Do I need lock-on grips?",
-      "a": "They clamp with a hex key and do not twist, which helps on a loaded trike."
+      "a": "They clamp with a hex key and do not twist, which helps on a loaded trike where steering force is steady. Push-on grips can rotate, so lock-on is the better default. Every grip in this comparison is a lock-on design."
     },
     {
       "q": "Will grips fit with a twist shifter?",
-      "a": "Only if there is room. Measure the free bar length first."
+      "a": "Only if there is room. Measure the free bar length from the end to the shifter first, then compare it with the grip length of 130 mm for the TOPCABIN or 133 mm for the BUCKLOS. A shorter grip leaves more room."
     },
     {
       "q": "What helps arthritis?",
-      "a": "A shaped palm zone like the Wittkop, or a thicker grip like the PNW XL."
+      "a": "A shaped palm zone like the Wittkop, or a thicker grip like the PNW at 34 mm, spreads pressure and reduces how tightly you squeeze. A secure lock-on clamp also helps. See a clinician for persistent pain."
     },
     {
       "q": "How do I install them?",
-      "a": "Slide on, then tighten the clamp with the hex key."
+      "a": "Slide on the grip, align it, and tighten the clamp with the hex key. The Wittkop includes the key. Check the screw after the first few rides, because new rubber can settle, and trim nothing until you are sure of the fit."
+    },
+    {
+      "q": "Should I choose gel?",
+      "a": "Gel such as the GPMTER's layer adds cushion under high friction rubber, but it will not fix a grip that is the wrong size for your hand. Get the diameter and length right first, then consider the extra padding."
     }
   ],
-  "bottomLine": "Choose the Wittkop for palm comfort, the PNW Loam XL for large hands, and a BUCKLOS or GPMTER for a simple upgrade. Measure bar diameter and shifter room first.",
+  "bottomLine": "Choose the Wittkop for palm comfort, the PNW Loam in 34 mm for large hands, and a BUCKLOS or GPMTER for a simple upgrade. The TOPCABIN suits riders who want a wide platform and have bar to spare. Measure bar diameter and shifter room first.",
   "amazonSearch": "bike grips for adult tricycles",
   "relatedPaths": [
     "/adult-tricycle-sizing-and-fit-guide/",

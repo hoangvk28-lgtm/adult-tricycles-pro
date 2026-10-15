@@ -197,48 +197,55 @@ export const bestFoldingElectricTricyclesUnder2000: BestArticle = {
   "howWeChose": [
     {
       "title": "Suspension and brakes",
-      "body": "We compared suspension and hydraulic braking."
+      "body": "We compared suspension, brake type and tire size, because a trike with full suspension and hydraulic brakes rides softer and stops with less hand effort on bumpy streets."
     },
     {
       "title": "Motor and torque",
-      "body": "We compared watts and torque."
+      "body": "We weighed rated power, torque and assist type. A torque sensor ties assist to how hard you pedal, which feels smoother than a simple on and off assist on a slow trike."
     },
     {
       "title": "Payload",
-      "body": "We compared frame ratings."
+      "body": "We looked at the stated payload and whether it covers rider plus cargo. Frames near 450 or 500 lbs suit heavier riders, but only if you leave a margin for baskets and gear."
     },
     {
       "title": "Fold and support",
-      "body": "We noted fold details and support."
+      "body": "We checked for folded dimensions and how well each maker backs the trike. A folder with unknown size or little-known support carries real risk for an older rider."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Suspension",
       "paragraphs": [
-        "Full suspension absorbs road chatter and reduces fatigue.",
-        "Check your surfaces."
+        "Suspension absorbs bumps before they reach your back and wrists. A full-suspension trike like the TINIOVER River softens curbs and cracked pavement, while a rigid frame passes every jolt through the seat.",
+        "If you ride rough streets or have a stiff back, comfort will matter more than saved weight. Look for front and rear suspension and a seat that can be adjusted."
       ]
     },
     {
-      "title": "Torque sensor",
+      "title": "Torque sensor assist",
       "paragraphs": [
-        "A torque sensor gives smoother assist than a cadence sensor.",
-        "Check the specs."
+        "A torque sensor measures how hard you press the pedals and adds power in proportion. A cadence sensor only notices that the pedals turn, so assist can feel jerky and surge when you start.",
+        "Look for the sensor type in the title or bullet points. For slow starts on a heavy trike, a torque sensor gives smoother control, especially on slopes or crowded sidewalks."
       ]
     },
     {
-      "title": "Payload rating",
+      "title": "Payload and margin",
       "paragraphs": [
-        "Stay well under the rating.",
-        "Weigh rider and cargo."
+        "Payload is the heaviest load the frame should carry, and for trikes it usually includes the rider and cargo. The River is rated to 500 lbs and the MOONCOOL models to 450 lbs.",
+        "Add your weight, a full basket, a battery bag and a passenger if you plan one. Keep that total well under the rating, and ask the maker whether the figure is rider only."
       ]
     },
     {
-      "title": "Fold details",
+      "title": "Passenger and cargo kits",
       "paragraphs": [
-        "Fold size and weight decide storage.",
-        "Ask before buying."
+        "A modular trike can add a passenger seat or cargo rack, but those kits may ship separately and change balance. A seat behind the rear axle shifts weight and affects braking.",
+        "If you want to carry a grandchild or a large load, confirm what is included in the price. The TINIOVER Creek is the one built around kits."
+      ]
+    },
+    {
+      "title": "Fold details and support",
+      "paragraphs": [
+        "Folding frames hinge at the middle, and a loose latch can add flex. Folded size matters because the shape stays wide, and spare parts matter more with an unknown brand.",
+        "Ask for folded length, width and height, and check warranty and replacement parts. If you cannot get answers before you order, treat the fold as unconfirmed."
       ]
     }
   ],
@@ -253,24 +260,29 @@ export const bestFoldingElectricTricyclesUnder2000: BestArticle = {
         ],
         "rows": [
           [
-            "Comfort and control",
-            "TINIOVER River",
-            "Full suspension."
+            "Rough streets and sore joints",
+            "TINIOVER River Full Suspension Folding Electric Tricycle",
+            "Full suspension and triple hydraulic brakes"
           ],
           [
-            "Passenger or cargo",
-            "TINIOVER Creek",
-            "Modular kits."
+            "Carrying a passenger or a rack",
+            "TINIOVER Creek Folding Electric Tricycle",
+            "Passenger and cargo kits, 90 N·m torque"
           ],
           [
-            "Simple folder on a budget",
-            "MOONCOOL 500W",
-            "Low step-through."
+            "Simple folder, heavier rider, tight budget",
+            "MOONCOOL 500W Folding Fat Tire Electric Tricycle",
+            "450 lb frame, low step-through, removable battery"
           ],
           [
-            "Realistic range claim",
-            "MOONCOOL 20-Inch",
-            "35 to 70 mile range."
+            "Honest range expectations",
+            "MOONCOOL 500W 20-Inch Fat Tire Folding Trike",
+            "35 to 70 mile range span, five assist levels"
+          ],
+          [
+            "Tight garage needs reverse",
+            "TINIOVER River Full Suspension Folding Electric Tricycle",
+            "Reverse and torque sensor for slow maneuvering"
           ]
         ]
       }
@@ -280,25 +292,25 @@ export const bestFoldingElectricTricyclesUnder2000: BestArticle = {
       "cards": [
         {
           "label": "Torque",
-          "text": "The Creek has 90 N·m."
+          "text": "The TINIOVER Creek Folding Electric Tricycle has a 750W motor, 90 N·m of torque and a UL2271 battery. It climbs hills and tows loads, and it suits riders who care more about pull than ride feel."
         },
         {
           "label": "Comfort",
-          "text": "The River has full suspension and a backrest."
+          "text": "The TINIOVER River Full Suspension Folding Electric Tricycle trades some of that muscle for full suspension, a torque sensor and triple hydraulic brakes. It rides softer and stops with less hand effort."
         }
       ],
-      "note": "Pick comfort for daily riding."
+      "note": "Choose comfort for daily riding and torque only for steep hills or heavy loads."
     },
     {
       "heading": "For Heavier Riders Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A high frame rating and spare margin."
+          "text": "Look for a high payload rating, a removable battery and a low step-through, so mounting is easy and the frame has margin. Keep cargo light, because rider and gear share the same limit."
         },
         {
           "label": "In this comparison",
-          "text": "The River at 500 lbs, then the MOONCOOLs at 450 lbs."
+          "text": "The TINIOVER River Full Suspension Folding Electric Tricycle is rated to 500 lbs. The MOONCOOL 500W models are rated to 450 lbs, and the 500W motors work harder on slopes."
         }
       ]
     },
@@ -307,11 +319,11 @@ export const bestFoldingElectricTricyclesUnder2000: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "you need suspension and reverse."
+          "text": "Spend more if you want full suspension, hydraulic brakes and reverse, or a passenger kit. The TINIOVER River and Creek cost more than the MOONCOOLs, and give more comfort or capability."
         },
         {
           "label": "Save if",
-          "text": "you ride lightly and short."
+          "text": "Save if you want a straightforward folder. The MOONCOOL 500W Folding Fat Tire Electric Tricycle gives a 450 lb frame, a low step-through and a removable 48V 15Ah battery with fewer extras."
         }
       ]
     }
@@ -319,26 +331,30 @@ export const bestFoldingElectricTricyclesUnder2000: BestArticle = {
   "faq": [
     {
       "q": "Which has the best suspension?",
-      "a": "The TINIOVER River."
+      "a": "The TINIOVER River Full Suspension Folding Electric Tricycle has full suspension, which softens bumps and curbs better than the fat tires on the MOONCOOLs. The MOONCOOL 20-Inch has less suspension than the River, so expect a firmer ride on rough pavement."
     },
     {
       "q": "Which can carry a passenger?",
-      "a": "The Creek, with a kit."
+      "a": "The TINIOVER Creek is built for it, with passenger or cargo kits and a rear differential. The kits ship separately, so confirm what is included and how the added seat changes balance before you order."
     },
     {
-      "q": "Are the MOONCOOLs the same?",
-      "a": "Nearly; the ranges differ."
+      "q": "Are the two MOONCOOL models the same?",
+      "a": "They are very similar. Both use a 500W motor, a 48V 15Ah battery and a 450 lb frame rating. The 20-Inch version shows a 35 to 70 mile range span and five assist levels, which is a more realistic claim."
     },
     {
-      "q": "Do all fold?",
-      "a": "They are described as folding."
+      "q": "Do all of these fold?",
+      "a": "Yes, all four are folding trikes. Folded size is not detailed for the River or the Creek, so carefully measure your storage space first and ask for the folded length, width and height."
     },
     {
       "q": "Should I trust range claims?",
-      "a": "Treat them as best cases."
+      "a": "Treat them as best cases only. The MOONCOOL 35 to 70 miles span is more honest than a single number, and real range will fall with hills, a heavy rider, throttle use and cold weather."
+    },
+    {
+      "q": "Is the battery safe?",
+      "a": "The Creek has a UL2271 certified battery, which covers the pack and charger as a system. Charge on a hard floor away from curtains, and ask each maker for the certification of the pack you buy."
     }
   ],
-  "bottomLine": "The River is the best comfort choice, the Creek the most flexible, and the MOONCOOLs the simplest. Ask for folded sizes before ordering.",
+  "bottomLine": "The TINIOVER River Full Suspension Folding Electric Tricycle is the best overall pick for comfort, with suspension, a torque sensor, reverse and triple hydraulic brakes. The Creek is the most flexible for passengers and cargo, and the MOONCOOLs are the simplest budget folders. Ask for folded sizes before ordering.",
   "amazonSearch": "folding electric tricycles under $2000",
   "relatedPaths": [
     "/electric-tricycles/best-folding-electric-tricycles-under-1500/",

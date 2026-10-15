@@ -179,49 +179,56 @@ export const bestTireSealantsForBicycles: BestArticle = {
   ],
   "howWeChose": [
     {
-      "title": "Tube vs tubeless",
-      "body": "We separated sealants by setup."
+      "title": "Tube or tubeless",
+      "body": "We separated sealants made for inner tubes from those made for tubeless tires. Using the wrong one wastes money, and a tubeless formula can behave differently inside a tube."
     },
     {
       "title": "Puncture size",
-      "body": "We noted stated puncture limits."
+      "body": "We compared the stated puncture size each sealant can close, such as 3 mm, 6.5 mm or a half inch slice. A larger range means fewer flats from thorns and glass."
     },
     {
       "title": "Lifespan",
-      "body": "We compared how long each lasts."
+      "body": "We looked at how long each sealant stays liquid in the tire, from months to years. Short life means topping up, which is a chore when you ride a heavy trike."
     },
     {
-      "title": "Valve",
-      "body": "We flagged valve concerns."
+      "title": "Valve and fit",
+      "body": "We checked for valve compatibility and tools such as an injector. Sealant must pass through the valve core, and some trike tubes use Schrader valves that clog on thick fluid."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Tube or tubeless",
       "paragraphs": [
-        "Tube sealants go in regular tubes. Tubeless sealants need tubeless-ready tires.",
-        "Check your setup."
-      ]
-    },
-    {
-      "title": "Valve type",
-      "paragraphs": [
-        "Schrader and Presta valves differ.",
-        "Check whether a core must be removed."
+        "A tube sealant is thick fluid that coats the inside of an inner tube and plugs small holes as they open. A tubeless sealant sits against the tire and rim, and seals the bead as well as punctures.",
+        "Check which setup your trike uses. Most trikes use tubes, so a tube sealant like Slime is the safe default, and tubeless formulas are only for tubeless-ready rims."
       ]
     },
     {
       "title": "Puncture size",
       "paragraphs": [
-        "Sealants have a limit.",
-        "Carry a patch kit."
+        "Sealant works by flowing into a hole and clotting around fibers in the fluid. It handles small thorn and nail holes, but a large cut or sidewall slice stays open.",
+        "Look for the stated size: Slime seals up to 3 mm, Stan's up to 6.5 mm, and Orange Seal 1/4 inch punctures and 1/2 inch slices. Carry a patch kit for bigger damage."
       ]
     },
     {
       "title": "Refresh interval",
       "paragraphs": [
-        "Some dry in months.",
-        "Check the interval."
+        "Sealant slowly dries out inside a tire and loses its ability to plug holes. A tubeless formula needs topping up every few months, and a tube sealant lasts longer because it is sealed in.",
+        "Stan's stays liquid for 2 to 7 months and Orange Seal for 60 to 120 days. Mark the date on your calendar or tire so you refresh it before it dries."
+      ]
+    },
+    {
+      "title": "Valve type",
+      "paragraphs": [
+        "Sealant must pass through the valve core or be injected through a removed core. A thick fluid can clog a small Presta valve, and some tubes use Schrader valves, which are wider.",
+        "Check your valve type before buying and read whether the sealant is safe for it. If you are unsure, ask the maker or your local shop."
+      ]
+    },
+    {
+      "title": "Not a full repair",
+      "paragraphs": [
+        "Sealant is a first line of defense that stops slow leaks you never notice. It does not close a long cut, a ruined sidewall or a blowout.",
+        "Carry a patch kit, a spare tube and a pump on longer rides. Treat sealant as insurance for thorns, and do not rely on it for large damage."
       ]
     }
   ],
@@ -236,24 +243,29 @@ export const bestTireSealantsForBicycles: BestArticle = {
         ],
         "rows": [
           [
-            "Regular tubes",
+            "Regular inner tubes on a trike",
             "Slime 10003 Tube Sealant",
-            "Tube sealant"
+            "Seals up to 3 mm, protection up to two years"
           ],
           [
-            "Spare, same formula",
+            "Backup bottle, same formula",
             "Slime 10056W Tube Sealant",
-            "Same formula"
+            "Same Fibro-Seal formula, check quantity for tire size"
           ],
           [
-            "Tubeless, general",
+            "Tubeless tires, general riding",
             "Stan's NoTubes Tire Sealant 500 ml",
-            "To 6.5 mm"
+            "Seals up to 6.5 mm and works with an injector"
           ],
           [
-            "Tubeless, endurance",
+            "Tubeless, longer endurance and slices",
             "Orange Seal Endurance Formula",
-            "60 to 120 days"
+            "Seals 1/2 inch slices and includes an injector"
+          ],
+          [
+            "Thorn-heavy routes with tubes",
+            "Slime 10003 Tube Sealant",
+            "Plugs small thorn holes before you notice"
           ]
         ]
       }
@@ -263,11 +275,11 @@ export const bestTireSealantsForBicycles: BestArticle = {
       "cards": [
         {
           "label": "Tube sealant",
-          "text": "Slime goes into regular tubes and seals up to 3 mm."
+          "text": "Slime 10003 Tube Sealant and Slime 10056W Tube Sealant go inside inner tubes. They seal small holes up to 3 mm and last up to two years, but they will not close larger cuts."
         },
         {
           "label": "Tubeless sealant",
-          "text": "Stan's and Orange Seal need tubeless-ready tires."
+          "text": "Stan's NoTubes Tire Sealant 500 ml and Orange Seal Endurance Formula are made for tubeless tires. They close bigger holes, up to 6.5 mm or a half inch slice, but need topping up every few months."
         }
       ],
       "note": "Most trikes use tubes, so Slime is the default."
@@ -277,11 +289,11 @@ export const bestTireSealantsForBicycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A sealant for small punctures."
+          "text": "Look for a sealant that closes thorns up to the size you meet and lasts the season. Fat trike tires hold a lot of sealant, so check bottle size."
         },
         {
           "label": "In this comparison",
-          "text": "Slime handles up to 3 mm."
+          "text": "Slime 10003 Tube Sealant suits tubed trike tires on thorn-prone paths. For tubeless setups, Stan's NoTubes Tire Sealant 500 ml seals up to 6.5 mm and works with an injector."
         }
       ]
     },
@@ -290,38 +302,42 @@ export const bestTireSealantsForBicycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You have tubeless tires. Stan's or Orange Seal fit."
+          "text": "Spend more if you ride tubeless and want bigger-slice protection. Orange Seal Endurance Formula seals 1/2 inch slices and lasts 60 to 120 days, and it comes with an injector."
         },
         {
           "label": "Save if",
-          "text": "You use tubes. Slime is enough."
+          "text": "Save if your trike uses inner tubes. Slime 10003 Tube Sealant offers up to two years of protection for small holes, and Slime 10056W gives you a spare bottle of the same formula."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Can I use tubeless sealant in a tube?",
-      "a": "It is not designed for that. Use a tube sealant like Slime."
+      "q": "Can I use tubeless sealant in an inner tube?",
+      "a": "It is not what those products are made for. Tubeless sealants like Stan's are designed to work against a tire and rim, and they may clog a valve or dry differently inside a tube. Use Slime for tubes."
     },
     {
       "q": "Does sealant work with Schrader valves?",
-      "a": "Yes, most tube sealants work with Schrader. Check the product."
+      "a": "Tube sealants like Slime are designed for common tube valves, but you should check the bottle for valve support. Thick fluid can clog a small valve core, so use the instructions or have a shop install it."
     },
     {
-      "q": "How large a puncture can it seal?",
-      "a": "Slime seals up to 3 mm. Stan's seals to 6.5 mm."
+      "q": "How large a puncture can sealant close?",
+      "a": "It depends on the product. Slime seals up to 3 mm, Stan's up to 6.5 mm, and Orange Seal 1/4 inch punctures and 1/2 inch slices. Anything larger needs a patch, a plug or a new tube."
     },
     {
-      "q": "How long does it last?",
-      "a": "Slime lasts up to two years. Stan's stays liquid 2 to 7 months. Orange Seal lasts 60 to 120 days."
+      "q": "How long does sealant last?",
+      "a": "Slime states up to two years in a tube, while Stan's stays liquid for 2 to 7 months and Orange Seal for 60 to 120 days in a tubeless tire. Add the date to your maintenance routine."
     },
     {
-      "q": "Does it replace a patch kit?",
-      "a": "No. Carry one for large cuts."
+      "q": "Does sealant replace a patch kit?",
+      "a": "No. Sealant stops small leaks you may not even notice, but a large cut, a sidewall slice or a blowout needs a patch kit or a spare tube. Carry both, plus a pump, on longer rides away from home."
+    },
+    {
+      "q": "Which Slime bottle should I buy?",
+      "a": "Slime 10003 and 10056W share the same formula. Check the quantity against your tire size, since a fat trike tire holds more than a road tire, and buy enough to treat both rear wheels, since a trike has two."
     }
   ],
-  "bottomLine": "Use Slime for tubes and Stan's or Orange Seal for tubeless tires. Carry a patch kit for large cuts.",
+  "bottomLine": "Slime 10003 Tube Sealant is the best pick for most trikes because most use inner tubes, and it seals up to 3 mm for up to two years. Choose Stan's NoTubes for tubeless tires or Orange Seal Endurance Formula for bigger slices. Carry a patch kit for large cuts.",
   "amazonSearch": "tire sealants for bicycles",
   "relatedPaths": [
     "/adult-tricycle-wheel-sizes-20-24-26-inch/",

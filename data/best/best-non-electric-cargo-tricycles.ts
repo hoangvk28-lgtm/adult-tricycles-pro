@@ -155,48 +155,55 @@ export const bestNonElectricCargoTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Pedal-only gearing",
-      "body": "Without a motor, gear range decided how well a loaded basket handles hills."
+      "body": "Without a motor, gear range decides how well a loaded basket handles hills, so we credited the 7-speed MOONCOOL and MOPHOTO over the single speed Brightpeak."
     },
     {
       "title": "Stated payload",
-      "body": "We compared total and basket ratings and noted where a limit is missing."
+      "body": "We compared total ratings of 350 to 450 lb and basket ratings of 50 lb, and we noted where a limit is missing, as with the MOPHOTO basket."
     },
     {
       "title": "Basket mounting",
-      "body": "A rear basket over the axle keeps weight low and between the two rear wheels."
+      "body": "A rear basket over the axle keeps weight low and between the two rear wheels, which steadies a trike that carries groceries on every ride."
     },
     {
       "title": "Everyday practicality",
-      "body": "Step-through height, braking setup and storage options counted."
+      "body": "Step-through height, braking setup and storage options counted, because a cargo trike that is awkward to mount or park will not be used."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Basket rating vs total rating",
       "paragraphs": [
-        "The total rating covers rider plus cargo, while the basket has its own, often lower, limit such as 50 lbs.",
-        "Add your weight to your usual load and confirm both numbers. A total of 350 lbs is quickly used by a heavier rider."
+        "The total rating covers rider plus cargo, while the basket has its own, often lower, limit such as 50 lbs. Overload the basket and you strain the rack even when the frame is fine.",
+        "Add your weight to your usual load and confirm both numbers. A total of 350 lbs on the MOONCOOL is quickly used by a heavier rider, while the Brightpeak frame is rated 450 lbs."
       ]
     },
     {
       "title": "Gears for loaded hills",
       "paragraphs": [
-        "On a pedal-only trike, a low gear spares your knees under load. A single speed means every pound of cargo is felt directly.",
-        "If your route has any sustained slope, choose a 7-speed. Test the lowest gear on a hill before committing to a loaded trip."
+        "On a pedal-only trike, a low gear spares your knees under load. A single speed means every pound of cargo is felt directly, and a hill with a full basket turns into a push.",
+        "If your route has any sustained slope, choose a 7-speed. Test the lowest gear on a hill before committing to a loaded trip, and use the backrest on the MOONCOOL to brace."
       ]
     },
     {
       "title": "Frame and axle width",
       "paragraphs": [
-        "A wide rear axle reduces tipping when a basket is loaded off-center, though no trike is tip-proof when cornering fast.",
-        "Look at the stated frame rating and the axle width, and slow down in turns with a full basket."
+        "A wide rear axle reduces tipping when a basket is loaded off-center, though no trike is tip-proof when cornering fast. A loaded basket also raises the center of gravity.",
+        "Look at the stated frame rating and the axle width, and slow down in turns with a full basket. The Brightpeak wide rear axle is its stability claim."
       ]
     },
     {
       "title": "Brakes under load",
       "paragraphs": [
-        "More cargo means longer stopping distances, and cheap brakes often need adjustment out of the box.",
-        "Check brake lever feel and cable tension on arrival and again after the first few rides."
+        "More cargo means longer stopping distances, and cheap brakes often need adjustment out of the box. A heavy basket makes weak braking more obvious on slopes.",
+        "Check brake lever feel and cable tension on arrival and again after the first few rides. The Brightpeak uses front V brakes that need careful setup."
+      ]
+    },
+    {
+      "title": "Step-through and fold",
+      "paragraphs": [
+        "A low step-through frame lets you mount with a heavy basket already loaded, and a fold saves space in an apartment. Folding joints add some flex, which matters with weight.",
+        "Check the step-through height and rider height range. The MOPHOTO fits 4 ft 8 in to 6 ft 2 in riders and folds, while the MOONCOOL has a low step-through steel frame."
       ]
     }
   ],
@@ -212,18 +219,18 @@ export const bestNonElectricCargoTricycles: BestArticle = {
         "rows": [
           [
             "Hilly grocery route",
-            "MOONCOOL 7-Speed",
-            "Gears and backrest help on climbs"
+            "MOONCOOL 7-Speed Adult Tricycle with Basket",
+            "Seven gears and a backrest help on climbs"
           ],
           [
             "Flat neighborhood loop",
-            "Brightpeak 1-Speed",
-            "Simple, 450 lb frame rating"
+            "Brightpeak 1-Speed 24 Inch Cruiser Trike with Large Basket",
+            "Simple build with a 450 lb frame rating"
           ],
           [
             "Mixed route plus tight storage",
-            "MOPHOTO Folding",
-            "7 speeds and folds away"
+            "MOPHOTO Adult Folding Tricycle with Rear Basket",
+            "Seven speeds and a quick-fold frame"
           ]
         ]
       }
@@ -233,11 +240,11 @@ export const bestNonElectricCargoTricycles: BestArticle = {
       "cards": [
         {
           "label": "Geared",
-          "text": "The MOONCOOL and MOPHOTO have seven speeds, which makes a loaded basket manageable on slopes at the cost of more parts to maintain."
+          "text": "The MOONCOOL and MOPHOTO have seven speeds, which makes a loaded basket manageable on slopes at the cost of more parts to maintain and adjust."
         },
         {
           "label": "Single speed",
-          "text": "The Brightpeak is simple and nearly maintenance-free, but any hill with a full basket is hard work."
+          "text": "The Brightpeak is simple and nearly maintenance-free, but any hill with a full basket is hard work, so it suits flat neighborhood routes only."
         }
       ],
       "note": "Most riders should choose a geared model unless their whole route is flat."
@@ -251,7 +258,7 @@ export const bestNonElectricCargoTricycles: BestArticle = {
         },
         {
           "label": "In this comparison",
-          "text": "The MOONCOOL and Brightpeak both state a 50 lb basket rating. The MOPHOTO does not, so measure before heavy shopping."
+          "text": "The MOONCOOL and Brightpeak both state a 50 lb basket rating. The MOPHOTO does not publish one, so measure the basket before heavy shopping."
         }
       ]
     },
@@ -264,7 +271,7 @@ export const bestNonElectricCargoTricycles: BestArticle = {
         },
         {
           "label": "Save if",
-          "text": "Your loads are light and your route is flat. The Brightpeak's single speed and 450 lb frame cover that."
+          "text": "Your loads are light and your route is flat. The Brightpeak single speed and 450 lb frame cover that without paying for gears you will not use."
         }
       ]
     }
@@ -272,26 +279,30 @@ export const bestNonElectricCargoTricycles: BestArticle = {
   "faq": [
     {
       "q": "How much can a pedal-only cargo trike carry?",
-      "a": "The baskets here are rated at about 50 lbs, which suits groceries. The total rating of 350 to 450 lbs includes the rider, so a heavier rider has less room for cargo."
+      "a": "The baskets here are rated at about 50 lbs, which suits groceries. The total rating of 350 to 450 lbs includes the rider, so a heavier rider has less room for cargo before the frame limit."
     },
     {
       "q": "Do I need gears on a cargo trike?",
-      "a": "On hills, yes. A 7-speed such as the MOONCOOL lets you spin up a slope with a full basket, while a single speed leaves you pushing hard."
+      "a": "On hills, yes. A 7-speed such as the MOONCOOL lets you spin up a slope with a full basket, while a single speed leaves you pushing hard. On a flat route the Brightpeak is simpler."
     },
     {
       "q": "Is a folding trike a good cargo trike?",
-      "a": "It is a good storage trike that also carries a basket. Folding joints add some flex, so the MOPHOTO suits lighter loads."
+      "a": "It is a good storage trike that also carries a basket. Folding joints add some flex, so the MOPHOTO suits lighter loads, and its basket limit is not published, so check before heavy shopping."
     },
     {
       "q": "Can I add a bigger basket?",
-      "a": "Possibly, but any basket is limited by the rack and frame. Stay within the rated cargo limit and keep weight low and centered over the rear axle."
+      "a": "Possibly, but any basket is limited by the rack and frame. Stay within the rated cargo limit and keep weight low and centered over the rear axle for stable handling."
     },
     {
       "q": "Will cargo make the trike tip?",
-      "a": "A loaded basket raises the center of gravity. Wide-axle trikes resist tipping better, but cornering fast with a full basket is still risky, so slow down."
+      "a": "A loaded basket raises the center of gravity. Wide-axle trikes resist tipping better, but cornering fast with a full basket is still risky, so slow down and brake before the turn."
+    },
+    {
+      "q": "Which wheel size should I choose?",
+      "a": "Only the MOPHOTO offers a choice, in 20, 24 or 26 inch wheels for riders 4 ft 8 in to 6 ft 2 in. The Brightpeak is a 24 inch cruiser, so match wheel size to your height and storage."
     }
   ],
-  "bottomLine": "The MOONCOOL 7-speed is the best all-round pedal-only cargo trike here, the Brightpeak suits flat routes, and the MOPHOTO is the choice when storage space is the limit.",
+  "bottomLine": "The MOONCOOL 7-speed is the best all-round pedal-only cargo trike here for hills, the Brightpeak suits flat routes with a 450 lb frame rating, and the MOPHOTO is the choice when storage space is the limit. Match basket rating to your usual load.",
   "amazonSearch": "non-electric cargo trikes",
   "relatedPaths": [
     "/adult-tricycles/best-cargo-tricycles-for-adults/",

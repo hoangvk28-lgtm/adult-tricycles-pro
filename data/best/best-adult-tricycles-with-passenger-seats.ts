@@ -188,48 +188,55 @@ export const bestAdultTricyclesWithPassengerSeats: BestArticle = {
   "howWeChose": [
     {
       "title": "Seat included",
-      "body": "Complete trikes ranked above add-ons."
+      "body": "We ranked complete trikes with a built-in rear seat above add-ons, because the frame, brakes and motor were designed around the extra weight from the start."
     },
     {
       "title": "Restraints",
-      "body": "Belts and guardrails mattered."
+      "body": "We weighed belts, guardrails, footrests and backrests, since a passenger on a rear seat has little to hold and needs protection on bumps and turns."
     },
     {
       "title": "Payload",
-      "body": "Total payload was checked, where given."
+      "body": "We checked total payload where it is given, because the combined weight of rider, passenger and cargo decides whether the brakes, tires and frame cope safely."
     },
     {
       "title": "Motor power",
-      "body": "Power matters with a passenger."
+      "body": "We considered motor size and torque, since pushing two people uphill demands far more from a motor than carrying one rider, especially at low speed."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Total payload",
       "paragraphs": [
-        "Your weight plus the passenger's plus cargo must stay under the total rating.",
-        "Check the number."
+        "Payload is the full weight a trike is built to carry, including rider, passenger, cargo and any accessories. Exceed it, and the frame, wheels and brakes work outside their design range.",
+        "Add your weight, the passenger's weight and any cargo, then compare with the stated rating. The ESKUTE gives no payload figure, so confirm it with the maker. The Generic Rear Seat states a 500 lb maximum load."
       ]
     },
     {
-      "title": "Balance",
+      "title": "Balance and handling",
       "paragraphs": [
-        "A passenger moves weight to the rear.",
-        "Practice before carrying someone."
+        "A passenger moves weight toward the rear wheels and raises the center of gravity. Steering can feel lighter in front, and stopping distance grows because the brakes are slowing more mass.",
+        "Practice with a light load on flat ground before carrying someone, and take corners slowly. Fat tires, like the ESKUTE's 20 x 4 inch pair, add stability, while a rear differential helps cornering on the Creek."
       ]
     },
     {
-      "title": "Restraints",
+      "title": "Restraints and footrests",
       "paragraphs": [
-        "Belts and guardrails help.",
-        "Check footrests."
+        "A rear seat without belts or sides lets a passenger slide, drop a foot into a wheel or fall on a bump. Guardrails and fixed footrests keep limbs and bodies where they belong.",
+        "Check for seat belts, side guardrails and fixed footrests. The Generic Rear Seat has all three, plus a backrest and a bottom basket, which makes it the strongest option for carrying children or less steady adults."
       ]
     },
     {
-      "title": "Fit",
+      "title": "Frame fit and add-ons",
       "paragraphs": [
-        "Rear add-ons fit only certain frames.",
-        "Measure before buying."
+        "Rear seat add-ons bolt onto specific frames and axles, so a seat made for one trike may not mount on another. A wrong fit risks wobble, vibration or a seat that can come loose.",
+        "Measure the rear platform and mounting points before buying, and ask the maker whether your trike is compatible. The Generic Rear Seat fits only some trikes, so verify first."
+      ]
+    },
+    {
+      "title": "Motor and battery",
+      "paragraphs": [
+        "More weight means more current drawn, so range drops and a small motor strains on hills. A bigger battery or a stronger motor keeps speed steady and limits heat.",
+        "Compare the motor watts and battery capacity. The ESKUTE has a 48V 20.8Ah battery and a 500W motor, the Creek has 750W and 90 N·m torque, and the DONGSHAN has a smaller 350W motor, so expect it to climb slower with two aboard."
       ]
     }
   ],
@@ -244,24 +251,24 @@ export const bestAdultTricyclesWithPassengerSeats: BestArticle = {
         ],
         "rows": [
           [
-            "Two passengers",
+            "Two passengers on a complete trike",
             "ESKUTE T300 Pro",
-            "Seat for two"
+            "Rear seat for two, large 48V 20.8Ah battery"
           ],
           [
-            "Passenger or cargo",
-            "TINIOVER Creek",
-            "Modular rear"
+            "Passenger one day, cargo the next",
+            "TINIOVER Creek Modular E-Trike",
+            "Modular rear converts between seat and cargo bed"
           ],
           [
-            "Folding storage",
-            "DONGSHAN 2-Seater",
-            "Folding frame"
+            "Storing it in a small space",
+            "DONGSHAN Folding 2-Seater",
+            "Folding frame with a two-person seat and baskets"
           ],
           [
-            "Add to an existing trike",
-            "Generic Rear Seat",
-            "Seat belts and guardrails"
+            "Adding a seat to a trike you own",
+            "Generic Rear Seat for Adult Tricycles",
+            "Seat belts, guardrails, footrests and basket"
           ]
         ]
       }
@@ -271,25 +278,25 @@ export const bestAdultTricyclesWithPassengerSeats: BestArticle = {
       "cards": [
         {
           "label": "Complete trike",
-          "text": "The ESKUTE, Creek and DONGSHAN include the seat."
+          "text": "The ESKUTE T300 Pro, TINIOVER Creek Modular E-Trike and DONGSHAN Folding 2-Seater include the seat, so frame, motor and brakes are matched to the extra weight. You skip compatibility guesswork entirely."
         },
         {
           "label": "Add-on",
-          "text": "The Generic Rear Seat only fits compatible trikes."
+          "text": "The Generic Rear Seat for Adult Tricycles adds belts and guardrails to a trike you already own. It fits only compatible frames, and your trike's own payload rating still applies."
         }
       ],
-      "note": "Default to a complete trike unless you already own one."
+      "note": "Default to a complete trike unless you already own one that fits the add-on."
     },
     {
       "heading": "For Family Rides Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "Belts, guardrails and footrests."
+          "text": "Look for seat belts, guardrails, fixed footrests and a backrest so a passenger stays secure on bumps and turns."
         },
         {
           "label": "In this comparison",
-          "text": "The Generic Rear Seat has all three; the ESKUTE has a backrest."
+          "text": "The Generic Rear Seat for Adult Tricycles has belts, guardrails, footrests and a basket. The ESKUTE T300 Pro has a rear seat for two, and the Creek offers an optional seat."
         }
       ]
     },
@@ -298,38 +305,38 @@ export const bestAdultTricyclesWithPassengerSeats: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You carry two passengers, where the ESKUTE fits."
+          "text": "You carry two passengers or hilly routes, where the ESKUTE T300 Pro offers the biggest battery and a rear seat for two."
         },
         {
           "label": "Save if",
-          "text": "You only carry one occasionally, where the DONGSHAN suffices."
+          "text": "You carry one passenger now and then, where the DONGSHAN Folding 2-Seater suffices and its folding frame saves storage space."
         }
       ]
     }
   ],
   "faq": [
     {
-      "q": "Does a passenger change handling?",
-      "a": "Yes. Weight moves rearward and stopping takes longer."
+      "q": "Does a passenger change how a trike handles?",
+      "a": "Yes. Weight moves rearward, the front feels lighter and stopping takes longer. Corner slowly and brake early. Practice on flat ground with a light passenger first, and keep speed modest until the trike feels predictable."
     },
     {
-      "q": "Can I add a seat to any trike?",
-      "a": "No. It fits only compatible rear frames."
+      "q": "Can I add a rear seat to any trike?",
+      "a": "No. Add-on seats bolt to specific rear frames and axles. Measure the platform and mounting points, and confirm compatibility with the maker before buying the Generic Rear Seat. A trike without a suitable rear structure may not accept one safely."
     },
     {
-      "q": "How do I know the payload?",
-      "a": "Check the total rating and include everyone."
+      "q": "How do I find the payload?",
+      "a": "Check the total rating from the maker, then add rider, passenger and cargo. The Generic Rear Seat states a 500 lb load, but your trike's own rating still applies. The ESKUTE gives no payload figure, so ask before carrying two adults."
     },
     {
-      "q": "Are seat belts needed?",
-      "a": "They help, especially for children."
+      "q": "Are seat belts necessary?",
+      "a": "They are strongly recommended, especially for children and less steady riders. A belt keeps a passenger from sliding on bumps or sudden stops. The Generic Rear Seat includes belts and guardrails, which the other seats do not specify."
     },
     {
       "q": "Is a rear seat safe on hills?",
-      "a": "Take care. Extra load increases stopping distance."
+      "a": "Take extra care. The added weight lengthens stopping distance on descents and strains the motor on climbs. Use low gears, brake early and avoid steep slopes until you are comfortable. A stronger motor, such as the Creek's 750W, climbs more easily."
     }
   ],
-  "bottomLine": "The ESKUTE T300 Pro is the best complete passenger trike, and the Creek is the most flexible. Check payload and balance before carrying anyone.",
+  "bottomLine": "The ESKUTE T300 Pro is the best complete passenger trike, with a rear seat for two and a large battery. The Creek is the most flexible, the DONGSHAN folds for storage, and the Generic Rear Seat suits owners of compatible trikes. Check payload and balance before carrying anyone.",
   "amazonSearch": "tricycles with passenger seats",
   "relatedPaths": [
     "/electric-tricycles/best-long-range-electric-tricycles/",

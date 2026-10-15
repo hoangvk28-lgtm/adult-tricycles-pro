@@ -185,48 +185,55 @@ export const bestSolidBicycleInnerTubes: BestArticle = {
   "howWeChose": [
     {
       "title": "Wheel size match",
-      "body": "Only sizes that fit real trike wheels or are close were included."
+      "body": "We included only sizes that fit real trike wheels or come close, because an insert cut for the wrong diameter will not seat."
     },
     {
       "title": "What it really is",
-      "body": "Inserts and solid tires are labeled separately since they do different jobs."
+      "body": "We labeled inserts and solid tires separately, since an insert sits inside a normal tire with a tube and a solid tire replaces both."
     },
     {
       "title": "Ride feel",
-      "body": "Anything that cuts air cushioning was marked as a trade-off."
+      "body": "We marked anything that removes air cushioning as a trade-off, because small trike wheels already ride firmly and a rider with sore joints feels every lost bit of cushion."
     },
     {
       "title": "Install effort",
-      "body": "Tool-free inserts ranked above tires that need levers and a pre-stretch."
+      "body": "We ranked tool-free inserts above tires that need levers and a pre-stretch, since the job gets repeated for three wheels."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Insert vs solid tire",
+      "title": "Insert versus solid tire",
       "paragraphs": [
-        "An insert goes inside a normal tire with a tube. A solid tire replaces both.",
-        "Inserts keep some air cushion. Solid tires remove any chance of a flat but are firmer."
+        "An insert goes inside a normal tire with a tube still in place, and a solid tire replaces both. Inserts keep some air cushion, and solid tires remove any chance of a flat.",
+        "Decide whether you want to keep the tire you have. The Tannus Armour inserts work with it, and the BAIBIKING is a complete replacement."
       ]
     },
     {
       "title": "Exact sizing",
       "paragraphs": [
-        "Wheel diameter and tire width must match. A wrong size will not seat.",
-        "Read the size on the tire sidewall and check against the product size range."
+        "Wheel diameter and tire width must match the product range, or the insert will not seat in the tire. Sizes include 20 x 3.0-4.0, 27.5 x 2.6-3.0 and 700 x 35-40c for the Tannus line.",
+        "Read the size on the tire sidewall and check it against the range. The BAIBIKING is for 26 x 1.50 to 1.95 rims."
       ]
     },
     {
       "title": "Ride harshness",
       "paragraphs": [
-        "Less air means less cushioning, and the effect is stronger on small trike wheels.",
-        "Consider a solid front only if you can accept a firmer feel."
+        "Less air means less cushioning, and the effect is stronger on small trike wheels. The foam adds firmness, and a full solid tire is firmer still.",
+        "Consider a solid front only if you can accept a firmer feel. Test an insert on the rear wheels first, and judge the feel on your usual route."
       ]
     },
     {
       "title": "Three wheels to cover",
       "paragraphs": [
-        "A trike has three wheels, so the cost and install work triple.",
-        "Decide whether to protect all three or only the two rear wheels that carry most load."
+        "A trike has three wheels, so the cost and the install work triple. Protecting every wheel means three inserts or three tires.",
+        "Decide whether to protect all three or only the two rear wheels that carry most of the load. The BAIBIKING is sold one at a time."
+      ]
+    },
+    {
+      "title": "Mounting difficulty",
+      "paragraphs": [
+        "Foam inserts install without special tools, while a solid rubber tire is hard to mount without them. The BAIBIKING rim has an outer diameter of 575 mm and a groove width of 20 mm.",
+        "Check your rim measurements before ordering. If you have never changed a tire by hand, start with an insert, which needs no special tools."
       ]
     }
   ],
@@ -242,23 +249,23 @@ export const bestSolidBicycleInnerTubes: BestArticle = {
         "rows": [
           [
             "20 x 4 fat tire e-trike",
-            "Tannus Armour 20 x 3.0-4.0",
-            "Sized for that tire"
+            "Tannus Armour 20 x 3.0-4.0 Insert",
+            "Sized for that tire, with about 15 mm of protection"
           ],
           [
-            "27.5 plus tires",
-            "Tannus Armour 27.5 x 2.6-3.0",
-            "Matching width range"
+            "27.5 inch plus tires",
+            "Tannus Armour 27.5 x 2.6-3.0 Insert",
+            "Matching width range for 27.5 wheels"
           ],
           [
-            "700c with 35 to 40c",
-            "Tannus Armour 700 x 35-40c",
-            "Matching tire range"
+            "700c with 35 to 40c tires",
+            "Tannus Armour 700 x 35-40c Insert",
+            "Matching tire range for 700c wheels"
           ],
           [
-            "26 x 1.95 rims",
-            "BAIBIKING 26 x 1.95",
-            "Full solid tire"
+            "26 x 1.95 rims, no pump",
+            "BAIBIKING 26 x 1.95 Solid Tire",
+            "Solid rubber for 26 inch rims, no inflation"
           ]
         ]
       }
@@ -268,11 +275,11 @@ export const bestSolidBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Insert",
-          "text": "The Tannus Armour sizes work inside your tire and tube, keep some air feel and install without tools."
+          "text": "The Tannus Armour sizes work inside your tire and tube, keep some air feel and install without tools. They can also be reused."
         },
         {
           "label": "Full solid",
-          "text": "The BAIBIKING removes tubes entirely, at the cost of a firmer ride and harder mounting."
+          "text": "The BAIBIKING removes tubes entirely, at the cost of a firmer ride and harder mounting. It is sold one at a time, so three wheels means three purchases."
         }
       ],
       "note": "Most riders should default to an insert unless they never want a pump."
@@ -282,11 +289,11 @@ export const bestSolidBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "Foam depth and run-flat support."
+          "text": "Foam depth and run-flat support, so a thorn cannot reach the tube easily and a puncture does not leave you stuck."
         },
         {
           "label": "In this comparison",
-          "text": "The Tannus Armour 20 x 3.0-4.0 adds about 15 mm of protection for fat tire trikes."
+          "text": "The Tannus Armour 20 x 3.0-4.0 adds about 15 mm of protection for fat tire trikes. The BAIBIKING is a nail-proof solid tire for 26 inch rims."
         }
       ]
     },
@@ -295,11 +302,11 @@ export const bestSolidBicycleInnerTubes: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride a lot and want a puncture-proof setup on every wheel."
+          "text": "You ride a lot and want a puncture-proof setup on every wheel. Fitting all three wheels adds up, but it removes the roadside repair."
         },
         {
           "label": "Save if",
-          "text": "You ride short, smooth routes, where regular tubes may be enough."
+          "text": "You ride short, smooth routes, where regular tubes or a thorn resistant tube may be enough. See our puncture-resistant tubes guide for a lighter fix."
         }
       ]
     }
@@ -307,26 +314,26 @@ export const bestSolidBicycleInnerTubes: BestArticle = {
   "faq": [
     {
       "q": "Is Tannus Armour a solid tube?",
-      "a": "No. It is a foam insert that goes between the tire and an ordinary tube."
+      "a": "No. It is a foam insert that goes between the tire and an ordinary tube. The tube still holds air, and the insert supports the tire if it goes flat."
     },
     {
-      "q": "Will it make the ride harsher?",
-      "a": "Yes, somewhat. The foam adds firmness, and a full solid tire is firmer still."
+      "q": "Will an insert make the ride harsher?",
+      "a": "Yes, somewhat. The foam adds firmness, and a full solid tire is firmer still. On small trike wheels the difference is easier to feel, so test on the rear wheels first."
     },
     {
       "q": "How do I find my size?",
-      "a": "Read the size printed on the tire sidewall, such as 20 x 4.0, and match it to the product range."
+      "a": "Read the size printed on the tire sidewall, such as 20 x 4.0, and match it to the product range. Check the width range as well as the diameter."
     },
     {
-      "q": "Do I need to buy three?",
-      "a": "A trike has three wheels, so protecting all of them needs three inserts or tires."
+      "q": "Do I need to buy three for a trike?",
+      "a": "A trike has three wheels, so protecting all of them needs three inserts or three tires. Many riders start with the two rear wheels that carry most of the load."
     },
     {
       "q": "Can I reuse an insert?",
-      "a": "Inserts can be removed and reused. See also puncture-resistant inner tubes for a lighter fix."
+      "a": "Inserts can be removed and reused, since they simply sit inside the tire. Keep them flat in a cool place, and check the foam for damage before refitting."
     }
   ],
-  "bottomLine": "For most trike owners the Tannus Armour in the correct size is the practical way to cut flats without losing all air cushion. Choose the BAIBIKING only if you want zero pumping and accept a firmer ride.",
+  "bottomLine": "For most trike owners the Tannus Armour in the correct size is the practical way to cut flats without losing all air cushion, with the 20 x 3.0-4.0 suiting fat tire e-trikes. Choose the BAIBIKING 26 x 1.95 only if you want zero pumping and accept a firmer ride and harder mounting.",
   "amazonSearch": "solid bike inner tubes",
   "relatedPaths": [
     "/accessories/best-puncture-resistant-bicycle-inner-tubes/",

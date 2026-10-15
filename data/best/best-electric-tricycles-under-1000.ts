@@ -236,48 +236,55 @@ export const bestElectricTricyclesUnder1000: BestArticle = {
   "howWeChose": [
     {
       "title": "Motor and battery",
-      "body": "We compared wattage and Wh to show what each tier of budget really buys."
+      "body": "We compared rated wattage and watt hours side by side, because at this budget the gap between a 350W and a 500W setup shows up on the first hill."
     },
     {
-      "title": "Certification",
-      "body": "Battery certifications such as UL 2849 counted in a model's favor."
+      "title": "Battery certification",
+      "body": "Certifications such as UL 2849 counted in a model's favor, since a removable pack that gets charged at home should meet a recognized electrical safety standard."
     },
     {
       "title": "Cargo and baskets",
-      "body": "A stated basket rating beats a vague claim of large capacity."
+      "body": "A stated basket rating beats a vague claim of large capacity, so we favored picks that name a weight limit a shopper can actually plan around."
     },
     {
       "title": "Missing specs",
-      "body": "We flagged unknowns such as brake type so you can check them before buying."
+      "body": "Where a detail such as brake type is absent, we flagged it as a buyer check rather than guessing, so you know what to confirm before ordering."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Motor size",
       "paragraphs": [
-        "A 350W motor delivers gentle assist on flat ground and struggles on grades, while 500W handles rolling hills.",
-        "Match the motor to your steepest regular hill rather than the peak wattage."
+        "A 350W motor gives gentle assist on flat ground and runs out of steam on a grade, while a 500W motor handles rolling hills with less strain. Peak figures are short bursts, so the rated number matters more.",
+        "Match the motor to your steepest regular hill, and treat a 350W trike as a flat-route machine unless you are happy to pedal hard on climbs."
       ]
     },
     {
       "title": "Battery capacity in Wh",
       "paragraphs": [
-        "Watt-hours equal volts times amp-hours, so 48V 13Ah is 624Wh and gives longer range than a 468Wh pack.",
-        "Divide the Wh by about 15 to 25 for a rough mile count under assist."
+        "Watt hours equal volts times amp hours, so a 48V 13Ah pack stores 624Wh while a 468Wh pack holds roughly a quarter less. More watt hours means more miles before a recharge.",
+        "Divide the watt hours by about 15 to 25 for a rough mile count under assist, then compare that to your longest regular ride."
       ]
     },
     {
       "title": "Brake type",
       "paragraphs": [
-        "Budget trikes often skip hydraulic discs, which means more hand force and more maintenance.",
-        "Check for the word hydraulic or mechanical on the spec sheet and test the lever travel at delivery."
+        "Trikes in this band often skip hydraulic discs, which means a firmer lever pull and more frequent cable adjustment. Weak or arthritic hands feel that difference on every stop.",
+        "Check whether the spec names hydraulic or mechanical brakes, and where it is silent, ask before ordering and test the lever travel on delivery."
       ]
     },
     {
       "title": "Battery certification",
       "paragraphs": [
-        "UL 2849 covers the e-bike electrical system, while UL 2271 covers the battery pack.",
-        "Look for either rating in the product title or bullets before buying."
+        "UL 2849 covers the whole e-bike electrical system, while UL 2271 covers the battery pack on its own. Either is a better sign than a pack with no standard named at all.",
+        "Look for the standard name in the title or bullets, and charge on a hard surface using only the supplied charger."
+      ]
+    },
+    {
+      "title": "Fit range and posture",
+      "paragraphs": [
+        "Adjustable seats and step-thru frames decide whether a trike is comfortable or a daily annoyance. A stated rider height range tells you the seat and handlebar travel are meant for your size.",
+        "Compare your height to the range quoted, such as 4'8\" to 6'2\", and favor a low step-thru if swinging a leg over is a struggle."
       ]
     }
   ],
@@ -293,23 +300,28 @@ export const bestElectricTricyclesUnder1000: BestArticle = {
         "rows": [
           [
             "Rolling hills",
-            "ESKUTE 48V 13Ah",
-            "500W motor and 624Wh battery"
+            "ESKUTE 48V 13Ah E-Trike",
+            "500W motor and a 624Wh removable battery"
           ],
           [
-            "Flat paths",
+            "Flat paths and new riders",
             "NARRAK 18 x 3 E-Trike 468Wh",
-            "350W is enough and the gentle power helps new riders"
+            "350W gives gentle, easy-to-manage power for beginners"
           ],
           [
             "Heavy cargo",
             "Jasion Folding E-Trike",
-            "77 lb covered basket and 400 lb total load"
+            "77 lb covered rear basket and 400 lb total load"
           ],
           [
-            "Gear shifting",
+            "Gear shifting by choice",
             "NARRAK 350W E-Trike",
-            "Shimano 7-speed"
+            "Shimano 7-speed and cruiser handlebars"
+          ],
+          [
+            "Comparing brands on the same hardware",
+            "Ligood T300 E-Trike",
+            "Same 500W motor and 624Wh pack as the ESKUTE"
           ]
         ]
       }
@@ -319,11 +331,11 @@ export const bestElectricTricyclesUnder1000: BestArticle = {
       "cards": [
         {
           "label": "350W",
-          "text": "Gentler, lighter and cheaper. The two NARRAK 350W models use it."
+          "text": "Gentler, lighter and kinder to a modest budget. Both NARRAK models use it, and it suits flat paths and riders who like a calm, controllable launch."
         },
         {
           "label": "500W",
-          "text": "Better hill climbing. The ESKUTE 48V 13Ah and Ligood T300 use it."
+          "text": "Better hill climbing and more headroom with a rider on board. The ESKUTE 48V 13Ah and Ligood T300 use it, and both pair it with a 624Wh pack."
         }
       ],
       "note": "Choose 500W unless your route is entirely flat."
@@ -333,11 +345,11 @@ export const bestElectricTricyclesUnder1000: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A stated basket rating, a covered rear basket and a total load capacity."
+          "text": "A stated basket rating, a covered rear basket and a total load capacity, so you know what can be carried before the rack or frame is overloaded."
         },
         {
           "label": "In this comparison",
-          "text": "The Jasion states a 77 lb covered rear basket and 400 lb total load."
+          "text": "The Jasion Folding E-Trike states a 77 lb covered rear basket and a 400 lb total load, with baskets front and rear, making it the clear errand pick."
         }
       ]
     },
@@ -346,11 +358,11 @@ export const bestElectricTricyclesUnder1000: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want hydraulic brakes or a larger battery, which sit above this price tier."
+          "text": "You want hydraulic brakes or a battery larger than 624Wh, which sit above this price tier. The ESKUTE and Ligood are the ceiling of what this band buys."
         },
         {
           "label": "Save if",
-          "text": "You ride flat routes, where the NARRAK 468Wh model is enough."
+          "text": "You ride flat routes at modest speed, where the NARRAK 468Wh model is enough and its Shimano 7-speed keeps the effort low."
         }
       ]
     }
@@ -358,26 +370,30 @@ export const bestElectricTricyclesUnder1000: BestArticle = {
   "faq": [
     {
       "q": "What do you give up under $1,000?",
-      "a": "Usually motor size, battery capacity, hydraulic brakes and sometimes a gear set. The best budget picks keep a 500W motor and a 624Wh battery."
+      "a": "Usually motor size, battery capacity, hydraulic brakes and sometimes a gear set. The strongest picks here keep a 500W motor and a 624Wh battery, while the cheaper ones trade down to 350W and a smaller pack."
     },
     {
       "q": "Is a 350W motor enough?",
-      "a": "It is fine for flat routes and gentle assist. Rolling hills favor a 500W motor."
+      "a": "It is fine for flat routes and gentle assist, especially for new riders who want calm acceleration. Rolling hills favor a 500W motor, because a 350W unit will make you pedal hard on climbs."
     },
     {
       "q": "Are budget e-trike batteries safe?",
-      "a": "Look for UL 2849 or UL 2271 certification, and charge on a hard surface away from clutter."
+      "a": "Look for UL 2849 or UL 2271 certification in the title or bullets. Charge on a hard surface away from clutter, use only the supplied charger and never leave a pack charging unattended overnight."
     },
     {
       "q": "Can a budget trike carry groceries?",
-      "a": "Yes. The Jasion states a 77 lb covered rear basket, and others include front and rear baskets."
+      "a": "Yes. The Jasion states a 77 lb covered rear basket and a 400 lb total load, and it has baskets at both ends. Check any other model's basket rating before you plan a heavy shop."
     },
     {
       "q": "How do I check the real battery size?",
-      "a": "Multiply volts by amp-hours. For example, 48V times 13Ah is 624Wh."
+      "a": "Multiply volts by amp hours. For example, 48V times 13Ah is 624Wh. A bigger watt hour figure means more range, so use that number instead of a vague claim of long range."
+    },
+    {
+      "q": "Which brake type should I expect?",
+      "a": "Several picks do not name their brake type, so treat it as a check. Ask before ordering, and on delivery test lever pull and stopping on a gentle slope before riding anywhere busy."
     }
   ],
-  "bottomLine": "The ESKUTE 48V 13Ah is the best value for most riders under $1,000. Pick the Jasion for cargo or the NARRAK 350W models for flat, gentle riding.",
+  "bottomLine": "The ESKUTE 48V 13Ah is the best value for most riders under $1,000, pairing a 500W motor with a 624Wh removable battery and a low step-thru frame. Pick the Jasion for cargo and grocery hauling, or a NARRAK 350W model for flat, gentle riding with gears.",
   "amazonSearch": "electric tricycles under $1,000",
   "relatedPaths": [
     "/electric-tricycle-for-adults/",

@@ -196,48 +196,55 @@ export const bestHeavyDutyElectricTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Payload figure",
-      "body": "Totals were compared with rider limits."
+      "body": "We checked whether the stated payload is a rider limit or a total that includes cargo. A trike rated for 500 lb total leaves much less room than the number first suggests."
     },
     {
-      "title": "Brakes",
-      "body": "Hydraulic brakes ranked higher for heavy loads."
+      "title": "Braking",
+      "body": "We compared brake types, since a heavy rider plus a heavy trike carries a lot of momentum downhill. Hydraulic brakes give strong stopping force with a lighter hand squeeze."
     },
     {
       "title": "Motor torque",
-      "body": "Torque matters on hills."
+      "body": "We weighed torque and peak power, not only rated wattage. Torque decides how a loaded trike pulls away from a stop on a slope, which is where heavy riders notice weak motors."
     },
     {
       "title": "Frame material",
-      "body": "Aluminum frames were preferred for weight."
+      "body": "We looked at frame material and construction, such as 6061 aluminum. A stiff frame resists flex under load, and a low step-through helps when your balance or hips are limited."
     }
   ],
   "whatToLookFor": [
     {
-      "title": "Rider limit vs total payload",
+      "title": "Rider limit versus total payload",
       "paragraphs": [
-        "Total payload includes cargo and passengers.",
-        "Add your weight and cargo, then leave a margin."
+        "A payload number can mean the rider alone or the rider plus everything on the trike. The TINIOVER River shows 500 lb total, which includes cargo, so groceries and a battery bag count against it.",
+        "Add your body weight, a full basket and anything you carry, then compare that total with the rating. Ask the maker which meaning applies if the figure is unclear."
       ]
     },
     {
-      "title": "Brakes",
+      "title": "Brakes under load",
       "paragraphs": [
-        "Heavy loads need stopping power.",
-        "Check for hydraulic brakes."
+        "More weight means more energy to stop, and brakes fade on long downhills. Hydraulic discs resist fade better and need less hand force than cable brakes, especially with a heavy trike.",
+        "Look for hydraulic brakes and the rotor count in the specs. The River has triple hydraulic brakes, which gives more stopping surface on steep streets."
       ]
     },
     {
       "title": "Motor torque",
       "paragraphs": [
-        "Torque, in Nm, matters on slopes.",
-        "Check the figure."
+        "Torque is the twisting force at the wheel, and it decides how well a trike starts on a slope with a heavy load. Peak watts describe a short burst and say less about steady climbing.",
+        "The ESKUTE T300 MAX shows 80Nm torque and a 1200W peak. A 500W motor works harder on hills, so check torque as well as watts if you live on a slope."
       ]
     },
     {
       "title": "Battery under load",
       "paragraphs": [
-        "Range drops with weight.",
-        "Choose a larger pack."
+        "A heavy rider and cargo draw more current, so the battery drains faster than the range claim suggests. Cold weather and hills cut it further.",
+        "Treat the claimed range as a best case and expect less. The MOONCOOL shows 35 to 70 miles, which is a more honest span than a single high number."
+      ]
+    },
+    {
+      "title": "Margin below the rating",
+      "paragraphs": [
+        "A frame rating is the most weight the maker will stand behind, and not a comfortable daily load. The MOONCOOL shows only 50 lb of margin for a 400 lb rider.",
+        "Keep your total clearly under the rating, and plan for gear you add later. If you are close to the limit, move up to the higher-rated trike."
       ]
     }
   ],
@@ -252,24 +259,29 @@ export const bestHeavyDutyElectricTricycles: BestArticle = {
         ],
         "rows": [
           [
-            "Up to 500 lb total",
-            "TINIOVER River",
-            "500 lb total payload"
+            "Up to 500 lb total, rider plus cargo",
+            "TINIOVER River Folding E-Trike (Red)",
+            "Highest total payload rating here at 500 lb"
           ],
           [
-            "Up to 450 lb total",
-            "MOONCOOL 500W",
-            "450 lb frame rating"
+            "Up to 450 lb total, flat ground",
+            "MOONCOOL 500W Folding E-Trike",
+            "450 lb frame rating, low step-through"
           ],
           [
             "Heavy rider on hills",
             "ESKUTE T300 MAX",
-            "80Nm torque"
+            "80Nm torque and a large 48V 20.8Ah battery"
           ],
           [
-            "Folding for storage",
-            "MOONCOOL 500W 48V",
-            "Quick fold"
+            "Folding for storage on a budget",
+            "MOONCOOL 500W 48V Folding E-Trike",
+            "Quick fold, same 450 lb frame rating"
+          ],
+          [
+            "Tight garage, needs reverse",
+            "TINIOVER River Folding E-Trike (Red)",
+            "Reverse and a parking brake for slow work"
           ]
         ]
       }
@@ -279,11 +291,11 @@ export const bestHeavyDutyElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Payload",
-          "text": "The River has the highest rating."
+          "text": "The TINIOVER River Folding E-Trike (Red) is rated for 500 lb total, with triple hydraulic brakes and full suspension. It suits the heaviest loads and rough streets, though it is heavy to move."
         },
         {
           "label": "Power",
-          "text": "The ESKUTE has the most torque."
+          "text": "The ESKUTE T300 MAX brings 80Nm of torque, a 1200W peak and a 20.8Ah battery. It suits hills with a heavy load, but its payload figure is not given, so confirm it with the maker."
         }
       ],
       "note": "Default to payload unless your route has hills."
@@ -293,11 +305,11 @@ export const bestHeavyDutyElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A margin below the rating."
+          "text": "Look for a clear total payload, hydraulic brakes and a low step-through, so mounting is easy and braking is strong. Be sure the figure includes cargo, not just you."
         },
         {
           "label": "In this comparison",
-          "text": "The River offers 500 lb; the MOONCOOL 450 lb."
+          "text": "The TINIOVER River Folding E-Trike (Red) gives 500 lb total and triple hydraulic brakes. The MOONCOOL 500W models are rated to 450 lb and have a low step-through and removable battery."
         }
       ]
     },
@@ -306,11 +318,11 @@ export const bestHeavyDutyElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You are near a payload limit."
+          "text": "Spend more if your weight is close to 400 lb or you ride hills. The TINIOVER River adds payload and brakes, and the ESKUTE T300 MAX adds torque and a bigger battery."
         },
         {
           "label": "Save if",
-          "text": "You are well under, where the MOONCOOL suffices."
+          "text": "Save if you weigh well below the rating and ride on flat ground. The MOONCOOL 500W Folding E-Trike gives a 450 lb frame, front and rear baskets and a removable 48V 15Ah battery."
         }
       ]
     }
@@ -318,26 +330,30 @@ export const bestHeavyDutyElectricTricycles: BestArticle = {
   "faq": [
     {
       "q": "Is a 450 lb rating for the rider only?",
-      "a": "It is a frame or payload rating. Check whether cargo counts."
+      "a": "Not necessarily. For the MOONCOOL, the 450 lb figure is described as a frame rating, which usually covers rider plus cargo. A 400 lb rider has only about 50 lb of margin, so ask the maker and keep baskets light."
     },
     {
       "q": "Why does range drop with a heavy load?",
-      "a": "The motor works harder."
+      "a": "A heavier load takes more current to move and climb, so the battery empties faster. Hills, cold weather and throttle use also cut range. The MOONCOOL span of 35 to 70 miles shows how wide the gap can be."
     },
     {
-      "q": "Do I need hydraulic brakes?",
-      "a": "They help with a heavy load."
+      "q": "Do I need hydraulic brakes on a heavy trike?",
+      "a": "They are strongly worth having. A heavy rider plus a heavy trike builds a lot of momentum, and hydraulic brakes stop with less hand force. The TINIOVER River uses triple hydraulic brakes, which suits steep streets."
     },
     {
-      "q": "How much margin should I leave?",
-      "a": "Stay well below the rating."
+      "q": "How much margin should I leave below the rating?",
+      "a": "Leave as much as you can. A comfortable rule is to stay clearly under the figure, because gear, a full battery and baskets add weight that you forget. If you are within a few pounds of the limit, step up a model."
     },
     {
-      "q": "Do these fold?",
-      "a": "The River and MOONCOOL fold."
+      "q": "Do these trikes fold?",
+      "a": "The River and both MOONCOOL models are folding trikes, while the ESKUTE T300 MAX is not described as folding. Folded size is not always given, so measure your storage space, the doorway and any steps, and ask the maker for folded dimensions."
+    },
+    {
+      "q": "Which trike is best on hills?",
+      "a": "The ESKUTE T300 MAX is the hill pick, with 80Nm of torque, a 1200W peak motor and a 48V 20.8Ah battery. The 500W MOONCOOL models work harder on slopes and lose range quickly when they are loaded with a heavy rider."
     }
   ],
-  "bottomLine": "The River is the pick for payload, the ESKUTE for hills and the MOONCOOL for folding on a budget. Always leave a margin below the rated total.",
+  "bottomLine": "The TINIOVER River Folding E-Trike (Red) is the pick for payload, with a 500 lb total rating, triple hydraulic brakes and full suspension. The ESKUTE T300 MAX is the better choice for hills, and the MOONCOOL models suit folding on a budget. Always leave a margin below the rated total.",
   "amazonSearch": "heavy-duty electric tricycles",
   "relatedPaths": [
     "/electric-tricycles/best-long-range-electric-tricycles/",

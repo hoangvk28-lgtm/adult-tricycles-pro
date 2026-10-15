@@ -236,48 +236,55 @@ export const bestLightweightElectricTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Frame material",
-      "body": "Aluminum frames were favored over steel, since frame mass is the largest part of a trike's weight."
+      "body": "We favored aluminum frames such as the 6061 aluminum on the MOONCOOL and TINIOVER, because frame mass is the largest single part of what you lift."
     },
     {
       "title": "Folding design",
-      "body": "A real fold or a removable battery lowers the heaviest single lift."
+      "body": "A real fold or a removable battery lowers the heaviest single lift, so we credited the NARRAK, MOONCOOL, DONGSHAN and CroSight folding frames when comparing carry effort."
     },
     {
       "title": "Battery size and weight",
-      "body": "A smaller pack means a lighter trike. Where a battery weight is given it is used."
+      "body": "A smaller pack means a lighter trike, so we compared 13Ah on the NARRAK against 20.8Ah on the CroSight and used the DONGSHAN 3.5 kg figure where given."
     },
     {
       "title": "Honest weight framing",
-      "body": "Whole-trike weights are mostly unknown here, so every pick carries a check-the-weight note."
+      "body": "Whole-trike weights are mostly unknown for these picks, so every one carries a check-the-weight note instead of an invented number."
     }
   ],
   "whatToLookFor": [
     {
       "title": "Total weight",
       "paragraphs": [
-        "Trike weight is the frame, the motor, the battery and the baskets together. A rear motor and wide axle make even aluminum trikes heavier than most folding bikes.",
-        "Find the shipping weight with the retailer or maker and compare it with what you can actually lift. If it is not shown, ask before ordering."
+        "Trike weight is the frame, the motor, the battery and the baskets together. A rear motor and wide axle make even aluminum trikes heavier than most folding bikes, so the goal is lighter than typical, not light.",
+        "Find the shipping weight with the retailer or maker and compare it with what you can actually lift. If no figure is shown, ask before ordering, because the NARRAK weight is not given."
       ]
     },
     {
       "title": "Removable battery",
       "paragraphs": [
-        "The battery is often the single heaviest part. Taking it off before you lift can remove a large share of the load.",
-        "Look for a pack that releases with a key and can be charged off the trike. Check its weight if given."
+        "The battery is often the single heaviest part. Taking it off before you lift can remove a large share of the load, and it lets you charge indoors away from the trike.",
+        "Look for a pack that releases with a key and charges off the trike. The DONGSHAN pack is about 3.5 kg, while the CroSight 960Wh pack is larger and will weigh more."
       ]
     },
     {
       "title": "How the fold works",
       "paragraphs": [
-        "A fold changes storage size but not weight. A trike that is easy to fold but still heavy can still need two people to lift.",
-        "Check folded dimensions against your trunk or closet, and look at whether the fold uses a latch you can work one-handed."
+        "A fold changes storage size but not weight. A trike that is easy to fold but still heavy can need two people to lift into a trunk, so folding is a space tool rather than a weight tool.",
+        "Check folded dimensions against your trunk or closet, and see whether the fold uses a latch you can work one-handed. The MOONCOOL is described as a quick fold."
       ]
     },
     {
       "title": "Motor and range trade-off",
       "paragraphs": [
-        "A bigger battery gives range but adds mass. If your trips are short, a smaller pack is the lighter choice.",
-        "Match battery capacity to your longest regular ride and avoid paying in weight for range you will not use."
+        "A bigger battery gives range but adds mass. If your trips are short, a smaller pack is the lighter choice, and a lower rated motor like the DONGSHAN 350W is lighter than a 750W setup.",
+        "Match battery capacity to your longest regular ride. The NARRAK 13Ah suits short errands, while the MOONCOOL 20Ah and CroSight 20.8Ah suit longer trips at the cost of weight."
+      ]
+    },
+    {
+      "title": "Suspension and extras",
+      "paragraphs": [
+        "Full suspension, speakers and a second seat make a trike more comfortable or social, but each adds parts and weight. On a trike you must lift, extras are paid for in effort.",
+        "Decide whether comfort or lifting matters more. The TINIOVER full suspension and CroSight speaker add weight, while the DONGSHAN two-seat layout also lengthens the frame for storage."
       ]
     }
   ],
@@ -293,23 +300,28 @@ export const bestLightweightElectricTricycles: BestArticle = {
         "rows": [
           [
             "Lift into a trunk now and then",
-            "NARRAK S180",
-            "Smaller 13Ah pack, folding aluminum"
+            "NARRAK S180 Folding Fat Tire E-Trike",
+            "Smaller 13Ah pack on a folding aluminum frame"
           ],
           [
             "Carry the battery up stairs",
-            "DONGSHAN Folding 2-Seater",
-            "Battery about 3.5 kg"
+            "DONGSHAN Folding 2-Seater E-Trike",
+            "Battery weighs about 3.5 kg"
           ],
           [
             "Store folded in an apartment",
-            "MOONCOOL 750W",
-            "Quick fold, 6061 aluminum"
+            "MOONCOOL 750W Folding E-Trike",
+            "Quick fold and 6061 aluminum frame"
           ],
           [
             "Rough pavement, rarely lifted",
-            "TINIOVER River",
-            "Full suspension"
+            "TINIOVER River Folding E-Trike (White)",
+            "Full suspension and triple hydraulic brakes"
+          ],
+          [
+            "Range-first and rarely lifted",
+            "CroSight T3 Folding E-Trike",
+            "960Wh removable battery for longer rides"
           ]
         ]
       }
@@ -319,25 +331,25 @@ export const bestLightweightElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Small battery",
-          "text": "The NARRAK (13Ah) and DONGSHAN (15Ah) keep the heaviest part smaller, at the cost of range."
+          "text": "The NARRAK at 13Ah and DONGSHAN at 15Ah keep the heaviest part smaller and easier to carry, at the cost of range. The DONGSHAN range of 25 to 30 miles is modest."
         },
         {
           "label": "Big battery",
-          "text": "The MOONCOOL (20Ah) and CroSight (20.8Ah) go farther but are heavier to carry."
+          "text": "The MOONCOOL at 20Ah and CroSight at 20.8Ah go farther per charge but are heavier to carry, so they suit riders who roll the trike out rather than lift it."
         }
       ],
-      "note": "Default to the smaller pack unless your regular ride needs the range."
+      "note": "Default to the smaller pack unless your regular ride genuinely needs the range."
     },
     {
       "heading": "For Apartment Storage Specifically",
       "cards": [
         {
           "label": "Look for",
-          "text": "A real fold, a removable battery and published folded dimensions."
+          "text": "A real fold, a removable battery and published folded dimensions, so you can tell whether the trike fits a closet, a hallway corner or a car trunk."
         },
         {
           "label": "In this comparison",
-          "text": "The MOONCOOL has a quick fold and a removable 20Ah pack. The NARRAK is the lighter-battery alternative."
+          "text": "The MOONCOOL has a quick fold and a removable 20Ah pack. The NARRAK is the lighter-battery alternative if you will lift the pack up stairs often."
         }
       ]
     },
@@ -346,11 +358,11 @@ export const bestLightweightElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You want suspension (TINIOVER River) or a very large battery (CroSight) and can accept extra weight."
+          "text": "You want suspension on the TINIOVER River or a very large battery on the CroSight T3 and can accept the extra weight in exchange for comfort or range."
         },
         {
           "label": "Save if",
-          "text": "You mostly roll the trike out of a garage, where the NARRAK or DONGSHAN is enough."
+          "text": "You mostly roll the trike out of a garage, where the NARRAK or DONGSHAN already keeps the heaviest part smaller and easier to handle."
         }
       ]
     }
@@ -358,26 +370,30 @@ export const bestLightweightElectricTricycles: BestArticle = {
   "faq": [
     {
       "q": "Are there truly lightweight electric tricycles?",
-      "a": "Not by bicycle standards. Motors, batteries and the wide rear axle make e-trikes heavy, so the realistic goal is lighter than typical. Always check the shipping weight."
+      "a": "Not by bicycle standards. Motors, batteries and the wide rear axle make e-trikes heavy, so the realistic goal is lighter than typical. Always check the shipping weight before you order, since most weights are not given here."
     },
     {
       "q": "Does a folding e-trike weigh less?",
-      "a": "No. Folding saves space, not weight. It still helps with closets and trunks, but you may need help lifting."
+      "a": "No. Folding saves space, not weight. It still helps with closets and trunks, but you may need a helper to lift the trike, so treat a fold as a storage feature rather than a promise of easy lifting."
     },
     {
       "q": "Should I remove the battery before lifting?",
-      "a": "Yes. Taking the battery off is the easiest way to cut the load, and every pick here has a removable pack."
+      "a": "Yes. Taking the battery off is the easiest way to cut the load, and every pick here has a removable pack. The DONGSHAN pack is about 3.5 kg, so it is the easiest of the group to carry on its own."
     },
     {
       "q": "Is aluminum always lighter than steel?",
-      "a": "Usually, at the same strength. Aluminum frames are common on the picks here, but confirm the frame material and weight."
+      "a": "Usually, at the same strength. Aluminum frames are common on the picks here, including 6061 aluminum on the MOONCOOL and TINIOVER, but the CroSight frame material is unclear, so confirm it and the weight."
     },
     {
       "q": "What if I never lift the trike?",
-      "a": "Then weight matters less. Focus on range, brakes and comfort and see our best long-range electric tricycles."
+      "a": "Then weight matters less. Focus on range, brakes and comfort, and look at the CroSight 960Wh pack or the TINIOVER suspension, or see our best long-range electric tricycles for bigger batteries."
+    },
+    {
+      "q": "How far will a lightweight e-trike go?",
+      "a": "Smaller packs mean shorter range. The NARRAK claims up to 50 miles in pedal assist on 13Ah, while the DONGSHAN claims 25 to 30 miles. Treat these as upper limits that depend on rider weight, hills and assist level."
     }
   ],
-  "bottomLine": "No e-trike is light, so pick the one that matches how you move it. The NARRAK S180 is the balanced choice, the DONGSHAN suits hand-carrying the battery, and the MOONCOOL suits tight storage. Check the weight before you buy.",
+  "bottomLine": "No e-trike is truly light, so pick the one that matches how you move it. The NARRAK S180 is the balanced choice, the DONGSHAN suits hand-carrying the battery, and the MOONCOOL suits tight storage. Check the weight with the retailer before you buy.",
   "amazonSearch": "lightweight electric tricycles",
   "relatedPaths": [
     "/electric-tricycles/best-folding-electric-tricycles-for-adults/",

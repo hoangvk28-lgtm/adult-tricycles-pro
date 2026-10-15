@@ -235,19 +235,23 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
   "howWeChose": [
     {
       "title": "Tires and suspension",
-      "body": "Tire width, wheel size and shock absorption decide how a trike handles loose and bumpy ground."
+      "body": "Tire width, wheel size and shock absorption decide how a trike handles loose and bumpy ground, so we compared each pick on both."
     },
     {
       "title": "Torque and power",
-      "body": "We compared motor wattage, peak output and torque, since torque moves a loaded trike off soft ground."
+      "body": "We compared motor wattage, peak output and torque, since torque is what moves a loaded trike off soft ground or up a gravel climb."
     },
     {
       "title": "Differential and steering",
-      "body": "A rear differential lets the rear wheels spin at different speeds in turns."
+      "body": "A rear differential lets the rear wheels spin at different speeds in turns, which keeps steering light on loose surfaces."
     },
     {
       "title": "Brakes and battery",
-      "body": "Brake type and removable batteries matter on rough descents and long rides."
+      "body": "Brake type and removable batteries matter on rough descents and long rides, so we noted disc and hydraulic setups and battery size."
+    },
+    {
+      "title": "Fit and folding",
+      "body": "Rider height ranges and folding frames decide who can use each trike and whether it can travel in a car."
     }
   ],
   "whatToLookFor": [
@@ -255,20 +259,20 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
       "title": "Why a differential matters off road",
       "paragraphs": [
         "In a turn the outer rear wheel travels farther than the inner one. Without a differential one wheel must slip, which scrubs tires and makes steering heavy on loose ground.",
-        "Look for a stated rear differential, as on the NARRAK 750W, the Ligood and the ESKUTE."
+        "Look for a rear differential, as on the NARRAK 750W, the Ligood and the ESKUTE, and ask the maker if it is not mentioned."
       ]
     },
     {
       "title": "Tire width and pressure",
       "paragraphs": [
-        "Wider tires spread weight and grip soft surfaces. Lower pressure helps but risks pinch flats.",
-        "Check the stated width, such as 20x4.0 on the NARRAK 750W or 18x3.0 on the Ligood, and match it to your ground."
+        "Wider tires spread weight and grip soft surfaces. Lower pressure helps float over sand but risks pinch flats on rocks.",
+        "Check the width, such as 20x4.0 on the NARRAK 750W or 18x3.0 on the Ligood, and match it to your ground."
       ]
     },
     {
       "title": "Torque vs wattage",
       "paragraphs": [
-        "Wattage describes sustained power while torque, in Nm, describes pulling force. A loaded trike on grass needs torque.",
+        "Wattage describes sustained power while torque, in Nm, describes pulling force. A loaded trike on grass or a climb needs torque more than a high wattage number.",
         "Compare torque figures where given, such as 80Nm on the ESKUTE T300 MAX and 90 N·m on the Creek Pro."
       ]
     },
@@ -276,7 +280,14 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
       "title": "Side slope limits",
       "paragraphs": [
         "A trike does not lean, so a sideways slope can lift the uphill wheel. Even all-terrain models need slow, straight lines across slopes.",
-        "Avoid traversing steep side slopes and shift weight uphill when you must."
+        "Avoid traversing steep side slopes and shift your weight uphill when you must."
+      ]
+    },
+    {
+      "title": "Battery and brakes on descents",
+      "paragraphs": [
+        "A bigger battery gives range, but rough ground and hills drain it faster. Brakes carry heavy loads downhill, and hydraulic discs give more control than basic ones.",
+        "Check battery capacity, such as 20.8Ah on the ESKUTE or 13Ah on the NARRAK 750W, and learn the brake type before steep rides."
       ]
     }
   ],
@@ -293,27 +304,27 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
           [
             "Sand and loose grass",
             "NARRAK 750W Fat Tire Electric Tricycle",
-            "20x4.0 fat tires"
+            "20x4.0 fat tires and a rear differential"
           ],
           [
             "Gravel with hills",
             "ESKUTE T300 MAX Electric Tricycle",
-            "Suspension and 80Nm torque"
+            "5-layer suspension and 80Nm torque"
           ],
           [
             "Firm gravel, smaller rider",
             "Ligood T300 Electric Tricycle",
-            "Fits 4'8\" to 6'2\""
+            "Fits riders from 4 feet 8 inches to 6 feet 2 inches"
           ],
           [
             "Flat paths, fold for car",
             "NARRAK 350W Folding Fat Tire Electric Trike",
-            "Folding frame"
+            "Folding frame and Shimano 7-speed"
           ],
           [
             "Carrying a passenger",
             "TINIOVER Creek Pro Folding Electric Tricycle",
-            "Passenger seat kit"
+            "Passenger seat and backrest option"
           ]
         ]
       }
@@ -323,11 +334,11 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Suspension",
-          "text": "The ESKUTE T300 MAX uses a 5-layer system that smooths bumps and keeps a rider comfortable over rough pavement and gravel."
+          "text": "The ESKUTE T300 MAX uses a 5-layer system that smooths bumps and keeps a rider comfortable over rough pavement and gravel, but it adds complexity."
         },
         {
           "label": "Fat tires",
-          "text": "The NARRAK 750W and Ligood rely on wide tires that float over soft ground and cushion a ride with pressure."
+          "text": "The NARRAK 750W and Ligood rely on wide tires that float over soft ground and cushion a ride with pressure, with little to maintain."
         }
       ],
       "note": "For soft ground choose fat tires, for washboard and hills choose suspension."
@@ -337,11 +348,11 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Look for",
-          "text": "A differential, tires at least 3 inches wide, and hydraulic or disc brakes."
+          "text": "A rear differential, tires at least 3 inches wide, and disc or hydraulic brakes that hold a loaded trike on a descent."
         },
         {
           "label": "In this comparison",
-          "text": "The NARRAK 750W has 4 inch tires and hydraulic brakes, and the ESKUTE T300 MAX adds suspension."
+          "text": "The NARRAK 750W has 4 inch tires and hydraulic brakes, and the ESKUTE T300 MAX adds suspension and a 20.8Ah battery."
         }
       ]
     },
@@ -350,11 +361,11 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
       "cards": [
         {
           "label": "Spend more if",
-          "text": "You ride hills or long distances, which suits the ESKUTE T300 MAX with its 20.8Ah battery."
+          "text": "You ride hills or long distances, which suits the ESKUTE T300 MAX with its 20.8Ah battery and 80Nm of torque."
         },
         {
           "label": "Save if",
-          "text": "You ride flat gravel, where the NARRAK 350W Folding is enough."
+          "text": "You ride flat gravel or need to fold the trike, where the NARRAK 350W Folding is enough despite its lower motor power."
         }
       ]
     }
@@ -362,11 +373,11 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
   "faq": [
     {
       "q": "Can an electric trike go on trails?",
-      "a": "Light, firm trails, yes. Narrow singletrack and side slopes are poor matches for any three-wheeler because it cannot lean."
+      "a": "Light, firm trails, yes. Narrow singletrack and side slopes are poor matches for any three-wheeler because it cannot lean. Walk a trail first if you are unsure about width."
     },
     {
       "q": "Do I need a differential?",
-      "a": "For off-road use, yes. It lets the rear wheels turn at different speeds so the trike steers without scrubbing."
+      "a": "For off-road use, yes. It lets the rear wheels turn at different speeds so the trike steers without scrubbing tires or fighting you in corners."
     },
     {
       "q": "Are fat tires better than suspension?",
@@ -374,14 +385,18 @@ export const bestAllTerrainElectricTricycles: BestArticle = {
     },
     {
       "q": "What range can I expect off road?",
-      "a": "Less than the stated figures, which come from pedal-assist mode. Soft ground, hills and throttle use drain the battery faster."
+      "a": "Less than the published figures, which come from pedal-assist mode. Soft ground, hills and throttle use drain the battery faster, so plan a margin."
     },
     {
       "q": "Which is best for a smaller rider?",
-      "a": "The Ligood fits 4'8\" to 6'2\" and has 18 inch wheels. Check seat height before buying."
+      "a": "The Ligood fits 4 feet 8 inches to 6 feet 2 inches and has 18 inch wheels. Check seat height and pedal reach before buying."
+    },
+    {
+      "q": "Which one can I fold into a car?",
+      "a": "The NARRAK 350W Folding and the TINIOVER Creek Pro have folding frames. Check the weight against what you can lift, since both carry motors and batteries."
     }
   ],
-  "bottomLine": "The ESKUTE T300 MAX is the most capable all-terrain e-trike here, and the NARRAK 750W is the one for soft ground. Keep expectations realistic about side slopes and pick the Ligood or the folding NARRAK if fit or portability matters more.",
+  "bottomLine": "The ESKUTE T300 MAX is the most capable all-terrain e-trike here for hills and rough gravel, and the NARRAK 750W is the one for soft ground. Keep expectations realistic about side slopes, and pick the Ligood or the folding NARRAK if fit or portability matters more.",
   "amazonSearch": "all-terrain electric tricycles",
   "relatedPaths": [
     "/electric-tricycle-for-adults/",
