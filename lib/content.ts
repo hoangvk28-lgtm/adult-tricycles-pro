@@ -44,9 +44,14 @@ function postProcess(html: string, toc: TocItem[], credits: string[] = []): stri
           const [w, h] = IMAGE_SIZES[key] ?? [1400, 1050];
           // Captions show only the description; the "Photo: author, license" credit moves to the
           // collapsed Image credits list (CC BY / BY-SA still require attribution).
-          const [desc, credit] = caption.split(/\s*Photo:\s*/);
+          // Batches use either "Photo: ..." or "Image: ..." for the credit.
+          const [desc, credit] = caption.split(/\s*(?:Photo|Image):\s*/);
           if (credit) {
-            const c = credit.replace(/\s*Wikimedia rendition;?[^<]*$/i, "").replace(/[.\s]+$/, "");
+            const c = credit
+              .replace(/\s*(Wikimedia|Source) rendition;?[^<]*$/i, "")
+              // Internal sourcing note from the batch files, not reader-facing.
+              .replace(/;?\s*(<a [^>]*>)?Manufacturer image; reuse permission not verified(<\/a>)?/i, "")
+              .replace(/[.\s]+$/, "");
             if (!credits.includes(c)) credits.push(c);
           }
           return `<figure><img src="${src}" alt="${alt}" width="${w}" height="${h}" loading="lazy" decoding="async"><figcaption>${desc.trim()}</figcaption></figure>`;

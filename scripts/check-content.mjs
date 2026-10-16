@@ -34,7 +34,8 @@ for (const path of urls) {
   if (rated) errors.push(`${path}: shows product rating data "${text.slice(Math.max(0, rated.index - 40), rated.index + 40).replace(/\s+/g, " ")}"`);
 
   // Best/Review pages live at /<section>/<slug>/. Guides may legitimately advise readers to "ask the seller".
-  const leak = path.split("/").filter(Boolean).length === 2 ? text.match(LEAK) : null;
+  // Best/review articles only; author pages list guide excerpts where "listing" can be literal.
+  const leak = path.split("/").filter(Boolean).length === 2 && !path.startsWith("/author/") ? text.match(LEAK) : null;
   if (leak) errors.push(`${path}: process leak "${text.slice(Math.max(0, leak.index - 40), leak.index + 50).replace(/\s+/g, " ")}"`);
 
   for (const [, href] of html.matchAll(/<a[^>]+href="([^"]+)"/g)) {
